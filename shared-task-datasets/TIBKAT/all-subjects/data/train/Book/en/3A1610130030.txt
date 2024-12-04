@@ -1,0 +1,2 @@
+Make: sensors : [projects and experiments to measure the world with Arduino and Raspberry Pi]
+Raspberry Pi -- Arduino -- Distance -- Smoke and gas -- Touch -- Movement -- Light -- Acceleration -- Identity -- Electricity and magnetism -- Sound -- Weather and climate -- Appendix A. Raspberry Pi Linux quick reference

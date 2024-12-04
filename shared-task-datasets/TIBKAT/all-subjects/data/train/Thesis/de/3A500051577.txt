@@ -1,0 +1,2 @@
+Turbulenz im interstellaren Medium : Einschränkung der Turbulenzparameter durch Berücksichtigung von Plasmawellenheizung
+In der vorliegenden Arbeit wird die Heizung des interstellaren Mediums durch die Dämpfung von Plasmawellenturbulenz untersucht. Es wird gezeigt, daß die Heizung ausreicht, das thermische Gleichgewicht im interstellaren Medium aufrecht zu erhalten. Außerdem lassen sich Rückschlüsse auf die Art der Turbulenz ziehen. Insbesondere kann gezeigt werden, daß die Turbulenz des interstellaren Mediums vermutlich anisotrop ist.

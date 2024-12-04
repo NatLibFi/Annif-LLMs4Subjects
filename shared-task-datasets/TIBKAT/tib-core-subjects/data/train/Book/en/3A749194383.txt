@@ -1,0 +1,2 @@
+Physics with Tau Leptons
+The book reviews the current status of tau physics. It addresses the properties of the tau lepton and summarizes results achieved with tau leptons in the fields of precision tests of the Standard Model, investigations of the strong interaction and many searches for new physics beyond the scope of the Standard Model

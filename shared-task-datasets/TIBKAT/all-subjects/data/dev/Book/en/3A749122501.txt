@@ -1,0 +1,2 @@
+Principles and Applications of Density Functional Theory in Inorganic Chemistry I
+The Calculation of NMR Parameters in Transition Metal Complexes -- Excitation Energies of Metal Complexes with Time-dependent Density Functional Theory -- Applications of Hybrid DFT/Molecular Mechanics to Homogeneous Catalysis -- DFT Computation of Relative Spin-State Energetics of Transition Metal Compounds.

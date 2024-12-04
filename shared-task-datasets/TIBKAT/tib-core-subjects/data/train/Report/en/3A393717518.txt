@@ -1,0 +1,2 @@
+Referenztestfeld Zeitz zur Implementierung des "Natural Attenuation" Ansatzes (RETZINA) : Projektendbericht, Kapitel der Universität Kiel: Geochemische Untersuchungen des Aquifers
+Groundwater, contamination, BTEX, Natural Attenuation, geostatistics, site investigation, accuracy of interpolation, reactive tracer, biodegradation rate, oxidation capacity, sulphate, iron speciation

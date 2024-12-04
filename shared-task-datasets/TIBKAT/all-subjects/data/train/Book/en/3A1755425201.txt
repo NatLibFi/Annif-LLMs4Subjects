@@ -1,0 +1,3 @@
+Paracontrolled quasi-geostrophic equation with space-time white noise
+We study the stochastic dissipative quasi-geostrophic equation with space-time white noise on the two-dimensional torus. This equation is highly singular and basically ill-posed in its original form. The main objective of the present paper is to formulate and solve this equation locally in time in the framework of paracontrolled calculus when the differential order of the main term, the fractional Laplacian, is larger than 7/4. No renormalization has to be done for this model.
+Key words and phrases: stochastic partial differential equation, paracontrolled calculus, quasi-geostrophic equation, white noise

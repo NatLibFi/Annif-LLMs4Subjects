@@ -1,0 +1,2 @@
+Cloud computing bible : [explore the cloud with this complete guide ; understand all platforms and technologies ; use Google, Amazon, or Microsoft Web services]
+Looks at what cloud computing is and is not, why cloud computing exists, and the value of cloud computing, along with information on cloud computing platforms, infrastructure, services, and security

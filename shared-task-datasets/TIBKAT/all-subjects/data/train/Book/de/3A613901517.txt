@@ -1,0 +1,2 @@
+"Das ist o.B.d.A. trivial!" : Tipps und Tricks zur Formulierung mathematischer Gedanken
+Was Sie schon immer über die Kunst, mathematische Texte zu formulieren, wissen wollten, aber nie zu fragen wagten: Was bedeutet 'trivial', 'wohldefiniert', 'Korollar', 'eindeutig', 'o. B. d. A.', ...? Was sind gute Bezeichnungen? Wie organisiert man einen Beweis?  Dieses Buch hilft den Studierenden der Mathematik mit vielen Beispielen und konkreten Ratschlägen bei der Formulierung mathematischer Übungsaufgaben, Seminararbeiten und Examensarbeiten.

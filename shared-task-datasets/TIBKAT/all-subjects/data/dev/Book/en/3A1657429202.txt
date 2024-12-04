@@ -1,0 +1,2 @@
+A Primer for Unit Root Testing
+This book gives an authoritative overview of the literature on non-stationarity, integration and unit roots, providing direction and guidance. It also provides detailed examples to show how the techniques can be applied in practical situations and the pitfalls to avoid.

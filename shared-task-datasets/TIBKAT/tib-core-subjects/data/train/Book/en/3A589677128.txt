@@ -1,0 +1,2 @@
+The rational guide to SQL Server Notification Services
+A guide to using SQL Server Notification Services to design and build notification applications for subscribers

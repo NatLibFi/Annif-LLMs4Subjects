@@ -1,0 +1,2 @@
+Data mining and analysis in the engineering field
+"This book explores current research in data mining, including the important trends and patterns and their impact in fields such as software engineering, and focuses on modern techniques as well as past experiences"--

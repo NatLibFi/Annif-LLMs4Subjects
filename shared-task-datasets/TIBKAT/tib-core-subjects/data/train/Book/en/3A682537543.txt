@@ -1,0 +1,2 @@
+Transparent user authentication : biometrics, RFID and behavioural profiling
+pt. 1. Enabling security through user authentication -- pt. 2. Authentication approaches -- pt. 3. System design, development and implementation considerations

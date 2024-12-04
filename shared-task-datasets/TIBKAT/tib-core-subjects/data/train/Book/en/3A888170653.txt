@@ -1,0 +1,2 @@
+Instantaneous power theory and applications to power conditioning
+Electric Power Definitions: Background -- The Instantaneous Power Theory -- Shunt Active Filters -- Hybrid and Series Active Filters -- Combined Series and Shunt Power Conditioners

@@ -1,0 +1,2 @@
+The definitive guide to Drupal 7 : [everything you need to know about Drupal from many of the best minds in the business]
+"Covers every aspect of Drupal: managing your Drupal projects, applying themes, deploying modules, and using security to make your site safe.  You'll learn about accessibility, essential tools such as drush and git, jQuery integration, the Drupal API, and much more"--P. [4] of cover

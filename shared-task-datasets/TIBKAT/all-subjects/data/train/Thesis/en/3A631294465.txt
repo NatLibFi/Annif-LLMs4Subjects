@@ -1,0 +1,2 @@
+Contributions to a Yb+ single-ion optical frequency standard
+Ion trap, thermal noise, frequency stabilisation. - Ionenfalle, thermisches Rauschen, Frequenzstabilisierung

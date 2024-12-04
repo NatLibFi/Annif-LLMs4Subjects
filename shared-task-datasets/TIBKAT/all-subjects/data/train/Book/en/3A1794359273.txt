@@ -1,0 +1,2 @@
+AWS certified machine learning study guide : specialty (MLS-C01) exam
+The AWS Certified Machine Learning Study Guide is your one-stop resource for complete coverage of the Specialty MLS-C01 certification exam.The Sybex study guide covers 100% of the MLS-C01 domain competencies

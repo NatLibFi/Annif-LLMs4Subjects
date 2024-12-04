@@ -1,0 +1,3 @@
+Turbulent combustion
+Turbulent combustion: The state of the art -- Premixed turbulent combustion -- Nonpremixed turbulent combustion -- Partially premixed turbulent combustion -- Epilogue
+The combustion of fossil fuels remains a key technology for the foreseeable future. It is therefore important that we understand the mechanisms of combustion and, in particular, the role of turbulence within this process. This book will be of value to researchers and students of engineering and applied mathematics by demonstrating the current theories of turbulent combustion within a unified presentation of the field

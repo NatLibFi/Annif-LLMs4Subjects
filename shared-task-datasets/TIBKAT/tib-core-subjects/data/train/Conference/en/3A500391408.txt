@@ -1,0 +1,2 @@
+Algorithms in bioinformatics : 5th International Workshop, WABI 2005, Mallorca, Spain, October 3 - 6, 2005 ; proceedings
+Expression: Hybrid methods. Time Patterns -- Phylogeny: Quartets. Tree reconciliation. Clades and haplotypes -- Networks -- Genome rearrangements: Transposition model. Other models -- Sequences: Strings. Multi-alignment and clustering. Clustering and representation -- Structure: Threading. Folding

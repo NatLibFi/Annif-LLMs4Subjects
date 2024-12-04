@@ -1,0 +1,2 @@
+Spectral feature selection for data mining
+1. Data of high dimensionality and challenges -- 2. Univariate formulations for spectral feature selection -- 3. Multivariate formulations -- 4. Connections to existing algorithms -- 5. Large-scale spectral feature selection -- 6. Multi-source spectral feature selection.

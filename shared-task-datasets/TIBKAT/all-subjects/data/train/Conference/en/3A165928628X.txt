@@ -1,0 +1,3 @@
+Model Theory in Algebra, Analysis and Arithmetic : Cetraro, Italy 2012, Editors: H. Dugald Macpherson, Carlo Toffalori
+Some themes around first order theories without the independence property -- Lectures on the model theory of real and complex exponentiation -- Lectures on the model theory of valued fields -- Undecidability in number theory
+Presenting recent developments and applications, the book focuses on four main topics in current model theory: 1) the model theory of valued fields; 2) undecidability in arithmetic; 3) NIP theories; and 4) the model theory of real and complex exponentiation. Young researchers in model theory will particularly benefit from the book, as will more senior researchers in other branches of mathematics

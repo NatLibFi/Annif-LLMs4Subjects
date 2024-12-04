@@ -1,0 +1,2 @@
+Theoretical elasticity
+This highly regarded engineering manual is mainly concerned with three important aspects of elasticity theory: finite elastic deformations, complex variable methods for two-dimensional problems for both isotropic and aeolotropic bodies, and shell theory. Also discussed are three-dimensional problems for isotropic and transversely isotropic bodies. (MOD)

@@ -1,0 +1,2 @@
+Exakte Verfahren für das Ressourcennivellierungsproblem
+Im Kontext der Projektplanung diskutiert Thorsten Gather mathematische Modelle sowie Lösungsverfahren zur Problemstellung der Ressourcennivellierung. Die praktische Relevanz verdeutlicht der Autor am Beispiel sogenannter Revisionsprojekte in Kernkraftwerken sowie verschiedener Problemstellungen aus der taktischen Projekt- oder Unternehmensplanung.

@@ -1,0 +1,2 @@
+Statistical modelling in GLIM 4
+"This text examines the theory of statistical modelling with generalised linear models. It also looks at applications of the theory to practical problems, using the GLIM4 package"--Provided by publisher

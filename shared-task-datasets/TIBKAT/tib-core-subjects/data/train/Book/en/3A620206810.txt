@@ -1,0 +1,2 @@
+Visual studio 2010 and .NET 4 : six-in-one ; [Visual Studio, .Net, ASP.NET, VB.NET, C#, and F#]
+Provides information on the features of .NET 4.0 and Visual Studio 2010 along with their supporting technologies

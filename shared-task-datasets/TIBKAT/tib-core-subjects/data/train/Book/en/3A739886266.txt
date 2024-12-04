@@ -1,0 +1,2 @@
+Frameworks for developing efficient information systems : models, theory, and practice
+"This book presents research and practices on the advancements in systems analysis and design, offering theoretical frameworks and practical solutions for researchers, practitioners, and academicians to bridge the communication gap between business managers and system designers"--Provided by publisher

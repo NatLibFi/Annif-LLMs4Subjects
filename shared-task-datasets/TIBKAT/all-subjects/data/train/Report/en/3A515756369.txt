@@ -1,0 +1,2 @@
+Scattering, natural surfaces and fractals
+The scattering problem -- Surface classical models -- Surface fractal models -- Analytical formulations of electromagnetic scattering -- Scattering from Weierstrass-Mandelbrot surfaces, physical -- Optics solution -- Scattered power from fBm surfaces, physical optics -- Solution -- Scattering from Weierstrass-Mandelbrot profiles, extended boundary -- Condition method -- Scattering from fractional Brownian surfaces

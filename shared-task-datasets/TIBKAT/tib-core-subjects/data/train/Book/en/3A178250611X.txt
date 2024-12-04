@@ -1,0 +1,2 @@
+Fundamentals of structural dynamics
+Overview of structural dynamics -- Formulation of equations of motion of systems -- Analysis of dynamic response of SDOF systems -- Analysis of dynamic response of MDOF systems : mode superposition method -- Analysis of dynamic response of continuous systems : straight beam -- Approximate evaluation of natural frequencies and mode shapes -- Step-by-step integration method.

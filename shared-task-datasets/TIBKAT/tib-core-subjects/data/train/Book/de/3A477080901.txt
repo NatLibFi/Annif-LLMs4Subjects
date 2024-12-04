@@ -1,0 +1,2 @@
+Grundkurs Codierung : Verschlüsselung, Kompression, Fehlerbeseitigung
+Verschlüsseln (mit DES, AES, RSA, elektronische Unterschrift, Berechtigungsprotokolle, Pseudo-Primzahlen, Hash-Summen) - Kompression (mit Huffman, LZW, JPEG, MPEG, MP3, Wavelets, Fraktalen) - Ein- und Mehrbit-Fehlerkorrektur (mit Hamming-, BCH-, Reed-Solomon-,Turboprodukt-Codes, Shannons Kanalkapazität) - Aussagekräftige Beispiele und Aufgaben, die das Lernen effektiv unterstützen

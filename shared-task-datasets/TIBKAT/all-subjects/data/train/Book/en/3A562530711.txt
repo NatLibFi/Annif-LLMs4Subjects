@@ -1,0 +1,2 @@
+Executing SOA : a practical guide for the service-oriented architect
+Introducing SOA -- Unveiling the benefits -- SOA governance -- A methodology for service modeling and design -- Leveraging reusable assets -- Realization of services -- Information services -- Collaboration under SOA: the human aspects -- The future of SOA

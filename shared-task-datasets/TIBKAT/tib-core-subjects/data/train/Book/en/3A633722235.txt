@@ -1,0 +1,2 @@
+Pro ASP.NET Sharepoint 2010 solutions : techniques for building Sharepoint functionality into ASP.NET applications
+Provides information on developing ASP.NET applications that are built upon a SharePoint foundation, covering such topics as configuation management, code access security, and feature packaging

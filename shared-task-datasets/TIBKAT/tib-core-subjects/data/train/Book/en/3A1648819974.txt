@@ -1,0 +1,2 @@
+Tauberian Operators
+The origins of tauberian operators -- Tauberian operators. Basic properties -- Duality and examples of tauberian operators -- Tauberian operators on spaces of integrable functions -- Some applications -- Tauberian-like classes of operators.

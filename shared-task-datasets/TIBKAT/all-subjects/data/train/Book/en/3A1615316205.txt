@@ -1,0 +1,2 @@
+Foldases : enzymes catalyzing protein folding
+Foldases catalyzing the formation and isomerization of disulfide bonds in proteins -- Peptidyl-prolyl cis/trans isomerases as protein folding catalysts endowed with additional functions -- Foldases integrated into the structure of their cognate proteins as separate domains -- Lipase-specific foldases -- Chaperones as foldases and foldases as chaperones

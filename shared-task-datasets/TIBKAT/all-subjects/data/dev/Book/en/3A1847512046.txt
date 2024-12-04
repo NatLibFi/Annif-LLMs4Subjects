@@ -1,0 +1,2 @@
+Internet of things in modern computing : theory and  applications
+"The text focuses on the theory, design, and implementation of the Internet of Things in a modern communication system. It will be useful to senior undergraduate, graduate students, and researchers in diverse fields domains including electrical engineering, electronics and communications engineering, computer engineering, and information technology"--

@@ -1,0 +1,2 @@
+Analysis and evaluation of communication performance in a real time industrial fieldbus
+Real time communication characteristics with the Timed-Token MAC Protocol -- Analysis and evaluation of real-time communication using Profibus networks -- Performance analysis of data communicationn with its improvement in FF Fieldbus -- Transmission and scheduling of time critical data with World FIP Fieldbus in industrial application -- Analysis and evaluation of communication performance for CAN Fieldbus

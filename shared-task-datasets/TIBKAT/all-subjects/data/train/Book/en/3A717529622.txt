@@ -1,0 +1,2 @@
+Game design theory : a new philosophy for understanding games
+"This work looks at how digital games fit into the long history of games and offers solutions to some of video games toughest design challenges. It covers the art and craft of developing a set of rules to create a contest between players or other agents, targeted specifically at digital game designers. The author outlines a somewhat radical philosophy based on thousands of years of game design, illustrating how we must adhere to these ancient principles if we are to improve digital games in the future"--

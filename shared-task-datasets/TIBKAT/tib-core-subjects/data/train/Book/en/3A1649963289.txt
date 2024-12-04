@@ -1,0 +1,2 @@
+Involution : The Formal Theory of Differential Equations and its Applications in Computer Algebra
+Formal Geometry of Differential Equations -- Involution I: Algebraic Theory -- Completion to Involution -- Structure Analysis of Polynomial Modules -- Involution II: Homological Theory -- Involution III: Differential Theory -- The Size of the Formal Solution Space -- Existence and Uniqueness of Solutions -- Linear Differential Equations -- Miscellaneous -- Algebra -- Differential Geometry.

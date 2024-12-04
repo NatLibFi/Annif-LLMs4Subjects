@@ -1,0 +1,2 @@
+Coherence in Categories
+Closed coherence for a natural transformation -- Coherence for distributivity -- Many-variable functorial calculus. I. -- An abstract approach to coherence -- Coherence for a closed functor -- A cut-elimination theorem -- A new result of coherence for distributivity.

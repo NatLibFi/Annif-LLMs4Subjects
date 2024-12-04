@@ -1,0 +1,2 @@
+iPad in the enterprise : developing and deploying business applications
+Annotation, 'iPad in the Enterprise' is a guide for developers and IT who are tasked with planning, designing, developing, deploying, and supporting iPad applications used in the enterprise

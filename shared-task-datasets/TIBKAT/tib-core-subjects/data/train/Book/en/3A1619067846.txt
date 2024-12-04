@@ -1,0 +1,2 @@
+Understanding SAP NetWeaver identity management
+Identity management in enterprises -- SAP NetWeaver Identity management in the context of SAP NetWeaver -- Overview of SAP NetWeaver Identity Management -- Tips and tricks in Identity Management projects -- Identity management at industry Inc. -- Identity management at mechatronic -- Basic concepts of SAP NetWeaver identity management -- Summary and outlook

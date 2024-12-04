@@ -1,0 +1,2 @@
+Verfahren zur automatischen Vermessung räumlicher Objekte durch rechnergestützte Auswertung stereoskopischer Fernsehbilder
+Aus der Einführung: Ziel der vorliegenden Arbeit ist es, ein weitgehend automatisiertes, berührungslos arbeitendes Verfahren zur Vermessung räumlicher Objekte mit möglichst geringem Aufwand zu entwickeln.

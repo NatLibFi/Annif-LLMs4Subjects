@@ -1,0 +1,2 @@
+Statistical image processing and multidimensional modeling
+pt. 1. Inverse problems and estimation -- pt. 2. Modelling of random fields -- pt. 3. Methods and algorithms -- pt. 4. Appendices

@@ -1,0 +1,2 @@
+Lectures on Lie groups
+Linear groups and linear representations -- Lie groups and Lie algebras -- Orbital geometry of the adjoint action -- Coxeter groups, Weyl reduction and Weyl formulas -- Structural theory of compact Lie algebras -- Classification theory of compact Lie algebras and compact connected Lie groups -- Basic structural theory of Lie algebras -- Classification theory of complex semi-simple Lie algebras -- Lie groups and symmetric spaces, the classification of real semi-simple Lie algebras and symmetric spaces

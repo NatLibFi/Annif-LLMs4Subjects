@@ -1,0 +1,2 @@
+Handbook of research on machine learning enabled IoT for smart applications across industries
+Highlights the importance of ML for IoT s success and diverse ML-powered IoT applications. This book addresses the problems and challenges in energy, industry, and healthcare and solutions proposed for ML-enabled IoT and new algorithms in ML

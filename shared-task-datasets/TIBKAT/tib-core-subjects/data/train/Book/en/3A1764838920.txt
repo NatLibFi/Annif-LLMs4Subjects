@@ -1,0 +1,2 @@
+Discrete-time approximations and limit theorems : in applications to financial markets
+Frontmatter -- Introduction -- Contents -- Abbreviations and notations -- 1 Financial markets. From discrete to continuous time -- 2 Rate of convergence of asset and option prices -- 3 Limit theorems for markets with non-random time-varying coefficients -- 4 Convergence of stochastic integrals in application to financial markets -- A Essentials of calculus, probability, and stochastic processes -- Bibliography -- Index

@@ -1,0 +1,3 @@
+Construction of Global Lyapunov Functions Using Radial Basis Functions
+Lyapunov Functions -- Radial Basis Functions -- Construction of Lyapunov Functions -- Global Determination of the Basin of Attraction -- Application of the Method: Examples.
+The basin of attraction of an equilibrium of an ordinary differential equation can be determined using a Lyapunov function. A new method to construct such a Lyapunov function using radial basis functions is presented in this volume intended for researchers and advanced students from both dynamical systems and radial basis functions. Besides an introduction to both areas and a detailed description of the method, it contains error estimates and many examples.

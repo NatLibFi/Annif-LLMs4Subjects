@@ -1,0 +1,2 @@
+Robot development using Microsoft Robotics Developer Studio
+Challenges and solutions in robotics -- Microsoft Robotics development platform -- Microsoft Visual programming language -- Visual simulation environment -- Robot I/O unit -- Robot motion behavior -- Controlling the robot through sounds -- Robot vision -- A real application - Sumo robot contest -- Related learning resources

@@ -1,0 +1,2 @@
+The manga guide to statistics
+Determining data types -- Getting the big picture, understanding numerical data -- Getting the big picture, understanding categorical data -- Standard value and deviation score -- Let's obtain the probability -- Let's look at the relationship between two variables -- Let's master the "Tests of Independence"

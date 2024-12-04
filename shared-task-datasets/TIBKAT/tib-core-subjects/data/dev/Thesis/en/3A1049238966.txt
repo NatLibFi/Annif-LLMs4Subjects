@@ -1,0 +1,2 @@
+Entwicklung und Implementierung von Konzepten zur Effizienzsteigerung eines automatisierten, Mikrotiterplatten-basierten Zellkultursystems im industriellen Umfeld
+Automatisiertes Zellkultursystem, Spektroskopie, Prozessleitsystem. - Automated cell culture system, spectroscopy, process control system

@@ -1,0 +1,3 @@
+Electrodialysis and electrodialysis reversal
+Chapter 1. --Introduction --Chapter 2. --Applications and process design --Chapter 3. --Membrane stack design --Chapter 4. --Facility design & construction --Chapter 5. --Operation & maintenance --Appendix A. --Equations, quick reference --Appendix B. --Abbreviations & additional sources of information.
+"Directed to engineers and operators of ED and EDR systems, this manual provides detailed background information on ED and EDR as they relate to water treatment processes. The manual explains process principles, equipment information, electrodialysis technology, and system design. Information on water chemistry is included to enhance understanding of water processing"--

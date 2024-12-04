@@ -1,0 +1,2 @@
+Human factors in software development and design
+"This book brings together high quality research on the influence and impact of ordinary people on the software industry, with the goal of improving the quality and usability of computer technologies"--

@@ -1,0 +1,2 @@
+Programming languages and operational semantics : a concise overview
+Introduction -- Mathematical Background -- General Features of Imperative Languages -- Operational Semantics of Imperative Languages -- General Features of Functional Languages -- Operational Semantics of Functional Languages -- General Features of Logic Programming Languages -- Operational Semantics of Prolog -- Answers to Selected Exercises

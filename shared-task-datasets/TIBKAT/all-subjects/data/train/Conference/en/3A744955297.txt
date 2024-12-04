@@ -1,0 +1,2 @@
+Dynamics, Bifurcations, and Control
+This book contains a selection of the papers presented at the 3rd NCN Workshop which was focused on "Dynamics, Bifurcations and Control". The peer-reviewed papers describe a number of ways how dynamical systems techniques can be applied for analysis and design problems in control with topics ranging from bifurcation control via stability and stabilizaton to the global dynamical behaviour of control systems. The book gives an overview of the current status of the field

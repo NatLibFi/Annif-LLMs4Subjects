@@ -1,0 +1,2 @@
+Pixel Detectors : From Fundamentals to Applications
+Pixel detectors are a particularly important class of particle and radiation detection devices. This book offers a general purpose introduction into the fundamental principles of pixel detector technology and semiconductor-based hybrid pixel devices. It is useful for those working in a laboratory involved in developing or using particle detection

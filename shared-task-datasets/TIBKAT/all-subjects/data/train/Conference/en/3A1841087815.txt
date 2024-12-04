@@ -1,0 +1,2 @@
+Internet of things : Third International Conference, ICIoT 2022, Chennai, India, April 5-7, 2022, revised selected papers
+This book constitutes the refereed and selected papers presented during the Third International Conference on Internet of Things, ICIoT 2022, held in Chennai, India, in April 2022. The 10 papers were thoroughly reviewed and selected from the 100 qualified submissions. They focus on application of IoT in the field of Computer Science and Information Technology as well as on Industrial IoT

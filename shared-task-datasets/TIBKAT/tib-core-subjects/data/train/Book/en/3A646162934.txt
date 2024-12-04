@@ -1,0 +1,2 @@
+Pro Objective-C design patterns for iOS : [use Objective-C design patterns to bring your iOS skills to the next level]
+Presents a guide to design patterns, offering information on how to apply them to code and ways to use them to strengthen apps

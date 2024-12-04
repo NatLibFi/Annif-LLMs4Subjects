@@ -1,0 +1,2 @@
+LExIKON: Learning for extraction of information resp. knowledge from open networks : Schlußbericht
+Knowledge extraction, machine learning, inductive inference, formal languages, inductive logic programming

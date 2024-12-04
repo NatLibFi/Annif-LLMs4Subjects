@@ -1,0 +1,2 @@
+Pattern discrimination
+Algorithmic identity politics reinstate old forms of social segregation—in a digital world, identity politics is pattern discrimination. It is by recognizing patterns in input data that Artificial Intelligence algorithms create bias and practice racial exclusions thereby inscribing power relations into media. How can we filter information out of data without reinserting racist, sexist, and classist beliefs?

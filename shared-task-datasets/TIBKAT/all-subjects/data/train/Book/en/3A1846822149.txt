@@ -1,0 +1,2 @@
+Deep dearning approach for natural language processing, speech, and computer vision : techniques and use cases
+Deep Learning Approach for Natural Language Processing, Speech, and Computer Vision provides an overview of general deep learning methodology and its applications of natural language processing (NLP), speech and computer vision tasks

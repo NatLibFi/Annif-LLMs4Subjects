@@ -1,0 +1,2 @@
+Computation of generalized matrix inverses and applications
+"Computation of General Matrix Inverses and Applications offers a gradual exposition to matrix theory as a subject of linear algebra. It presents both the theoretical results in generalized matrix inverses and the applications. The book is as self-contained as possible, assuming no prior knowledge of matrix theory and linear algebra."--Preface

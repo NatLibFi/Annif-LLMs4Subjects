@@ -1,0 +1,2 @@
+Hardy Classes on Infinitely Connected Riemann Surfaces
+Theory of Riemann surfaces: A quick review -- Multiplicative analytic functions -- Martin compactification -- Hardy classes -- Riemann surfaces of Parreau-Widom type -- Green lines -- Cauchy theorems -- Shift-invariant subspaces -- Characterization of surfaces of Parreau-Widom type -- Examples of surfaces of Parreau-Widom type -- Classification of plane regions.

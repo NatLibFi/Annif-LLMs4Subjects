@@ -1,0 +1,2 @@
+Single-inductor multiple-output converters : topologies, implementation, and applications
+"The book provides a comprehensive overview of Single-Inductor Multiple-Output Converters from both theoretical and practical perspectives. Based on the authors' in-depth research, the volume covers not only conventional SIMO DC-DC converters but also the new generations of SIMO such as SIMO AC-DC converters, SIMO DC-AC converters, and the latest SIMO hybrid converters"--

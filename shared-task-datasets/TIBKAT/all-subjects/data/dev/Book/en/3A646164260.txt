@@ -1,0 +1,2 @@
+Advanced BlackBerry 6 development : [unlock the secrets of advanced BlackBerry 6 development]
+Looks at the features included with SDK6, introduces cross-platform libraries, discusses the BlackBerry's multimedia capabilities, and includes lessons on building applications

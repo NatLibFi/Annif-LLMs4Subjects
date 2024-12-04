@@ -1,0 +1,2 @@
+Strategies in biomedical data science : driving force for innovation
+Healthcare, history, and heartbreak -- Genome sequencing : know thyself, one base pair at a time / content contributed by Sheetal Shetty -- Data management -- Designing a data-ready network infrastructure -- Data intensive compute infrastructures / content contributed by Dijiang Huang, Yuli Deng, Jay Etchings, Zhiyuan Ma, Guangchun Luo -- Cloud computing and emerging architectures -- Data science -- Next-generation cyber infrastructures

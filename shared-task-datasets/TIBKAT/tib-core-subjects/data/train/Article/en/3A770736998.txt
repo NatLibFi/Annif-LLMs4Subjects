@@ -1,0 +1,2 @@
+A piezoelectric cantilever beam with adaptive natural frequency
+Frequency tuning, wideband energy harvester, piezoelectric energy harvester, cantilever beam, adaptive frequency

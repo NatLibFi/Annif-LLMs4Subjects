@@ -1,0 +1,2 @@
+Working Capital Management : Bilanzierung, Analytik und Einkaufsmanagement
+Das Werk beschreibt Schritt für Schritt mit zahlreichen Excel-Beispielen das Working Capital (Vorräte, Forderungen, Kasse und Bank und Verbindlichkeiten). Es werden für das Beispiel-Unternehmen Stärken und Schwächen aufgezeigt sowie Optimierungsbedarf und Optimierungsmöglichkeiten. Einen Schwerpunkt setzt das Buch auf die Bestände und das Einkaufsmanagement.

@@ -1,0 +1,2 @@
+Stratified Polyhedra
+Definitions -- Existence -- Uniqueness -- Transversality -- Classifying stratifications and cobordism theories -- Obstructions to block bundles -- Open questions -- Symmetry of transversality.

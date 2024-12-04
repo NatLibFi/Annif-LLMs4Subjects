@@ -1,0 +1,2 @@
+OFDM towards fixed and mobile broadband wireless access
+Presenting the state-of-the-art in broadband wireless access technology, this unique resource shows you how to design OFDM transceivers and develop a novel wireless transceiver system architecture - one that streamlines wireless system development and deployment because of its reusability, scalability and flexibility. The book gives you a solid understanding of reconfigurable baseband transceiver architecture, fixed broadband access, and 802.16 (WiMax) and 802.20 network design

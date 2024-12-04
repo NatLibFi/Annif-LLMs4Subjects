@@ -1,0 +1,2 @@
+The pear genome
+Botany and taxonomy of pear.- Pear germplasm resources: origin, characterization, and conservation.- Genetics and breeding of pears.- Using genetic data for taxonomic, diversity, and domestication assessments in pear.- Genetic linkage maps in pear.- Molecular mapping of major genes and QTLs in pear.- Whole genome sequencing strategy, and genome assembly of Asian pear.- Whole genome sequencing strategy, and genome assembly of European pear.- Repetitive sequences in pear.- Regulatory sequences in pear.

@@ -1,0 +1,2 @@
+Membrane characterization
+Membrane Characterization provides a valuable source of information on how membranes are characterized, an extremely limited field that is confined to only brief descriptions in various technical papers available online. For the first time, readers will be able to understand the importance of membrane characterization, the techniques required, and the fundamental theory behind them. This book focuses on characterization techniques that are normally used for membranes prepared from polymeric, ceramic, and composite materials

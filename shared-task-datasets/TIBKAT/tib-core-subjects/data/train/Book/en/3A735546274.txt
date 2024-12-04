@@ -1,0 +1,2 @@
+Embedded systems design with FPGAs
+"This book presents methodologies for modern applications of embedded systems design, using field programmable gate array (FPGA) devices. Coverage includes state-of-the-art research from academia and industry on a wide range of topics, including advanced electronic design automation (EDA), novel system architectures, embedded processors, arithmetic, dynamic reconfiguration and applications."--pub. desc

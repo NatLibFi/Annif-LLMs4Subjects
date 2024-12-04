@@ -1,0 +1,2 @@
+Blockchain in action
+Blockchain in Action teaches you how to design and build blockchain-based decentralized apps, and is written in a clear, jargon-free style. First, you'll get an overview of how blockchain works. Next, you'll code your first smart contract using Ethereum and Solidity, adding a web interface, trust validation, and other features until your app is ready for deployment. The only thing you need to get started is standard hardware and open source software.

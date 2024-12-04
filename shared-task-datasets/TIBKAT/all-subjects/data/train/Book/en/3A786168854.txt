@@ -1,0 +1,2 @@
+Computational thinking for the modern problem solver
+Through examples and analogies, Computational Thinking for the Modern Problem Solver introduces computational thinking as part of an introductory computing course and shows how computer science concepts are applicable to other fields. It keeps the material accessible and relevant to noncomputer science majors.

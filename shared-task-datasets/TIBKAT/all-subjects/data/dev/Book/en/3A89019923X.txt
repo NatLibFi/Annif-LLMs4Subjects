@@ -1,0 +1,2 @@
+Designing bots : creating conversational experiences
+What are bots? -- Bot types -- Major platforms -- Major use cases -- Bot anatomy -- Branding, personality, and human involvement -- Artificial intelligence -- The conversation -- Rich interactions -- Context and memory -- Bot discovery and installation -- Engagement methods -- Monetization -- Design process overview -- Use case definition and exploration -- Conversation scripting -- Designing and testing -- Bot building overview -- Analytics and continuous improvement -- To infinity and beyond-the future of bots

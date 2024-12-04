@@ -1,0 +1,2 @@
+MATLAB 7 für Ingenieure : Grundlagen und Programmierbeispiele
+Die elementare Einführung in MATLAB, mit der auch der Neueinsteiger rasch mit den Grundlagen von MATLAB vertraut wird. Darauf aufbauend werden weitergehende MATLAB-Funktionen behandelt und schließlich das Programmieren unter MATLAB ausführlich erläutert. Zahlreiche Beispiele ermöglichen ein selbstständiges Erlernen von MATLAB. Eine tabellarische Zusammenfassung aller wichtigen Befehle und Funktionen sowie ein ausführliches Register, machen es zu einem bequemen und effizienten Nachschlagewerk

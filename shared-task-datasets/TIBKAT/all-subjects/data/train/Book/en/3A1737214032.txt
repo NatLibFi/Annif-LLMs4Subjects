@@ -1,0 +1,2 @@
+Programming crystal : create high-performance, safe, concurrent apps
+"Crystal is for Ruby programmers who want more performance and developers who enjoy working in a high-level scripting environment. It combines native execution speed and concurrency with Ruby-like syntax. Create applications that have the beauty and elegance of a modern language, with the power of types and modern concurrency tooling. Write beautiful code that runs faster, scales better, and is a breeze to deploy."--Page 4 cover

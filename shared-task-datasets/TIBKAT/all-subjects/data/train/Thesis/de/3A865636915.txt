@@ -1,0 +1,2 @@
+Modern control approaches for next-generation interferometric gravitational wave detectors
+Modern control, cavity locking, autolocking, squeezed states, seismic isolation. - Moderne Regelungstechnik, Resonatorstabilisierung, vollautomatische Regelung, gequetschte Zustände, seismische Isolierung

@@ -1,0 +1,2 @@
+Blockchain and Trustworthy Systems : 4th International Conference, BlockSys 2022, Chengdu, China, August 4-5, 2022, Revised Selected Papers
+This book constitutes the thoroughly refereed post conference papers of the 4th International Conference on Blockchain and Trustworthy Systems, Blocksys 2022, held in Chengdu, China, in August 2022.The 26 full papers were carefully reviewed and selected from 56 submissions. The papers are organized in topical sections: Trustworthy Systems; Blockchain; Private Computing

@@ -1,0 +1,2 @@
+The Discrete Nonlinear Schrödinger Equation : Mathematical Analysis, Numerical Computations and Physical Perspectives
+Summarizes the results obtained over the years in the context of the Discrete Nonlinear Schrodinger equation and the physical settings. This book introduces the model and its systematic derivation, a subsequent analysis of the existence and the stability of fundamental nonlinear structures in 1, 2 and 3 spatial lattice dimensions

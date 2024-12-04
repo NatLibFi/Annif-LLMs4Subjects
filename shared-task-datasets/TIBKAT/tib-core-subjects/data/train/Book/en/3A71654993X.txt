@@ -1,0 +1,3 @@
+Pro Sharepoint 2010 governance : [deploy and manage Sharepoint 2010 while balancing control and security with user productivity]
+Focuses on how to effectively govern SharePoint 2010 in order to achieve maximum business value, while maintaing security and control over the organization's information
+Focuses on how to effectively govern SharePoint 2010 in order to achieve maximum business value, while maintaing security and control over the organization's information--

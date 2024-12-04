@@ -1,0 +1,2 @@
+Hamiltonian perturbation solutions for spacecraft orbit prediction : the method of Lie transforms
+"Analytical solutions to the orbital motion of celestial objects have been nowadays mostly replaced by numerical solutions, but they are still irreplaceable whenever speed is to be preferred to accuracy, or to simplify a dynamical model. In this book, the most common orbital perturbations problems are discussed according to the Lie transforms method, which is the de facto standard in analytical orbital motion calculations"--Page 4 of cover

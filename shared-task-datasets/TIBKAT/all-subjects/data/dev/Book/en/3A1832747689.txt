@@ -1,0 +1,2 @@
+Introduction to data science
+"The book systematically introduces the basic contents of data science, including data preprocessing and basic methods of data analysis, handling special problems (e.g. text analysis), deep learning, and distributed systems. In addition to systematically introducing the basic content of data science from a theoretical point of view, the book also provides a large number of data analysis practice cases"--

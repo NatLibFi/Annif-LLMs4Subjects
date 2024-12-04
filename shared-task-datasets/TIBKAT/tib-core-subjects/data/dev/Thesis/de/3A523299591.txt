@@ -1,0 +1,2 @@
+Zwei-Ebenen-Optimierung mit diskreter unterer und stetiger oberer Ebene
+In der Dissertation werden Aufgaben der Zwei-Ebenen-Optimierung mit diskreter unterer und stetiger oberer Ebene betrachtet. Es werden die Struktur dieser Aufgaben analysiert und Optimalitätsbedingungen angegeben. Dies erfolgt sowohl für den optimistischen und den pessimistischen Lösungszugang als auch für einen Lösungszugang mittels Auswahlfunktionen. Anschließend werden die theoretischen Ergebnisse auf drei verschiedene Aufgabenklassen angewendet.

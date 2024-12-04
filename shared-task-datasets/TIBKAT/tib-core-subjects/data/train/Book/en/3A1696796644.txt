@@ -1,0 +1,2 @@
+Recent advances in hybrid metaheuristics for data clustering
+"The book will elaborate on the fundamentals of different meta-heuristics and their application to data clustering. As a result, it will pave the way for designing and developing hybrid meta-heuristics to be applied to data clustering"--

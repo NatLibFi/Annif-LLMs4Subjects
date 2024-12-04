@@ -1,0 +1,2 @@
+Invariant Manifolds
+The linear theory of normal hyperbolicity -- The Cr section theorem and lipschitz jets -- The local theory of normally hyperbolic, invariant, compact manifolds -- Pseudo hyperbolicity and plaque families -- Center manifolds -- Noncompactness and uniformity -- Forced smoothness of i: V ? M -- Branched laminations -- Normally hyperbolic foliations and laminations -- Local product structure and local stability -- Equivariant fibrations and nonwandering sets.

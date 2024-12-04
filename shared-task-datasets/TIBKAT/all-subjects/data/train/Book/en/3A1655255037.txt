@@ -1,0 +1,2 @@
+Singular Modular Forms and Theta Relations
+This research monograph reports on recent work on the theory of singular Siegel modular forms of arbitrary level. Singular modular forms are represented as linear combinations of theta series. The reader is assumed toknow only the basic theory of Siegel modular forms

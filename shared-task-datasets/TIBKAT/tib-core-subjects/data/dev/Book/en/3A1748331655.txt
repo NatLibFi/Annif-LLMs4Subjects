@@ -1,0 +1,2 @@
+Microscopic image analysis for life science applications
+This unique resource gives you a detailed understanding of imaging platforms, fluorescence imaging, and fundamental image processing algorithms. Further, it guides you through application of advanced image analysis methods and techniques to specific biological problems. The book presents applications that span a wide range of scales, from the detection of signaling events in sub-cellular structures, to the automated analysis of tissue structures

@@ -1,0 +1,2 @@
+Uniform Distribution of Sequences of Integers in Residue Classes
+General results -- Polynomial sequences -- Linear recurrent sequences -- Additive functions -- Multiplicative functions -- Polynomial-like functions.

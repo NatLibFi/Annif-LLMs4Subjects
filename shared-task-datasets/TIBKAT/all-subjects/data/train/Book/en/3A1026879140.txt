@@ -1,0 +1,2 @@
+Metaheuristics set / coordinated by Nicolas Monmarché and Patrick Siarry ; Volume 5: Metaheuristics for big data
+Optimization and Big Data -- Metaheuristics : A Short Introduction -- Metaheuristics and Parallel Optimization -- Metaheuristics and Clustering -- Metaheuristics and Association Rules -- Metaheuristics and (Supervised) Classification -- On the Use of Metaheuristics for Feature Selection in Classification -- Frameworks

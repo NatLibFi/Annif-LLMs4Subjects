@@ -1,0 +1,2 @@
+Stability of flat galaxies
+In this thesis we investigate the existence and properties of stationary solutions of the flat Vlasov-Poisson system. This system of partial differential equations can be used as a model of extremely flat astronomical objects and is a combination between the two-dimensional motion of particles and the three-dimensional interaction through their gravitational potential.

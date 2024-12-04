@@ -1,0 +1,2 @@
+Emerging technologies of augmented reality : interfaces and design
+"This book provides a good grounding of the main concepts and terminology for Augmented Reality (AR), with an emphasis on practical AR techniques (from tracking-algorithms to design principles for AR interfaces). The targeted audience is computer-literate readers who wish to gain an initial understanding of this exciting and emerging technology"--Provided by publisher

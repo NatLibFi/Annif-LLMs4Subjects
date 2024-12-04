@@ -1,0 +1,2 @@
+Zeros of polynomials and solvable nonlinear evolution equations
+Introduction -- Parameter-dependent monic polynomials : definitions and key formulas -- A differential algorithm to compute all the zeros of a generic polynomial -- Solvable and integrable nonlinear dynamical systems (mainly Newtonian N-body problems in the plane) -- Solvable systems of nonlinear partial differential equations (PDEs) -- Generations of monic polynomials -- Discrete-time -- Outlook

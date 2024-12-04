@@ -1,0 +1,2 @@
+Advanced numerical methods for differential equations : applications in science and engineering
+Stability and convergence analysis of numerical scheme for the generalized fractional diffusion-reaction equation / Ndolane Sene.

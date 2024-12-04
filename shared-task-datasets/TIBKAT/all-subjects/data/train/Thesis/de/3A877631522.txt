@@ -1,0 +1,2 @@
+Essays on nonlinearities in time series : regime switching, outlying observations, and changes in persistence
+Information criteria, nonlinearity, additive outliers, innovative outliers, change in persistence, outlier detection. - Informationskriterien, Nichtlinearität, additive Ausreißer, innovative Ausreißer, Persistenzbruch, Ausreißerermittlung

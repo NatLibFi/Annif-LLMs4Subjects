@@ -1,0 +1,2 @@
+Chapter 20. Peer Effects in Education : A Survey of the Theory and Evidence
+We survey the theoretical and empirical literature on peer effects in education. Theoretical models of peer effects are first summarized. Models of educational provision regimes in which peer effects play a central role are then discussed. Next we discuss the identification issues in estimating peer effects and strategies used to resolve them. Last we survey the empirical evidence on and channels of peer effects in education.

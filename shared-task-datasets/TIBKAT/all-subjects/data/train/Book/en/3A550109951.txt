@@ -1,0 +1,2 @@
+Handbook of practical x-ray fluorescence analysis
+X-Ray Fluorescence analysis (XRF) is a multi-elemental and nondestructive analytical method used in research and industrial applications. This book provides self-contained modules featuring XRF instrumentation, quantification methods, and other applications. It gives a survey of the theoretical fundamentals, analytical instrumentation, and more

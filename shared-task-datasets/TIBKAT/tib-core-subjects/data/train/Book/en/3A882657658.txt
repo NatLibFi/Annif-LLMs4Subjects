@@ -1,0 +1,2 @@
+Introduction to accelerator dynamics
+Linear motion -- Strong focusing transverse optics -- Longitudinal and o.-momentum motion -- Action and emittance: one particle or many? -- Magnets -- RF cavities -- Linear errors and their correction -- Sextupoles, chromaticity and the Hénon map -- Octupoles, detuning and slow extraction -- Synchrotron radiation: classical damping -- Synchrotron radiation: quantum excitation -- Linacs: protons and ions -- Linacs: electrons -- The beam-beam interaction and 1-D resonances -- Routes to chaos

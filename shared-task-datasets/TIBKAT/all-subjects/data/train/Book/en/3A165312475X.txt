@@ -1,0 +1,3 @@
+Hysteresis Phenomena in Biology
+Introduction -- Bifurcation Theory and Bistability -- Preisach Models -- Examples of Hysteresis Phenomena in Biology
+The occurrence of hysteresis phenomena has been traditionally associated with mechanical and magnetic properties of materials. However, recent studies on the dynamics of biological processes suggest switch-like behavior that could be described by mathematical models of hysteresis. This book presents the milestones and perspectives of biological hysteresis and provides a comprehensive and application-oriented introduction to this subject. The target audience primarily comprises researchers but the book may also be beneficial for graduate students

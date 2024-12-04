@@ -1,0 +1,2 @@
+XML-Lösungen programmieren : [die wichtigsten XML-Technologien und -Spezifikationen praxisnah erklärt]
+Aus dem Inhalt: Einführung in XML; Struktur eines XML-Dokuments; DTDs erstellen; Entitäten und andere Komponenten; XML Namespace, XPath, XPointer und Xlink; XML Schemas; SOAP und BizTalk; Das XML Document Object Model (DOM); XML- Darstellung mit XSL und CSS; XSLT und XSL Formatting Objects; Präsentationsschichtkomponenten mit DHTML und XML-DSO; Geschäftsdienstekomponenten mit HTC; Datenschichtkomponenten mit ADO und ISAPI-Erweiterungen für SQL-Server.

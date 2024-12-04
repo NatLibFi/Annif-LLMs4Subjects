@@ -1,0 +1,2 @@
+Mensch-Maschine-Interaktion
+Das Lehrbuch richtet sich nach den Vorlesungen »Mensch-Maschine-Interaktion« an der LMU München und ist im Gegensatz zu bestehenden MMI-Büchern explizit als kompaktes Grundlagenlehrbuch konzipiert. Zusätzlich zum Buch wird eine Website mit Bildmaterial, Foliensätzen, Verständnisfragen und Übungsaufgaben angeboten. Die dritte und aktualisierte Auflage wurde an einigen Stellen erweitert und präzisiert und enthält zudem ein neues Kapitel über Voice User Interfaces.

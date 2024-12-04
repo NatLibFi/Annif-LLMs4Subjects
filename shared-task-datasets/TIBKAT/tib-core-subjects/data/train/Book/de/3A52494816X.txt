@@ -1,0 +1,2 @@
+Computeralgebra : eine algorithmisch orientierte Einführung
+Das Lehrbuch führt in das Gebiet der Computeralgebra ein. Neben dem Standardkanon behandelt es Themen für weiterführende Vorlesungen, die bislang nicht in Lehrbuchform erschienen sind. Durch den Einsatz realer Implementierungen anstelle von Pseudocode sind die Algorithmen sofort anwendbar und überprüfbar. Verwendbar mit Mathematica, Maple oder MuPAD. Durch den ausführlichen Index empfiehlt sich der Band auch als Nachschlagewerk.

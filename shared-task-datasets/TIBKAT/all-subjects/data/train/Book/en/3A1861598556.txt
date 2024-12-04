@@ -1,0 +1,2 @@
+Proper equivariant stable homotopy theory
+This monograph introduces a framework for genuine proper equivariant stable homotopy theory for Lie groups. The adjective ‘proper’ alludes to the feature that equivalences are tested on compact subgroups, and that the objects are built from equivariant cells with compact isotropy groups; the adjective ‘genuine’ indicates that the theory comes with appropriate transfers and Wirthmüller isomorphisms, and the resulting equivariant cohomology theories support the analog of an -grading.

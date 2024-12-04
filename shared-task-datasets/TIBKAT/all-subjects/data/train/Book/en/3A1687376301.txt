@@ -1,0 +1,2 @@
+Partial differential equations : analytical methods and applications
+"This is a modern textbook on partial differential equations covering all the basic topics of a first course in PDEs. A balanced presentation introduces and practices all necessary problem-solving skills, yet is concise and friendly to the reader. The teaching-by-examples approach guides step-by-step learning of concepts and techniques"--

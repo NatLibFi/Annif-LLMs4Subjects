@@ -1,0 +1,2 @@
+Machine learning in image steganalysis
+"The only book to look at steganalysis from the perspective of machine learning theory, and to apply the common technique of machine learning to the particular field of steganalysis; ideal for people working in both disciplines"--

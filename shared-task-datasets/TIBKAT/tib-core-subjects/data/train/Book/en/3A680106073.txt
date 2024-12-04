@@ -1,0 +1,2 @@
+Simulating copulas : stochastic models, sampling algorithms, and applications
+This tome provides the reader with a background on simulating copulas and multivariate distribution in general. It unifies the scattered literature on the simulation of various families of copulas as well as on different construction principles

@@ -1,0 +1,2 @@
+On the uncertainty in modelling tropical relative humidity
+We conduct a series of eight 45-day experiments with a global storm-resolving model (GSRM) to test the sensitivity of relative humidity in the tropics to changes in model resolution and parameterizations. These changes include changes in horizontal and vertical grid spacing as well as in the parameterizations of microphysics and turbulence, and are chosen to capture currently existing differences among GSRMs.

@@ -1,0 +1,2 @@
+CrossVC : grafische Versionskontrolle mit CVS und Subversion
+Das Szenario ist alltäglich: Dieselben Dateien (Texte, Webseiten, Quellcode etc.) müssen gleichzeitig von verschiedenen Personen bearbeitet werden, ohne dass das gefürchtete "Versions-Chaos" entsteht. Mit LinCVS steht eine komfortable grafische Anwendung bereit, die dies auf der Grundlage eines bewährten Versionskontrollsystems (CVS) und unter den gängigsten Betriebssystemen ermöglicht

@@ -1,0 +1,2 @@
+Semiconductor laser photonics
+"This modern text provides detailed coverage of the physical processes underpinning semiconductor devices. Self-contained and pedagogical, this book is ideal for graduate students in physics and electrical engineering, and later chapters offer descriptions of widely used photonic devices such as distributed feedback lasers and quantum dot lasers"--

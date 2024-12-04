@@ -1,0 +1,2 @@
+Image-Guided IMRT
+Intensity-modulated radiation therapy (IMRT), one of the important developments in radiation oncology, involves technology to deliver radiation to tumors in the right location, quantity and time. This book contains topical reviews of the basic principles of IMRT, describes advanced techniques, and focuses on the investigation of IMRT

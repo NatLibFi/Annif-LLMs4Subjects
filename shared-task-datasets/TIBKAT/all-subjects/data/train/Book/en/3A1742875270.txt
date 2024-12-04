@@ -1,0 +1,2 @@
+Heterogeneous optoelectronics integration
+Numerous efforts are directed at investigating the use of optics at short distances--for example, at the chip-to-chip and board-to-board levels of the interconnection hierarchy. This book provides an overview of the state of the art in heterogeneous integration of electronics, optoelectronics, and micro-optics for short-distance optical interconnections

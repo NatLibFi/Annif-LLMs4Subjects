@@ -1,0 +1,2 @@
+Active Networks : Second International Working Conference, IWAN 2000 Tokyo, Japan, October 16–18, 2000 Proceedings
+This book constitutes the refereed proceedings of the Second International Working Conference on Active Networks, IWAN 200, held in Tokyo, Japan in October 2000. The 30 revised full papers presented were carefully reviewed and selected from numerous submissions. The book offers topical sections on architecture, multicast, quality of service (QoS), applications, management, service architecture, and mobile IP

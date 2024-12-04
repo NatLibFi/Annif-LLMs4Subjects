@@ -1,0 +1,2 @@
+Computer Vision Systems : 8th International Conference, ICVS 2011, Sophia Antipolis, France, September 20-22, 2011. Proceedings
+This book constitutes the refereed proceedings of the 8th International Conference on Computer Vision Systems, ICVS 2011, held in Sophia Antipolis, France, in September 2009. The 22 revised papers presented were carefully reviewed and selected from 58 submissions. The papers are organized in topical sections on vision systems, control of perception, performance evaluation, activity recognition, and knowledge directed vision.

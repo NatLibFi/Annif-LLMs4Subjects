@@ -1,0 +1,2 @@
+Current trends in atomic physics : Lecture notes of the Les Houches Summer School:  volume 106, 4-29 July 2016
+Atomic physics provides a paradigm for exploring few-body quantum systems with unparalleled control. Recently this has been applied in diverse areas including condensed matter physics, high energy physics, and foundations of quantum physics. This book addresses these topics by presenting developments and current trends

@@ -1,0 +1,2 @@
+Delivery and adoption of cloud computing services in contemporary organizations
+"This book brings together the best practices for storing massive amounts of data by highlighting ways cloud services can work effectively in production and in real time in various disciplines, such as computer science, consulting, information technology, information and communication sciences, healthcare, and finance"--

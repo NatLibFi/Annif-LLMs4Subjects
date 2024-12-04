@@ -1,0 +1,2 @@
+Anonymous security systems and applications : requirements and solutions
+"This book outlines the benefits and drawbacks of anonymous security technologies designed to obscure the identities of users, solve various privacy issues and encourage more people to make full use of information and communication technologies"--

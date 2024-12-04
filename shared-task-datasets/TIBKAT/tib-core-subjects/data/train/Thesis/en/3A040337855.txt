@@ -1,0 +1,2 @@
+A continuous set covering problem
+This publications shows a novel approach to the covering of compact decomposable sets in the two-dimensional Euclidian space. It is shown that the problem is quasi-differentiable and therefore steepest descent directions obtained from quasi-differentiable calculus can be used to obtain an optimal solution.

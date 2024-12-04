@@ -1,0 +1,2 @@
+A two-scale model of granular materials using a coupled DE-FE approach
+Granular material, discrete element method, homogenization, multi-scale, Arlequim coupling, superquadric. - Granulare Materialien, Diskrete Elemente Methode, Homogenisierung, Multiskalen, Arlequin Kopplung

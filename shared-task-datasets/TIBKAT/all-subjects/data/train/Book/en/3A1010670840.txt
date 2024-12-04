@@ -1,0 +1,2 @@
+SAP Fiori certification guide : development associate exam
+SAP Fiori strategy, standards, and guidelines -- SAP cloud platform and web IDE basics -- Extensibility in SAPUI5 -- Deployment

@@ -1,0 +1,2 @@
+Curvature and Characteristic Classes
+Differential forms and cohomology -- Multiplicativity. The simplicial de rham complex -- Connections in principal bundles -- The chern-weil homomorphism -- Topological bundles and classifying spaces -- Simplicial manifolds. The chern-weil homomorphism for BG -- Characteristic classes for some classical groups -- The chern-weil homomorphism for compact groups -- Applications to flat bundles -- Errata.

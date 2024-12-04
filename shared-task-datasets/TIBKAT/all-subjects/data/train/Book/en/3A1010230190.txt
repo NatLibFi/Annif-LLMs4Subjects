@@ -1,0 +1,2 @@
+Big Data Analysen : für den schnellen Einstieg
+This book uses concrete examples to illustrate how it is possible to rapidly and easily master the theme of big data using cloud computing. It shows the reader how to write one's first MapReduce program in Java, test it locally, and then proceed to its baptism of fire in the Cloud--

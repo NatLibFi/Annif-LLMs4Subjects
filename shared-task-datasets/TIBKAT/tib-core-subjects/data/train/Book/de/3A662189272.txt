@@ -1,0 +1,2 @@
+Statistik mit Excel : beschreibende Statistik für jedermann ; [für alle Excel-Versionen]
+Verlagstext: Dieses Lehrbuch schildert in leicht verständlicher Form und mit vielen nachrechenbaren Beispielen, wie man Datenmengen mit dem PC erfassen, verwalten, aufbereiten, auswerten und attraktiv präsentieren kann. Dafür wird das allseits vorhandene und beliebte Office-Programm Excel 2007 verwendet. Das Buch setzt nur geringe Grundkenntnisse beim Leser voraus; der Umgang mit zentralen Excel-Funktionen wird ausführlich erklärt

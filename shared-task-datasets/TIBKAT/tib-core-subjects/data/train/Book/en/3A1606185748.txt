@@ -1,0 +1,2 @@
+DC servos : application and design with MATLAB
+"This book balances coverage of theoretical and practical aspects of application and design of DC motors within modern servomechanisms. It also provides detailed coverage of feedback transducers, particularly the application of optical encoders to real systems. It discusses how to use the MATLAB Control System Toolbox specifically for servo design, to make the design process faster and more interactive."--

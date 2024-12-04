@@ -1,0 +1,2 @@
+Computer algebra : concepts and techniques
+1 Introduction2 Computer Algebra Systems 3 Big Number Arithmetic 4 Polynomial Manipulation 5 Algebraic Simpli cation 6 Factorization 7 Symbolic Integration 8 Grobner Bases 9 Mathematical Correctness

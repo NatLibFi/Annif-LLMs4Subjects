@@ -1,0 +1,2 @@
+Lectures on light : nonlinear and quantum optics using the density matrix
+This book bridges a gap between introductory optics texts and the vanguard of optical science, where light is used as a tool to probe the properties of new materials. A single mathematical tool is introduced that enables readers to understand laser tweezers, laser cooling, optical magnetism, squeezed light, and many other advanced topics

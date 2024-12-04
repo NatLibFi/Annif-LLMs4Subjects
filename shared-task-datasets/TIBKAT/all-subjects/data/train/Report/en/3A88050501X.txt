@@ -1,0 +1,2 @@
+Learning TensorFlow : a guide to building deep learning systems
+Introduction -- Go with the flow: Up and running with TensorFlow -- Understanding TensorFlow basics -- Convolutional neural networks -- Text I: Working with text and sequences, and TensorFlow visualization -- Text II: Word vectors, Advanced RNN, and embedding visualization -- TensorFlow abstractions and simplifications -- Queues, threads, and reading data -- Distributed TensorFlow -- Exporting and serving models with TensorFlow

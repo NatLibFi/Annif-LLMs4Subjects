@@ -1,0 +1,2 @@
+Singular Optimal Control: The Linear-Quadratic Problem
+Singular linear-quadratic optimal control — A broad brush perspective -- Robust linear-quadratic minimization -- Linear-quadratic singular control: Algorithms -- Discrete-time linear-quadratic singular control and constant directions -- Open questions.

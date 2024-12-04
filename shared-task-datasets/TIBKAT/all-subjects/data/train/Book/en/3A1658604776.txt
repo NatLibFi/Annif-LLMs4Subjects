@@ -1,0 +1,2 @@
+SMath for physics : a primer
+SMath is a free mathematical notebook program similar to Mathcad that provides many options for studying and solving complex mathematical equations. This book is a primer providing a concise but thorough introduction that keeps physics at a fairly low level so readers can concentrate on understanding the SMath features. The major features are introduced step by step and focus on using SMath as a simple scratch pad.

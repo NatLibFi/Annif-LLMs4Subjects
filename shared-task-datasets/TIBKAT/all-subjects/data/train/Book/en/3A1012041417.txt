@@ -1,0 +1,3 @@
+The second age of computer science : from ALGOL genes to neural nets
+Acknowledgements -- List of illustrations -- Prologue -- "ALGOL genes" -- Abstractions all the way -- In the name of architecture -- Getting to know parallelism -- Very formal affairs -- A symbolic science of intelligence -- Making bio/logical connections -- Epilogue : "Progress" in the second age?
+This book describes the evolution of computer science in the form of seven overlapping, intermingling, parallel histories that unfold concurrently in the course of the two decades. Author Subrata Dasgupta named the two decades from 1970 to 1990 as the second age of computer science to distinguish it from the preceding genesis of the science and the age of the Internet/World Wide Web that followed--

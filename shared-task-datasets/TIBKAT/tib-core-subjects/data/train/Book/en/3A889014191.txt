@@ -1,0 +1,2 @@
+The practical handbook of library architecture : creating building spaces that work
+Distilling hard fought wisdom gleaned from hundreds of successful library construction projects they've supervised or coordinated, the authors present this definitive resource on library architecture. With a special emphasis on avoiding common problems in library design, in a down-to-earth manner they address a range of issues applicable to any undertaking. From planning completely new library buildings to small remodeling projects, they offer specific how-to and how-not-to guidance.

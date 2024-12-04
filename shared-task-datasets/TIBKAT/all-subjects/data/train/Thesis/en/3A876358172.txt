@@ -1,0 +1,2 @@
+Determinanten für die Membranpassage von Tat-abhängig transportierten Proteinen in Escherichia coli
+Twin arginine translocation, Phospholipide, TatA-Selbst-Interaktion. - Phospholipids, TatA self-interaction

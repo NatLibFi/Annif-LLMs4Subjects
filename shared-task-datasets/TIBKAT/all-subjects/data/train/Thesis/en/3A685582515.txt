@@ -1,0 +1,3 @@
+Globale Existenz für die Interaktion eines Navier-Stokes-Fluids mit einer linear elastischen Schale
+Zusammenfassung: In this thesis the interaction of a Navier-Stokes fluid with a linearly elastic shell modelled by Koiter's energy is studied. The global-in-time existence of weak solutions is proved
+Zusammenfassung: In dieser Arbeit wird die Interaktion eines Navier-Stokes-Fluids mit einer linear elastischen Schale, die durch die Koiter-Energie modelliert wird, untersucht. Es wird die zeitlich globale Existenz schwacher Lösungen gezeigt

@@ -1,0 +1,2 @@
+Formal languages for computer simulation : transdisciplinary models and applications
+"This book investigates a variety of programming languages used in validating and verifying models in order to assist in their eventual implementation, exploring different methods of evaluating and formalizing simulation models, enabling computer and industrial engineers, mathematicians, and students working with computer simulations to thoroughly understand the progression from simulation to product"--

@@ -1,0 +1,2 @@
+Network security attacks and countermeasures
+"This book discusses the security and optimization of computer networks for use in a variety of disciplines and fields, touching on such matters as mobile and VPN security, IP spoofing, and intrusion detection"--Provided by publisher.

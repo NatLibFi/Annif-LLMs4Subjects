@@ -1,0 +1,2 @@
+Hacking exposed malware & rootkits : malware & rootkits security secrets & solutions
+Pt. I, Malware. Method of infection ; Malware functionality -- Pt. II, Rootkits. User-mode rootkits ; Kernel-mode rootkits ; Virtual rootkits ; The future of rootkits : if you think it's bad now -- Pt. III, Prevention technologies. Antivirus ; Host protection systems ; Host-based intrusion prevention ; Rootkit detection ; General security practices -- Appendix. System integrity analysis : building your own rootkit detector

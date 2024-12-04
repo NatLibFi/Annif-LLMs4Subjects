@@ -1,0 +1,2 @@
+Active shape models with focus on overlapping problems applied to plant detection and soil pore analysis
+Active shape models, image processing, pattern recognition, landmarking, ellipse fitting, plant identification, overlapping, 3D shape recognition, soil pores, ellipsoid fitting. - Bildverarbeitung, Mustererkennung, Pflanzendetektion, Überlappung, 3D Formerkennung, Bodenporen

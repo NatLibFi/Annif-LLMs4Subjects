@@ -1,0 +1,2 @@
+Nonlinear optics in telecommunications : with 14 tables, and 70 problems ; solutions for Instructors available online at springeronline.com/3-540-20195-5
+Introduction.- Mathematical Description of Linear Effects.- Optical Waveguides.- Nonlinear Effects.- The Nonlinear Schrödinger Equation.- Self- and Cross-Phase Modultion.- Four-Wave-Mixing FWM.- Ghost Pulses.- Solitons.-Raman Scattering.- Brillouin Scattering.- Optical Signal Processing for Optical Networks.- Nonlinear Lasers and Amplifiers.- Nonlinear Optical Phaseconjugation

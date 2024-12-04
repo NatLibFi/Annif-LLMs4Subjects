@@ -1,0 +1,2 @@
+Whiteboard : multi-level annotation for dynamic free text processing ; Abschlußbericht
+Integration of shallow and deep language technology, XML-based architecture, information extraction, grammar checking

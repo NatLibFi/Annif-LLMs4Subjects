@@ -1,0 +1,2 @@
+Building virtual reality with Unity and SteamVR
+"This book takes a hands-on approach to getting up and running with virtual reality using the Unity game engine. By utilizing the free SteamVR libraries, the book and its example code is compatible with the main virtual reality head mounted displays currently available. The book also takes a look at some of the main issues surrounding virtual reality, such as motion sickness and performance issues, and providing practical ways to reduce their impact to make better VR experiences"--

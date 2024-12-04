@@ -1,0 +1,2 @@
+Codermetrics : analytics for improving software teams
+Introduction -- Measuring what coders do -- The right data -- Skill metrics -- Response metrics -- Value metrics -- Metrics in use -- Building software teams

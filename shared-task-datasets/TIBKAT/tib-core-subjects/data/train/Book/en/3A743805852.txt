@@ -1,0 +1,2 @@
+Designing evolvable web APIs with ASP.NET : [harnessing the power of the web]
+Design and build Web APIs for a broad range of clients including browsers and mobile devices that can adapt to change over time. This practical, hands-on guide takes you through the theory and tools you need to build evolvable HTTP services with Microsoft's ASP.NET Web API framework. In the process, you'll learn how design and implement a real-world Web API

@@ -1,0 +1,2 @@
+Landau-Lifshitz equations
+Spin wave and equations of ferromagnetic spin chain -- Integrability of Heisenberg chain -- One-dimensional Landau-Lifshitz equations -- Landau-Lifshitz equations and harmonic maps -- Landau-Lifshitz-Maxwell equations -- Long time behavior of solutions to the system of ferromagnetic spin chain

@@ -1,0 +1,2 @@
+Cooperative intelligent transport systems : towards high-level automated driving
+The book reviews developments in the following fields: control theory; control design; Laplace transform; frequency response methods; mathematical modelling; nonlinear systems; stability; discrete time control systems; digital control system; multivariable linear systems; state space approach; optimisation; state estimation; and robust control design

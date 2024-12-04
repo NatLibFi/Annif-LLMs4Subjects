@@ -1,0 +1,2 @@
+An introduction to optimization on smooth manifolds
+"This is a modern invitation to algorithms for optimization with geometry for researchers and advanced undergraduate and graduate students in applied mathematics, computer science and engineering. Readers will appreciate the approachable, yet proof-based, introduction to differential geometry, which is often restricted to pure mathematics curricula"

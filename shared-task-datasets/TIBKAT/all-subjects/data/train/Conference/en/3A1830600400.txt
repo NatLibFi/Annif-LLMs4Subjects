@@ -1,0 +1,2 @@
+Trends in functional programming : 23rd International Symposium, TFP 2022, virtual event, March 17-18, 2022 : revised selected papers
+This book constitutes revised selected papers from the 23rd International Symposium on Trends in Functional Programming, TFP 2022, which was held virtually in March 2022.The 9 full papers presented in this volume were carefully reviewed and selected from 17 submissions. They deal with all aspects of functional programming, taking a broad view of current and future trends in the area

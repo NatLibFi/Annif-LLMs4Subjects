@@ -1,0 +1,2 @@
+An Introduction to the Regenerative Method for Simulation Analysis
+Basic examples and motivation -- The regenerative method -- More examples of regenerative processes -- The regenerative approach and discrete-event simulations -- Approximation techniques -- Alternative ratio estimators -- Some other results -- Bibliographic note.

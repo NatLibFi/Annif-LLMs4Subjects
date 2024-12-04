@@ -1,0 +1,2 @@
+Databases in Networked Information Systems : International Workshop DNIS 2000 Aizu, Japan, December 4–6, 2000 Proceedings
+This book constitutes the refereed proceedings of the International Workshop on Databases in Networked Information Systems, DNIS 2000, held in Aizu, Japan in December 2000. The 17 revised full invited and selected papers have been carefully reviewed for inclusion in the book. The papers are organized in topical sections on data management systems, database systems - storage and retrieval, and networked information systems applications

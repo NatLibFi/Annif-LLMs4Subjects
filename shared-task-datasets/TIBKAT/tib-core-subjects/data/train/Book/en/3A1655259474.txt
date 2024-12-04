@@ -1,0 +1,2 @@
+Total Colourings of Graphs
+This book provides an up-to-date and rapid introduction to an important and currently active topic in graph theory. The author leads the reader to the forefront of research in this area. Complete and easily readable proofs of all the main theorems, together with numerous examples, exercises and open problems are given. The book is suitable for use as a textbook or as seminar material for advanced undergraduate and graduate students. The references are comprehensive and so it will also be useful for researchers as a handbook

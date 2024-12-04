@@ -1,0 +1,2 @@
+Understanding glare in exterior lighting, display, and related applications
+The recent evolution in lighting technologies has brought new concerns about glare from lighting systems. This Spotlight describes the different types and effects of glare, and what aspects of light intensity, distribution, and color impact it. Practical guidance for minimizing glare is also included.

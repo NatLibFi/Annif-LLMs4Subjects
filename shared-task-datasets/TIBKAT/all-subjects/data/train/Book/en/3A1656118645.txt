@@ -1,0 +1,3 @@
+Specialized molding techniques
+A survey of molding technologies in context. The relations among these technologies are analyzed in terms of products, materials, processing, and geometry
+Gas-Assisted Injection Molding -- Fusible Core Injection Molding -- Low Pressure Injection Molding (including laminate molding and liquid-gas assist molding) -- Advanced Blow Molding -- Thermoplastic Sheet Composite Processing -- Reactive Liquid Composite Molding -- Microcellular Plastics -- Lamellar Injection Molding -- Multimaterial/Multiprocess Technology -- Coinjection -- In-Mold Decoration -- Encapsulation -- Stack Molding -- Microinjection Molding -- Fusible Core -- Vibration-Assisted -- Injection Molding Extrusion -- Surface Replication -- Direct Compounding

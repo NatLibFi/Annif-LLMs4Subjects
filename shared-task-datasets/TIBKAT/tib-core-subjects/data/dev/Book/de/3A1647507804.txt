@@ -1,0 +1,2 @@
+Softwareentwicklung kompakt und verständlich : Wie Softwaresysteme entstehen
+Dieses Buch erklärt, wie IT-Projekte ablaufen. Es wird dargestellt, wie der Prozess von der ersten Idee bis zum Betrieb des fertigen Systems gestaltet werden kann. Schritt für Schritt werden bewährte und moderne Methoden und Techniken vorgestellt. Das Buch richtet sich an (Lern-)Einsteiger in das Thema. Es hat eine lebendige Sprache und enthält viele Anregungen zum Üben, Weiterlesen und -denken.

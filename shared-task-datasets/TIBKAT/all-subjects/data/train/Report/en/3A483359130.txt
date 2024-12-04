@@ -1,0 +1,2 @@
+SKe - Durchgängige Sicherheitskonzeption mit dynamischen Kontrollmechanismen für eService Prozesse : Abschlussbericht ; das Projekt SKe wurde im Zeitraum vom 01.05.2001 - 31.12.2003 vom Bundesministerium für Bildung und Forschung unter den Förderkennzeichen 01AK953A und 01 AK953B gefördert
+Electronic security inspector, formal security model, structured security concept, experience-based security data base, eService processes, IT security management, IT security control center

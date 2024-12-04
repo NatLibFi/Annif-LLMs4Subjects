@@ -1,0 +1,2 @@
+Evolutionary Finance
+The purpose of this book is to introduce the field of bioinformatics to financial modelling. It focuses on the way information informs price, and constructs a framework to explain information generation and the agglomeration process, enabling the reader to make more effective financial decisions. Based on all aspects of applied finance, this book uses informational analysis to help the reader understand the similarities between biomathematics and financial mathematics

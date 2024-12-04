@@ -1,0 +1,2 @@
+Refactoring : improving the design of existing code
+This book offers a thorough discussion of the principles of refactoring, including where to spot opportunities for refactoring, and how to set up the required tests. There is also a catalog of more than 40 proven refactorings with details as to when and why to use the refactoring, step by step instructions for implementing it, and an example illustrating how it works. [Verlagshomepage]

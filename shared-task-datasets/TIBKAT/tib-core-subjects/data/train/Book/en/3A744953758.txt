@@ -1,0 +1,2 @@
+Applications of Automatic Control Concepts to Traffic Flow Modeling and Control
+Motivation and scope -- Traffic flow models: A critical survey -- Traffic flow models identification: A case study -- Estimation of traffic flow variables on freeways -- Control problems in traffic dynamics -- The multilevel approach to the solution of optimal control problems -- The multilayer approach to the solution of traffic control problems -- Conclusions and future developments.

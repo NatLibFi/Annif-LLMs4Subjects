@@ -1,0 +1,2 @@
+Algorithmen für dummies
+Wir leben in einer algorithmenbestimmten Welt. Deshalb lohnt es sich zu verstehen, wie Algorithmen arbeiten. Das Buch präsentiert die wichtigsten Anwendungsgebiete für Algorithmen: Optimierung, Sortiervorgänge, Graphentheorie, Textanalyse, Hashfunktionen. Zu jedem Algorithmus werden jeweils Hintergrundwissen und praktische Grundlagen vermittelt sowie Beispiele für aktuelle Anwendungen gegeben.

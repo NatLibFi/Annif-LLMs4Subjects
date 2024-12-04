@@ -1,0 +1,2 @@
+Protein folding in silico : protein folding versus protein structure prediction
+Protein folding in silico is broad in scope - starting with ab initio models and attempting to construct a mechanistic model on the basis of their predictions. The authors' computational model is expected to go beyond experimental studies, casting a new light on the complexities of biological phenomena

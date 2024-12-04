@@ -1,0 +1,2 @@
+Doing math with Python : use programming to explore algebra, statistics, calculus, and more!
+"Uses the Python programming language as a tool to explore high school level mathematics like statistics, geometry, probability, and calculus by writing programs to find derivatives, solve equations graphically, manipulate algebraic expressions, and examine projectile motion. Covers programming concepts including using functions, handling user input, and reading and manipulating data"--

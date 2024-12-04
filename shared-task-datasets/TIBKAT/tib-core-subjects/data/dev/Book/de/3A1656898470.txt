@@ -1,0 +1,2 @@
+Finanzmanagement mit Excel : Grundlagen und Andwendungen
+Dieses Lehrbuch behandelt die Grundlagen betrieblicher Investitions-, Finanzierungs- und Ausschüttungsentscheidungen theoretisch fundiert und anwendungsorientiert. Entscheidender Unterschied zu einführenden Finanzierungslehrbüchern im deutschen Sprachraum ist die konsequente Anwendung der Grundlagen des Finanzmanagements mithilfe von Excel. Damit werden die Leser auf die Umsetzung der Inhalte in den Unternehmen vorbereitet, da die Arbeit mit Programmen wie Excel für das praktische Finanzmanagement unabdingbar ist.

@@ -1,0 +1,2 @@
+Turbulence and Magnetic Fields in Astrophysics
+The present set of lectures is devoted to magnetohydrodynamic turbulence in astrophysics, with strong emphasis on numerical simulations. The book strives for a balance between state-of-the-art reports and a tutorial approach. It is thus particularly suited as an introduction to the field for nonspecialist researchers and postgraduate students. In addition, experienced scientists in the field will find the book to be a comprehensive source of reference for their research

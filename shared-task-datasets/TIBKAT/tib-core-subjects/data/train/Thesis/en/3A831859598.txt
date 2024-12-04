@@ -1,0 +1,2 @@
+Anaphora resolution and text retrieval : a linguistic analysis of hypertexts
+The fields of linguistics and information technology can profit from each other in valuable ways if they get connected in a truly interdisciplinary way. This book focuses on anaphora resolution for the English language and shows how rewarding a linguistic-computational perspective can be. It outlines all types of anaphors and their frequencies and also develops rules for resolving non-finite clause anaphors, which have never before been examined.

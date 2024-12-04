@@ -1,0 +1,2 @@
+Learn FileMaker Pro 16 : The Comprehensive Guide to Building Custom Databases
+Introduction -- Part I: Using FileMaker -- Part II: Defining data structures -- Part III: Writing formulas and using functions -- Part IV: Designing interfaces -- Part V: Automating tasks with scripts -- Part VI: Sharing and networking

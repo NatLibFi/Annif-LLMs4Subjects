@@ -1,0 +1,2 @@
+Understanding psychrometrics
+"Serves as reference or refresher course. Also provides comparative data for ideal gas calculations, glossary, easy transition from I-P to SI calculations, algorithms required for psychrometric calculations, aids for inputting algorithms into calculators and computers, SI and I-P program listings, conversion factors, history of psychrometrics, and twenty-one historical psychrometric charts"--Provided by publisher

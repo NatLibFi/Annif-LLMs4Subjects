@@ -1,0 +1,2 @@
+React in action
+Facebook created React to help deliver amazing user experiences on a website with thousands of components and an incomprehensible amount of traffic.  The same powerful tools are available to you too!  The key is a clever design for managing state, data flow, and rendering, so your application is easy to think about and runs smoothly.  Add an incredibly rich ecosystem of components and libraries, and you've got a recipe for building web apps that will delight both developers and users

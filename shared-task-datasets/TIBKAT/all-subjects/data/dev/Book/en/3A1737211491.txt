@@ -1,0 +1,2 @@
+An introduction to the numerical simulation of stochastic differential equations
+"This book provides a lively, accessible introduction to the numerical solution of stochastic differential equations (SDEs)"--

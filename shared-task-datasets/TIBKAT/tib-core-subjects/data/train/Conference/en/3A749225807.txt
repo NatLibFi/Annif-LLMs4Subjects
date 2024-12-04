@@ -1,0 +1,2 @@
+Agent Mediated Electronic Commerce II : Towards Next-Generation Agent-Based Electronic Commerce Systems
+This book evaluates the challenges that agent-based electronic commerce faces as well as the opportunities that agent technology offers for conducting business electronically. This book originates from a workshop held during IJCAI 1999. Besides revised refereed workshop papers, several contributions by leading experts were solicited in order to provide complete and competent coverage of all relevant aspects

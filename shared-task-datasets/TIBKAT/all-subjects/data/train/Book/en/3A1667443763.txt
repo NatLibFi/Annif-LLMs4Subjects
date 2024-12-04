@@ -1,0 +1,2 @@
+Compressed sensing for engineers
+Greedy algorithms -- Sparse recovery -- Co-sparse recovery -- Group sparsity -- Joint sparsity -- Low-rank matrix recovery -- Combined sparse and low-rank recovery -- Dictionary learning -- Medical imaging -- Biomedical signal reconstruction -- Regression -- Classification -- Computational imaging -- Denoising.

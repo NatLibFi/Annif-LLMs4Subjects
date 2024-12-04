@@ -1,0 +1,2 @@
+Study of linear and nonlinear models with "Mathematica"
+"A textbook for modeling nonlinear mechanics and the theory of oscillations, as well as linear problems of classical mathematical physics and nonlinear evolution models using the tools and capabilities of the "Mathematica" software package, containing codes of programs in the book"--

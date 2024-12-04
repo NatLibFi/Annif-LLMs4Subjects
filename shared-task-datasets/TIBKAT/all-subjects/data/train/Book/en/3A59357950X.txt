@@ -1,0 +1,2 @@
+Batch chemical process integration : analysis, synthesis and optimization
+'Batch Chemical Process Integration' is an excellent source of information on state-of-the-art mathematical & graphical techniques for analysis, synthesis & optimization of batch chemical plants. It covers recent techniques in batch process integration with a particular focus on the capabilities of the mathematical techniques

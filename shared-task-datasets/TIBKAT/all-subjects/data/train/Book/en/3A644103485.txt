@@ -1,0 +1,3 @@
+Building information modeling : a strategic implementation guide for architects, engineers, constructors, and real estate asset managers
+1. Building industry challenges and opportunities -- 2. BIM implementation strategies -- 3. Business process reform -- 4. BIM-based enterprise workflow -- 5. The building life cycle -- 6. Building information exchange challenges -- 7. Building information exchange requirements -- 8. The way forward
+This resource makes the business case for building information modeling (BIM), how it can improve collaboration, facilitate better design and construction, optimize workflow and reduce error. It discusses the barriers to BIM, from business culture to training, and how these barriers can be overcome

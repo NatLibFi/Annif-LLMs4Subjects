@@ -1,0 +1,2 @@
+Chapter 58 Some other economic applications of the value
+Selected applications of the NTU Shapley value to settings other than that of general equilibrium in perfect competition. Three models are considered: Taxation and Redistribution, Public Goods, and Fixed Prices. In each case, the value leads to significant conceptual insights which, while compelling once understood, are far from obvious at the outset.

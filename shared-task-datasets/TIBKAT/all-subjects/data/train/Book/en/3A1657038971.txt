@@ -1,0 +1,2 @@
+Gröbner Bases and the Computation of Group Cohomology
+This monograph develops the Gröbner basis methods needed to perform efficient state of the art calculations in the cohomology of finite groups. Results obtained include the first counterexample to the conjecture that the ideal of essential classes squares to zero. The context is J. F. Carlson’s minimal resolutions approach to cohomology computations

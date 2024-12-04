@@ -1,0 +1,2 @@
+Volunteered geographic information and the future of geospatial data
+"This book covers the main fundamentals, applications and the current challenges of VGI. It examines how such assertive method of collecting geospatial information can be complementary to authoritative methods employed by government agencies and private industry, how can VGI be framed within the larger domain of sensor networks, and how to deal with VGI preservation"--

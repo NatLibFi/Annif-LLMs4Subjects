@@ -1,0 +1,2 @@
+Mastering Microsoft Exchange Server 2010 : [install, configure, and manage Exchange Server 2010 ; secure Exchange Server against hackers, spam, and viruses]
+Covers the features and functions of Microsoft Exchange Server 2010, with information on such topics as utilizing the standards and protocols, business continuity, message security, and server virtualization

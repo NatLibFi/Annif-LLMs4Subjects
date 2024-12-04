@@ -1,0 +1,2 @@
+Stress Distribution in Buried Defective PE Pipes and Crack Propagation in Nanosheets
+Buried PE pipelines are the main choice for transporting hazardous hydrocarbon fluids and are used in urban gas distribution networks. Molecular dynamics (MD) simulations used to investigate material behavior at nanoscale.

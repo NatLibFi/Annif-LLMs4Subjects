@@ -1,0 +1,2 @@
+Subtlety in relativity
+The light quantum -- The idea of relativity -- Doppler effect -- What is a category? -- Properties of arrows and objects -- Functors -- Universal associations by functors -- Adjoint functors and adjoint situations -- Categorical measures -- The meaning of universal relativity.

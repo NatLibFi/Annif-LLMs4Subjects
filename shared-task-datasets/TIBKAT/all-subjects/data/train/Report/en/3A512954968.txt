@@ -1,0 +1,2 @@
+Semantic Web and education
+Introduction to Web-based education -- Introduction to the semantic Web -- The setting for semantic Web-based education -- Architectural issues -- Learning technology standardization efforts -- Personalization issues -- Ontological engineering for semantic Web-based education -- Applications and research

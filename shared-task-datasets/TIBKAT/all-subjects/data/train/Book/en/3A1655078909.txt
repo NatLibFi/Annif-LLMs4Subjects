@@ -1,0 +1,2 @@
+Algebraic Spaces
+The etale topology of schemes -- Algebraic spaces -- Quasicoherent sheaves on noetherian locally separated algebraic spaces -- The Finiteness Theorem -- Formal algebraic spaces.

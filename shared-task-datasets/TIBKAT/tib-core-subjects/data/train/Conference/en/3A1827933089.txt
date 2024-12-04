@@ -1,0 +1,2 @@
+Artificial Intelligence Logic and Applications : The 2nd International Conference, AILA 2022, Shanghai, China, August 26-28, 2022, proceedings
+This book constitutes refereed proceedings of the 2nd International Conference on Artificial Intelligence Logic and Applications 2022 held in Shanghai, China from August 26-28, 2022.The 20 full papers presented in this volume were carefully reviewed and selected from a total of 27 submissions. The papers in the volume are organised according to the following topical headings: program logic; fuzzy logic; applications; author index

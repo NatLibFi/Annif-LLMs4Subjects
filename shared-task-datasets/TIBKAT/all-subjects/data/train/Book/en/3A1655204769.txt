@@ -1,0 +1,2 @@
+Partial Differential Equations and Calculus of Variations
+This volume contains 18 invited papers by members and guests of the former Sonderforschungsbereich in Bonn (SFB 72) who, over the years, collaborated on the research group "Solution of PDE's and Calculus of Variations". The emphasis is on existence and regularity results, on special equations of mathematical physics and on scattering theory

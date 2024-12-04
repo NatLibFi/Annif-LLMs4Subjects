@@ -1,0 +1,2 @@
+Perturbations, Approximations and Sensitivity Analysis of Optimal Control Systems
+Estimates of the solutions of abstract optimization problems -- Regular perturbations -- Singular perturbations -- Finite — Difference approximations -- Sensitivity analysis of the open — Loop control structure with constrained controls.

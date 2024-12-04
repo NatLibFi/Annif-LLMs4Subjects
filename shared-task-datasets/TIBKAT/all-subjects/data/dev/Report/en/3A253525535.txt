@@ -1,0 +1,2 @@
+Verbundprojekt: Verteilte Entwicklung am Beispiel des Flugzeugentwurfs : Abschlußbericht ; Laufzeit des Vorhabens, Berichtszeitraum: 1.03.1996 - 28.02.1998
+CSCW, distributed applications, cooperative, CFD, parallel computing, distributed visualization, ATM high-performance-network, meta-computing, heterogen communication-platforms, interactive process-control, B-WiN, HPCN

@@ -1,0 +1,2 @@
+Twelve-Lead Electrocardiography : Theory and Interpretation
+Deals with the analysis of the shape (morphology) of ECG waveforms in order to diagnose many conditions not related to rhythm, including ischemia, acute myocardial infarction, and enlargement of heart muscle (hypertrophy). This book is aimed at students who already have a familiarity with the analysis of heart rhythms

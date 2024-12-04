@@ -1,0 +1,2 @@
+The abc-problem for Gabor systems
+Introduction -- Gabor frames and infinite matrices -- Maximal invariant sets -- Piecewise linear transformations -- Maximal invariant sets with irrational time shifts -- Maximal invariant sets with rational time shifts -- The abc-problem for Gabor systems -- Appendix A. Algorithm -- Appendix B. Uniform sampling of signals in a shift-invariant space -- Bibliography

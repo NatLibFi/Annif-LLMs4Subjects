@@ -1,0 +1,2 @@
+BuddyPress for dummies : [learn to: set up the WordPress foundation to run BuddyPress ; navigate fun features such as status updates and activity streams ; customize BuddyPress with your own style ; bring your social community subscriptions together in BuddyPress ]
+Here's how to get BuddyPress up and running on your WordPress web site! Learn to use its free tools and themes to host a social network devoted to your pet projects, right on your site

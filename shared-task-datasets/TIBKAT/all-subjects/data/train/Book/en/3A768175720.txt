@@ -1,0 +1,2 @@
+Python for biologists : write your own software, become more productive, and take control of your research
+Python for biologists is a complete programming course for beginners that will give you the skills you need to tackle common biological and bioinformatics problems.

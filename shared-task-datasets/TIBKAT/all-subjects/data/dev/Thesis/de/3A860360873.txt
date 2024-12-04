@@ -1,0 +1,2 @@
+Fabrication of interdigitated electrode arrays for biosensors by advanced mask aligner lithography
+Zusammenfassung: Die Arbeit beschäftigt sich mit der Entwicklung und Herstellung eines hoch sensitiven elektrochemischen Biosensors. Der amperometrische Sensor basiert auf Redoxreaktionen an ineinandergreifenden Elektrodenstrukturen (IDAs) mit Elektrodenabständen im Submikrometer – bzw. Nanometer-Bereich. Die Herstellung der Initialstrukturen erfolgte dabei durch Mask Aligner Lithographie. Der Lithographieprozess wurde unter Zuhilfenahme von Simulationen optimiert

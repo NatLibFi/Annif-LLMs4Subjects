@@ -1,0 +1,2 @@
+Cisco routers for the desperate : router management, the easy way
+Introduction -- Befriending the command line -- Router configuration -- Router interfaces -- ISP connections -- Troubleshooting routers -- Private connections -- IOS changes -- Multihoming -- Logins, authentication, and remote access -- Other Cisco services -- Securing network services -- Appendix A: IP address masks -- Index

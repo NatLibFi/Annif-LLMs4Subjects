@@ -1,0 +1,2 @@
+Noncommutative geometry : a functorial approach
+Introduction -- Basics -- Model examples -- Categories and functors -- C-algebras -- Noncommutative invariants -- Topology -- Algebraic geometry -- Number theory -- Brief survey of NCG -- Finite geometries -- Continuous geometries -- Connes geometries -- Index theory -- Jones polynomials -- Quantum groups -- Noncommutative algebraic geometry -- Trends in noncommutative geometry

@@ -1,0 +1,3 @@
+Formales SQL-Tuning für Oracle-Datenbanken : Praktische Effizienz - effiziente Praxis
+Das Ziel des SQL-Tunings ist eine Verbesserung des bestehenden Ausführungsplans. Die in diesem Buch beschriebene Methode kann man „Bremsenbeseitigung im Ausführungsplan“ nennen. Solche „Bremsen“ oder Engpässe lassen sich durch eine formale Analyse des Ausführungsplans erkennen. Dafür sind keine Datenmodellkentnisse notwendig. Das ist besonders vorteilhaft für Datenbankadministratoren, weil sie in der Regel gar nicht oder unzureichend gut mit dem Datenmodell vertraut sind. Im Buch werden zahlreiche praktische Erfahrungen mit dieser Methode präsentiert.
+Einführung -- Oracle-Datenbanken -- Datenmodellierung -- Ausführungspläne -- SQL-Tuning kurz gefasst -- Index.

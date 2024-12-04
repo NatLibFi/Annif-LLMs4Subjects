@@ -1,0 +1,2 @@
+Beitrag zum Antrieb des modernen Treibscheibenaufzuges
+Aus der Zusammenfassung: Diese Arbeit soll zeigen, wie Drehstrom-Asynchron-Motoren auch für schwierigste Antriebsprobleme, wie bei modernen Aufzugsanlagen vorliegen, mit Erfolg verwendet werden können, wenn sie nur den Erfordernissen entsprechend ausgelegt werden.

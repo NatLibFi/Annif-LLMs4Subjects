@@ -1,0 +1,2 @@
+Intelligent positioning : GIS-GPS unification
+GIS, an overview -- GPS, an introduction -- Datum transformations and projections -- Commercial applications that integrate GIS and GPS -- GPS-GIS map matching : combined positioning solution -- Intelligent map matching using mapping dilution of precision (MDOP) -- The use of digital terrain models to aid GPS vehicle navigation -- GPS accuracy estimation using map-matching techniques : application to vehicle positioning and odometer calibration

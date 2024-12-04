@@ -1,0 +1,2 @@
+An introduction to fractional control
+The book reviews developments in the following fields: fractional calculus; real orders; fractional transfer functions; fractional identification; crone control; fractional PIDs; fractional reset control; pseudo-state-space representation; fractional sliding mode control; trajectory planning; complex orders; variable orders; and time-varying control

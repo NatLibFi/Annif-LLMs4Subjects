@@ -1,0 +1,2 @@
+Interactive web-based data visualization with R, plotly, and shiny
+"This book describes interactive data visualization using the R package plotly. It focuses on tools and techniques that data analysts should find useful for asking follow-up questions from their data using interactive web graphics. A basic understanding of R is assumed"--

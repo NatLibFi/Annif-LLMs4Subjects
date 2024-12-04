@@ -1,0 +1,2 @@
+Linear algebra with machine learning and data
+This textbook attempts to revolutionize the Advanced Linear Algebra course by offering the integration of data analysis through case studies. Many schools are trying to find ways to incorporate data analysis into the undergrad math curriculum. The author presents a real alternative to standard textbooks. The use of case studies to demonstrate how linear algebra can be used in data analysis separates this text from all others currently available from any major publisher

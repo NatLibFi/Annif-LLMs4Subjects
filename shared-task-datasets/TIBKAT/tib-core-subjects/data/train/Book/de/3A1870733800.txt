@@ -1,0 +1,3 @@
+Höhere Mathematik in Beispielen : Analysis und etwas Lineare Algebra
+Vorbetrachtungen und Grundlagen -- Folgen und Reihen -- Grenzwerte und Stetigkeit von Funktionen -- Differentialrechnung -- Lineare Algebra -- Integration.
+Dieses Buch beleuchtet gängige Themenbereiche der höheren Mathematik nahezu ausschließlich anhand zahlreicher kreativer Beispiele. An wen richtet sich dieses Buch? Neben technisch orientierten Studiengängen profitieren in besonderer Weise Lehramtsstudierende und Studierende des Faches Mathematik wegen der beispielorientierten Aufbereitung anspruchsvoller Themenbereiche. Der Autor Prof. Dr. Wilhelm Merz unterrichtet seit über 20 Jahren an der Universität Erlangen, überwiegend im Bereich der Ingenieurmathematik.

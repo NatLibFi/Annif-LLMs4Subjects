@@ -1,0 +1,2 @@
+On a finite element approach for the solution of a mechanically stimulated biochemical fracture healing model
+Finite element method, bone fracture healing, bone repair, finite calculus method, time-discontinuous Galerkin method. - Finite Elemente Methode, Frakturheilung, Knochenregeneration, finite Calculus Methode, zeitdiskontinuierliches Galerkinverfahren

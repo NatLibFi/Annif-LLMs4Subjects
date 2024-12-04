@@ -1,0 +1,2 @@
+Digital und Web Analytics : Metriken auswerten, Besucherverhalten verstehen, Website optimieren
+Einführung in die Analyse und Interpretation von Metriken  mit dem Ziel der Optimierung der Internetpräsenz. Zunächst wird erklärt, wie Digital-Analytics-Systeme funktionieren und eine Datensammlung gespeichert und ausgewertet wird. Breiten Raum nimmt die Beobachtung des Besucherverhaltens, die Nutzung von Inhalten und Digitalkanälen ein. Am Ende steht die Optimierung der Website. (2-3)

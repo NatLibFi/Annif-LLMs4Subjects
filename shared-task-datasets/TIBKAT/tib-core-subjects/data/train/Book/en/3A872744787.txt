@@ -1,0 +1,2 @@
+Practical swift
+Part 1. Building the reference guide.  Evolution of Swift -- Xcode -- Package managers -- iOS architecture -- Protocol-oriented programming -- Generics -- iOS UI and storyboards -- Testing -- Part 2. Building the grocery app.  Grocery list app interface builder -- Grocery app: MVVM -- Grocery app: core data -- Grocery app: finish line

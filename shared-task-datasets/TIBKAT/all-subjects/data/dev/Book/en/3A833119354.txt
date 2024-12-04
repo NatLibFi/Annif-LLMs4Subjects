@@ -1,0 +1,2 @@
+Foundations of joomla : [design, create, and administer your own website in no time]
+Introduction to Joomla -- Installing XAMPP and Joomla -- Your first steps in Joomla -- Managing images and banners -- Creating users and contacts -- Creating interaction -- Dealing with menus -- Modules -- Adding extensions -- Making it global

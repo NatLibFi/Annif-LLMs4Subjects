@@ -1,0 +1,2 @@
+Steuerung von sechsbeinigen Laufrobotern unter dem Aspekt technischer Anwendungen
+Walking robot, legged robot, walking machine, walking vehicle, control system, force control, technical application, kinematics distributed control, embedded system

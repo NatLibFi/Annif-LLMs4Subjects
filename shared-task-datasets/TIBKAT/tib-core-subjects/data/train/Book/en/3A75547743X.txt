@@ -1,0 +1,2 @@
+Web hosting for dummies : a Wiley brand ; [learn to: interpret web hosting terms, domains, and DNS ; choose the right platform to install ; use built-in databbases and new e-mail accounts ; work with FTP clients, use cloud services, and back up your site]
+Thinking about hosting your own website or blog? This guide shares what Pollock learned the hard way, so you don't have to make his mistakes. Learn how to showcase your site, and get your money's worth --

@@ -1,0 +1,2 @@
+Machine learning for cyber security
+This book shows how machine learning (ML) methods can be used to enhance cyber security operations, including detection, modeling, monitoring as well as defense against threats to sensitive data and security systems. Filling an important gap between ML and cyber security communities, it discusses topics covering a wide range of modern and practical ML techniques, frameworks and tools

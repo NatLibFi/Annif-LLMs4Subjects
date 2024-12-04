@@ -1,0 +1,2 @@
+Molecular components involved in the inhibitory responses and Ca2+ clearance from the cilia of olfactory receptor neurons
+Olfactory receptor neurons, excitatory response, inhibitory response, patch clamp, whole cell recording, CNG, eAMP, caged-cAMP, Ca2+-dependent Cl- channels, Ca2+-dependent K+ channels, NCX, PMCA. - Olfaktorisches Rezeptorneuron, erregende Rezeptorantwort, inhibierende Rezeptorantwort, Ca2+-aktivierte Cl- Kanäle, Ca2+-aktivierte K+ Kanäle

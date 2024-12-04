@@ -1,0 +1,2 @@
+Dynamik des flexiblen Flugzeugs : Arbeitspaket 2: Untersuchung der Effekte aus der Flugzeugelastizität auf den Gesamtentwurf zukünftiger Verkehrsflugzeuge
+Preliminary aircraft design, fluid-structure-coupling, aeroelasticity, flutter analysis, FEM, weight estimation method

@@ -1,0 +1,2 @@
+Object-oriented design knowledge : principles, heuristics, and best practices
+"The software engineering community has advanced greatly in recent years and we currently have numerous defined items of knowledge, such as standards, methodologies, methods, metrics, techniques, languages, patterns, knowledge related to processes, concepts, etc.The main objective of this book is to give a unified and global vision about Micro-Architectural Design Knowledge, analyzing the main techniques, experiences and methods"--Provided by publisher

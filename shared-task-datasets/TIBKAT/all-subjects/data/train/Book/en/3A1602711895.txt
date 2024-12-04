@@ -1,0 +1,2 @@
+Cloud computing for dummies
+A guide to managing and securing cloud services covers such topics as developing a cloud strategy, managing data, using software as a service, setting standards, and governing the cloud

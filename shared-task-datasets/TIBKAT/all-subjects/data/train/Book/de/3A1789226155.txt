@@ -1,0 +1,2 @@
+Programmieren mit Java II
+Das Lehrbuch Programmieren mit Java II ist die Fortsetzung des bereits erschienenen und in der Lehre etablierten Buches Programmieren mit Java. Das Buch unterstützt den Leser beim Bearbeiten und Lösen konzeptioneller Problemstellungen und den konkreten Lösungen und Umsetzungen in Java

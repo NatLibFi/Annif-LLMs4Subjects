@@ -1,0 +1,2 @@
+Miscible polymer blends : background and guide for calculations and design
+A series of programs that allow the calculation of solubility parameters, polymer miscibility, and the phase behavior of hydrogen-bonded polymer systems. Also includes a tutorial for each calculator, and additional material on specific topics

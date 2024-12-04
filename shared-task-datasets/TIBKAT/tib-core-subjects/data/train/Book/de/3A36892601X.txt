@@ -1,0 +1,2 @@
+Taschenbuch Rechnernetze und Internet : mit 105 Tabellen
+Das Taschenbuch gibt einen breiten, systematischen Überblick zu zentralen Themen wie Infrastruktur, Übertragungs- bzw. Vermittlungsverfahren, Protokolle, Dienste und Anwendungen. Weitere Themen sind Planung von Rechnernetzen, Standards und Netzwerkmanagement. Dem Internet wird in allen Belangen besondere Aufmerksamkeit gewidmet, es ist u.a. in der 2. Auflage völlig neu bearbeitet

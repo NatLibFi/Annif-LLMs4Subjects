@@ -1,0 +1,2 @@
+Experimental Robotics III : The 3rd International Symposium, Kyoto, Japan, October 28-30, 1993
+This is the third in a series of specialized international symposia held every two years and dedicated to presenting and discussing in depth the research results and on-going developments in robotics which have both theoretical foundations and experimental validations. There are 43 papers, from 10 countries, presented in nine titled sections

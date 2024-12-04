@@ -1,0 +1,2 @@
+Control of Partial Differential Equations : Proceedings of the IFIP WG 7.2 Working Conference Santiago de Compostela, Spain, July 6-9, 1987
+This volume comprises the proceedings of an IFIP conference held at the University of Santiago de Compostela in July 1987. The conference was devoted to the following topics: state constrained optimal control problems, shape optimization, identification of parameters, stabilisation, controlability, numerical methods and industrial applications

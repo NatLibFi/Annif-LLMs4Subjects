@@ -1,0 +1,2 @@
+TEX für Fortgeschrittene : Programmiertechniken und Makropakete
+Aus dem Inhalt: I) Textauszeichnung II) Notation III) Fonts IV) Blanks V) Makros und Parameter VI) Textstrukturen VII) Verweise VIII) Makropakete IX) Deutschsprachige Texte

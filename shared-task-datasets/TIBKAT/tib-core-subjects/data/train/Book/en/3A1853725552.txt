@@ -1,0 +1,2 @@
+Lectures on Lagrangian torus fibrations
+"This book explains how to use simple 2-dimensional pictures to understand the geometry and topology of 4-dimensional spaces. These spaces are of relevance in Hamiltonian dynamics, in algebraic geometry, and in mathematical string theory. It is suitable for graduate students and researchers in geometry and topology"--

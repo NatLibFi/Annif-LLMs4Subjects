@@ -1,0 +1,2 @@
+Mastering Ruby on rails : a beginner's guide
+"There is no shortage of programming languages and frameworks out there; but in the midst of all this, Ruby on Rails stands out. Despite losing out on the top spot to other contenders, Ruby on Rails has earned for itself a position of repute and a robust user base"--

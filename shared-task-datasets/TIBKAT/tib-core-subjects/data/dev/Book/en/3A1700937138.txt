@@ -1,0 +1,2 @@
+Circularly polarized antenna technology
+"The book presents basic and advanced concepts of circularly polarized antennas, including design procedure and recent applications. Cross dipole antennas, microstrip antennas, helical antennas, quadrifilar helix antennas, frequency independent antennas, horn antennas, omnidirectional circularly polarized antennas and radial line arry antennas are discussed. With abundant examples, the book is an essential reference for researchers and engineers"--Provided by publisher

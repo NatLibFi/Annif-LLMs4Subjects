@@ -1,0 +1,2 @@
+Future Satellite Gravimetry and Earth Dynamics
+A first generation of dedicated satellite missions for the precise mapping of the Earth's gravity field is in orbit (CHAMP, GRACE, and soon GOCE). In this book, Earth scientists develop visions of future applications based on follow-on high-precision satellite gravimetry missions

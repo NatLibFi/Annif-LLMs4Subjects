@@ -1,0 +1,2 @@
+High power solid state single frequency MOPA for gravitational wave detection
+Single frequency, solid state, MOPA, Nd:YAG, intensity noise, aberration, TEM00 mode content, Zemike coefficients, pupil size scaling. - Einfrequent, Festkörper, Intensitätsrauschen, TEM00-Moden Inhalt, Zemike-Koeffizienten, Pupillengröße, Skalierung

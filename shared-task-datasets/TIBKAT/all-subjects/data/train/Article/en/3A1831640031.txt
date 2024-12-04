@@ -1,0 +1,2 @@
+Chapter 9. Solution and Estimation Methods for DSGE Models
+This chapter provides an overview of solution and estimation techniques for dynamic stochastic general equilibrium models. We cover the foundations of numerical approximation techniques as well as statistical inference and survey the latest developments in the field.

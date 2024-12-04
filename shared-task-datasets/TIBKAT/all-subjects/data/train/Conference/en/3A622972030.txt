@@ -1,0 +1,2 @@
+Logic Colloquium '84 : proceedings of the colloquium held in Manchester, U.K., July 1984
+This proceedings volume contains most of the invited talks presented at the colloquium. The main topics treated are the model theory of arithmetic and algebra, the semantics of natural languages, and applications of mathematical logic to complexity theory. The volume contains both surveys by acknowledged experts and original research papers presenting advances in these disciplines

@@ -1,0 +1,2 @@
+Reinforced and prestressed concrete design to EC2 : the complete process
+Structural loading and qualitative design -- Basic layout of concrete structures -- Loads and load effects -- Preliminary analysis and design -- Applications of structural analysis to concrete structures -- Preliminary sizing of members -- Case studies -- Detailed member design -- Design of prestressed concrete members for bending -- Combined axial force and bending of reinforced concrete members -- Design for shear and torsion

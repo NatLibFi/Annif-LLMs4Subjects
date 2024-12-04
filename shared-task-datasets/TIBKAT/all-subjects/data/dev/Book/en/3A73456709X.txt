@@ -1,0 +1,2 @@
+Android apps for absolute beginners : [get started with building your very own Android apps]
+"From start to finish, 'Android apps for absolute beginners' guides you through the entire process of creating an app.  You'll discover how and where to get the Android development environment, how to set it up, how to configure it, and how to use it to create applications that employ many of the powerful features of Android"--back cover

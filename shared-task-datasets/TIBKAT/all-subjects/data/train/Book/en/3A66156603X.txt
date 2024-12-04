@@ -1,0 +1,2 @@
+Heterogeneous computing with OpenCL
+Introduction to parallel programming -- Introduction to OpenCL -- OpenCL device architectures -- Basic OpenCL examples -- Understanding OpenCL's concurrency and execution model -- Dissecting an CPU/GPU OpenCL implementation -- OpenCL case study : convolution -- OpenCL case study : video processing -- OpenCL case study : histogram -- OpenCL case study : mixed particle simulation -- OpenCL extensions -- OpenCL profiling and debugging -- WebCL

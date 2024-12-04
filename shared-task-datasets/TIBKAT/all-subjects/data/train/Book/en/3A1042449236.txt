@@ -1,0 +1,2 @@
+Cognitive social mining applications in data analytics and forensics
+"This book presents the most recent challenges and developments in 'machine learning in data analytics and forensics for cognitive social mining' from the perspective of providing awareness and its best practices for the real world"--

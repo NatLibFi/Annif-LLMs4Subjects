@@ -1,0 +1,2 @@
+Two-phase thin film equations with insoluble surfactant
+Thin film equations, surfactant, degenerate parabolic equations. - Dünnfilmgleichungen, Tenside, degenerierte parabolische Gleichungen

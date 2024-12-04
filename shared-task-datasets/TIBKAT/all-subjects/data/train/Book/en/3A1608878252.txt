@@ -1,0 +1,2 @@
+Taming text : how to find, organize, and manipulate it
+Contains tools and techniques for managing unstructured text in software applications, with examples in Java that can be applied in any programming language.--

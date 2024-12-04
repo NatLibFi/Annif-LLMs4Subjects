@@ -1,0 +1,2 @@
+Microsoft Windows Vista administration
+A guide to Windows Vista administration describes how to design and implement installation and migration plans, create network connections, set up Internet services, use remote access features, and secure PCs and networks

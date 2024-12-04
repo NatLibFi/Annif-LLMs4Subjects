@@ -1,0 +1,3 @@
+Bonding of Elastomers : A Practical Guide
+This book covers the history, theory, and practice of bonding elastomers to solid substrates. It provides information of methods, equipment, and bond evaluation. Numerous detailed examples of research into the variables that affect bonding, bond strength, and bond durability are provided to give the reader deeper understanding of this technology
+Frontmatter -- Preface -- Contents -- 1. Adhesion theory -- 2. History of rubber-to-metal bonding -- 3. Primers and adhesives -- 4. Rubber chemistry -- 5. Testing adhesive bonds -- 6. Substrate preparation -- 7. Adhesive application and use -- 8. Compounding effects on adhesive bonds -- Index

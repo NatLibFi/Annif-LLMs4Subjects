@@ -1,0 +1,2 @@
+Cybercrime and cloud forensics : applications for investigation processes
+"This book presents a collection of research and case studies of applications for investigation processes in cloud computing environments, offering perspectives of cloud customers, security architects as well as law enforcement agencies on the new area of cloud forensics"--

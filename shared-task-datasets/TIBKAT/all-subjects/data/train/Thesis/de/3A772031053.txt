@@ -1,0 +1,2 @@
+Non-asymptotic performance evaluation and sampling-based parameter estimation for communication networks with long memory traffic
+Self-similarity, long range dependence, stochastic network calculus, performance evaluation, quality of service, sampling, network probing. - Selbstähnlichkeit, Langzeitkorrelationen, stochastisches Netzwerkkalkül, Dienstgüte, Leistungsbewertung, zufälliges Abtasten, Netzwerktestverfahren

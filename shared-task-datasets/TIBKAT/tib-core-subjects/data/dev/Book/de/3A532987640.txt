@@ -1,0 +1,2 @@
+Mechatronik : Aufgaben und Lösungen
+Die Aufgaben in diesem Band orientieren sich an den beiden gleichnamigen Lehrbüchern (beide BA 4/03); insofern sollte der Band diese unbedingt ergänzen. Lt. Vorwort sind sie aber didaktisch so gehalten, dass sie auch ohne diese gelöst werden können. Es werden lediglich Grundkenntnisse in Mathematik, Physik, Technischer Mechanik und E-Technik vorausgesetzt. Da es sich um eine neue wichtige interdisziplinäre Ingenieurwissenschaft und Technologie handelt, ist die Anschaffung nach Grundlagenliteratur durchaus ratsam. (2)

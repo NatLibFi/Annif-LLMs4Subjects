@@ -1,0 +1,2 @@
+Inflectionary invariants for isolated complete intersection curve singularities
+Keywords: Deformations of curve singularities, inflection points, sheaves of principal parts, linear systems, ramification theory, Weierstrass points, determinantal varieties, intersection theory

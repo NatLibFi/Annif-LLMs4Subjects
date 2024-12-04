@@ -1,0 +1,2 @@
+Advances in Nonlinear Parameter Optimization
+Formulation of the problem -- Well-known methods for the solution of nonlinear least squares problems -- A new method for the solution of nonlinear least squares problems -- Application of the new method for the solution of the linear least squares problem -- The problem of the choice of a starting point x 0 -- Applications of the proposed method for the solution of nonlinear least squares problems.

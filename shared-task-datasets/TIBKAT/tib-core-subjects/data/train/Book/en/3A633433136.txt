@@ -1,0 +1,2 @@
+Learning XNA 4.0 : [game development for the PC, Xbox 360 and Windows Phone7]
+Provides information on using Microsoft XNA to create games for the PC, Xbox 360, and Windows Phone 7

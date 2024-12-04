@@ -1,0 +1,2 @@
+Minimal surfaces through Nevanlinna theory
+The study of minimal surfaces is an important subject in differential geometry, and Nevanlinna theory is an important subject in complex analysis and complex geometry. This book discusses the interaction between these two subjects. In particular, it describes the study of the value distribution properties of the Gauss map of minimal surfaces through Nevanlinna theory, a project initiated by the prominent differential geometers Shiing-Shen Chern and Robert Osserman.

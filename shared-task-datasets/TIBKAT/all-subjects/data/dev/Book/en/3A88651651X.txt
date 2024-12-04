@@ -1,0 +1,2 @@
+Optimal structural design : contact problems and high-speed penetration
+"This monograph studies optimization problems for rigid punches in elastic media and for high-speed penetration of rigid strikers into deformed elastoplastic, concrete, and composite media using variational calculations, tools from functional analysis, and stochastic and min-max (guaranteed) optimization approaches with incomplete data. The book presents analytical and numerical results developed by the authors during the last ten years"--

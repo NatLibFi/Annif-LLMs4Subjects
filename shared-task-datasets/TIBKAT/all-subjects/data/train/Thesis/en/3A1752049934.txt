@@ -1,0 +1,2 @@
+Risk attitudes and migration decisions
+This dissertation analyzes the relationship between individuals' attitudes towards risk, migration experience, and migration decisions. For this, we consider migration in the United States across Metropolitan Statistical Areas (MSAs) for the period 1997-2015 based on a panel dataset from the Panel Study of Income Dynamics (PSID). This dataset includes a series of hypothetical-gamble questions to elicit individual risk attitudes.

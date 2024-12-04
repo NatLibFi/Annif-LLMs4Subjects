@@ -1,0 +1,2 @@
+Fundamentals of ultra-thin-body MOSFETs and FinFETs
+"Understand the theory, design, and applications of the two principal candidates for the next mainstream semiconductor-industry device with this concise and clear guide to FD/UTB transistors. * describes FD/SOI MOSFETs and 3-D FinFETs in detail * covers short-channel effects, quantum-mechanical effects, applications of UTB devices to floating-body DRAM and conventional SRAM"--

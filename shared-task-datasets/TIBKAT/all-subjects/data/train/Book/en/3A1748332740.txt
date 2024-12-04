@@ -1,0 +1,2 @@
+Understanding GPS : principles and applications
+This thoroughly updated second edition of an Artech House bestseller brings together a team of leading experts who provide you with a current and comprehensive treatment of the Global Positioning System (GPS). The book covers all the latest advances in technology, applications, and systems. The second edition includes new chapters that explore the integration of GPS with vehicles and cellular telephones, new classes of satellite broadcast signals, the emerging GALILEO system, and new developments in the GPS marketplace

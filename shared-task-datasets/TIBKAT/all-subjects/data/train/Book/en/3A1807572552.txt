@@ -1,0 +1,2 @@
+Soft computing and optimization techniques for sustainable agriculture
+This book covers the emerging applications of different computational and optimization techniques in order to achieve a sustainable agriculture. A sustainable agricultural management requires tools in providing integrated, area-specific, and interpreted prediction or forecasting and guidance in every aspect in agriculture.

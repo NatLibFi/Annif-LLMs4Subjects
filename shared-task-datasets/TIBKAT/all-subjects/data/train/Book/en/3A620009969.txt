@@ -1,0 +1,2 @@
+Asteroseismology
+A guide for graduate students and scientists working in stellar astrophysics. It provides a general introduction to asteroseismology, and comprehensive coverage of its various aspects: fundamental theory, observations and observational techniques, and methodology of data analysis

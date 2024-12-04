@@ -1,0 +1,2 @@
+Simulationsuntersuchung zur Bestimmung der Degradation hochrobuster Metallisierungssysteme
+Zuverlässigkeit, Entwurf von Halbleiterstrukturen, Back-End-of-Line. - Reliability, design of semiconductor devices

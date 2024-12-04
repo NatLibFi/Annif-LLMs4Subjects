@@ -1,0 +1,2 @@
+Fundamentals and evolution of MPEG-2 systems : paving the MPEG road
+"This book examines the MPEG-2 system specification as developed in the early 1990's, as well as its evolution into the fourth edition of the MPEG-2 systems standard, published in 2013"--

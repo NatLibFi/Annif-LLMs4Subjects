@@ -1,0 +1,2 @@
+Programmable networks for IP service deployment
+Today, programmable networks are being viewed as the solution for the fast, flexible and dynamic deployment of new telecommunications network services. At the vanguard of programmable network research is the Future Active IP Networks (FAIN) project. The authors of this book discuss their research in FAIN so you can get on the inside track to tomorrow's technology. Moreover, the book provides you with detailed guidelines for designing managed IP programmable networks

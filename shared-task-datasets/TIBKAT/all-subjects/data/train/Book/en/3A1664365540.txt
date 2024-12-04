@@ -1,0 +1,2 @@
+A mathematical introduction to electronic structure theory
+Basic theory of quantum mechanics -- Density functional theory : formulation and algorithms -- Linear response theory -- Appendix.

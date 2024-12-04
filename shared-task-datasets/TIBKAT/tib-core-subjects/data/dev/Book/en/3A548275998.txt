@@ -1,0 +1,2 @@
+Beginning PL/SQL : from novice to professional ; [learn to model the real world through PL/SQL]
+A guide to the PL/SQL programming language cover such topics as writing stored functions, using singletons and cursers, debugging, and testing

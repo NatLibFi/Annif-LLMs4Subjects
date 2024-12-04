@@ -1,0 +1,2 @@
+A mathematical journey to relativity : deriving special and general relativity with basic mathematics
+This book opens with an axiomatic description of Euclidean and non-Euclidean geometries. Euclidean geometry is the starting point to understand all other geometries and it is the cornerstone for our basic intuition of vector spaces.

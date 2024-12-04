@@ -1,0 +1,2 @@
+Handbook of research on service-oriented systems and non-functional properties : future directions
+"This book unites different approaches and methods used to describe, map, and use non-functional properties and service level agreements"--Provided by publisher

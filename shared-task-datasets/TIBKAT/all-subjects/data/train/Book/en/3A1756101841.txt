@@ -1,0 +1,2 @@
+Boolean structures : combinatorics, codification, representation
+"Boolean Structures: Combinatorics, Codification, Representation offers the first analytical and architectural approach to Boolean algebras based combinatorial calculus and codification with applications in IT, quantum information and classification of data"--

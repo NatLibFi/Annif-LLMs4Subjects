@@ -1,0 +1,2 @@
+XFEM fracture analysis of composites
+"This book describes the basics and developments of the new XFEM approach to fracture analysis of structures and materials, providing state of the art techniques and algorithms for fracture analysis of structures. It offers numeric examples at the end of each chapter, as well as an accompanying website, which will include MATLAB resources, executables, data files, and simulation procedures of XFEM"--

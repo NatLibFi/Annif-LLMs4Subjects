@@ -1,0 +1,2 @@
+Besov spaces on fractals and tempered radon measures
+We study Besov spaces on d-sets and provide their characterization by means of Hölder-continuous atoms, wavelets and counterparts of Faber-Schauder functions. We follow the connection between isotropic Besov spaces on d-sets, which are obtained as a cartesian product of bizarre fractal curves, and anisotropic Besov spaces on the unit cube. We also clarify the relation between Radon measure, tempered distributions and weighted Besov spaces.

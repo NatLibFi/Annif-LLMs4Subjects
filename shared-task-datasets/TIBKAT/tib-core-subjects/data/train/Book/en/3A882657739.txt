@@ -1,0 +1,2 @@
+Theory and applications of image registration
+Image orientation detection -- Feature point detection -- Feature line detection -- Finding homologous points -- Finding homologous lines -- Nonrigid image registration -- Volume image registration -- Validation methods -- Video image registration -- Multitemporal image registration -- Open problems and research topics

@@ -1,0 +1,2 @@
+Cyclic Galois Extensions of Commutative Rings
+The structure theory of abelian extensions of commutative rings is a subjectwhere commutative algebra and algebraic number theory overlap. This exposition is aimed at readers with some background in either of these two fields. Emphasis is given to the notion of a normal basis, which allows one to view in a well-known conjecture in number theory (Leopoldt's conjecture) from a new angle. Methods to construct certain extensions quite explicitly are also described at length

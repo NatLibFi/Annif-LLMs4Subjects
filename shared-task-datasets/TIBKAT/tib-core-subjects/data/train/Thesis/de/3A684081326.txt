@@ -1,0 +1,2 @@
+Mischreibung und Verschleiß in Hydraulikdichtsystemen : Modellbildung, Simulation und experimentelle Analyse
+Hydraulikdichtungen, Finite-Elemente-Analyse, Mischreibung, Verschleiß. - Hydraulic seals, finite-element-analysis, mixed lubrication, wear

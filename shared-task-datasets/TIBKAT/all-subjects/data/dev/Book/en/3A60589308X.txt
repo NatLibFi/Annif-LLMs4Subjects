@@ -1,0 +1,2 @@
+Pro Silverlight 3 in VB : [create cross-platform .NET applications for the browser]
+Provides information on creating cross-platform interactive applications using Silverlight 3 that execute compiled VB code

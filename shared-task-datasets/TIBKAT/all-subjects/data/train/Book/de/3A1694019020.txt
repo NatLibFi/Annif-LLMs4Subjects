@@ -1,0 +1,2 @@
+Algorithmen : Algorithmen und Datenstrukturen
+Die 4. Auflage des Klassikers Algorithmen von Robert Sedgewick und Kevin Wayne ermöglicht dem deutschsprachigen Leser einen grundlegenden und umfangreichen Einstieg in die wichtigsten Datenstrukturen und Algorithmen und deren Analyse und Anwendung. In der neuesten Auflage wurden Inhalte aktualisiert, um neue mächtige Algorithmen ergänzt und wieder in einem Band zusammengefasst

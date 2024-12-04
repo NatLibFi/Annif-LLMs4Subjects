@@ -1,0 +1,2 @@
+Representation and meaning : experiments with information processing systems
+The heuristic compiler, by H. A. Simon.--Some semantic methods for language processing, by L. Siklóssy and H. A. Simon.--Some studies in game playing with a digital computer, by T. G. Williams.--Computer program organization induced from problem examples, by D. S. Williams.--Syntax directed interpretation of natural language, by L. S. Coles.--Natural language learning by computer, by L. Siklóssy

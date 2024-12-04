@@ -1,0 +1,2 @@
+Conformal array antenna theory and design
+This is the first comprehensive treatment of conformal antenna arrays from an engineering perspective. While providing a thorough foundation in theory, the authors of this publication provide a wealth of hands-on instruction for practical analysis and design of conformal antenna arrays. Thus, you get the knowledge you need, alongside the practical know-how to design antennas that are integrated into such structures aircrafts or skyscrapers

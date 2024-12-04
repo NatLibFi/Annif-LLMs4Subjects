@@ -1,0 +1,2 @@
+Let’s Code Python
+"Python macht Spaß! Steige einfach in die Programmierung ein: Mit eigenen kleinen Programmen und Spielen, selbst gebauten Kreaturen, Grafik und mehreren Leveln. Mit der Entwicklungsumgebung TigerJython ist es besonders einfach, zügig loszulegen. Sie bietet viele Hilfen eigens für Anfänger und für den Fall, dass du mal einen Fehler finden musst. Ohne Vorkenntnisse lernst du Python in überschaubaren Projekten kennen. Neue Sprachelemente werden ausführlich vorgestellt, mit farbigen Hervorhebungen und Erklärungen direkt am Code." (www.buchhandel.de)

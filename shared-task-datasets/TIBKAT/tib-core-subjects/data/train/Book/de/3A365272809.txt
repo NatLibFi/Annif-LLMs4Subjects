@@ -1,0 +1,2 @@
+Check Point Next Generation AI : [das Standardwerk für Fire-Wall-1/VPN-1]
+Der Autor erklärt detailliert die Einrichtung und Administration der führenden Firewall Check Point Next Generation with Application Intelligence. Er beschreibt die Grundkomponenten der Software und deren Erweiterungen und gibt Anleitungen zur Installation auf den Betriebssystemen Sun Solaris, Windows und Linux. Als weitere Themen werden u.a. die Formulierung der Regelsätze für Zugriffserlaubnisse und deren logische Umsetzung in der Praxis und die Einrichtung eines Virtual Private Network behandelt.

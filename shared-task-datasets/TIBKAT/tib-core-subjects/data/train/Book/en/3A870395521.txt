@@ -1,0 +1,2 @@
+Digital communications
+Signal analysis -- Antennas -- Channel modeling -- Receiver system noise -- Pulse modulation -- Baseband transmission -- Optimum receiver in awgn channel -- Passband modulation techniques -- Error control coding -- Broadband transmission techniques -- Fading channels -- Diversity and combining techniques -- Mimo systems -- Cooperative communications

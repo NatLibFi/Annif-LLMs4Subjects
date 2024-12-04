@@ -1,0 +1,2 @@
+Modelling the influence of microstructure on elastic properties and tensile damage behaviour of Mo-base silicide alloys
+Mo-Si-B alloys, Real microstructures, Voronoi structures, Microstructural characterization, Modelling and finite element simulations, Effective material properties, Damage and Crack growth, tensile strength, fracture toughness

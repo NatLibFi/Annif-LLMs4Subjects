@@ -1,0 +1,2 @@
+Progressive web apps
+Offline websites that work.  Near-instant load times.  Smooth transitions between high/low/no bandwidth.  Fantasy, right?  Not with progressive web applications.  PWAs use modern browser features like push notifications, smart caching, and Service Workers to manage data, minimize server usage, and allow for unstable connections, giving you better control and happier customers.  Better still, all you need to build PWAs are JavaScript, HTML, and the easy-to-master techniques you'll find in this book

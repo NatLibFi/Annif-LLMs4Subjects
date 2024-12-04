@@ -1,0 +1,2 @@
+Java for dummies quick reference : [learn to: locate important syntax quickly and easily, work with Java objects, reuse and debug code]
+This guide arms you with must-have Java commands, tips, syntax, and more to get the job done. You'll find clear and concise solutions instead of lengthy tutorials, so you can keep moving--

@@ -1,0 +1,2 @@
+Unity in action : mutliplatform game development in C# ; [covers Unity 5.0]
+"Unity in Action teaches you how to write and deploy games. You'll master the Unity toolset from the ground up, adding the skills you need to go from application coder to game developer. Each sample project illuminates specific Unity features and game development strategies. As you read and practice, you'll build up a well-rounded skill set for creating graphically driven 2D and 3D game applications"--Back cover

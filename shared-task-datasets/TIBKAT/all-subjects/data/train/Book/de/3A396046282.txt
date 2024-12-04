@@ -1,0 +1,2 @@
+Stochastic finance : an introduction in discrete time
+Das Buch ist eine Einführung in die Finanzmathematik. Der erste Teil des Buchs untersucht ein einfaches einperiodiges Modell, das als Grundlage für spätere Entwicklungen dient. Im zweiten Teil wird die Idee des dynamischen Hedgings von Eventualforderungen in einem mehrperiodigen Rahmen entwickelt

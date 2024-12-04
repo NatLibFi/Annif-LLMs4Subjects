@@ -1,0 +1,2 @@
+Mathematik für Ingenieure und Naturwissenschaftler Band 2 : ein Lehr- und Arbeitsbuch für das Grundstudium
+Lineare Algebra - Fourier-Reihen - Komplexe Zahlen und Funktionen - Differential- und Integralrechnung für Funktionen mit mehreren Variablen - Gewöhnliche Differentialgleichungen - Laplace-Transformation - Übungsaufgaben am Kapitelende mit ausführlichen Lösungen

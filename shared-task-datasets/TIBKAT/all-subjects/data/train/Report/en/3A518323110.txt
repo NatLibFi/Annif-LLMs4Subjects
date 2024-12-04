@@ -1,0 +1,2 @@
+Research and trends in data mining technologies and applications
+"This book focuses on the integration between the fields of data warehousing and data mining, with emphasis on applicability to real-world problems; it book provides an international perspective, highlighting solutions to some of researchers' toughest challenges. Developments in the knowledge discovery process, data models, structures and design offer answers and solutions"--Provided by publisher

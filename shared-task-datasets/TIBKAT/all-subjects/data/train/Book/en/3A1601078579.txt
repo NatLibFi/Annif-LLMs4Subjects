@@ -1,0 +1,2 @@
+Excel formulas and functions for dummies
+Don't be intimidated by Excel! Bluttman helps you unlock the mysteries of arrays, discover what goes into a function, understand predictions and probability, and much more!

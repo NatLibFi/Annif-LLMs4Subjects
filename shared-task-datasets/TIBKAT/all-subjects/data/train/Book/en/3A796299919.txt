@@ -1,0 +1,2 @@
+Think stats : [exploratory data analysis]
+"This concise introduction shows you how to perform statistical analysis computationally, rather than mathematically, with programs written in Python." --

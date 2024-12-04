@@ -1,0 +1,2 @@
+Data science for mathematicians
+Programming with data / Sean Raleigh -- Linear algebra / Jeffery Leader -- Basic statistics / David White -- Clustering / Amy S. Wagaman -- Operations research / Alice Paul and Susan Martonosi -- Dimensionality reduction / Sofya Chepushtanova, Elin Farnell, Eric Kehoe, Michael Kirby, and Henry Kvinge -- Machine learning / Mahesh Agarwal, Nathan Carter, and David Oury -- Deep learning / Samuel S. Watson -- Topological data analysis / Henry Adams, Johnathan Bush, Joshua Mirth.

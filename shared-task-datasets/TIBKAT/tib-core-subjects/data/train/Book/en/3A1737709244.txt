@@ -1,0 +1,2 @@
+Test-driven React : find problems early, fix them quickly, code with confidence
+Test-driven development with Jest -- Integrated tooling with VS Code -- Testing React with Enzyme -- Styling in JavaScript with Styled-components -- Refactoring with higher-order components -- Continuous integration and collaboration.

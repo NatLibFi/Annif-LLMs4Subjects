@@ -1,0 +1,2 @@
+Transcendental Methods in Algebraic Geometry : Lectures given at the 3rd Session of the Centro Internazionale Matematico Estivo (C.I.M.E.) Held in Cetraro, Italy, July 4–12, 1994
+L 2 vanishing theorems for positive line bundles and adjunction theory -- Manifolds of semi-positive curvature -- Kähler-Einstein metrics on algebraic manifolds -- Six lectures on four manifolds.

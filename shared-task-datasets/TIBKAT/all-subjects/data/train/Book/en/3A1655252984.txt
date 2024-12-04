@@ -1,0 +1,2 @@
+Non-Commutative Algebraic Geometry : An Introduction
+Generalities -- Some noncommutative Algebra -- Graded rings -- The finishing touch on localization -- Structure sheaves and schemes -- Algebraic varieties -- Coherent and quasicoherent sheaves of modules over an algebraic k-variety -- Products, subvarieties etc... -- Representation theory revisited -- Birationality and quasivarieties -- A non-commutative version of the riemann-roch theorem for curves -- Work in progress, [91].

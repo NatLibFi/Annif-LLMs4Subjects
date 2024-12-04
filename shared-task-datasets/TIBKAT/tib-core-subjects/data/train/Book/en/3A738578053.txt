@@ -1,0 +1,2 @@
+Introductory fluid mechanics for physicists and mathematicians
+"This text will introduce the core ideas of fluid mechanics using both theoretical and experimental methods. The approach will be through physics and analytic methods. Empirical methods as used in engineering will be introduced when necessary if analytic methods are intractable"--

@@ -1,0 +1,2 @@
+Design of Analog Multipliers with Operational Amplifiers
+<P>1 Basic Concepts and Components</P><P>2 Conventional Multipliers</P><P>3 Time Division Multipliers (TDMs): Multiplexing</P><P>4 Peak Responding Multipliers: Multiplexing</P><P>5 Time Division Multipliers (TDMs): Switching</P><P>6 Peak Responding Multipliers (PRMs): Switching</P><P>7 Pulse Position Responding Multipliers (PPRMs)</P><P>8 Peak Responding Multipliers with V/T and V/f Converters</P>ELD

@@ -1,0 +1,2 @@
+Treewidth, Kernels, and Algorithms : Essays Dedicated to Hans L. Bodlaender on the Occasion of His 60th Birthday
+This Festschrift was published in honor of Hans L. Bodlaender on the occasion of his 60th birthday. The 14 full and 5 short contributions included in this volume show the many transformative discoveries made by H.L. Bodlaender in the areas of graph algorithms, parameterized complexity, kernelization and combinatorial games. The papers are written by his former Ph.D. students and colleagues as well as by his former Ph.D. advisor, Jan van Leeuwen.

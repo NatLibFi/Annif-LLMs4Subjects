@@ -1,0 +1,2 @@
+A hands-on introduction to machine learning
+"This book is intended for advance undergraduates or graduate students in Information Science, Computer Science, Business, Education, Psychology, Sociology, and related fields who are interested in learning, practicing, and applying Machine Learning (ML). It includes plenty of hands-on examples, exercises, datasets, solutions, suggested syllabi, and other support for teaching ML"--

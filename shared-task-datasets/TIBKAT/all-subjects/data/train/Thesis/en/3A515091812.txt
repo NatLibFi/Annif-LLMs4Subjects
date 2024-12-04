@@ -1,0 +1,2 @@
+Failure rates modelling for heterogenous populations
+Mixture of distributions, decreasing failure rate, increasing failure rate, proportional hazards model, accelerated life model, asymptotic behavior of mixture failure rate

@@ -1,0 +1,2 @@
+Android recipes : a problem-solution approach
+Layouts and views -- User interaction recipes -- Communications and networking -- Interacting with device hardware and media -- Persisting data -- Interacting with the system -- Graphics and drawing -- Working with Android NDK and RenderScript

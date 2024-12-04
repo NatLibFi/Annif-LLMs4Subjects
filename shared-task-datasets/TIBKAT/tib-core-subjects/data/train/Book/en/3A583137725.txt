@@ -1,0 +1,2 @@
+Unitary symmetry and combinatorics
+Notation. -- Quantum angular momentum. -- Composite systems. -- Graphs and adjacency diagrams. -- Generating functions. -- The D[lambda] polynomials: form. -- Operator actions in Hilbert space. --  The D[lambda] polynomials: structure. -- The general linear and unitary groups. -- Tensor operator theory. -- Compendium A. Basic algebraic objects. -- Compendium B. Combinatorial objects

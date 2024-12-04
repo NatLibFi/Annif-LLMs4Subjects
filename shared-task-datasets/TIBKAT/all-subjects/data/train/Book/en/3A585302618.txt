@@ -1,0 +1,2 @@
+Introduction to biostatistics
+This popular and critically acclaimed text for undergraduates concentrates on the practical applications of statistics to biology. Its offers sufficient detail to be coherent to students with a minimal background in mathematics. From descriptive statistics to fundamental distributions and testing of hypotheses, it provides many worked-out problems and examples

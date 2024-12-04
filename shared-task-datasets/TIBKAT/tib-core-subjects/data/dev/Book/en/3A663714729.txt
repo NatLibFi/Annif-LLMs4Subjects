@@ -1,0 +1,2 @@
+Design for thermal stresses
+"This resource presents accessible coverage for designers of equipment that focuses on the basics through advanced design techniques for thermal stresses. Various numerical and analytical design approaches are introduced for thermal stresses, and example problems are included to illustrate the application of the principles for practicing engineers and students. Numerous problems and exercises further reinforce the coverage"--Provided by publisher

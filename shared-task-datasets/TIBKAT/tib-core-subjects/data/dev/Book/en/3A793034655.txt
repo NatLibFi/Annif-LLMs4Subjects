@@ -1,0 +1,2 @@
+Linux all-in-one for dummies
+This is the ideal, user-friendly resource for anyone looking to get familiar with Linux. It even includes a test-prep section for those studying to pass the Level-1 Linux certification!

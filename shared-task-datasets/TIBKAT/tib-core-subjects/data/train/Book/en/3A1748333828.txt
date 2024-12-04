@@ -1,0 +1,2 @@
+3G multimedia network services, accounting, and user profiles
+Here's a cutting-edge book that offers you a comprehensive understanding of 3G multimedia network services and related architectures. This practical resource guides you in developing the services, charges and customer use data that will allow maximum profitability for your company. Covering both mobile and fixed networks, the book thoroughly explains 3G network standards, implementation architectures, charging principles, user profiles, and QoS and security considerations

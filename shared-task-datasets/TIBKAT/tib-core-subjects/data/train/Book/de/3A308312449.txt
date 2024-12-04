@@ -1,0 +1,2 @@
+Computerunterstütztes Lernen
+Klappentext: In diesem Werk wird nach der Hervorhebung des Faktors "Lernen" in der Informationsgesellschaft eine Übersicht über die Terminologie, die verschiedenen Formen des Lernens (CUL) gegeben. Hierbei wird unterschieden in Tutorielle Systeme, Adaptive bzw. Intelligente Tutorielle Systeme, Hypertexte, Spiele, Mikrowelten, Kombinierte Ansätze, allgemeine Applications und Programmierumgeebungen mit didaktischer Funktion. Dann wird die Diskussion um Vor- und Nachteile computerunterstützten Lernens aufgegriffen.

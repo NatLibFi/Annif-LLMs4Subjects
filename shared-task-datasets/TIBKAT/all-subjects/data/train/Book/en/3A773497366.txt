@@ -1,0 +1,2 @@
+Designing multi-device experiences : an ecosystem approach to user experiences across devices
+Welcome to our multi-device world, a world where a user's experience with one application can span many devices--a smartphone, a tablet, a computer, the TV, and beyond. This practical book demonstrates the variety of ways devices relate to each other, combining to create powerful ensembles that deliver superior, integrated experiences to your users

@@ -1,0 +1,2 @@
+9Be+ ion qubit control using an optical frequency comb
+Coherent qubit control, UV frequency comb, nonlinear spectral pulse modification, trapped and laser-cooled ions, quantum logic spectroscopy. - Kohärente Zustandskontrolle, UV Frequenzkamm, spektrale Pulsmodifikation, gefangene und lasergekühlte Ionen, Quantenlogikspektroskopie

@@ -1,0 +1,2 @@
+Physik und Basistechnologien von Dünnfilm-Solarzellen aus kristallinem Silizium auf Glassubstraten : Abschlußbericht zum BMBF Projekt 0329634, Laufzeit: 01.01.95 - 31.3.98
+Flip chip technology, flip chip underfilling, substrate integrated housing, thermal bumps, GaAs power devices, aluminium nitride, polyimide, au-bumps, RF-characterization, thermal resistance, insertion loss, reflection loss

@@ -1,0 +1,2 @@
+Numerical solutions of boundary value problems with so-called shooting method
+"This book presents in comprehensive detail numerical solutions to boundary value problems of a number of differential equations using the so-called Shooting Method. 4th order Runge-Kutta method, Newton's forward difference interpolation method and bisection method for root finding have been employed in this regard. Programs in Mathematica 6.0 were written to obtain the numerical solutions. This monograph on Shooting Method is the only available detailed resource of the topic"--

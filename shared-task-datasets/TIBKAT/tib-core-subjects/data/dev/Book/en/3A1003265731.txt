@@ -1,0 +1,2 @@
+Simulation and similarity : using models to understand the world
+'Simulation and Similarity' provides an account of modelling and idealization in modern scientific practice, focusing on concrete, mathematical, and computational models. The book has three main themes: the nature of models, the practice of modelling, and nature of the relationship between models and real-world phenomena

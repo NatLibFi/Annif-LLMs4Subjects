@@ -1,0 +1,2 @@
+Soft computing techniques in engineering, health, mathematical and social sciences
+"The book contains theory and applications of soft computing in engineering, health, social and applied sciences. Different soft computing techniques such as artificial neural networks, fuzzy systems, evolutionary algorithms and hybrid systems are discussed. It also contains important chapters in machine learning and clustering"--

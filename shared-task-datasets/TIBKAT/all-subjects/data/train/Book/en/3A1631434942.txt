@@ -1,0 +1,2 @@
+Writing for engineers
+This book is full of practical advice and useful examples to help students and engineers write clearly, accurately and impressively. This updated fourth edition features new material on technical notes, inspection reports and business cases, along with abstracts and summaries. It is an essential aid for today's engineers.

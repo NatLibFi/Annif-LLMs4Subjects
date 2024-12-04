@@ -1,0 +1,2 @@
+Applications of computational intelligence : 6th IEEE Colombian conference, ColCACI 2023, Bogota, Colombia, July 26-28, 2023 : revised selected papers
+This book constitutes the refereed proceedings of the 6th IEEE Colombian Conference on Applications of Computational Intelligence, ColCACI 2023, held in Bogota, Colombia during July 2023.   A total of 11 full papers were carefully reviewed and selected from 42 submissions. They were organized in topical sections as follows: Biomedical Applications, Biological Applications, Engineering Applications

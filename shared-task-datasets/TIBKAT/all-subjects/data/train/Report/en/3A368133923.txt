@@ -1,0 +1,2 @@
+FairPay : Verläßlichkeit im elektronischen Zahlungsverkehr ; Schlussbericht des DFKI ; [Laufzeit des Vorhabens: 01.01.2000 - 31.12.2002]
+Security engineering, IT-security, formal methods, cryptography, dependable IT systems, electronic payment systems, certification

@@ -1,0 +1,3 @@
+Programming AWS Lambda : build and deploy serverless applications with Java
+Introduction to serverless, Amazon Web Services, and AWS Lambda -- Getting started with AWS Lambda -- Programming AWS Lambda functions -- Operating AWS Lambda functions -- Building serverless applications -- Testing -- Logging, metrics, and tracing -- Advanced AWS Lambda -- Advanced serverless architecture -- Conclusion.
+A hands-on guide for Java engineers describes how serverless computing can decrease the complexity in developing and operating applications while reducing costs and time to market, explaining the process of developing these applications using AWS Lambda, Amazon's event-driven, serverless computing platform

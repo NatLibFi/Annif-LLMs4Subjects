@@ -1,0 +1,2 @@
+Stochastische Modelle mit zeitlich gekoppelten Ereignissen : Rekonstruktion der Zuordnung und Schätzen der Verzögerungsverteilung
+Maximum a posteriori Methode, Momentenschätzer, M/G-Warteschlangensystem. - Maximum a posteriori method, moment type estimators, M/G queue

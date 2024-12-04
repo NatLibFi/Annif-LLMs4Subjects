@@ -1,0 +1,2 @@
+Synchronization in digital communication systems
+An overview of digital communication systems -- Selected topics in detection and estimation theory -- Initial acquisition and frame synchronization -- Basics of phase lock loop techniques -- Carrier synchronization -- Timing synchronization -- Timing control with digital resampling

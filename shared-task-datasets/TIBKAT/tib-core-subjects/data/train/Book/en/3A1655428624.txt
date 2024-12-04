@@ -1,0 +1,2 @@
+Sampling With Unequal Probabilities
+1: An Introduction to Sampling with Unequal Probabilities -- 2: Descriptions of Procedures for Sampling with Unequal Probabilities without Replacement -- 3: Unequal Probability Sampling Procedures and the Horvitz-Thompson Estimator -- 4: Selection Procedures Using Special Estimators -- 5: Multistage Sampline -- 5: An Optimal Sampling Strategy for Large Unistage Samples -- Appendices -- Appendix C: Overlap Between Poisson and Collocated Samples -- Selection Procedures’ Index -- Authors’ Index.

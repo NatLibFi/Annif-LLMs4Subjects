@@ -1,0 +1,2 @@
+Computer security, privacy, and politics : current issues, challenges, and solutions
+"This book offers a review of recent developments of computer security, focusing on the relevance and implications of global privacy, law, and politics for society, individuals, and corporations.It compiles timely content on such topics as reverse engineering of software, understanding emerging computer exploits, emerging lawsuits and cases, global and societal implications, and protection from attacks on privacy"--Provided by publisher

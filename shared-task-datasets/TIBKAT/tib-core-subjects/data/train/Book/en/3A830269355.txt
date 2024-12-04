@@ -1,0 +1,2 @@
+Tensors, relativity, and cosmology
+This book strives to bridge the gap between textbooks used in a core university program consisting typically of basic calculus and general physics and the advanced graduate level books in tensor calculus, relativity, and cosmology. It was conceived to help students master the background necessary for advanced study without the tedious and time-consuming effort to review the relevant portions of advanced textbooks

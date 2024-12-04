@@ -1,0 +1,2 @@
+Raspberry Pi for secret agents : turn your Rasberry Pi into your very own secret agent toolbox with this set of exciting projects
+This book is an easy-to-follow guide with practical examples in each chapter. Suitable for the novice and expert alike, each topic provides a fast and easy way to get started with exciting applications and also guides you through setting up the Raspberry Pi as a secret agent toolbox

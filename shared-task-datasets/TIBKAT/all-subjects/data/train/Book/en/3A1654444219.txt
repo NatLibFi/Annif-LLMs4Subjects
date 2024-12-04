@@ -1,0 +1,2 @@
+Optimizing contemporary application and processes in open source software
+"This book explores the field of Open Source Software and processes. This wide area includes the special development process performed by geographically dispersed programmers, community issues like coordination and communication, motivations of the participants, and economic and legal issues. It is Open Source Software is an example of a highly distributed innovation process led by the users"--

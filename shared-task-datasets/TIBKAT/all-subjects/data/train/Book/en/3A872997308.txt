@@ -1,0 +1,2 @@
+Lp-square function estimates on spaces of homogeneous type and on uniformly rectifiable sets
+Analysis and geometry on quasi-metric spaces -- T(1) and local T(b) theorems for square functions -- An inductive scheme for square function estimates -- Square function estimates on uniformly rectifiable sets -- Lp square function estimates

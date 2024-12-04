@@ -1,0 +1,2 @@
+Modern computer algebra
+Computer algebra systems are gaining more and more importance in all areas of science and engineering. This textbook gives a thorough introduction to the subject, which is the basis of the mathematical engine in computer algebra systems

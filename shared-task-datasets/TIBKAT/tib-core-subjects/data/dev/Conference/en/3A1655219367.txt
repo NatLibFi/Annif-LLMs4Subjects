@@ -1,0 +1,2 @@
+The Navier-Stokes Equations Theory and Numerical Methods : Proceedings of a Conference held at Oberwolfach, FRG, Sept. 18–24, 1988
+These proceedings contain original (refereed) research articles by specialists from many countries, on a wide variety of aspects of Navier-Stokes equations. Additionally, 2 survey articles intended for a general readership are included: one surveys the present state of the subject via open problems, and the other deals with the interplay between theory and numerical analysis

@@ -1,0 +1,2 @@
+Information Retrieval Techniques for Speech Applications
+This book is based on the workshop "Information Retrieval Techniques for Speech Applications", held as part of the 24th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in New Orleans, USA, in September 2001.The book presents 10 papers based on workshop presentations. The topics range from traditional information retrieval techniques over adaptations of these techniques to spoken documents and multimedia collections finally to new applications

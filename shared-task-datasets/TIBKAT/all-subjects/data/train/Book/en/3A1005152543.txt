@@ -1,0 +1,3 @@
+Bio-inspired wettability surfaces : developments in micro- and nanostructures
+Effect of Lotus Leaves: Micro- and Nanostructure / Qunfeng Cheng -- Effect of Butterfly Wing: Anisotropic Oriented Micro- and Nanostructure / Yongping Hou -- Effect of Spider Silk: Gradient Micro- and Nanostructure / Yuan Chen -- Effect of Beetle Back: Heterogenous wetting micro- and nanostructure pattern / Yuan Chen
+This book introduces recent research on wettability of biological and bio-inspired surfaces. It discusses the mechanism of smart wetting controls, such as water collection/repellency on biological micro-/nanostructure gradient interfaces. It suggests ways to mimic these biological features to realize bio-inspired functional surfaces with unique wettability

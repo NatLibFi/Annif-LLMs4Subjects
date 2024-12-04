@@ -1,0 +1,2 @@
+Value Distribution Theory : Proceedings of the Nordic Summer School in Mathematics Held at Joensuu, Finland June 1–12, 1981
+An introduction to Nevanlinna theory -- Value distribution of functions regular in the unit disk -- to the carlson — Griffiths equidistribution theory -- Some examples in value distribution theory -- The ahlfors — Weyl theory of meromorphic maps on parabolic manifolds -- Value distribution of quasiregular mappings.

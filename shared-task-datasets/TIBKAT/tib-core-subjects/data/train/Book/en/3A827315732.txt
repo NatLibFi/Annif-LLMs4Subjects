@@ -1,0 +1,2 @@
+Handbook of big data
+"Handbook of Big Data provides a state-of-the-art overview of the analysis of large-scale datasets. Featuring contributions from well-known experts in statistics and computer science, this handbook presents a carefully curated collection of techniques from both industry and academia. Thus, the text instills a working understanding of key statistical and computing ideas that can be readily applied in research and practice"--

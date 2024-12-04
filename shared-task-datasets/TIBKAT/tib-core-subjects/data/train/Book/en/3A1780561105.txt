@@ -1,0 +1,2 @@
+Database systems : a pragmatic approach
+"This textbook is ideally suited for an undergraduate course in database systems. The discipline of database systems design and management is discussed within the context of software engineering. The student is made to understand from the outset that a database is a mission-critical component of a software system"--

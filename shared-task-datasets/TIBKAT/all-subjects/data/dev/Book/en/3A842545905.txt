@@ -1,0 +1,2 @@
+Network security assessment : know your network
+Introduction to network security assessment -- Assessment workflow and tools -- Vulnerabilities and adversaries -- Internet network discovery -- Local network discovery -- IP network scanning -- Assessing common network services -- Assessing Microsoft services -- Assessing mail services -- Assessing VPN services -- Assessing TLS services -- Web application architecture -- Assessing web servers -- Assessing web application frameworks -- Assessing data stores

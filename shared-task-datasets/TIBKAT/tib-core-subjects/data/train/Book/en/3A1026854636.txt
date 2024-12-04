@@ -1,0 +1,2 @@
+Causality rules : a light treatise on dispersion relations and sum rules
+Scattering of light by light is a fundamental process arising at the quantum level through vacuum fluctuations. This short book will explain how, remarkably enough, this quantum process can entirely be described in terms of classical quantities. This description is derived from general principles, such as causality, unitarity, Lorentz, and gauge symmetries. The reader will be introduced to a rigorous formulation of these fundamental concepts, as well as their physical interpretation and applications.

@@ -1,0 +1,2 @@
+Extinction and quasi-stationarity in the stochastic logistic SIS model
+"This volume presents explicit approximations of the quasi-stationary distribution and of the expected time to extinction from the state one and from quasi-stationarity for the stochastic logistic SIS model. Qualitatively different approximations are derived separately in three different parameter region, and then combined into a uniform approximation across all three regions. Subsequently, the results are used to derive thresholds as functions of the population size N."--P. [4] of cover

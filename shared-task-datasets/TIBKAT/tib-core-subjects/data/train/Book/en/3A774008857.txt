@@ -1,0 +1,2 @@
+Physics olympiad : basic to advanced exercises
+This book contains some of the problems and solutions in the past domestic theoretical and experimental competitions in Japan for the International Physics Olympiad. Through the exercises, we aim at introducing the appeal and interest of modern physics to high-school students. In particular, the problems for the second-round of competition are like long journey of physics, beginning with fundamental physics of junior-high-school level, and ending with the forefronts of updated physics and technology

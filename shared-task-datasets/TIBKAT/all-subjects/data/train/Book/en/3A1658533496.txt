@@ -1,0 +1,2 @@
+Waves : fundamentals and dynamics
+Waves: Fundamentals and dynamics' discusses the various aspects of wave dynamics from many different perspectives. The main topics include the fundamentals of oscillations and waves, the big picture of wave dynamics as a propagation of oscillation, the mathematical aspects of waves, the various properties of waves, and the propagation of waves along with some actual techniques. Each concept is broken down to be as easily digestible as possible in order to facilitate understanding of the underlying physics.

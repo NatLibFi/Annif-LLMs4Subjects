@@ -1,0 +1,2 @@
+Detektoren für Teilchenstrahlung
+Der Leser erhält einen umfassenden Überblick über Aufbau und Funktionsweise von Teilchendetektoren. In der 4. Auflage werden neuere Entwicklungen wie Silizium-Streifendetektoren, Pixeldetektoren, szintillierende Fasern, neue elektromagnetische Kalorimeter und kompensierende Hadronkalorimeter behandelt. Vertiefend wird nun auch auf aktuelle Forschungsgebiete wie Astroteilchenphysik, kosmische Strahlung, Neutrinophysik und die dunkle Materie im Kosmos eingegangen

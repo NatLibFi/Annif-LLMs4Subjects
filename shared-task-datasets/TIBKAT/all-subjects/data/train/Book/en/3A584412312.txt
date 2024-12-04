@@ -1,0 +1,2 @@
+Permutation tests for stochastic ordering and ANOVA : theory and applications with R
+Permutation tests -- Ordinal data -- Multivariate ordinal data -- Multivariate continuous data -- Non-parametric one-way ANOVA -- Synchronized permutation tests in two-way ANOVA -- Permutation tests for unreplicated factorial designs

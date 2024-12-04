@@ -1,0 +1,2 @@
+An illustrated theory of numbers
+Seeing arithmetic -- Foundations -- The Euclidean algorithm -- Prime factorization -- Rational and constructible numbers -- Gaussian and Eisenstein integers -- Modular arithmetic -- The modular worlds -- Modular dynamics -- Assembling the modular worlds -- Quadratic residues -- Quadratic forms -- The topograph -- Definite forms -- Indefinite forms

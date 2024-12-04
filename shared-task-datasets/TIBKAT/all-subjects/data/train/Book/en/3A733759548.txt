@@ -1,0 +1,2 @@
+Plasma formulary for physics, astronomy, and technology
+Basic physical data -- Basic plasma parameters -- Discharge plasmas and elementary processes -- Radiation -- Kinetic theory -- Plasma transport -- Plasma waves -- Flows -- Equilibria and instabilities -- Mathematics -- Appendix : Guide to notation

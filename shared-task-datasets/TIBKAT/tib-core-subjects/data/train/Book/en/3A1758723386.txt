@@ -1,0 +1,3 @@
+Basics and trends in sensitivity analysis : theory and practice in R
+A first look at screening using R -- Variance-based sensitivity measures -- Spectral and metamodel-based estimation -- Variance-based sensitivity measures with dependent inputs -- Beyond variance-based indices -- A case study in R : COVID-19 epidemic model.
+"This book provides an overview of global sensitivity analysis methods and algorithms, including their theoretical basis and mathematical properties"--

@@ -1,0 +1,2 @@
+Nichtlineare Optimierung : Theorie, Numerik und Experimente
+Die Grundlagen zur nichtlinearen Optimierung insbesondere ausgewählte Verfahren der nichtlinearen Optimierung werden als Lehrbuch für Studenten dargestellt. Zu den Verfahren werden Experimente beschrieben, die anhand der von R. Reinhardt entwickelten und von A. Hoffmann erweiterten Lehrsoftware EdOptLab unter Matlab von jedem Leser nachvollzogen werden können. So kann der Leser die Verfahren der Optimierung selbst erleben. Das System EdOptlab wird kostenlos zur Verfügung gestellt.

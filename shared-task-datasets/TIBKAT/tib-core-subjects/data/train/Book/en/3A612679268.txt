@@ -1,0 +1,2 @@
+Digital signal processing laboratory
+Given the rapid software and hardware developments in DSP, it is vital for students to complement their theoretical learning with practical applications. Each chapter consists of a brief section on theory to explain the underlying mathematics and principles, a problem solving section, and a computer laboratory section with programming examples and exercises using MATLAB and Simulink. --from publisher description

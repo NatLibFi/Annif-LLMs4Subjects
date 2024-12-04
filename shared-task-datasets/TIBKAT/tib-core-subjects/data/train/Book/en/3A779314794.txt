@@ -1,0 +1,2 @@
+An introduction to sparse stochastic processes
+Roadmap to the book -- Mathematical context and background -- Continuous-domain innovation models -- Operators and their inverses -- Splines and wavelets -- Sparse stochastic processes -- Sparse representations -- Infinite divisibility and transform-domain statistics -- Recovery of sparse signals -- Wavelet-domain methods -- Conclusion -- Appendix A : Singular integrals -- Appendix B : Positive definiteness -- Appendix C : Special functions

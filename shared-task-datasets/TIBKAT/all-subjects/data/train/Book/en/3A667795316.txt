@@ -1,0 +1,2 @@
+Case study research in software engineering : guidelines and examples
+"Based on their own experiences of in-depth case studies of software projects in international corporations, in this book the authors present detailed practical guidelines on the preparation, conduct, design and reporting of case studies of software engineering. This is the first software engineering specific book on the case study research method"--

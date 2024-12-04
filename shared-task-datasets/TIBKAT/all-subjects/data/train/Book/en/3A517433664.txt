@@ -1,0 +1,2 @@
+Ajax on Java : [the essentials of XMLHttpRequest and XML programming with Java]
+Setup -- JavaScript for Ajax -- A simple Ajax Servlet -- XML and JSON for Ajax -- Getting useful data -- Ajax libraries and toolkits -- Ajax tags -- Ajax on struts -- JavaServer faces and Ajax -- Google web toolkit

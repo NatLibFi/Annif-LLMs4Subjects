@@ -1,0 +1,3 @@
+New trends in databases and information systems : ADBIS 2020 short papers, Lyon, France, August 25-27, 2020 : proceedings
+This book constitutes thoroughly refereed short papers of the 24th European Conference on Advances in Databases and Information Systems, ADBIS 2020, held in August 2020. ADBIS 2020 was to be held in Lyon, France, however due to COVID-19 pandemic the conference was held in online format. The 18 presented short research papers were carefully reviewed and selected from 69 submissions. The papers are organized in the following sections: data access and database performance; machine learning; data processing; semantic web; data analytics
+Data Access and Database Performance -- Machine Learning -- Data Processing -- Semantic Web -- Data Analytics.

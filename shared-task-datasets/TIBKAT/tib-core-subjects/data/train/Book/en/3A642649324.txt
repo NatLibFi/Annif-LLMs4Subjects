@@ -1,0 +1,2 @@
+Relativistic quantum fields
+"This graduate-level text contains statistical and quantitative techniques for performing calculations in quantum field theory. Topics include renormalization, functional differentiation and integration, and the Schwinger-Dyson equations; dimensional regularization; the gauge and infrared properties of quantum electrodynamics; and asymptotic behavior and renormalization group methods. Reference features include an appendix, bibliography, and index. 1978 edition"--

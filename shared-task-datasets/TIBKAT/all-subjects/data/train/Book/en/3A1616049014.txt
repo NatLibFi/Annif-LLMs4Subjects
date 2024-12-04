@@ -1,0 +1,2 @@
+Silicon photonics design
+"From design and simulation through to fabrication and testing, this hands-on introduction to silicon photonics engineering equips students with everything they need to begin creating foundry-ready designs."--

@@ -1,0 +1,2 @@
+Distributed Systems : Principles and Paradigms
+For courses on Distributed Systems, Distributed Operating Systems, and Advanced Operating Systems focusing on distributed systems, found in departments of Computer Science, Computer Engineering and Electrical Engineering. In this text, esteemed authors Tanenbaum and van Steen provide full coverage of the field in a systematic way that can be readily used for teaching. This text examines the underlying principles – and their applications to a wide variety of practical distributed systems

@@ -1,0 +1,2 @@
+Näherungsmethoden der höheren Analysis
+Aus dem Inhalt: I) Methoden, die auf der Darstellung von Lösungen durch unendliche Reihen beruhen II) Näherungslösungen für Fredholmsche Integralgleichungen III) Differenzverfahren IV) Methoden der Variationsrechnung V) Konforme Abbildung von Gebieten VI) Anwendung der konformen Abbildung bei der Lösung fundamentaler Randwertprobleme für kanonische Gebiete VII) Das alternierende Verfahren.

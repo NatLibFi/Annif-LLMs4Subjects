@@ -1,0 +1,2 @@
+Tele-Haus mit intelligenten Mikrosystemen : industrielles Verbundprojekt im Rahmen des Programms Mikrosystemtechnik, gefördert vom Bundesministerium für Bildung, Wissenschaft, Forschung und Technologie ; 01.10.1999 - 31.03.2003 ; Schlussbericht zum Teilvorhaben
+Intelligent adapter, measurement of electrical power, powerline EIB, household appliances, camera module, CMOS-video sensor, digital signal processing, Bluetooth, picture compression, attendance supervision, internet, WEB technology, WINpanel, GSM-gateway, JINI

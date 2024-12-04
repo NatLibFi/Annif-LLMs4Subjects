@@ -1,0 +1,2 @@
+Informationstechnik / Hrsg.: DIN, Deutsches Institut für Normung e.V. ; 13: Datenkommunikation ; 2. Paketvermittlung, Kopplung zwischen Datenendeinrichtungen : DIN-ISO-Normen
+Enthält: DIN ISO 1177:1989 ; DIN ISO 3309:1989 ; DIN ISO 4335:1989 ; DIN ISO 7478:1989 ; DIN ISO 7776:1989 ; DIN ISO 7809:1989 ; DIN ISO 8208-A1:1990 [Entwurf] ; DIN ISO 8208:1989 [Entwurf] ; DIN ISO 8471:1989 ; DIN ISO 8481:1989 ; DIN ISO 8877:1991 ; DIN ISO 8885:1989

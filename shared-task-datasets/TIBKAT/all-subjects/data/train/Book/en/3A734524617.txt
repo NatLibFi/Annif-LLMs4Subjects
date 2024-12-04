@@ -1,0 +1,2 @@
+Radar equations for modern radar
+Development of the radar equation -- The search radar equation -- Radar equations for clutter and jamming -- Detection theory -- Beamshape loss -- System noise temperature -- Atmospheric effects -- The pattern-propagation factor -- Clutter and signal processing -- Loss factors in the radar equation

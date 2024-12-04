@@ -1,0 +1,2 @@
+Finite elements and fast iterative solvers: with applications in incompressible fluid dynamics
+Models of incompressible fluid flow -- The Poisson equation -- Solution of discrete Poisson problems -- The Stokes equations -- Solution of discrete Stokes problems -- Optimization with PDE constraints -- The convection-diffusion equation -- Solution of discrete convection-diffusion problems -- The Navier-Stokes equations -- Solution of discrete Navier-Stokes problems -- Solution of unsteady Navier-Stokes problems -- Solution of models of buoyancy-driven flow

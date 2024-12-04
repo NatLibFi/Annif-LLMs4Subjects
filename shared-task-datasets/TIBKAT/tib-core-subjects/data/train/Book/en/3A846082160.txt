@@ -1,0 +1,2 @@
+Elements of stochastic dynamics
+Introduction -- Random variables -- Stochastic processes -- Markov and related stochastic processes -- Responses of linear systems to stochastic excitations -- Exact stationary solutions of nonlinear stochastic systems -- Approximate solutions of nonlinear stochastic systems -- Stability and bifurcation of stochastically excited systems -- First-passage problem of stochastically excited systems

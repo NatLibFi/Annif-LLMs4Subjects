@@ -1,0 +1,2 @@
+Kleinian Groups and Related Topics : Proceedings of the Workshop Held at Oaxtepec, Mexico, August 10–14, 1981
+Lifting surface groups to SL(2, ?)* -- NEC groups and Klein surfaces -- Remarks on the cyclotomic Fricke groups -- On the Noether gap theorem -- A 3-dimensional hyperbolic collar lemma -- Projective structures on open surfaces -- The Teichmuller-kobayashi metric for infinite dimensional complex teichmuller spaces -- The elementary theory of correspondences -- Panelled web groups -- Prescribed monodromy on noncompact surfaces.

@@ -1,0 +1,2 @@
+Stochastik : Einführung in die Wahrscheinlichkeitstheorie und Statistik
+Verl.Beschr.: Infolge der ausgesprochen positiven Aufnahme dieses Lehrbuches liegt nun die 5. Auflage vor. Das Buch gibt eine Einführung in die zentralen Ideen und Ergebnisse der Wahrscheinlichkeitstheorie und Statistik. Die stochastischen Konzepte, Modelle und Methoden werden durch typische Anwendungsbeispiele motiviert und anschliessend theoretisch analysiert und systematisch entwickelt

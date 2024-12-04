@@ -1,0 +1,3 @@
+Theoretical chemistry for electronic excited states
+Introduction and Motivation; Conceptual Development Centred on the Shapes and Topological Features of Potential Surfaces; Electronic Structure Methods for the Computation of Electronic States; The Dynamics of Nuclear Motion; Applications and Case Studies in Nonadiabatic Chemistry; Conclusion and Future Developments.
+This reference is ideal for both theorists and experimentalists working in theoretical chemistry, electronic structure and molecular dynamics

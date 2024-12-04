@@ -1,0 +1,2 @@
+Inductive Logic Programming : 14th International Conference, ILP 2004, Porto, Portugal, September 6-8, 2004. Proceedings
+This book constitutes the refereed proceedings of the 14th International Conference on Inductive Logic Programming, ILP 2004, held in Porto, Portugal, in September 2004. The 20 revised full papers presented were carefully reviewed and selected for inclusion in the book. The papers address all current topics in inductive logic programming, ranging from theoretical and methodological issues to advanced applications in various areas

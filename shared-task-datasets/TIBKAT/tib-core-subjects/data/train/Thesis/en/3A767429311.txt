@@ -1,0 +1,2 @@
+Regularity of a degenerate oblique derivative problem
+Degenerate boundary value problem, pseudodifferential operators with Hölder continuous coefficients, transmission condition for C[tau] symbols, hypoellipticity. - Entartete Randwertaufgabe, Pseudodifferentialoperatoren mit hölderstetigen Koeffizienten, Transmissionsbedingung für C[tau] Symbole, Hyperelliptizität

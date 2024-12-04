@@ -1,0 +1,2 @@
+Input-Output Analysis of Large-Scale Interconnected Systems : Decomposition, Well-Posedness and Stability
+Mathematical preliminaries -- Gain and dissipativity -- Decomposition of large-scale interconnected systems -- Well-posedness of large-scale interconnected systems -- Small-gain type criteria for LP-stability -- Dissipativity-type criteria for L2-stability -- L2-Instability criteria -- L?-stability and ?-instability using exponential weighting.

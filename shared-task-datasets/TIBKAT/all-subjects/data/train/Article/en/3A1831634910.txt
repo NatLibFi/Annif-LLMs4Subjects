@@ -1,0 +1,2 @@
+Chapter 5 Poverty Traps
+This survey reviews models of self-reinforcing mechanisms that cause poverty to persist. Some of them examine market failure in environments where the neoclassical assumptions on markets and technology break down. Other mechanisms include institutional failure which can, by itself, perpetuate self-reinforcing poverty. A common thread in all these mechanisms is their adverse impact on the acquisition of physical or human capital, and on the adoption of modern technology. The survey also reviews recent progress in the empirical poverty trap literature.

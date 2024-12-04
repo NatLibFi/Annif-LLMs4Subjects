@@ -1,0 +1,2 @@
+Medical diagnosis using artificial neural networks
+"This book introduces effective parameters for improving the performance and application of machine learning and pattern recognition techniques to facilitate medical processes for those interested in the relationship between artificial intelligence and medical science through the use of informatics to improve the quality of medical care"--Provided by publisher

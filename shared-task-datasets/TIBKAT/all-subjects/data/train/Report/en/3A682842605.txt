@@ -1,0 +1,2 @@
+Arbeitsorganisation 2.0 : Tools für den Arbeitsalltag in Kultur- und Bildungseinrichtungen
+This book illustrates how modern media and Internet applications facilitate collaboration on the job and make work easier. After detailing the requirements of work organization, the book discusses easily implementable solution strategies and concrete programs. Chapter topics include: an introduction to Web 2.0, monitoring, time management, managing notes and bibliographies, mind maps, collaboration, and content sharing

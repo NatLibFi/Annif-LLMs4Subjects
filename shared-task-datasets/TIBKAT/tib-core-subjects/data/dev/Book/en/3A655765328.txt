@@ -1,0 +1,2 @@
+Beginning CSS : cascading style sheets for Web design
+Provides information on using CSS along with HTML, XHTML, and XML to create Web sites, covering such topics as Document Type Declaration, fonts, text, positioning, and styling of tables

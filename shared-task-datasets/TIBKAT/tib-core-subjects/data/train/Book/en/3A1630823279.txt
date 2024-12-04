@@ -1,0 +1,2 @@
+Orbital mechanics for engineering students
+Dynamics of point masses -- The two-body problem -- Orbital position as a function of time -- Orbits in three dimensions -- Preliminary orbit determination -- Orbital maneuvers -- Relative motion and rendezvous -- Interplanetary trajectories -- Rigid body dynamics -- Satellite attitude dynamics -- Rocket vehicle dynamics -- Introduction to orbital perturbations

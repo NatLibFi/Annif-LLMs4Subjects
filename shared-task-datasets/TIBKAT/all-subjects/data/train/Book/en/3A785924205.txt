@@ -1,0 +1,2 @@
+Electro-magnetic tissue properties MRI
+"This is the first book that presents a comprehensive introduction to and overview of electro-magnetic tissue property imaging techniques using MRI, focusing on Magnetic Resonance Electrical Impedance Tomography (MREIT), Electrical Properties Tomography (EPT) and Quantitative Susceptibility Mapping (QSM)."--

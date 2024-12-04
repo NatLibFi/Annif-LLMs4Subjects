@@ -1,0 +1,2 @@
+Combustion
+"The parameters essential for the evaluation of combustion systems are the equilibrium product temperature and composition. If all the heat evolved in the reaction is employed solely to raise the product temperature, this temperature is called the adiabatic flame temperature. Because of the importance of the temperature and gas composition in combustion considerations, it is appropriate to review those aspects of the field of chemical thermodynamics that deal with these subjects"--

@@ -1,0 +1,2 @@
+The book of R : a first course in programming and statistics
+"A beginner's guide to programming with R, the statistical programming language. Covers key programming techniques like manipulating data structures, reading data from a file, and writing functions. Introduces statistics topics like probability distributions, hypothesis testing, regression analysis, and statistical plots. Includes exercises throughout each chapter"--

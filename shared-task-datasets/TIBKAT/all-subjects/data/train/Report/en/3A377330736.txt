@@ -1,0 +1,2 @@
+Kombinatorische Methoden zur effizienteren Entwicklung von Katalysatoren, Teilprojekt Automation : Laufzeit: 01.04.2000 - 31.03.2003 ; Schlussbericht zum Forschungsvorhaben
+Parallel reactor, autoclave array, process control system, dosing robot, sample preparation, automated analytics, interpretation of process data, data visualisation

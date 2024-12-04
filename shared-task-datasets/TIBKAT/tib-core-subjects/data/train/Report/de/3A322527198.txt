@@ -1,0 +1,2 @@
+MoTiV-PTA : Projektabschlussbericht ; Projektlaufzeit: 1.05.1996 bis 30.6.2000 ; Mobilität und Transport im intermodalen Verkehr
+Verkehrstelematik, Telematikdienst, Reisedienst, Mehrwertdienst, Reiseplanung, intermodale Routenplanung, Agentensystem, mobile Datenkommunikation, Fahrzeugintegration von IT-Endgeräten, verkehrsträgerübergreifend, Reiseassistenzsystem

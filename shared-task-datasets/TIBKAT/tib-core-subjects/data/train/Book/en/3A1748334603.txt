@@ -1,0 +1,2 @@
+Smart card security and applications
+This extensively updated edition of the popular book offers a current overview of the ways smart cards address the computer security issues of today's varied applications. Brand-new discussions on multiapplication operating systems, computer networks, and the Internet are included to keep technical and business professionals abreast of the latest developments in this field

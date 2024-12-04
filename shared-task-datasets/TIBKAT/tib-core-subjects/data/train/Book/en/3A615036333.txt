@@ -1,0 +1,2 @@
+Fluid mechanics and thermodynamics of turbomachinery
+Introduction: basic principles -- Dimensional analysis: similitude -- Two-dimensional cascades -- Axial-flow turbines: mean-line analysis and design -- Axial-flow compressors and ducted fans -- Three-dimensional flows in axial turbomachines -- Centrifugal pumps, fans, and compressors -- Radial flow gas turbines -- Hydraulic turbines -- Wind turbines

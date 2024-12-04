@@ -1,0 +1,2 @@
+Self-Assembly of supra-molecular systems on graphene or graphite
+Zusammenfassung: In dieser Arbeit wurden Rastertunnelmikroskopie, Spektroskopie und Rasterkraftmikroskopie zur Untersuchung der Selbstassemblierung von Wasserstoffbrückenbindungen und Molekülen mit konjugierten Doppelbindungen in selbstassemblierten Monoschichten auf Graphen und Graphit eingesetzt. Neben dem Bildungsmechanismus von selbstassemblierten Strukturen wurde der mögliche Einsatz der erhaltenen Strukturen in Anwendungen untersucht, wie zum Beispiel als elektronische Nanodrähte

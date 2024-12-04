@@ -1,0 +1,2 @@
+Erfassung und Bewertung von Substanzmerkmalen von Fahrbahnoberflächen mittels digitaler Bildverarbeitung und neuronaler Netze
+Digitale Bildbearbeitung, digitale Bildverarbeitung, digitale Filter, Segmentierung, neuronale Netze, Mustererkennung

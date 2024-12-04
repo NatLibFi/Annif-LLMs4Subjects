@@ -1,0 +1,2 @@
+EMBASSI - Elektronische multimediale Bedien- und Service-Assistenz : Schlußbericht zum MTI-Leitprojekt-Vorhaben EMBASSI 1999 - 2003 ; Berichtszeitraum: 1.7.1999 - 20.06.2003
+Architecture for distributed assistance systems, home networks, consumer electronics, multimodal user interfaces, media fusion, anaphora resolution, presentation planning, evaluation of multimodal user interfaces

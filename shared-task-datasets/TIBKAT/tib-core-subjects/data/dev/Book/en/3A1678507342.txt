@@ -1,0 +1,2 @@
+Nature-inspired computing applications in advanced communication networks
+"This book explores the application of nature-inspired intelligence for solving various optimization problems of the advanced communication networks such as WSNs, VANETs, IoT, and DSNs"--

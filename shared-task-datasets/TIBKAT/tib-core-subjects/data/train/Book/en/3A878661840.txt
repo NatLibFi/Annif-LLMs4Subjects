@@ -1,0 +1,2 @@
+SVG text layout : words as art
+Understanding text layout -- SVG text basics -- Colorful language -- Multiline SVG text -- Off-kilter characters -- Casting anchor -- Anchoring in international waters -- Lining up -- Beyond straight lines -- Fonts, families, faces -- The perfect fit -- Extending your toolbox

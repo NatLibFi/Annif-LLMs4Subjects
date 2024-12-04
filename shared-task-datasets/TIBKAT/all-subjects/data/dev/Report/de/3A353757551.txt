@@ -1,0 +1,2 @@
+Graphics and GUIs with MATLAB
+Zum Inhalt: Volle Updates, die Verbesserungen MATLAB 6.x reflektieren. Erweiterte Diskussionen auf 2-D und 3-D Graphiken. Neue Kapitel auf guten GUI- Design- und GUI-Datensichtbarmachungstechniken. Ausgabensichtbarmachungen. Aktualisierte Sprachbefehle. Tiefere Deckung der Programmierungstechniken, wie Datenstrukturen und Wiederholungsbesuchstechniken.

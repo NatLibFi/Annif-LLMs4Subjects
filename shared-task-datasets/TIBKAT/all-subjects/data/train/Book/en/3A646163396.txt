@@ -1,0 +1,2 @@
+Introducing Visual C# 2010 : [get started on your C# journey with an expert by your side leading by example]
+Provides information on the C# language, including its syntax, grammar, and use, to create Web and Windows applications

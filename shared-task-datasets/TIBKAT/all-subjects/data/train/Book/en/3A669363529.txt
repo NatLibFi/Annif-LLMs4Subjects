@@ -1,0 +1,2 @@
+WordPress all-in-one for dummies : [8 books in 1: WordPress basics - Setting up the WordPress software - Exploring the WordPress dashboard - Publishing your site with WordPress - Examining SEO and social media - Customizing the look of your site - Using and developing plugins - Running multiple sites with WordPress]
+Provides information on using WordPress to create and maintain a blog, covering such topics as domains and hosts, plugins, themes, creating and managing content, multimedia, and security

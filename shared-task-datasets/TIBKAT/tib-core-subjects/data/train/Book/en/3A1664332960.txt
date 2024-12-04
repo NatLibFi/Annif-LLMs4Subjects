@@ -1,0 +1,2 @@
+Partial differential equations : methods, applications, and theories
+First and second order linear equations : preparation -- Heat equation -- Wave equation -- Laplace equation -- First order equations -- Fourier series and eigenvalue problems -- Separation of variables in higher dimensions -- More separation of variables -- Fourier transform -- Laplace transform -- Green's functions -- Applications -- Appendices.

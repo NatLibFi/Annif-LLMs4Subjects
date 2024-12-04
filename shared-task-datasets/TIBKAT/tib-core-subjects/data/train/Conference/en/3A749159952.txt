@@ -1,0 +1,2 @@
+Experimental Robotics I : The First International Symposium Montreal, June 19-21, 1989
+The scope of this volume is to provide a forum dedicated to Experimental Robotics. The focus is on theoretical work which has been validated through experimental implementation. The papers are research papers pre- senting new results which reflect the conjecture-experimental cycle that researchers have gone through

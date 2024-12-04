@@ -1,0 +1,2 @@
+Robust Control : Proceedings of a workshop held in Tokyo, Japan, June 23 - 24, 1991
+The aim of this workshop was to provide an opportunity for the discussion ofthe latest development of research and the exchange of opinions on robust control including H -control, parametric/structured approach to robust control, robust adaptive control, sampled-data control systems, and their applications

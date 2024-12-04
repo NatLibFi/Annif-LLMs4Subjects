@@ -1,0 +1,2 @@
+Kombinierte Registrierung und Segmentierung
+Die Segmentierung und die Bildregistrierung sind zwei zentrale Gebiete der modernen medizinischen Bildverarbeitung. Konstantin Ens beschäftigt sich mit den Möglichkeiten Registrierungs- und Segmentierungsansätze miteinander zu verbinden. Er entwickelt einen theoretischen Rahmen für eine derartige Kombination der Methoden und klassifiziert die Verfahren. Der Autor erläutert weitere neue Möglichkeiten, die Registrierung und die Segmentierung zu verbessern, und führt abschließend einen Vergleich der Verfahren durch.

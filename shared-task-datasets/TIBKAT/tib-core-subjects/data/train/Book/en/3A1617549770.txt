@@ -1,0 +1,2 @@
+The network security test lab : a step-by-step guide
+Building a Hardware and Software Test Platform -- Passive Information Gathering -- Analyzing Network Traffic -- Detecting Live Systems and Analyzing Results -- Enumerating Systems -- Automating Encryption and Tunneling Techniques -- Automated Attack and Penetration Tools -- Securing Wireless Systems -- An Introduction to Malware -- Detecting Intrusions and Analyzing Malware -- Forensic Detection

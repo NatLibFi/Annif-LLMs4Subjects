@@ -1,0 +1,2 @@
+Data Mining : 20th Australasian Conference, AusDM 2022, Western Sydney, Australia, December 12-15, 2022, proceedings
+This book constitutes the refereed proceedings of the 20th Australasian Conference on Data Mining, AusDM 2022, held in Western Sydney, Australia, during December 12-15, 2022.The 17 full papers included in this book were carefully reviewed and selected from 44 submissions. They were organized in topical sections as research track and application track

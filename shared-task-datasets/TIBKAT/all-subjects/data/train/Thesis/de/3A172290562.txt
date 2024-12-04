@@ -1,0 +1,2 @@
+Numerische Approximation von Cauchy-Hauptwert-Integralen unter theoretischen und rechnerorientierten Aspekten
+Verschiedene Quadraturformeln zur numerischen Aprroximation von Cauchy-Hauptwert-Integralen werden vorgestellt und untersucht.

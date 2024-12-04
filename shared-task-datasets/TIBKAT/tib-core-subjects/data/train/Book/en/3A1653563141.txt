@@ -1,0 +1,2 @@
+Physics of the atmosphere
+This text provides a self-contained introductory graduate-level course in atmospheric physics for students of meteorology or physics. Assuming no prior knowledge other than basic mechanics and calculus, the author offers a solid overview of how the atmosphere functions, including topics such as thermodynamics, cloud microphysics, atmospheric radiation and remote sensing. Includes worked examples to aid understanding.

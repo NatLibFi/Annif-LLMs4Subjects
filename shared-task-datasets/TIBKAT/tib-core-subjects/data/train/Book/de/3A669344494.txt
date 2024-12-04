@@ -1,0 +1,2 @@
+Eine kurze Einführung in die Systemtheorie : Lehr- und Übungsbuch
+Die komplexen Konzepte und Zusammenhänge der Signal- und Systemtheorie werden in diesem Lehrbuch in anschaulichen, nachvollziehbaren Schritten dargestellt. Den Kern bilden dabei die Grundlagen zur mathematischen Beschreibung im Zeit- und Frequenzbereich linearer, zeitinvarianter Systeme. Durch den Verzicht auf unnötige mathematische Beweisführungen und Herleitungen werden die Inhalte kurz und prägnant erläutert. Übungsaufgaben mit Lösungen erleichtern Selbststudium und Prüfungsvorbereitung.

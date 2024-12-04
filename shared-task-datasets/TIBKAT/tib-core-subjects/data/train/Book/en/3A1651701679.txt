@@ -1,0 +1,2 @@
+Optical clearing of tissues and blood
+This book describes an optical clearing method based on reversible reduction of tissue scattering due to refractive index matching of scatterers and ground matter. This technique, which has been of great interest for research and application in the last decade, is a promising technique for future developments in the fields of tissue imaging, spectroscopy, phototherapy, and laser surgery

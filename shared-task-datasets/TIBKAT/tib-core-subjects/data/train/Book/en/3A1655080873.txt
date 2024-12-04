@@ -1,0 +1,2 @@
+Seifert Manifolds
+Circle actions on 3-manifolds -- Equivariant plumbing -- Resolution of singularities -- Equivariant cobordism and the ?-invariant -- Fundamental groups -- Free actions of finite groups on S3 -- Fibering over S1 -- Further topics.

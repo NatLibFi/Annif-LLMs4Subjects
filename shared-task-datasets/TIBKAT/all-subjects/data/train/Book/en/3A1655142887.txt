@@ -1,0 +1,2 @@
+Properties of Infinite Dimensional Hamiltonian Systems
+Some basic properties of infinite dimensional hamiltonian systems -- Symplectic structures and hamiltonian systems -- Linear hamiltonian systems -- Some general properties of nonlinear semigroups -- Hamiltonian systems -- Lagrangian systems -- Symmetry groups and conservation laws.

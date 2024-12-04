@@ -1,0 +1,2 @@
+Homology of Classical Groups Over Finite Fields and Their Associated Infinite Loop Spaces
+Infinite loop spaces associated with ImJ -- Permutative categories of classical groups over finite fields -- K-theory of finite fields and the ImJ spaces -- Calculations at the prime 2 -- Calculations at odd primes -- The homology of certain finite groups -- Detection theorems at the prime 2 -- Detection theorems at odd primes -- Homology operations associated with the classical groups.

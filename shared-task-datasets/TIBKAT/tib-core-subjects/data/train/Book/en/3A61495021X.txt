@@ -1,0 +1,2 @@
+Beginning Blackberry development : [learn how to build Java-based BlackBerry applications from scratch]
+"This book will teach you how to build Java-based BlackBerry applications, starting from the very basics all the way through packaging and distributing, giving you enough knowledge to produce useful, real-world applications." --Publisher's description

@@ -1,0 +1,2 @@
+iOS programming : the Big Nerd Ranch guide
+Presents a guide to the concepts and coding of iOS to create a variety of applications, covering such topics as debugger, core location, reference counting, blocks and categories in Objective-C, and push notifications

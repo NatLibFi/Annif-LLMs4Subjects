@@ -1,0 +1,2 @@
+Understanding LTE with MATLAB : from mathematical modeling to simulation and prototyping
+"An introduction to the technical details related to physical layer modeling of the LTE standard with MATLAB"--

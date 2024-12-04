@@ -1,0 +1,2 @@
+Taschenbuch mathematischer Formeln und moderner Verfahren : [mit Multiplattform-CD-ROM auf HTML-Basis]
+Das Buch umfasst die folgenden Schwerpunkte: Algebra, Geometrie, Funktionen, analytische Geometrie, lineare Algebra, Boolsche Algebra, Schaltalgebra, Graphen und Algorithmen, Differentialrechnung und Integralrechnung, Vektoranalysis, komplexe Variablen und Funktionen, Differentialgleichungen, Fourier-Transformation, Laplace-Transformation, z-Transformation, Wahrscheinlichkeitsrechnung, Statistik, Fuzzy-Logik, neuronale Netze und Nutzung von Computern.

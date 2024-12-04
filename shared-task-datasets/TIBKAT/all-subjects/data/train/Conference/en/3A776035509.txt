@@ -1,0 +1,2 @@
+2013 IEEE 29th International Conference on Data Engineering workshops (ICDEW) : 8 - 12 April 2013, Brisbane, Australia
+Workshop 1. Data Engineering Meets the Semantic Web (DESWEB) -- Workshop 2. Self-Managing Database Systems (SMDB) -- Workshop 3. Privacy-Preserving Data Publication and Analysis (PrivDB) -- Workshop 4. Mobile Data Analytics (MoDA) -- Workshop 5. Data-Driven Decision Guidance and Support Systems (DGSS) -- Workshop 6. Graph Data Management: Techniques and Applications (GDM) -- Workshop 7. Data Management in the Cloud (DMC) -- ICDE-13 PhD Symposium

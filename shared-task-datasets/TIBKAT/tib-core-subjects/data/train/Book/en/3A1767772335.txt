@@ -1,0 +1,2 @@
+2D materials for surface plasmon resonance-based sensors
+"This book offers comprehensive coverage of recent design and development of 2D materials in the context of plasmonic-based devices. It provides a thorough overview of the basic principles and techniques used in the analysis and design of 2D material-based optical sensor systems, and it explains the fundamental properties of 2D materials"--

@@ -1,0 +1,2 @@
+Structural equation modeling with AMOS : basic concepts, applications, and programming
+section 1. Introduction -- section 2. Single-group analyses -- section 3. Multiple-group analyses -- section 4. Other important applications -- section 5. Other important topics.

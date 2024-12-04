@@ -1,0 +1,2 @@
+Planar integriertes Mikromassenspektrometer : Simulation, Ansteuerung und Charakterisierung
+Das Konzept, die Entwicklung und die Charakterisierung eines planar integrierten Mikromassenspektrometers (PIMMS), gefertigt in Mikrosystemtechnik, wird vorgestellt. Schwerpunkte sind die Berechnung und Simulation von Ionentrajektorien, die Elektronenerzeugung durch ein Mikroplasma und die Ansteuerelektronik. Durch die Messung von Massenspektren wird erstmals der experimentelle Funktionsnachweis des PIMMS erbracht.

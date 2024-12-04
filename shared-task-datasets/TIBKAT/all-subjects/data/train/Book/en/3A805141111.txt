@@ -1,0 +1,2 @@
+Sams teach yourself Python programming for Raspberry Pi in 24 hours
+Provides step-by-step lessons that teach Python programming on Raspberry Pi, covering such topics as working with modules, writing scripts, using loops, creating functions, and exploring object-oriented programming

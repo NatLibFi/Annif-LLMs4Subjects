@@ -1,0 +1,2 @@
+Knot Theory : Proceedings, Plans-sur-Bex, Switzerland 1977
+Some aspects of classical knot theory -- A survey of multidimensional knots -- A linking invariant of classical link concordance -- Noeuds antisimples -- Signature of branched fibrations -- Cobordismus von knoten -- Attempting to classify knot modules and their hermitian pairings -- Some results on higher dimensional knot groups -- Algebraic computations of the integral concordance and double null concordance group of knots -- Knot modules and seifert matrices -- Torsion dans les modules d'alexander -- Problems.

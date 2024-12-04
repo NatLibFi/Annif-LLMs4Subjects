@@ -1,0 +1,2 @@
+Artificial intelligence and deep learning for computer network : management and analysis
+"'Artificial intelligence and deep learning for computer network : management and analysis' aims to systematically collect quality research spanning AI, ML and Deep Learning (DL) applications to diverse sub-topics of computer networks, communications, and security, under a single cover. It also aspires to provide more insights on the applicability of the theoretical similitudes, otherwise a rarity in many such books"--

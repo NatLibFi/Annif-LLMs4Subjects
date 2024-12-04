@@ -1,0 +1,2 @@
+Feature selection and ensemble methods for bioinformatics : algorithmic classification and implementations
+"This book offers a unique perspective on machine learning aspects of microarray gene expression based cancer classification, combining computer science, and biology"--Provided by publisher

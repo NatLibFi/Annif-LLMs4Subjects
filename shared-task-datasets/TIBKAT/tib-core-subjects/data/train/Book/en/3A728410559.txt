@@ -1,0 +1,2 @@
+Linking diagenesis to sequence stratigraphy
+"Sequence stratigraphy is a powerful tool for the prediction of depositional porosity and permeability, but does not account for the impact of diagenesis on these reservoir parameters. Therefore, integrating diagenesis and sequence stratigraphy can provide a better way of predicting reservoir quality"--

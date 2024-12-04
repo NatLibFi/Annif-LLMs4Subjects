@@ -1,0 +1,3 @@
+Zeta Functions of Groups and Rings
+Nilpotent Groups: Explicit Examples -- Soluble Lie Rings -- Local Functional Equations -- Natural Boundaries I: Theory -- Natural Boundaries II: Algebraic Groups -- Natural Boundaries III: Nilpotent Groups.
+Zeta functions have been a powerful tool in mathematics over the last two centuries. This book considers a new class of non-commutative zeta functions which encode the structure of the subgroup lattice in infinite groups. The book explores the analytic behaviour of these functions together with an investigation of functional equations. Many important examples of zeta functions are calculated and recorded providing an important data base of explicit examples and methods for calculation.

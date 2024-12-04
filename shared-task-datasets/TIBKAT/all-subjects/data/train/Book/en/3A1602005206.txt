@@ -1,0 +1,2 @@
+The finite element method: theory, implementation, and applications
+Introducing the finite element method as a general computational method for solving partial differential equations approximately, this book goes on to cover important applications including diffusion and transport phenomena, solid and fluid mechanics and more.--

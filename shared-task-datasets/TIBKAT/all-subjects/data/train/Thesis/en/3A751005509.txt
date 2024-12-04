@@ -1,0 +1,2 @@
+Räumlich hoch aufgelöste Modellierung der Basensättigung in den Waldböden des Kantons Basel-Landschaft (Nordwestschweiz)
+Digitale Bodenvorhersage, wissensbasierte Modellierung, Entscheidungsbäume, Waldbodeneigenschaften, Bodenversauerung, Basensättigung, Entkalkungstiefe. - Digital soil mapping, knowledge-based modeling, classification trees, forest soil properties, soil acidification, base saturation, non-calcareous soil depth

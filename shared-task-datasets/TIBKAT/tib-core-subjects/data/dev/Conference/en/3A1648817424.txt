@@ -1,0 +1,2 @@
+Security in Emerging Wireless Communication and Networking Systems : First International ICST Workshop, SEWCN 2009, Athens, Greece, September 14, 2009, Revised Selected Papers
+Constitutes the proceedings of the First International ICST Workshop, SEWCN 2009, held in Athens, Greece, in September 2009. This workshop emphasizes on new ideas for secure architectures and protocols to enhance the emerging wireless systems. It covers topics on applied cryptography, key management, vulnerability analysis, and privacy

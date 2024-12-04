@@ -1,0 +1,2 @@
+Adaptive Verfahren zur numerischen Berechnung von Reaktions-Diffusions-Systemen
+Reaction-diffusion problems, finite elements, unstructured grid, grid adaption, W-method, stiffness, local partitioning, excitable medium, spiral wave drift

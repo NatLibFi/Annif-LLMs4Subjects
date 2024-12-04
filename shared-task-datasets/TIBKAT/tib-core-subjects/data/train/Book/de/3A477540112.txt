@@ -1,0 +1,2 @@
+Regressionsanalyse : Theorie, Technik und Anwendung
+Das Grundmodell der Regressionsanalyse - Regressionstheorie - Entdeckung und Beseitigung von Modellverstößen

@@ -1,0 +1,2 @@
+Essays on nonlinear and explosive time series : with applications to financial markets
+Bias correction, explosive behavior, non-linearity, model selection, persistence, specification testing. - Bias Korrektur, explosives Verhalten, Nichtlinearität, Modellselektion, Persistenz, Spezifikationstests

@@ -1,0 +1,2 @@
+Algebra in a Localic Topos with Applications to Ring Theory
+Categories of algebraic sheaves -- The formal initial segments -- Localizations and algebraic sheaves -- Integral theories and characterization theorem -- Spectrum of a theory -- Applications to module theory -- Pure representation of rings -- Gelfand rings.

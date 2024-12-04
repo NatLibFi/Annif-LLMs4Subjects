@@ -1,0 +1,2 @@
+Computational intelligence in software modeling
+Researchers, academicians and professionals expone in this book their research in the application of intelligent computing techniques to software engineering. As software systems are becoming larger and complex, software engineering tasks become increasingly costly and prone to errors. Evolutionary algorithms, machine learning approaches, meta-heuristic algorithms, and others techniques can help the effi ciency of software engineering

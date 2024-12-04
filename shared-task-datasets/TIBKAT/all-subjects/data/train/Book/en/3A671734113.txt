@@ -1,0 +1,2 @@
+Computer forensics : jumpstart
+A guide to computer forensics provides information on such topics as conducting a forensics investigation, finding hidden data, capturing images, collecting and preserving computer evidence, and using computer forensic tools

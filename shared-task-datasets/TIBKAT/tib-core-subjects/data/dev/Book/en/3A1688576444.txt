@@ -1,0 +1,2 @@
+Equidistribution and counting under equilibrium states in negative curvature and trees : applications to non-Archimedean diophantine approximation
+Part I. Geometry and dynamics in negative curvature -- Part II. Geometric equidistribution and counting -- Part III. Arithmetic applications -- Appendix: A weak Gibbs measure is the unique equilibrium / J. Buzzi.

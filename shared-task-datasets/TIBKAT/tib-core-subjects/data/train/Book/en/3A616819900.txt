@@ -1,0 +1,2 @@
+Oracle SQL recipes : a problem-solution approach ; [an example-based approach to solving common developer and administration problems with Oracle SQL]
+"An example-based approach to solving common developer and administration problems with Oracle SQL"--Cover

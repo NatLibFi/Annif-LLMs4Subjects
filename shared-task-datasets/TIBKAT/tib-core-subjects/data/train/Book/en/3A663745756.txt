@@ -1,0 +1,2 @@
+Mathematical methods for physical and analytical chemistry
+"Mathematical Methods for Physical and Analytical Chemistry presents mathematical and statistical methods to students of chemistry at the intermediate, post-calculus level. The content includes a review of general calculus; a review of numerical techniques often omitted from calculus courses, such as cubic splines and Newton's method; a detailed treatment of statistical methods for experimental data analysis; complex numbers; extrapolation; linear algebra; and differential equations"--

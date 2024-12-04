@@ -1,0 +1,2 @@
+Machine learning for human motion analysis : theory and practice
+"This book highlights the development of robust and effective vision-based motion understanding systems, addressing specific vision applications such as surveillance, sport event analysis, healthcare, video conferencing, and motion video indexing and retrieval"--Provided by publisher

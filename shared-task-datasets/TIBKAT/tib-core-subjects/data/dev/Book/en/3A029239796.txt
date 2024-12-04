@@ -1,0 +1,2 @@
+Algebras, lattices, varieties / Ralph N. McKenzie; George F. McNulty; Walter Fuller Taylor ; 1
+Volume 1 is an introduction to general algebra and lattice theory; besides the fundamental concepts and elementary results, it contains several harder results that will be required in later volumes and a final advanced chapter on unique factorization.

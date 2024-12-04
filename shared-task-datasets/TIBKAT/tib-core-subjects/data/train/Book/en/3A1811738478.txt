@@ -1,0 +1,2 @@
+Learn physics with functional programming : a hands-on guide to exploring with Haskell
+"This book shows how to solve physics problems using Haskell, a functional programming language. Source code, equations, and diagrams throughout demonstrate how physics enthusiasts and functional programmers can use Haskell and its mathematical structures to solve problems from Newtonian mechanics and electromagnetics"--

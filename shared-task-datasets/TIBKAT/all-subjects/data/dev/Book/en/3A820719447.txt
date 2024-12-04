@@ -1,0 +1,2 @@
+Lexical-functional syntax
+"Provides both an introduction to LFG and a synthesis of major theoretical developments in lexical-functional syntax over the past few decades"--

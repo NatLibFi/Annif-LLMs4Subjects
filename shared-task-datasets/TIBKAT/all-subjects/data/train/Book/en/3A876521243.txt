@@ -1,0 +1,2 @@
+A friendly approach to functional analysis
+Normed and Banach spaces -- Continuous and linear maps -- Differentiation -- Geometry of inner product spaces -- Compact operators -- A glimpse of distribution theory -- Solutions

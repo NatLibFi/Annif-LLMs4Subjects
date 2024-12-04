@@ -1,0 +1,2 @@
+Advanced mechanics of piezoelectricity
+"Advanced Mechanics of Piezoelectricity" presents a comprehensive treatment of piezoelectric materials using linear electroelastic theory, symplectic models, and Hamiltonian systems. It summarizes the current state of practice and presents the most recent research findings in piezoelectricity. It is intended for researchers and graduate students in the fields of applied mechanics, material science and engineering, computational engineering, and aerospace engineering

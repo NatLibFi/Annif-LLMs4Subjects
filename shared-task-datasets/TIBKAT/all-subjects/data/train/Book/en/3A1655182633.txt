@@ -1,0 +1,2 @@
+Short Wave Radiation Problems in Inhomogeneous Media: Asymptotic Solutions
+A priori bounds -- Global existence, smoothness, and nonfocussing of optical paths in a refractive medium -- A uniform approximation to the solution of Ursell's radiating body problem -- Existence of solutions.

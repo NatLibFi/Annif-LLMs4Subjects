@@ -1,0 +1,3 @@
+Deriving syntactic relations
+Machine generated contents note: Introduction; 1. Relational derivation; 2. Types of lexical projections and arguments; 3. Modification; 4. Variation in word order; 5. The role of morphology; 6. Operators; 7. Ellipsis; 8. The DNA of language
+"A pioneering new approach to a long-debated topic at the heart of syntax: what are the primitive concepts and operations of syntax? This book argues, appealing in part to the logic of Chomsky's Minimalist Program, that the primitive operations of syntax form relations between words rather than combining words to form constituents"--

@@ -1,0 +1,2 @@
+Primal and dual methods for unit commitment in a hydro-thermal power system
+The unit commitment problem in a power generation system comprising thermal and pumped-storage hydro units is adressed. A large-scale mixed-integer optimization model for unit commitment in a real power system is developed and solved by primal and dual approaches. Both solution methods employ state-of-the-art algorithms and software. Results of test runs are reported.

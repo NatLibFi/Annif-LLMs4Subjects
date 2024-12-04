@@ -1,0 +1,2 @@
+3D math primer for graphics and game development
+"This book presents the essential math needed to describe, simulate, and render a 3D world. It provides an introduction to mathematics for game designers, including fundamentals of coordinate spaces, vectors, and matrices, orientation in three dimensions, introduction to calculus and dynamics, graphics, and parametric curves"--Provided by publisher

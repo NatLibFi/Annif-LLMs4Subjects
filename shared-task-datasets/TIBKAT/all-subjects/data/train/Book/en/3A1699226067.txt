@@ -1,0 +1,2 @@
+Web security for developers : real threats, practical defense
+"Explores common attacks and vulnerabilities that web developers need to look out for. The first half of the book describes security concepts every developer should know ; the second half delves into individual vulnerabilities, such as SQL injection and cross-site scripting, offering real-world examples and code samples"--

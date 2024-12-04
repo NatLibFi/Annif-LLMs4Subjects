@@ -1,0 +1,2 @@
+Compact Semitopological Semigroups: An Intrinsic Theory
+Elementary facts and constructions -- Joint continuity -- Semigroup compactifications of groups -- Semigroups living in manifolds.

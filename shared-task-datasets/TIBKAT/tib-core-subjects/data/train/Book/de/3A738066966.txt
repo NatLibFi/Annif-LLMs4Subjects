@@ -1,0 +1,2 @@
+Praktisches Programmieren in C
+Hauptbeschreibung:  Wer programmieren will, kommt an C nicht vorbei. Vor allem bei der maschinennahen Programmierung, der Entwicklung von Betriebssystemen und in der technischen Informatik spielt C seit mehr als 30 Jahren eine entscheidende Rolle. Dieses Buch bietet mit vielen Beispielen einen praktischen Einstieg in C. Neben den unverzichtbaren Grundlagen beschreibt der Autor auch komplexe Themen wie z. B. Zeigerarithmetik und die Speicherverwaltung

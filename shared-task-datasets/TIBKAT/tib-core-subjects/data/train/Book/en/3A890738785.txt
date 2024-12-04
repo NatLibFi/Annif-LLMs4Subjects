@@ -1,0 +1,2 @@
+Cloud computing technologies for green enterprises
+"This book provides a snapshot on research advances of cloud computing Technologies for Green Enterprises, discusses issues, solutions, challenges, and needs in securing cloud computing environment, and reports secure cloud engineering experience and lessons as well as industry case studies"--

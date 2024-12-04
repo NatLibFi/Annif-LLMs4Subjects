@@ -1,0 +1,2 @@
+Rheology in polymer processing : modeling and simulation
+Rheology in Polymer Processing introduces the fundamentals of rheology and rheometry as the basis for modeling and computer-aided design in plastics processing. The logically structured content enables the reader to intelligently use the tools of computer-aided design and modeling of plastics processing, with correct interpretation of the results

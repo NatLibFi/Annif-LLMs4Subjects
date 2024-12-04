@@ -1,0 +1,2 @@
+Quantum Monte Carlo approaches for correlated systems
+Correlated models and wave functions -- Probability theory -- Monte Carlo sampling and Markov chains -- Langevin molecular dynamics -- Variational Monte Carlo -- Optimization of variational wave functions -- Time-dependent variational Monte Carlo -- Green's function Monte Carlo -- Reptation quantum Monte Carlo -- Fixed-node approximation -- Auxiliary field quantum Monte Carlo -- Realistic simulations on the continuum

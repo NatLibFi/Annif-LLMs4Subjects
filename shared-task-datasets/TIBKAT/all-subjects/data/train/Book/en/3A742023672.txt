@@ -1,0 +1,2 @@
+Introducing .NET 4.5 : [discover what's new in the newest version of Microsoft's .NET framework]
+"[This book] covers the core changes in .NET 4.5 and Visual Studio 2012 as well as current and upcoming technologies included in this release, such as ASP.NET MVC 4, Windows Azure and Silverlight 5"--P. [4] of cover

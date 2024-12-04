@@ -1,0 +1,2 @@
+Spock : up and running : writing expressive tests in Java and Groovy
+Most developers would agree that writing automated tests is a good idea, but writing good, well-structured tests is still an elusive skill for many. For Java and Groovy developers, however, there's good news. This practical guide shows you how to write concise and highly readable tests with Spock, the most innovative testing and specification framework for the JVM since JUnit.--

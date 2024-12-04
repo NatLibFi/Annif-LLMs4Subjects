@@ -1,0 +1,2 @@
+Linux essentials
+Introduces the fundamentals of the operating system, covering such topics as how to manage hardware, use file management tools and commands, install and control programs, use scripts to automate tasks, and archive data --

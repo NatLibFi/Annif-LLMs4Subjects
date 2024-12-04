@@ -1,0 +1,2 @@
+Géométrie et théorie des groupes : Les groupes hyperboliques de Gromov
+The book is an introduction of Gromov's theory of hyperbolic spaces and hyperbolic groups. It contains complete proofs of some basic theorems which are due to Gromov, and emphasizes some important developments on isoperimetric inequalities, automatic groups, and the metric structure on the boundary of a hyperbolic space

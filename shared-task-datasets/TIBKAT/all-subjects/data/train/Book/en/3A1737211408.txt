@@ -1,0 +1,2 @@
+Nonnegative matrix factorization
+"This book provides a comprehensive and up-to-date account of the NMF problem and its most significant features"

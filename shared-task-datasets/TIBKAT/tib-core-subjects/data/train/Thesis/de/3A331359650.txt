@@ -1,0 +1,2 @@
+Spannungen in Glaskeramiken
+In der beiliegenden Arbeit wurde die Spannungsverteilung in der Umgebung eines Einschlusses in einer unendlich ausgedehnten Glasmatrix untersucht. Es wurden zwei unterschiedliche Methoden verwendet: die mathematische Modellberechnung mittels Finite Elemente Methode (FEM) und die experimentelle Bestimmung durch spannungsoptische Analyse.

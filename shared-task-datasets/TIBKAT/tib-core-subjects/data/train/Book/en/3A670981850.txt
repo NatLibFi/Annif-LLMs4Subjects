@@ -1,0 +1,2 @@
+Communication system security
+"Designed as a comprehensive introduction to the topic of communications system security, this text covers the basics of establishing trusted communications and common methods and mechanisms used in protecting transmitted and processed information. The authors present the principles and protocols in an accessible, easy-to-understand format. The main topics featured are cryptography, IKE, IPsec, and TLS. The book includes many examples to illustrate the concepts presented and exercises provided in each chapter offer hands-on experience"--

@@ -1,0 +1,2 @@
+Development of a light-based driver assistance system
+Light based driver assistance system, object recognition, data fusion. - Lichtbasiertes Fahrerassistenzsystem, Objekterkennung, Datenfusion

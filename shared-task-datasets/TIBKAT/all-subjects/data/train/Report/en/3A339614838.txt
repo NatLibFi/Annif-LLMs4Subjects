@@ -1,0 +1,2 @@
+SATNAB Messempfänger : 10/1999 ... 12/2000 ; Endbericht
+SATNAB, measurement receiver, Galileio,rail-bound vehicle, one/two-satellite scenario, measurement receiver software, 1dNavigation 6.0 vee, GPS-receiver, hemisheric antenna, directional antenna, reference point scenario, positioning scenario

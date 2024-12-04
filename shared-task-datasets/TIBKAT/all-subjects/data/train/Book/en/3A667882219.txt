@@ -1,0 +1,2 @@
+Smart materials in structural health monitoring, control and biomechanics
+Presents the latest developments in structural health monitoring, vibration control and biomechanics using smart materials. Focuses on piezoelectric, fibre optic and ionic polymer metal composite materials. Introduces concepts from the very basics and leads to advanced modelling, practical aspects and case studies spanning civil, mechanical and aerospace structures

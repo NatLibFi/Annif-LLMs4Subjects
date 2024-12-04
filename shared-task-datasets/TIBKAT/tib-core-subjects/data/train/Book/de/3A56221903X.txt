@@ -1,0 +1,2 @@
+Photovoltaik : Solarstrahlung und Halbleitereigenschaften ; Solarzellenkonzepte und Aufgaben ; mit 20 Übungsaufgaben
+Physikalische Konzepte und mathematische Ableitungen bis zu den technisch bekannten Ausdrücken (Generator-Kennlinie, Spektrale Empfindlichkeit, Wirkungsgrad usw.) werden vollständig dargestellt, sowie die Ausführungen zu allen Halbleiter-Solarzellen. Übungsaufgaben, die zusammenhängend den Entwurf, die Beschreibung und Analyse von Solarzellen behandeln, ergänzen die Ausführungen und leiten zur eigenen analytischen und experimentellen Arbeit an.

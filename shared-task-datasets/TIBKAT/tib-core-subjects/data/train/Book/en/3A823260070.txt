@@ -1,0 +1,2 @@
+Riemann-Roch spaces and computation
+The book is focused on Riemann-Roch spaces and on the computation of algebraic structures connected to the Riemann-Roch theorem.

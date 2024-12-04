@@ -1,0 +1,2 @@
+Advanced methods for complex network analysis
+"This book features the latest research on the algorithms and analysis measures being employed in the field of network science, highlighting the application of graph models, advanced computation, and analytical procedures"--

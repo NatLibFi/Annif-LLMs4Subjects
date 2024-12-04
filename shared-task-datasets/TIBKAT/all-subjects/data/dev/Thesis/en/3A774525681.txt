@@ -1,0 +1,2 @@
+Classical solutions for stabilized periodic Hele-Shaw flows with a free surface
+Darcy's law, free surface flow, parabolic evolution equation, maximal regularity, fully nonlinear equation, quasilinear equation, stability analysis, finite element method. - Darcy Gesetz, Fluss mit freier Oberfläche, parabolische Evolutionsgleichung, maximale Regularität, voll nichtlineare Gleichung, quasilineare Gleichung, Stabilitätsanalyse, Methode der finiten Elemente

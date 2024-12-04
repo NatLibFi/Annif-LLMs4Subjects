@@ -1,0 +1,2 @@
+Mastering System Center Configuration Manager 2007 R2
+Overview of systems and operations management -- Planning a configuration manager infrastructure -- Interoperability with systems management server 2003 -- Installation and site role configuration -- Client installation -- Software distribution and deployment -- Software updates -- Operating system deployment -- Asset intelligence -- Inventory and software metering

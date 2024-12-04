@@ -1,0 +1,2 @@
+Six Sigma in der SW-Entwicklung : Umsetzung der Nullfehler-Strategie bei SW-Produkten - Messbar Wettbewerbsvorteile durch Kundenorientierung
+Die Strategie der Fehlervermeidung bei Software - Erkennen der Anforderungen des Kunden - Erfolgsfaktoren für das Gelingen der Kommunikation - Quality Function Deployment - Kombinatorische Metriken und Kennzahlen für weiche Faktoren - Software - Metriken und Six Sigma - Kriterien für Six Sigma-Projekte - Wettbewerbsvorteile durch eine vertrauenswürdige IT

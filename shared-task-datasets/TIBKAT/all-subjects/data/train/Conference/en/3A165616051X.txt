@@ -1,0 +1,2 @@
+Summation Theorems in Structural Stability
+This volume is the first to give the mathematical background and a comprehensive survey of the old and new summation formulae resulting in an approximate value of the critical load factor of a complex problem by means of the critical load factors of subproblems by addition. The theorems and formulae are richly illustrated by examples in structural engineering

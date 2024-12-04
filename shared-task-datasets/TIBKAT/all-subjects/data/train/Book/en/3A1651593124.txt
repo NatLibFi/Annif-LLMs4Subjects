@@ -1,0 +1,2 @@
+(Open) linked data in Bibliotheken
+This book is an introduction to the subjects of linked data, open data and open linked data, and to their specific relevance for libraries. It illustrates these concepts through detailed descriptions of actual data projects. The volume will be useful to individuals involved in library practice and those in library management who have not yet become familiarized with these important contemporary fields

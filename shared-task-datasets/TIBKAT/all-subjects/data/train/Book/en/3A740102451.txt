@@ -1,0 +1,2 @@
+Elements of quantum computation and quantum communication
+"This book originated from a course on quantum computing designed for an audience of varied experience, backgrounds and qualifications. Not assuming that the readers have advanced knowledge of information theory or quantum mechanics or linear algebra, this introductory text book provides a lucid introduction to the rapidly developing field of quantum computing and quantum communication, rigorously proving all mathematical sentences"--

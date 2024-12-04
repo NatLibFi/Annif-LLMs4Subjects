@@ -1,0 +1,2 @@
+Zahlentheorie für Einsteiger : Eine Einführung für Schüler, Lehrer, Studierende und andere Interessierte
+Zahlentheorie leicht verständlich Mit zahlreichen Aufgaben und Computerprogrammen. Die wichtigsten Inhalte sind die vollständige Induktion, der Euklidische Algorithmus, der kleine Fermatsche Satz und Pseudoprimzahlen, Primzahltests.'

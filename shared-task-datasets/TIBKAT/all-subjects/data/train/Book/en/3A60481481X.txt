@@ -1,0 +1,2 @@
+Web services security development and architecture : theoretical and practical issues
+"This book's main objective is to present some of the key approaches, research lines, and challenges that exist in the field of security in SOA systems"--Provided by publisher

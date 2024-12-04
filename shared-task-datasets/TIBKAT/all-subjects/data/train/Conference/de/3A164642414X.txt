@@ -1,0 +1,2 @@
+Mobilität und Echtzeit : Fachtagung der GI-Fachgruppe Echtzeitsysteme (real-time) Boppard, 6./7. Dezember 2007
+Mit ihrer Jahrestagung 2007 bietet die GI-Fachgruppe Echtzeitsysteme und PEARL Nutzern und Herstellern ein Forum an, auf dem neue Trends und Entwicklungen zu folgenden Themengebieten aus dem Bereich der 'Mobilität und Echtzeit' vorgestellt werden. Abgedeckt werden folgende Sachgebiete: Safety, Security, Kommunikation, Automotive, Betriebssysteme, Robotik, Ressourcenmanagement mit Anwendungsbeispielen, Konzepten und Entwicklungsumgebungen.

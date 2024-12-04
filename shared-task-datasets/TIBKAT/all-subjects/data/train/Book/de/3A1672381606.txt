@@ -1,0 +1,2 @@
+Programmieren lernen mit JavaScript : Spiele und Co. ganz easy - auch für Erwachsene
+Entdecke mit JavaScript die Sprache, die hinter fast jeder Webseite steckt, und programmiere Spiele und Anwendungen, die einfach Spaß machen. Steig direkt ein, du brauchst nur deinen Computer und dieses Buch. Es zeigt dir alles von den ersten Befehlen bis zu Grafik und Animation – Schritt für Schritt und an vielen Beispielen. Deine Programme kannst du direkt im Browser laufen lassen und leicht an Freunde weitergeben, ganz unabhängig vom Betriebssystem. Ran an die Tasten, fertig, los!

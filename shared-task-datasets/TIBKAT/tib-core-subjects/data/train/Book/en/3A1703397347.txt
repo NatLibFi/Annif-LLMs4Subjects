@@ -1,0 +1,2 @@
+Polarization remote sensing physics
+This book elaborates on the physical principles of polarization remote sensing. It explains the reflective characteristics of surface objects and atmosphere separately, including theory, experiment, instrument and application. In addition, it introduces how polarization remote sensing works in advanced research programs as it can be used in aviation, astronomy, disaster risk prevention and navigation fields. This book serves as a fundamental and comprehensive reference for researchers and students.

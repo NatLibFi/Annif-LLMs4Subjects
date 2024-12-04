@@ -1,0 +1,2 @@
+Distortion in RF power amplifiers
+"Distortion in RF Power Amplifiers explains that by minimizing memory effects, it is possible to use simple linearizers, such as analog predistortion, and still achieve sufficient performance. Including over 120 equations and more than 110 illustrations, this practical reference provides the assistance professionals need to create amplifiers suitable for linear transmitters, and offers new views of semi-conductor modeling."--Jacket

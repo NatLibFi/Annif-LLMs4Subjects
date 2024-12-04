@@ -1,0 +1,2 @@
+Meta-attributes and artificial networking : a new tool for seismic interpretation
+"Overview of meta-attributes and how to design them. Case studies demonstrating the application of meta-attributes. Sample data sets available for hands-on exercises. The American Geophysical Union promotes discovery in Earth and space science for the benefit of humanity. Its publications disseminate scientific knowledge and provide resources for researchers, students, and professionals"--

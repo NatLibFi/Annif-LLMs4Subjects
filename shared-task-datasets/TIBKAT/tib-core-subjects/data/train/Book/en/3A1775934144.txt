@@ -1,0 +1,2 @@
+Low-power computer vision : improve the efficiency of artificial intelligence
+"Energy efficiency is critical for running computer vision on battery-powered systems, such as mobile phones or UAVs (unmanned aerial vehicles, or drones). This book collects the methods that have won the annual IEEE Low-Power Computer Vision Challenges since 2015. The winners share their solutions and provide insight on how to improve the efficiency of machine learning systems"--

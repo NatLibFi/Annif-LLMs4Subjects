@@ -1,0 +1,2 @@
+Endlich gelöst! Aufgaben zur Mathematik für Ingenieure und Naturwissenschaftler / Wilhelm Merz, Peter Knabner ; [Band 1]: Lineare Algebra und Analysis in R
+Das Buch bietet detailliert und verständlich ausgearbeitete Lösungsvorschläge zu den 430 Aufgaben aus dem Buch "Mathematik für Ingenieure und Naturwissenschaftler, Lineare Algebra und Analysis in R". Zahlreiche dieser Lösungsvorschläge werden gesondert besprochen und analysiert, und bei einigen Aufgaben werden verschiedene Lösungswege vorgelegt.

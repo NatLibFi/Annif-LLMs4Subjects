@@ -1,0 +1,2 @@
+Analyse eines unmittelbaren Umwandlungsprozesses mit einem flüssigen Metall als Arbeitsmedium
+Die Anpassung eines thermodynamischen Antriebes an einen zwangsläufig einstufigen MHD-Wandler für ein flüssiges Arbeitsmedium kann über eine thermodynamische Transformation im Antrieb geschehen und basiert dann auf der starken Wechselwirkung zwischen Gas und Flüssigkeitströpfchen in einer nebelförmigen, zweiphasigen Strömung.

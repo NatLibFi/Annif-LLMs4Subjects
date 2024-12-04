@@ -1,0 +1,2 @@
+Computer vision and pattern recognition in environmental informatics
+"This book describes a number of methods and tools for image interpretation and analysis, which enables observation, modelling, and understanding of environmental targets"--Provided by publisher.

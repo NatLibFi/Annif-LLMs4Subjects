@@ -1,0 +1,2 @@
+Theoretical Aspects of Computer Science : Advanced Lectures
+This book presents the revised final versions of eight lectures given by leading researchers at the First Summer School on Theoretical Aspects of Computer Science in Tehran, Iran, in July 2000. The lectures presented are devoted to quantum computation, approximation algorithms, self-testing/correction, algebraic modeling of data, the regularity lemma, multiple access communication and combinatorial designs, graph-theoretical methods in computer vision, and low-density parity-check codes

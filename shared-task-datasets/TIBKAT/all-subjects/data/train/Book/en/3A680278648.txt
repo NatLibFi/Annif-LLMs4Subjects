@@ -1,0 +1,2 @@
+Microsoft Visual Basic 2010 developer's handbook
+"This book is a reference on language concepts and features, as well as scenario-based guidance for putting Visual Basic to work. For use whether you're creating new applications with Visual Basic 2010 or upgrading projects built with an earlier version of the language"--

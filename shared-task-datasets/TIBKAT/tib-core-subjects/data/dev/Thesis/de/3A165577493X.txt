@@ -1,0 +1,2 @@
+Open Source Compliance
+Viele Unternehmen definieren unter „Open Source Compliance“ Regeln für den Umgang mit Open Source Software. Die vorliegende Arbeit stellt am Beispiel der GPL die rechtlichen Besonderheiten und Risiken dar und untersucht gängige Best Practices zur Errichtung eines Open Source Compliance Systems.

@@ -1,0 +1,2 @@
+Verbrennungsmotoren : Prozesse, Betriebsverhalten, Abgas
+Knapp gefaßtes Skriptum über thermodynamische Prozesse und Betriebsverhalten von Verbrennungsmotoren unter Berücksichtigung der Abgasproblematik. Leitfaden für Studierende an Hoch- und Fachhochschulen sowie für Techniker und Ingenieure in der Praxis. Ist zwar theoretisch angelegt, dennoch nicht schwierig im Ansatz dank anschaulicher Berechnungsbeispiele und schlüssiger Definitionen. Einsetzbar neben H. Grohe (ID 47/92) und vor dem umfangreichen, kostspieligen Lehrkurs von A. Urlaub (ID 19/95). (3) (LK/N: Pleuß)

@@ -1,0 +1,2 @@
+Finite Elemente : eine Einführung für Ingenieure
+"Die Einführung behandelt Probleme der linearen Statik, Dynamik und Stabilität bei Scheiben, Platten und Stabwerken, die mit erprobten Lernprogrammen auch selbst nachvollzogen werden können. Ergänzt werden diese linearen Verfahrensweisen durch einen Einstieg in nichtlineare Berechnungsmethoden, der erstmals durch eine Einführung in elastisch-plastische Berechnungsmethoden erweitert ist."--

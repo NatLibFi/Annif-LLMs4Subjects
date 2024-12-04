@@ -1,0 +1,2 @@
+Operator ideals
+pt. 0. Preliminaries -- pt. 1. Theory of operator ideals -- pt. 2. Theory of quasi-normed operator ideals -- pt. 3. Theory of sequence ideals -- pt. 4. Basic examples of operator ideals -- pt. 5. Applications

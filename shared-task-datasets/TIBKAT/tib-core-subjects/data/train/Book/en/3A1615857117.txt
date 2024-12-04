@@ -1,0 +1,2 @@
+Dynamics : theory and application of Kane's method
+Differentiation of vectors -- Kinematics -- Constraints -- Mass distribution -- Generalized forces -- Constraint forces, constraint torques -- Energy functions -- Formulation of equations of motion -- Extraction of information from equations of motion -- Kinematics of orientation

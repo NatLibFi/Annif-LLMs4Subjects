@@ -1,0 +1,2 @@
+Indirekte Bestimmung der Single Scattering Albedo und des komplexen Brechungsindex des atmosphärischen Aerosols aus kombinierten spektralen Sonnen- und Himmelsstrahlungs- sowie spektralen Strahlungsflußmessungen und Ermittlung des Strahlungsantriebs : Abschlußbericht 2001 zum Forschungsprojekt ; für den Zeitraum: 1998 - August 2001
+LACE-98, atmospheric aerosol, spectral optical thickness, phase function, single scattering albedo, aerosol retrieval from satellite (SeaWiFS)

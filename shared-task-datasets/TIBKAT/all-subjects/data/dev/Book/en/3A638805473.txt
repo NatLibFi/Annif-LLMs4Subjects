@@ -1,0 +1,2 @@
+Ontology learning and knowledge discovery using the Web : challenges and recent advances
+"This book provides relevant theoretical foundations, and disseminates new research findings and expert views on the remaining challenges in ontology learning, discussing artificial intelligence, knowledge acquisition, knowledge representation and reasoning, text mining, information extraction, and ontology learning"--

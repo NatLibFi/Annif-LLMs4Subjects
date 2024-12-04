@@ -1,0 +1,2 @@
+Network warrior : [everything you need to know that wasn't on the CCNA exam ; covers Nexus]
+Takes one step-by-step through routers, switches, firewalls, and other technologies based on the author's field experience. --

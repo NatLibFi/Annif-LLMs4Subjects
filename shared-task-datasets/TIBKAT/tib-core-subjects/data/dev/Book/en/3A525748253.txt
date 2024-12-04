@@ -1,0 +1,2 @@
+Beginning Jboss Seam: from novice to professional ; [learn to build enterprise and next generation Web 2.0 applications using this powerful, open source lightweight Java EE 5 application framework]
+What is JBoss seam? -- Web applications -- JSF fundamentals -- EJB3 fundamentals -- Introduction to seam -- Seam contexts -- Business process in seam -- Advanced topics -- Advanced configurations -- Seam tools -- JBoss AS -- JBoss IDE -- Final thoughts

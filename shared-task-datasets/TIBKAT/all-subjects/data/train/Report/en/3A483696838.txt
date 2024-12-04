@@ -1,0 +1,2 @@
+Optimierung von Hochleistungsstanzprozessen durch werkzeugintegrierte optische Messtechnik und Sensorik - TIVIS, Teilprojekt: Entwicklung eines werkzeugintegrierten optischen Systems für die messtechnische Bildverarbeitung : Abschlußbericht zum Verbundvorhaben ; Laufzeit: 01.10.2001 - 31.03.2004
+Production supervision system, tool-integrated optical system, fast image processing, micro optics, 1/10"-chip-camera

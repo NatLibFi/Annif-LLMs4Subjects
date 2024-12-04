@@ -1,0 +1,2 @@
+Multiple contrast tests with repeated and multiple endpoints : with biological applications
+Longitudinal data, linear mixed-effects model, multiple hypothesis tests, simultaneous confidence intervals, degrees of freedom, missing values. - Longitudinale Daten, lineares gemischtes Modell, multiple Hypothesentests, simultane Konfidenzintervalle, Freiheitsgrade, fehlende Werte

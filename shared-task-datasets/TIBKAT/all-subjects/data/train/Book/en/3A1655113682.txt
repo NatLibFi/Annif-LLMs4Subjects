@@ -1,0 +1,2 @@
+The Pontryagin Duality of Compact O-Dimensional Semilattices and its Applications
+Preliminaries -- The category of discrete semilattices and the category of compact zero-dimensional semilattices -- The character theory of compact and discrete semilattices -- Application of duality to lattice theory -- Applications of duality to the structure theory of compact zero dimensional semilattices.

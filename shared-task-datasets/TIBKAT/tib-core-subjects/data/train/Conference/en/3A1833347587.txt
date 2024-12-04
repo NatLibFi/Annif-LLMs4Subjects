@@ -1,0 +1,2 @@
+Chatbot research and design : 6th International Workshop, CONVERSATIONS 2022, Amsterdam, The Netherlands, November 22-23, 2022 : revised selected papers
+This book constitutes the proceedings of the 6th International Workshop on Chatbot Research and Design, CONVERSATIONS 2022, which was held during November 2022.The 12 papers included in this volume were carefully reviewed and selected from a total of 27 submissions. They were organized in topical sections named: chatbot users and user experience; chatbot design and applications

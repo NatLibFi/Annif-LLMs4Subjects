@@ -1,0 +1,2 @@
+A general framework for digital game-based training systems
+This dissertation introduces a general framework for developing digital game-based training systems. The framework addresses all aspects of education. In that sense, it involves both teacher and student as game players. A visual review log supports teacher-student-communication. Based on the general framework, a novel digital game-based training system for crime scene investigation training called OpenCrimeScene has been developed and implemented.

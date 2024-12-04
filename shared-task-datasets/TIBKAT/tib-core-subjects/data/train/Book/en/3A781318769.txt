@@ -1,0 +1,2 @@
+Moduli spaces
+Introduction to algebraic stacks / K. Behrend -- BPS states and the P = W conjecture / W.Y. Chuang, D.-E. Diaconescu and G. Pan -- Representations of surface groups and Higgs bundles / Peter B. Gothen -- Introduction to stability conditions / D. Huybrechts -- An introduction to d-manifolds and derived differential geometry / Dominic Joyce -- 13/2 ways of counting curves / R. Pandharipande and R. P. Thomas

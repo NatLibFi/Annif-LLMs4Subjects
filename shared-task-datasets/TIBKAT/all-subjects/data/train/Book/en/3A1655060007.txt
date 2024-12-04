@@ -1,0 +1,2 @@
+The Valuative Tree
+This volume is devoted to a beautiful object, called the valuative tree and designed as a powerful tool for the study of singularities in two complex dimensions. Its intricate yet manageable structure can be analyzed by both algebraic and geometric means. Many types of singularities, including those of curves, ideals, and plurisubharmonic functions, can be encoded in terms of positive measures on the valuative tree. The construction of these measures uses a natural tree Laplace operator of independent interest

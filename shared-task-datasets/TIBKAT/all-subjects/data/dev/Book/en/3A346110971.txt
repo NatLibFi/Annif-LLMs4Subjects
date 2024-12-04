@@ -1,0 +1,2 @@
+Sonar for practising engineers
+Written by an engineer for engineers, this book takes an engineering approach rather than a physics/math one. It provides an understanding of the basic principles of sonar and develops the formulae and rules of thumb for sonar design and performance analysis.

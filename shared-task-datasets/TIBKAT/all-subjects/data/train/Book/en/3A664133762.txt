@@ -1,0 +1,2 @@
+A feature-centric view of information retrieval
+In this work, Metzler describes highly effective information retrieval models for both smaller, classical data sets, and larger Web collections. In a shift away from heuristic, hand-tuned ranking functions and complex probabilistic models, he presents feature-based retrieval models

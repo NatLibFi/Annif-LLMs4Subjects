@@ -1,0 +1,2 @@
+Control theoretic splines : optimal control, statistics, and path planning
+"This book is an excellent resource for students and professionals in control theory, robotics, engineering, computer graphics, econometrics, and any area that requires the construction of curves based on sets of raw data."--BOOK JACKET

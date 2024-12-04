@@ -1,0 +1,2 @@
+Security engineering for cloud computing : approaches and tools
+"This book provides a theoretical and academic description of Cloud security issues, methods, tools and trends for developing secure software for Cloud services and applications"--

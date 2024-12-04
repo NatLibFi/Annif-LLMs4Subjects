@@ -1,0 +1,2 @@
+Nonlinear mechanics for composite heterogeneous structures
+"This book applies both classical and multi-scale finite element analysis to the non-linear, failure response of composite structures. It uses continuum mechanics for investigating failure at the macroscopic structural scale, and advanced discrete methods for simulating constituent materials and their nonlinear behaviour"--

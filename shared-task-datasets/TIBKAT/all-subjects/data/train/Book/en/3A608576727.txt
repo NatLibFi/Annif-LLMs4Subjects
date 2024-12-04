@@ -1,0 +1,2 @@
+JavaScript bible : [make your web site interactive ; create dynamic content for today's browsers ; master document object model concepts]
+A guide for power users demonstrates the basics of JavaScript while exploring control structures, functions, operators, form elements, hypertext links, Java Applets, and HTML applications

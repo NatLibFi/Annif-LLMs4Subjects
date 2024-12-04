@@ -1,0 +1,2 @@
+Fracture mechanics : fundamentals and applications
+"Deals with the characteristics of fracture in terms of crack opening displacement (COD) and J integral and the interpretation of J as potential energy release rate for linear elastic materials"--

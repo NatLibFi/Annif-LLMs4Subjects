@@ -1,0 +1,2 @@
+FreeCAD [how-to] : solid modeling with the power of Python
+"FreeCAD is a general purpose platform for CAD development. This open source design application is built to be extended using Python, giving a user unprecedented power to automate and invent. FreeCAD [How-to] takes you on a quick tour of FreeCAD's major workbenches and design philosophy."--

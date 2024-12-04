@@ -1,0 +1,2 @@
+BMBF Verbundprojekt VESIMA Vertikal Strukturiertes Intelligentes Mikroschalter-Array, Teilprojekt: Technologieentwicklung zur Herstellung vertikal integrierter Sensoren in galvanischer Additivtechnik : Abschlußbericht
+Electroplating, Microform, Semiconductor Technology, Micromachining, Sacrificial Layer, Acceleration Sensor, Planarization, CMOS Process, ASIC, Waferbonding, Surface Mount Technology

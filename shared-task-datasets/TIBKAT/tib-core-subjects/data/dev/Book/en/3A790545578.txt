@@ -1,0 +1,2 @@
+iOS app development for dummies
+A guide to app development with iOS 7, covering such topics as designing interfaces, key differences between iPad and iPhone applications, creating storyboards, and handling events, notifications, and gestures

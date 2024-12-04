@@ -1,0 +1,2 @@
+Python programming for teens
+Provides information on how to program in Python, including program development, the basics of using classes and objects, 2-D geometry, fractals, animations, recursion, and problem solving

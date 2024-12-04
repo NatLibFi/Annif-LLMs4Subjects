@@ -1,0 +1,2 @@
+The definitive guide to PC-BSD : [the complete guide to the PC-BSD operating system ; everything you need to move from PC-BSD beginner to PC-BSD administrator.]
+In a thorough reference for both beginning and advanced users of PC-BSD--a free, easy-to-use operating system that is fast becoming a hassle-free alternative to Linux--teaches how to contribute one's prowess to the global PC-BSD community

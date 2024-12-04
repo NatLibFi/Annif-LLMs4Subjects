@@ -1,0 +1,3 @@
+Fundamentals of rail vehicle dynamics : guidance and stability
+Book Cover; Title; Copyright; Contents; Arrangement of the book; Preface; 1 Basic Concepts; 2 Equations of Motion; 3 Dynamics of the Wheelset; 4 Guidance of the Two-Axle Vehicle; 5 Dynamic Stability of the Two-Axle Vehicle; 6 The Bogie Vehicle; 7 The Three-Axle Vehicle; 8 Articulated Vehicles; 9 Unsymmetric Vehicles; Index
+The railway vehicle is one of the most complex dynamical systems in engineering. This book concentrates on the conflict between dynamic stability and guidance and how the arrangement of the suspension system can be used to optimize steering and stability

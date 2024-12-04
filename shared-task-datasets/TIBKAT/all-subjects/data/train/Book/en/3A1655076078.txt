@@ -1,0 +1,2 @@
+On the Pointwise Convergence of Fourier Series
+A theorem of Stein and Weiss -- The main theorem -- A proof of theorem (2.2) -- A proof of theorem (3.6) -- A proof of theorem (4.2) -- A proof of theorem (5.2).

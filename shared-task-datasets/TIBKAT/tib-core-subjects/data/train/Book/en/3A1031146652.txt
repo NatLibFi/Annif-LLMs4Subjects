@@ -1,0 +1,2 @@
+Microhydrodynamics, Brownian motion, and complex fluids
+"This is an introduction to the dynamics of fluids at small scales, the physical and mathematical underpinnings of Brownian motion, and the application of these subjects to the dynamics and flow of complex fluids such as colloidal suspensions and polymer solutions."

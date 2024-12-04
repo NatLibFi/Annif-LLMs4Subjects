@@ -1,0 +1,2 @@
+System identification of computer networks with random service
+System identification, performance evaluation, network calculus, TCP, WLAN, random systems, available bandwidth estimation, computer networks, effective service curve. - Systemidentifikation, Leistungsbewertung, Netzwerkkalkül, zufällige Systeme, Schätzung der verfügbaren Bandbreite, Rechnernetzwerke, effektive Dienstkurve

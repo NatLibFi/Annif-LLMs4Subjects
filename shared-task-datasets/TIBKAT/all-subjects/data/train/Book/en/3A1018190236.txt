@@ -1,0 +1,3 @@
+Field guide to infrared systems, detectors, and FPAs
+This second edition is written to clarify and summarize the theoretical principles of infrared technology. It is intended as a reference for the practicing engineer and/or scientist who requires effective practical information to design, build, and/or test infrared equipment in a wide variety of applications
+Introduction -- Optics -- Radiometry and sources -- Performance parameters for optical detectors -- Infrared systems -- Equation summary

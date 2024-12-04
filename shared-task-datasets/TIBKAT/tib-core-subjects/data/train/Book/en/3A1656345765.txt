@@ -1,0 +1,2 @@
+Applied digital logic exercises using FPGAs
+Applied Digital Logic Exercises Using FPGAs is appropriate for anyone interested in digital logic who needs to learn how to implement it through detailed exercises with state-of-the-art digital design tools and components. The book exposes readers to combinational and sequential digital logic concepts and implements them with hands-on exercises using the Verilog Hardware Description Language (HDL) and a Field Programmable Gate Arrays (FGPA) teaching board.

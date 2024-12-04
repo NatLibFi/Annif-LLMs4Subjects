@@ -1,0 +1,2 @@
+Linear Models : Least Squares and Alternatives
+Linear Models -- The Linear Regression Model -- The Generalized Linear Regression Model -- Exact and Stochastic Linear Restrictions -- Prediction Problems in the Generalized Regression Model -- Sensitivity Analysis -- Analysis of Incomplete Data Sets -- Robust Regression -- Models for Categorical Response Variables.

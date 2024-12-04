@@ -1,0 +1,2 @@
+Artificial cognition systems
+"This book presents recent research efforts in Artificial Intelligence about building artificial systems capable of performing cognitive tasks. A fundamental issue addressed in this book is if these cognitive processes can have any meaningfulness to the artificial system being built"--Provided by publisher

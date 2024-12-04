@@ -1,0 +1,2 @@
+Grundkurs Computergrafik mit Java : die Grundlagen verstehen und einfach umsetzen mit Java 3D
+Grundlagen 2D - Kurvenzeichnen - Farbe und Text - Grundlagen 3D - Visibilitätsbestimmung - Beleuchtung - Virtual Reality und mehr

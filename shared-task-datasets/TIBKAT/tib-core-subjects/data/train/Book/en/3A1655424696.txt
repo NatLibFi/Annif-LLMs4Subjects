@@ -1,0 +1,2 @@
+Bilinear Stochastic Models and Related Problems of Nonlinear Time Series Analysis : A Frequency Domain Approach
+The object of the present work is a systematic statistical analysis of bilinear processes in the frequency domain. The first two chapters are devoted to the basic theory of nonlinear functions of stationary Gaussian processes, Hermite polynomials, cumulants and higher order spectra, multiple Wiener-Itô integrals and finally chaotic Wiener-Itô spectral representation of subordinated processes. There are two chapters for general nonlinear time series problems

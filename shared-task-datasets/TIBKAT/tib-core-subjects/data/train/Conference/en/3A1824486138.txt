@@ -1,0 +1,2 @@
+Information security : 25th International Conference, ISC 2022, Bali, Indonesia, December 18-22, 2022, proceedings
+This book constitutes the proceedings of the 25th International Conference on Information Security, ISC 2022, which took place in Bali, Indonesia, in December 2022.The 21 full papers and 8 short papers presented in this volume were carefully reviewed and selected from 72 submissions. The contributions were organized in topical sections as follows: Cryptography; Post-Quantum Cryptography; Cryptanalysis; Blockchain; Email and Web Security; Malware; and AI Security

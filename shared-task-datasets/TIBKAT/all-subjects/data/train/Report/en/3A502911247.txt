@@ -1,0 +1,2 @@
+Programming Microsoft InfoPath : a developer's guide ; [covers all SP 1 features]
+Anatomy of the Microsoft Office System 2003 introduction -- Understanding the InfoPath IDE -- Generating XML forms -- Generating web service forms -- Generating database forms -- Building workflow enabled applications -- Integrating with BizTalk server 2004 -- Integrating smart client applications -- Securing solutions -- Deployment strategies.

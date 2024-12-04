@@ -1,0 +1,2 @@
+Solving the Pell equation
+This work discusses Pell's equation. It presents the historical development of the equation and features the necessary tools for solving the equation. The authors provide a friendly introduction for advanced undergraduates to the delights of algebraic number theory via Pell's equation

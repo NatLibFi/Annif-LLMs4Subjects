@@ -1,0 +1,2 @@
+Pro SharePoint 2007 development techniques : [apply contemporary development techniques to custom SharePoint 2007 solutions]
+A guide to SharePoint 2007 covers such topics as ASP.NET Ajax, SQL Server 2005 reporting services, Windows Workflow Foundation, Web services, and InfoPath

@@ -1,0 +1,2 @@
+Applied linear models with SAS
+Introduction -- Principles of statistics -- Introduction to linear regression -- Assessing the regression -- Multiple linear regression -- Indicators, interactions, and transformations -- Nonparametric statistics -- Logistic regression -- Diagnostics for logistic regression -- Poisson regression -- Survival analysis -- Proportional hazards regression -- Review of methods -- Appendix: statistical tables

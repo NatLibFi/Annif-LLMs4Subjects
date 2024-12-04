@@ -1,0 +1,2 @@
+Search patterns : [design for discovery]
+This book explores design patterns that apply across the categories of web, e-commerce, enterprise, desktop, mobile, social, and realtime search and discovery. The authors cover topics such as relevance ranking, faceted navigation, multi-touch, and augmented reality together with a practical guide to help us make search better today--Derived from p. [4] of cover

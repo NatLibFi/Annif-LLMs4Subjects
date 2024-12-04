@@ -1,0 +1,2 @@
+Wissensbasis für ein allgemeines Arzneimittelinformationssystem mit Schwerpunkt Intensivmedizin : Schlußbericht ; MEDWIS Projekt PHI: Pharmacological Hospital Information System ; [Abschlußdatum: 30.04.2001]
+Drug information system, semi-automatic knowledge acquisition, user interface, pharmacology markup language

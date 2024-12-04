@@ -1,0 +1,3 @@
+Handbook of survey-based business cycle analysis
+This handbook aims to provide an overview of regular survey activities, as well as to show how survey results can be used scientifically in the context of business-cycle analysis and forecasting
+pt. 1. Phenomenon of business cycles -- pt. 2. Business surveys of the Ifo Institute -- pt. 3. Analytical and prognostic significance of survey data

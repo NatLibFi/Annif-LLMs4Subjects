@@ -1,0 +1,2 @@
+Finite element methods for engineers
+Introduction and Structural Analysis; Continuum Mechanics Problems; Finite Element Analysis of Harmonic Problems; Finite Element Meshes; Some Harmonic Problems; Finite Element Analysis of Biharmonic Problems; Some Biharmonic Problems; Further Applications

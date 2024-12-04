@@ -1,0 +1,2 @@
+Tests of bias in log-periodogram regression
+This paper proposes simple Hausman-type tests to check for bias in the log-periodogram regression of a time series believed to be long memory. The statistics are asymptotically standard normal on the null hypothesis that no bias is present, and the tests are consistent. The use of the tests in conjunction with tests of significance of the long memory parameter is illustrated by Monte Carlo experiments.

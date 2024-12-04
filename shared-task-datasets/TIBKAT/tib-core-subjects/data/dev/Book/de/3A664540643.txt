@@ -1,0 +1,2 @@
+Mathematische Grundlagen der Informatik : mathematisches Denken und Beweisen : eine Einführung
+Diese Einführung in die mathematischen Grundlagen der Informatik stellt systematisch die für die Informatik typischen und grundlegenden Denkweisen vor. Die Herangehensweise führt die Leser aufbauend auf der Schulmathematik gezielt aber behutsam hin zum Umgang mit exakten mathematischen Beschreibungen und Argumentationen in der Informatik.

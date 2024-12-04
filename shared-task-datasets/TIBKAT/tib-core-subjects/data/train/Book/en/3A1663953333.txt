@@ -1,0 +1,2 @@
+Numerical analysis for applied science
+Some useful tools -- Approximation of functions -- Direct methods for linear systems -- Solution of nonlinear equations -- Iterative methods for linear systems -- Eigenvalue problems -- Numerical integration -- Ordinary differential equations -- Difference methods for pdes -- Introduction to finite elements.

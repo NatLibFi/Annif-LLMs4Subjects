@@ -1,0 +1,2 @@
+The Physics of Free Electron Lasers
+The free electron laser (FEL) will be an outstanding tool for research and industrial application. This book describes the physical fundamentals on the basis of classical mechanics, electrodynamics, and the kinetic theory of charged particle beams, and will be suitable for graduate students and scientists alike. After a short introduction, the book discusses the theory of the FEL amplifier and oscillator and diffraction effects in the amplifier. Waveguide FEL and shot noise are also treated

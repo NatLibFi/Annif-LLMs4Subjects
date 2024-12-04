@@ -1,0 +1,2 @@
+Abschlußbericht zum Teilvorhaben Entwicklung eines inertialen Meßsystems für ein adaptronisches Transportsystem zur Beförderung sensibler Güter : im Unterauftrag der Fa. Carl Schenck AG im Rahmen des Vorhabens Adaptronisches Transportsystem
+Inertial, navigation, gyroscope, car dynamics, control, stabilisation, tilt technology, laser gyro, fiber optic gyro, surveying

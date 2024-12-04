@@ -1,0 +1,2 @@
+Mikrosensor-System zur Bestimmung des Kontaminationsgrades von Oberflächen : MIKROBE ; Abschlussbericht
+Impedance sensor, detection of bacteria, miniaturisation, automation, sensitivity increase, dielectrophoretic effect

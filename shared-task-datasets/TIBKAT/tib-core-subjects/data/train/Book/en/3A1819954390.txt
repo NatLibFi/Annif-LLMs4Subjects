@@ -1,0 +1,2 @@
+Computer vision and image analysis for industry 4.0
+"Computer vision and image analysis play an essential role in 4.0 IR as machine vision and image analysis are indispensable components of every automated environment. Modern machine vision and image analysis techniques play key roles to automation and quality assurance"--

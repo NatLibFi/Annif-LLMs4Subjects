@@ -1,0 +1,2 @@
+Motion encoding in language and space
+This text brings together researchers in linguistics, computer science, psychology and cognitive science to investigate how motion is encoded in language. Part I considers the parameters of the field, while Part II looks at the way in which spatial scale or granularity plays a role in the encoding of motion in language

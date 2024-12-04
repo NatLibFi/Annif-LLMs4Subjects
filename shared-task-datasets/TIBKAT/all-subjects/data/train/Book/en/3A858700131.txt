@@ -1,0 +1,3 @@
+Computer organization and design : the hardware/software interface
+This book presents the fundamentals of hardware technologies, assembly language, computer arithmetic, pipelining, memory hierarchies and I/O. This edition is updated for mobile computing and the cloud!
+Computer abstractions and technology -- Instructions : language of the computer -- Arithmetic for computers -- The processor -- Large and fast : exploiting memory hierarchy -- Parallel processors from client to cloud

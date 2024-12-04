@@ -1,0 +1,2 @@
+Quantum mechanics of molecular structures
+At a level accessible to advanced undergraduates, this textbook explains the fundamental role of quantum mechanics in determining the structure, dynamics, and other properties of molecules. Readers will come to understand the quantum-mechanical basis for harmonic oscillators, angular momenta and scattering processes. Exercises are provided to help readers deepen their grasp of the essential phenomena.--

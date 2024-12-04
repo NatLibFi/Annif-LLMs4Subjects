@@ -1,0 +1,2 @@
+Computers and games : international conference, CG 2022, virtual event, November 22-24, 2022 : revised selected papers
+This book constitutes the refereed proceedings of the International Conference on Computers and Games, CG 2022, held virtually, during November 22-24, 2022. The 15 full papers included in this book were carefully reviewed and selected from 23 submissions. They were organized in topical sections as follows: classic games, multi-player and multi-action games, solving games, measuring games, decision making in games and puzzles

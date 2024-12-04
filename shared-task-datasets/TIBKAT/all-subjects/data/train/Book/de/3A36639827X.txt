@@ -1,0 +1,2 @@
+Keine Probleme mit inversen Problemen : eine Einführung in ihre stabile Lösung
+Aus dem Inhalt: Was ist ein Inverses Problem? - Schlecht gestellte Operatorgleichungen - Regularisierung linearer und nichtlinearer schlecht gestellter Probleme - Optimalität von Regularisierungsverfahren - Tikhonov- Phillips-Regularisierung - Iterative Regularisierungen - Diskretisierung und Regularisierung - Anwendungsbeispiele.

@@ -1,0 +1,2 @@
+Multi-objective stochastic programming in fuzzy environments
+"This book explores some emerging concepts on decision making models with simultaneous occurrence of fuzzy as well as stochastic uncertainties in a simple and systematic manner"--

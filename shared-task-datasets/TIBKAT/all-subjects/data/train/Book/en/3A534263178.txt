@@ -1,0 +1,2 @@
+Visual Basic 2005 recipes : a problem-solution approach ; [learn practical solutions for your VB 2005 problems]
+A guide to the functions and concepts of Visual BASIC 2005, covering such topics as application domains, XML processing, Windows forms, multimedia, networking and remoting, security, and database access

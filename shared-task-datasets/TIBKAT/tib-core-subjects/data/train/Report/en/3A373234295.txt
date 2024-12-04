@@ -1,0 +1,2 @@
+TherMem : Thermische Meßsysteme mit Membransensoren : Abschlußbericht für ein BMBF-Vorhaben in der Mikrosystemtechnik ; Laufzeit: 01.07.1999 bis 30.10.2002
+Membrane sensors, thermopile, mass flow sensor, porous silicon, surface micromachining, bulk micromachining

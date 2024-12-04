@@ -1,0 +1,2 @@
+Grundlagen der Pneumatik
+Es geht in erster Linie um die physikalischen Grundlagen (Eigenschaften der Luft als strömendes Medium. ihre Zustandaänderungen u.a.), die Drucklufterzeugung sowie deren physikalisch-technischebn Probeleme, Dichtungen. Messverfahren der Pneumatik.

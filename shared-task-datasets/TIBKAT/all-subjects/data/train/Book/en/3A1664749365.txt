@@ -1,0 +1,2 @@
+Passive network synthesis : an approach to classification
+Classical results of network synthesis -- Modern developments of network synthesis -- Mechanical networks -- The enumerative approach to network synthesis -- Structure of the Ladenheim catalogue -- Main results and discussion.

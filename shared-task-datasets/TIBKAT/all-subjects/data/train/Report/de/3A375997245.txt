@@ -1,0 +1,2 @@
+Informationstechnik und Telekommunikationstechnik
+Praxisorientiertes Lehrbuch von den Grundlagen bis zur Anwendung für alle informations- und telekommunikationstechnischen Berufe, insbesondere der IT-Berufe. Aktualisierung im Sinne der technischen Entwicklung. Neu aufgenommen: Elektroinstallationen, da diese Inhalte bei IT-Systemelektronikern Ausbildungsinhalte sind. Grundlagen (auch elektrotechnische), Digitaltechnik, Arbeitsplatzrechner, Übertragungsnetze, Netzknoten, Rechnerkommunikation, Melde- und Signaltechnik, IT-Endgeräte und Netzzugänge

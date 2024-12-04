@@ -1,0 +1,3 @@
+Gewöhnliche Differentialgleichungen
+Main description: Für die grafische Darstellung entsprechender Lösungskurven verwendet die Autorin MatLab, so dass dem Leser anschaulich demonstriert werden kann, wie sich Modifikationen in den Gleichungen auswirken. Die eigenen Lernfortschritte können mithilfe von Übungsaufgaben, die die Kapitel abschließen, überprüft werden.
+Im technisch-naturwissenschaftlichen Bereich können zahlreiche Fragestellungen mittels gewöhnlicher Differentialgleichungen beantwortet werden. Für die grafische Darstellung entsprechender Lösungskurven verwendet die Autorin MatLab, so dass dem Leser anschaulich demonstriert werden kann, wie sich Modifikationen in den Gleichungen auswirken

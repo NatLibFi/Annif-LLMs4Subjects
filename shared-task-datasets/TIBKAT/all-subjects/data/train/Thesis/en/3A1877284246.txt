@@ -1,0 +1,2 @@
+Expanding the toolbox for engineering nonribosomal peptide synthetases
+Nonribosomal peptide synthetases (NRPSs) are an important source of pharmaceutically valuable natural products, including antibiotics. In depth understanding of enzymatic interactions responsible for the biosynthesis of these compounds by NRPSs is essential for re-engineering of these proteins to create structural diversity. In this work, we establish tools that expand the understanding and engineering of nonribosomal peptide synthetases.

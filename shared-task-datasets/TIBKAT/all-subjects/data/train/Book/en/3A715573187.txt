@@ -1,0 +1,2 @@
+The art of the App Store : the business of Apple development
+This guide provides an in-depth look into the perils and potential of the iPhone and iPad app landscape. Presents tried and tested methods for competitive research, finding your niche, understanding customer expectations, setting goals and milestones, and managing app development from concept to post-launch. Also includes guidelines for developing and pricing your app using the most up-to-date trends, a plan for viral marketing using social networks, etric tracking, taking advantage of feedback and more--

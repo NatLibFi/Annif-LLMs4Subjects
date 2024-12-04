@@ -1,0 +1,2 @@
+FRODO : a framework for distributed organizational memories ; Abschlußbericht
+Process-oriented knowledge management, distributed organizational memory, framework agent technology, weak workflow, knowledge-intensive activities, semantic web

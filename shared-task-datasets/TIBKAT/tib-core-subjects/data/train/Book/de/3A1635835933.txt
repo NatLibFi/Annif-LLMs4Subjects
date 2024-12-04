@@ -1,0 +1,2 @@
+Praxishandbuch IT-Grundlagen für Bibliothekare
+Leicht verständlich werden die Grundlagen der Informatik und Informationstechnik vermittelt, die zum Verständnis der Anwendungen im bibliothekarischen Alltag benötigt werden. Informationssysteme, verteilte Anwendungen, Linked Data und Sematic Webkonzepte werden mit hohem Praxisbezug und Beispielen aus dem bibliothekarischen Kontext umfassend erklärt und schaffen so umfassende Kenntnis der Terminologie.

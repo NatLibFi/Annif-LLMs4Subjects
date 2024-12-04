@@ -1,0 +1,2 @@
+Exploring the convergence of big data and the internet of things
+"This book provides relevant theoretical frameworks and the latest empirical research findings in Big Data and Internet of Things. The main objective of the book is to explore various areas related to Big Data and Internet of Things in order to give directions to researchers, developers, students and end users"--

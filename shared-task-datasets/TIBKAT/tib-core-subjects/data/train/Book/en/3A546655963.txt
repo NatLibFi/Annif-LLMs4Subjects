@@ -1,0 +1,2 @@
+Relativistic Quantum Theory of Atoms and Molecules : Theory and Computation
+Relativistic quantum electrodynamics provides the basis for modeling the electronic structure of atoms, molecules and solids and their interactions with photons and projectiles. This book describes the GRASP relativistic atomic structure program, the DARC electron-atom scattering code, and the BERTHA relativistic molecular structure program

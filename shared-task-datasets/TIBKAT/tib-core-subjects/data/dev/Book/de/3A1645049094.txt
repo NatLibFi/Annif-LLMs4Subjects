@@ -1,0 +1,2 @@
+Business Information Warehouse : Perspektiven betrieblicher Informationsversorgung und Entscheidungsunterstützung auf der Basis von SAP-Systemen
+Betriebswirtschaftliche Grundlagen und analytische Informationssysteme -- Architektur des SAP Business Information Warehouse -- Gestaltung eines Business-Information-Warehouse-Systems -- Business Content -- Einführung eines Business Information Warehouse -- Anwendungsbeispiele -- Ausblick.

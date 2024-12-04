@@ -1,0 +1,2 @@
+The definitive guide to NetBeans Platform 7
+pt. 1. Basics & concepts : basics of the NetBeans Platform -- pt. 2. Look & feel : developing user interfaces -- pt. 3. Ready & go : using the NetBeans Platform standard modules -- pt. 4. Use & extend : advanced APIs of the NetBeans Platform & ID -- pt. 5. Server & database : enterprise applications and the NetBeans Platform -- pt. 6. Pack & ship : adapting, delivering, and actualizing applications -- pt. 7. Test & tooling : developing and testing NetBeans Platform applications -- pt. 8. Play & more : developing an MP3-manager

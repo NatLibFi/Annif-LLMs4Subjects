@@ -1,0 +1,2 @@
+Clinical MR Imaging : A Practical Approach
+Magnetic resonance imaging (MRI) has become the leading cross-sectional imaging method in clinical practice. Continuous technical improvements have significantly broadened the scope of applications. Aimed at beginners and experienced users, this book offers guidelines for performing efficient and cost-effective MRI examinations in daily practice

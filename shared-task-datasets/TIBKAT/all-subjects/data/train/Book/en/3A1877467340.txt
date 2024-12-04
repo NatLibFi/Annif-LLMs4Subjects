@@ -1,0 +1,2 @@
+Handbook of geospatial artificial intelligence : GeoAI
+Geospatial Artificial Intelligence (GeoAI) is the integration of geospatial studies and AI using machine learning and deep learning technologies. This comprehensive handbook explains and discusses key fundamental concepts, methods, models, technologies of GeoAI, recent advances, research tools, and applications in different fields

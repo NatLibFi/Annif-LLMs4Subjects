@@ -1,0 +1,2 @@
+Analyzing electoral promises with game theory
+Electoral promises in formal models -- Electoral promises as a commitment device -- Electoral promises as a signal -- Electoral promises with vague words.

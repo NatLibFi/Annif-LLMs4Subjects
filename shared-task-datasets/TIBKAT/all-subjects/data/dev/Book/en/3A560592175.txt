@@ -1,0 +1,2 @@
+Polymer melt processing : foundations in fluid mechanics and heat transfer
+Polymer processing -- Fundamentals -- Extrusion -- Temperature and pressure effects in flow -- The thin gap approximation -- Quasi-steady analysis of mold filling -- Fiber spinning -- Numerical simulation -- Polymer melt rheology -- Viscoelasticity in processing flows -- Stability and sensitivity -- Wall slip and extrusion instabilities -- Structured fluids -- Mixing and dispersion

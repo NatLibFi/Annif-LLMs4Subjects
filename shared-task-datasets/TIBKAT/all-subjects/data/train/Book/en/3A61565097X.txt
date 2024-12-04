@@ -1,0 +1,2 @@
+IBM lotus connections 2.5 : planning and implementing social software for your enterprise
+Social networking concepts -- Introducing lotus connections 2.5 -- Lotus connections architecture -- Deployment planning -- Installing planning -- Using lotus connections -- Administering lotus connections -- Extending lotus connections to other applications -- Using the lotus connections API -- Plug-in and widgets

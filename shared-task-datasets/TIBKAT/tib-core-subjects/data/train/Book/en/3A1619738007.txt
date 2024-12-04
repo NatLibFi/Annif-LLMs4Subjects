@@ -1,0 +1,2 @@
+Handbook of research on grid technologies and utility computing : concepts for managing large-scale applications
+"This book provides a compendium of terms, definitions, and explanations of concepts, issues, and trends in grid technology"--Provided by publisher

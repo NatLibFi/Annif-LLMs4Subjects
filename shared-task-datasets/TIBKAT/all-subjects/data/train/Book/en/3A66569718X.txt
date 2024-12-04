@@ -1,0 +1,2 @@
+jQuery Mobile : up and running ; [using HTML5 to design web apps for tablets and smartphones]
+The mobile platform -- Starting with the framework -- UI components -- Lists -- Form components -- The framework and JavaScript -- Creating themes -- Installation and offline access -- A complete webapp -- Extending the framework -- Packaging for stores

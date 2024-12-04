@@ -1,0 +1,2 @@
+Multiple correspondence analysis for the social sciences
+chapter 1 Geometric data analysis -- chapter 2 Correspondence analysis -- chapter 3 Multiple correspondence analysis -- chapter 4 Passive and supplementary points, supplementary variables and structured data analysis -- chapter 5 MCA and ascending hierarchical cluster analysis -- chapter 6 Constructing spaces -- chapter 7 Analyzing sub-groups: class-specific MCA.

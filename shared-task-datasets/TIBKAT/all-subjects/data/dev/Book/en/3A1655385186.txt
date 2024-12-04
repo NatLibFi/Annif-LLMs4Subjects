@@ -1,0 +1,2 @@
+Compact Complex Surfaces
+Contents: Introduction. - Standard Notations. - Preliminaries. - Curves on Surfaces. - Mappings of Surfaces. - Some General Properties of Surfaces. - Examples. - The Enriques-Kodaira Classification. - Surfaces of General Type. - K3-Surfaces and Enriques Surfaces. - Bibliography. - Subject Index

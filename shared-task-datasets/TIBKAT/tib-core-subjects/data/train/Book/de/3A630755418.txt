@@ -1,0 +1,2 @@
+Die Finite-Elemente-Methode für Anfänger
+Die Finite-Elemente-Methode fr Anfnger; Inhaltsverzeichnis; Vorwort; 1 Einfhrung; 2 Grundkonzept; 3 Verfahren zur Lsung von linearen Gleichungssystemen; 4 Konvergenzaussagen; 5 Numerische Integration; 6 Randapproximation. Isoparametrische Elemente; 7 Gemischte Verfahren; 8 Nichtkonforme FEM; 9 Nichtstationre (parabolische) Aufgaben; 10 Gittergenerierung und Gittersteuerung; Anhang A Hinweise auf Software und ein Beispiel; Literaturnachweis; Index

@@ -1,0 +1,2 @@
+Non-negative operators in Krein spaces and rank one perturbations
+In der vorliegenden Arbeit werden eindimensionale Störungen von nichtnegativen Operatoren in Kreinräumen betrachtet. Dabei wird untersucht wie sich die Anzahl der Eigenwerte und deren Vielfachheit in einer Lücke des essentiellen Spektrums unter einer Störung ändern können. Zudem wird beschrieben wie sich an einem Eigenwert die Anzahl und die Länge der linear unabhängigen Jordanketten ändern können.

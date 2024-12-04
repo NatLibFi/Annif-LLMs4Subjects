@@ -1,0 +1,2 @@
+Windows Vista Security : securing Vista against malicious attacks
+Written by two veteran Windows security experts, this resource prepares end users and technical administrators to handle various security problems that exist in Windows Vista and future threats. It also covers various other significant new security technologies in Windows Vista, including User Account Control, the new Firewall, and more.

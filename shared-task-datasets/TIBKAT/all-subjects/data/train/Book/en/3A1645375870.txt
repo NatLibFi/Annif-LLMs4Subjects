@@ -1,0 +1,2 @@
+Robust Control of Linear Systems Subject to Uncertain Time-Varying Parameters
+Linear Time-Varying Systems -- Quadratic Stability -- Systems Depending on Bounded Rate Uncertainties -- Controller Design -- Discrete-Time Systems.

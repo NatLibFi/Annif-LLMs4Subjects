@@ -1,0 +1,2 @@
+Cloud security : a comprehensive guide to secure cloud computing
+This book covers cloud computing fundamentals, architectures, service delivery approaches, deployment models, software as a service, platform as a service, and security governance

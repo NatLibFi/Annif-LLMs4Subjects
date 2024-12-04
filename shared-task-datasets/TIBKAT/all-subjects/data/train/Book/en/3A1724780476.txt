@@ -1,0 +1,2 @@
+Data science for mathematicians
+"Mathematicians have skills that, if deepened in the right ways, would enable them to use data to answer questions important to them and others, and report those answers in compelling ways. Data science combines parts of mathematics, statistics, computer science. Gaining such power and the ability to teach has reinvigorated the careers of mathematicians. This handbook will assist mathematicians to better understand the opportunities presented by data science"--

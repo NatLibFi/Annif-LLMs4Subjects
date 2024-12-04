@@ -1,0 +1,2 @@
+OpenShift in action
+OpenShift in Action is a full reference to Red Hat OpenShift that breaks down this robust container platform so you can use it day-to-day. Combining Docker and Kubernetes, OpenShift is a powerful platform for cluster management, scaling, and upgrading your enterprise apps. It doesn't matter why you use OpenShift--by the end of this book you'll be able to handle every aspect of it, inside and out!

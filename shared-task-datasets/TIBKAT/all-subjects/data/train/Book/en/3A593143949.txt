@@ -1,0 +1,2 @@
+Number theory : an introduction to mathematics
+The expanding universe of numbers --Divisibility -- More on divisibility -- Continued fractions and their uses -- Hadamard's determinant problem -- Hensel's p-adic numbers -- The arithmetic of quadratic forms -- The geometry of numbers -- The number of prime numbers -- A character study -- Uniform distribution and ergodic theory -- Elliptic functions -- Connections with number theory

@@ -1,0 +1,2 @@
+Uncertainty and Control : Proceedings of an International Seminar Organized by Deutsche Forschungs- und Versuchsanstalt für Luft- und Raumfahrt (DFVLR) Bonn, Germany, May, 1985
+Uncertainty and control-some activities at DFVLR -- System identification -- Uncertainty models and the design of robust control systems -- Multi-model approaches to robust control system design -- Adaptive control — A way to deal with uncertainty -- Optimality in adaptive control systems -- Intelligent control-operating systems in uncertain environments.

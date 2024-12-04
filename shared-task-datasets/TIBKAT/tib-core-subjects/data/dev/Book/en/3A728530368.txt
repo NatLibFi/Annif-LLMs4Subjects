@@ -1,0 +1,3 @@
+Windows 8 Hacks : [tips and tools for unlocking the power of tablets and desktops]
+Teaches how to perform such modifications as running other versions of Windows within Windows 8, speeding up Web browsing, hacking Windows 8 mail, adding folders and programs to the start screen, and setting up a virtual private network
+Setup and startup hacks -- Hacking the start screen, the Windows 8 interface, and apps -- Hacking the desktop -- Productivity and system performance hacks -- Cloud and social networking hacks -- Music, media, and video -- Networking, the Web, wireless, and the Internet -- Security -- Email -- Hardware -- The Registry and Group Policy Editor

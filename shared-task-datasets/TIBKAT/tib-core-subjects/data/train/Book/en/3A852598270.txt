@@ -1,0 +1,3 @@
+Group theory of chemical elements : structure and properties of elements and compounds
+Symmetries of a quantum system -- Observables of a quantum system -- Lie groups and Lie algebras -- The principles of particle classification -- The symmetry group of chemical elements -- Classification and chemical properties of elements
+"In this monograph, group-theoretical approaches are used to build a system of hadrons and qualitatively describe the properties of chemical compounds. This serves as a complement to numerically and approximately solve the many-electron Schrödinger equation, in order to understand the behavior of chemical elements. Besides general theory, specific results are compared with experimentally measured chemical properties"--

@@ -1,0 +1,2 @@
+Thermomechanische Modellierung gummiartiger Polymerstrukturen
+Polymer chains, transient network theory, inite viscoelasticity, thermo-mechanical coupling, adaptive time step control, finite element technology, stabilization technique

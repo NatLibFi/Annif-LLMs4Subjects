@@ -1,0 +1,3 @@
+Models, Simulations, and the Reduction of Complexity
+Biographical note: U. Gähde and J. H. Wolf, University of Hamburg; S. Hartmann, Ludwig-Maximilians-Universität Munich.
+Modern science is a model-building activity. But how are models contructed? How are they related to theories and data? How do they explain complex scientific phenomena, and which role do computer simulations play? To address these questions which are highly relevant to scientists as well as to philosophers of science, 8 leading natural, engineering and social scientists reflect upon their modeling work, and 8 philosophers provide a commentary.

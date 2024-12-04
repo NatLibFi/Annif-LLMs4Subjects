@@ -1,0 +1,2 @@
+Fundamentals of Clinical Research : Bridging Medicine, Statistics and Operations
+The scope of clinical research is to evaluate the effect of a treatment on the evolution of a disease in humans. The treatment can be pharmacological, surgical, psychological/behavioral or organizational/logistic. This book covers this area, ending with a description of the drug development process and the phases of clinical development

@@ -1,0 +1,2 @@
+Mikrocomputer-Interfacefibel
+Jede Datenübertragung zwischen einem Minicomputer oder Mikrocomputer einerseits und einem Peripheriegerät anderseits wird - hardwaremäßig und softwaremäßig - durch ein Bindeglied "Interface" geregelt. Dieses Buch behandelt diese Zwischenschaltungen und die dazugehörigen Assemblerprogramme in systematischer Gliederung vom einfachen Interface für einen Schalter oder eine Leuchtdiode bis zum Interface für eine Tastatur oder ein lokales Netzwerk. (MOD)

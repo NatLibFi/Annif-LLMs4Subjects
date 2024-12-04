@@ -1,0 +1,2 @@
+Geoinformatik
+Der Band liefert einen kompakten Überblick über Konzepte und Verfahren in der Geoinformatik und zeigt den gesamten Ablauf der Verarbeitung von Geoinformationen - von der Erfassung, über die Verwaltung und Analyse bis zur Präsentation. Neben der Vermittlung der Grundlagen stellen die Autoren auch die vielfältigen Anwendungsmöglichkeiten der Geoinformatik dar.

@@ -1,0 +1,2 @@
+Handbook of graph theory, combinatorial optimization, and algorithms
+section 1. Basic concepts and algorithms -- section 2. Flows in networks -- section 3. Algebraic graph theory -- section 4. Structural graph theory -- section 5. Planar graphs -- section 6. Interconnection networks -- section 7. Special graphs -- section 8. Partitioning -- section 9. Matroids -- section 10. Probabilistic methods, random graph models, and randomized algorithms -- section 11. Coping with NP-completeness

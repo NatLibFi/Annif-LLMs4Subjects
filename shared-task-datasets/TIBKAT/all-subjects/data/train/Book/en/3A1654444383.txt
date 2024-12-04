@@ -1,0 +1,2 @@
+Managerial approaches toward queuing systems and simulations
+"This book explores the concepts and apply formulas to measure the performance and to understand the behavior of systems under their responsibility. It also explores how the bases of linear algebra, markov chains, statistics and probability are needed"--

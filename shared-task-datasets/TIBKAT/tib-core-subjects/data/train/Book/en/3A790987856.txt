@@ -1,0 +1,2 @@
+Simulation : the practice of model development and use
+"Simulation modelling involves the development of models that imitate real-world operations, and statistical analysis of their performance with a view to improving efficiency and effectiveness. This non-technical textbook is focused towards the needs of business, engineering and computer science students"--

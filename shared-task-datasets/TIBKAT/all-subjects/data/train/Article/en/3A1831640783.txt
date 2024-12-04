@@ -1,0 +1,2 @@
+Appendix A A Guide for Newcomers to Agent-Based Modeling in the Social Sciences
+This guide provides pointers to introductory readings, software, and other materials to help newcomers become acquainted with agent-based modeling in the social sciences.

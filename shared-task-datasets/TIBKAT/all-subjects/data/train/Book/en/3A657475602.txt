@@ -1,0 +1,3 @@
+Web commerce security : design and development
+Provides information on designing effective security mechanisms for e-commerce sites, covering such topics as cryptography, authentication, information classification, threats and attacks, and certification
+I: Overview of commerce -- Internet era: E-commerce -- Mobile commerce -- Important "ilities" in Web commerce security -- 2: E-commerce security -- E-commerce basics -- Building blocks: your tools -- System components: what you should implement -- Trust but verify: checking security -- Threats and attacks: what your adversaries do -- Certification: you assurance

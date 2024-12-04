@@ -1,0 +1,2 @@
+Beginning Ubuntu LTS Server administration : from novice to professional ; [covers 8.04 LTS]
+Provides information on Ubuntu Server administration, working with Linux commands, using Web services, setting up a file system, and virtualization

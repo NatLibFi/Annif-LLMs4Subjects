@@ -1,0 +1,2 @@
+Advances in Databases : 19th British National Conference on Databases, BNCOD 19 Sheffield, UK, July 17–19, 2002 Proceedings
+This book constitutes the refereed proceedings of the 19th British National Conference on Databases, BNCOD 2002, held in Sheffield, UK, in July 2002.The 10 revised full papers and 9 posters presented together with one invited paper were carefully reviewed and selected for inclusion in the volume. The book offers topical sections on query processing, data warehousing and data mining, quality and integrity, and web and distributed databases

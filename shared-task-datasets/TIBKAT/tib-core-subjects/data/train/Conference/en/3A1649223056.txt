@@ -1,0 +1,2 @@
+Practical aspects of declarative languages : 6th International Symposium, PADL 2004, Dallas, TX, USA, June 18 - 19, 2004; proceedings
+This book constitutes the refereed proceedings of the 6th International Symposium on Practical Aspects of Declarative Languages, PADL 2004, held in Dallas, Texas, USA in June 2004. The 15 revised full papers presented together with 2 invited papers were carefully reviewed and selected for presentation. All current aspects of declarative programming are addressed

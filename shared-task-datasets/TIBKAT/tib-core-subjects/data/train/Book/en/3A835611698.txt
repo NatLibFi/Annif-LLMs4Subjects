@@ -1,0 +1,2 @@
+Learn to program with Minecraft : transform your world with the power of Python
+"A kid-friendly introduction to programming in Python that teaches how to customize Minecraft. Readers follow short Python lessons, then write Python code to create instant visual results in the game"--

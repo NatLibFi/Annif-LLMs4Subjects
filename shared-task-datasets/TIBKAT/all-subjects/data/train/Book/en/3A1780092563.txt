@@ -1,0 +1,2 @@
+Ideas and methods of supersymmetry and supergravity or a walk through superspace
+1. Mathematical background -- 2. Supersymmetry and superspace -- 3. Field theory in superspace -- 4. Quantized superfields -- 5. Superspace geometry of supergravity -- 6. Dynamics in supergravity -- 7. Effective action in curved superspace.

@@ -1,0 +1,2 @@
+Open systems and standards for software product development
+Numerous books have been published that describe individual computer standards, but Open Systems and Standards for Software Product Development is the first book that provides you with a framework for understanding groups of standards and how they relate. You get comprehensive coverage of standards terminology, the history of standards, the services standards support, and the organizations that define standards

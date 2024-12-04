@@ -1,0 +1,2 @@
+Analysis
+Beschr.: Dieses Lehrbuch zählt mit seinem komprimierten und zugleich klaren Stil zu den Meisterwerken der mathematischen Lehrbuchliteratur. Walter Rudin behandelt mit methodisch-didaktischer Geschicklichkeit vollständig die Analysis einer und mehrerer Variablen, wobei wichtige Themen wie z.B. das Riemann-Stieltjes-Integral, die Lebesgue?sche Theorie, die Gamma-Funktion, Differentialformen oder der Satz von Stone-Weierstrass sehr ausführlich diskutiert werden

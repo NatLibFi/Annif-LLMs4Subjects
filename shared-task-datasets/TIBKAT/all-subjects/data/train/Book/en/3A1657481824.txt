@@ -1,0 +1,2 @@
+OTC Derivatives: Bilateral Trading & Central Clearing : An Introduction to Regulatory Policy, Market Impact and Systemic Risk
+After the credit crisis, supervisors enacted a range of financial reforms. In particular, they radically changed the nature of the OTC derivatives market via a number of measures, notably mandatory central clearing. This book discusses the market before the crisis, explains what central clearing is, and outlines the consequences of the new rules.

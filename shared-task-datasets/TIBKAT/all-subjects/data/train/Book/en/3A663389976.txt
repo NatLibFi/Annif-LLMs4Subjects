@@ -1,0 +1,2 @@
+Learn Windows PowerShell in a month of lunches
+A guide to using Windows PowerShell to script Windows administrative tasks and control Windows from the command line

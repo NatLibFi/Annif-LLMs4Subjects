@@ -1,0 +1,2 @@
+Topological microfluidics : nematic liquid crystals and nematic colloids in microfluidic environment
+Liquid crystal theory -- Materials and experimental methods -- Functionalization of microfluidic devices -- Nematic liquid crystals confined within a microfluidic device: Static case -- Flow of nematic liquid crystals in a microfluidic environment -- Nematic colloids in microfluidic confinement -- Ongoing research

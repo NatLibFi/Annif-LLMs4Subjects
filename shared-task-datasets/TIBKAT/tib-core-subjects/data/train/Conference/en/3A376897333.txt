@@ -1,0 +1,2 @@
+Hardcore Java : [secrets of the Java masters]
+Focuses on the little-touched but critical parts of the Java programming language that the expert programmers use. Learn about extremely powerful and useful programming techniques such as reflection, advanced data modeling, advanced GUI design, and advanced aspects of JDO, EJB, and XML-based web clients. This unique book reveals the true wizardry behind the complex and often mysterious Java environment--O'Reilly web site

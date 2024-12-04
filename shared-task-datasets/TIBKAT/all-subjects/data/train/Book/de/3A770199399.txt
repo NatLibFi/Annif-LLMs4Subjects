@@ -1,0 +1,2 @@
+Evolutionäre Optimierungsverfahren und ihr Einsatz in der ökonomischen Forschung
+Dieser Beitrag bietet eine Einführung in eine Gruppe moderner Algorithmen, den sogenannten evolutionären Optimierungsverfahren. Anhand eines einfachen Beispiels wird die grundsätzliche Funktionsweise dieser Algorithmen skizziert. Darüberhinaus wird ein Überblick über die Anwendungsmöglichkeiten dieser Verfahren innerhalb der ökonomischen Forschung - insbesondere im Bereich der Modellierung von Lernprozessen - gegeben.

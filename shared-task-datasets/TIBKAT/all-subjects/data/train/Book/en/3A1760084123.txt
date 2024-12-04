@@ -1,0 +1,2 @@
+Perverse sheaves and applications to representation theory
+Sheaf theory -- Constructible sheaves on complex algebraic varieties -- Perverse sheaves -- Nearby and vanishing cycles -- Mixed sheaves -- Equivariant derived categories -- Kazhdan-Lusztig theory -- Springer theory -- The geometric Satake equivalence -- Quiver representations and quantum groups.

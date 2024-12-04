@@ -1,0 +1,2 @@
+Linear causal modeling with structural equations
+Scalar algebra -- Vectors -- N-tuples as vectors -- Equality of vectors -- Scalars and vectors -- Multiplying a vector by a scalar -- Addition of vectors -- Scalar product of vectors -- Distance between vectors -- Length of a vector -- Another definition for scalar multiplication -- Cosine of the angle between vectors -- Projection of a vector onto another vector -- Types of special vectors -- Linear combinations -- Linear independence

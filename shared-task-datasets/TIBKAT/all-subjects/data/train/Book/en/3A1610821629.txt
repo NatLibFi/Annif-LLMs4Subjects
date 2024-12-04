@@ -1,0 +1,2 @@
+Image statistics in visual computing
+"The statistics of natural images have attracted the attention of researchers in a variety of fields as a means to better understand the human visual system and its processes. A number of algorithms in computer graphics and vision and image processing take advantage of such statistical findings to create visually more plausible results. This book explores the state of the art in image statistics and discusses existing and potential applications within computer graphics and related areas"--

@@ -1,0 +1,2 @@
+Numerical continuation and bifurcation in nonlinear PDEs
+"This book presents a hands-on approach to numerical continuation and bifurcation for nonlinear PDEs"--

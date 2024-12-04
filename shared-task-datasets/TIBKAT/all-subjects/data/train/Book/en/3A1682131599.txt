@@ -1,0 +1,2 @@
+Reverse engineering of object oriented code
+During maintenance of a software system, not all questions can be answered directly by resorting to otherwise reliable and accurate source code. Reverse engineering aims at extracting abstract, goal- oriented views of the system, able to summarize relevant properties of the program's computations. This book provides an overview of techniques

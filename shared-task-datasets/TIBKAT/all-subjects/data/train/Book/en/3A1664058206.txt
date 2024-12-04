@@ -1,0 +1,3 @@
+Security in IoT-enabled spaces
+Smart-spaces in IoT -- Security in VANET-based spaces -- Seamless identification in IoT -- Confidential sensing in the IoT era -- IoT smart homes and security issues : an overview -- IoT-base edge and security : Discussions and remarks -- Secure access in eHealth spaces -- Secured caching in IoT networks -- Seamless key agreement for public safety networks.
+"This book addresses major security aspects and challenges in realizing smart spaces and sensing platforms in critical Cloud and IoT applications"--

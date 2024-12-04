@@ -1,0 +1,2 @@
+Lightweight information integration through partial mapping and query reformulation
+Information integration, query reformulation, query ranking. - Informationsintegration, Anfragenübersetzung, Anfragenrangordnung

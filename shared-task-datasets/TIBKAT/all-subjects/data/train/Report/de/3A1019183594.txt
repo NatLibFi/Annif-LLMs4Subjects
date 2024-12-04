@@ -1,0 +1,2 @@
+Kristallographie : eine Einführung für Studierende der Naturwissenschaften
+Einleitung -- Der Kristallzustand -- Das Raumgitter und seine Eigenschaften -- Die Kristallstruktur -- Die Morphologie -- Das Symmetrieprinzip -- Die 14 Translations-(Bravais-)gitter -- Die 7 Kristallsysteme -- Die Punktgruppen -- Die Raumgruppen -- Symmetriegruppen -- Grundbegriffe der Kristallchemie -- Röntgenographische Untersuchungen an Kristallen -- Kristallbaufehler -- Anhang -- Lösungen der Übungsaufgaben -- Literatur, Sachverzeichnis, Tafel (Wulffsches Netz)

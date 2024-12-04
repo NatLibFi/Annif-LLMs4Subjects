@@ -1,0 +1,2 @@
+Solution methods for variational problems of low thrust space flight mechanics
+Introduction -- Methods of low thrust space flight optimization -- Mathematical models of optimization problems -- Applied problems of low thrust space flight optimization

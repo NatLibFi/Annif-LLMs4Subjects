@@ -1,0 +1,2 @@
+The causal effects of exports on firm size and labor productivity : first evidence from a matching approach
+This paper uses a large plant level panel data set from Germany and a matching approach to look for casual effects of starting to export on plant performance. We find positive effects on growth of employment, labor productivity, and wages.

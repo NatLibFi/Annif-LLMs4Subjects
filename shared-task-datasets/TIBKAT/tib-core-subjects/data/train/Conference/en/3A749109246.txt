@@ -1,0 +1,2 @@
+Computer Aided Verification : 16th International Conference, CAV 2004, Boston, MA, USA, July 13-17, 2004. Proceedings
+This book constitutes the refereed proceedings of the 16th International Conference on Computer Aided Verification, CAV 2004, held in Boston, MA, USA, in July 2004. The 32 revised full research papers and 16 tool papers were carefully reviewed and selected from 144 submissions. The papers cover all current issues in computer aided verification and model checking, ranging from foundational and methodological issues to the evaluation of major tools and systems

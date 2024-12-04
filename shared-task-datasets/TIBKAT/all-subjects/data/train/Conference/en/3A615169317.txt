@@ -1,0 +1,2 @@
+Declarative agent languages and technologies VII : 7th international workshop, DALT 2009, Budapest, Hungary, May 11, 2009 ; revised, selected and invited papers
+"This volume presents the latest developments in the area of declarative languages and technologies, which aim to provide rigorous frameworks for designing, specifying, implementing and verifying autonomous interacting agents. These frameworks are based on computational logics and other formal methods such as mathematical models and game theoretical approaches."--Preface

@@ -1,0 +1,2 @@
+Verbundprojekt DEMON: Automatisierung von Demontageprozessen am Beispiel von Altautos : Schlussbericht; Laufzeit des Vorhabens: 01.02.1996 - 31.12.1999 ; B: Neuronale und wissensbasierte Objekterkennung, Vermessung und Hindernispräsentation
+Robot vision system, Autonomous, Intelligent robot, Stereo vision, Neural and knowledge based object recognition, Object measurement, Obstacle detection and representation

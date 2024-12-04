@@ -1,0 +1,2 @@
+2D-FE-Verfahren für die Kennfeldberechnung von vielstufigen Turbinen mit unter- und überkritischen Stufendruckverhältnissen mit variabler Kühlluftzufuhr : Abschlußbericht zum Vorhaben 1.312 im Teil-Verbundprojekt Turbotech der Arbeitsgemeinschaft Hochtemperaturgasturbine ; [Abschlußdatum des Vorhabens: 31.12.1998]
+Turbine, throughflow, finite-elemente, turbine cooling, blade cooling, radial mixing, secondary loss, tip clearence loss

@@ -1,0 +1,2 @@
+Bioinformatics and RNA : a practice-based approach
+"This book offers a unique balance between basic introductory knowledge of bioinformatics and the detailed study of algorithmic techniques. The book is a complete guide on the fundamental concepts, applications, algorithms, protocols, new trends, challenges, and research results in the area of bioinformatics and RNA"--

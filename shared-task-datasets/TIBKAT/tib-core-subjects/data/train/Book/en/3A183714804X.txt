@@ -1,0 +1,2 @@
+Computational intelligence in healthcare : applications, challenges, and management
+Since Computational Intelligence is a latest technological aspect, the book is likely to be adopted in almost all leading Universities. This book aims to provide state-of-art research in the context of Computational Intelligence related with Healthcare its applications, challenges and management and it would promote how optimization or intelligent techniques envisage the role of Artificial Intelligence-Machine/Deep Learning (AI-ML/DL) in Healthcare

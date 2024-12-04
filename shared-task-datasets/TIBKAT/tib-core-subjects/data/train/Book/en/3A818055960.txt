@@ -1,0 +1,3 @@
+Intelligent materials and structures
+Introduction to intelligent materials and structures -- Laminated composite materials -- Piezoelectricity -- Shape memory alloys -- Electrorheological and magnetorheological fluids -- Magnetostrictive and electrostrictive materials -- Applications of intelligent materials in structures -- Energy harvesting using intelligent materials
+"This book provides insight into designing intelligent materials and structures for special application in engineering. The book discusses simulation and experimental determination of physical material properties, such as piezoelectric effects, shape memory, electro-rheology, and distributed control for vibrations minimization"--

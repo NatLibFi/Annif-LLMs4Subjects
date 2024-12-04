@@ -1,0 +1,2 @@
+Combinatorics : a very short introduction
+Combinatorics is a large branch of mathematics involving the counting, selecting, and arranging of objects. Robin Wilson explores the field, looking at problems such as the shortest routes from A to B, to the number of Sudoku puzzles possible

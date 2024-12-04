@@ -1,0 +1,2 @@
+Handbook of IoT and big data
+"This multi-contributed handbook will focus on the latest workings of IoT (internet of Things) and Big Data. As the resources are limited, it's the endeavor of the authors to support and bring the information into one resource. The book will be divided into 4 sections that will cover IoT and technologies, the future of Big Data, algorithms, and case studies showing IoT and Big Data in various fields such as health care, manufacturing and automation"--

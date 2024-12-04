@@ -1,0 +1,2 @@
+Chapter 10. GPU Computing in Economics
+This paper discusses issues related to GPU for economic problems. It highlights new methodologies and resources that are available for solving and estimating economic models and emphasizes situations when they are useful and others where they are impractical. Two examples illustrate the different ways these GPU parallel methods can be employed to speed computation.

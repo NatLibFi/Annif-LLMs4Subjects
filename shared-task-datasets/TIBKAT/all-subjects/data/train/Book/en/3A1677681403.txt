@@ -1,0 +1,2 @@
+New methods and paradigms for modeling dynamic processes based on cellular automata
+"This book describes the theoretical concepts of constructing asynchronous cellular automata with active cells. It also examines the use of theoretical principles for solving modeling problems and solving specific applied problems of forming pseudorandom sequences and image processing based on modeling of the human visual channel" --

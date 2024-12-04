@@ -1,0 +1,2 @@
+Hidden Markov models and dynamical systems
+Basic algorithms -- Variants and generalizations -- Continuous states and observations and Kalman filtering -- Performance bounds and a toy problem -- Obstructive sleep apnea

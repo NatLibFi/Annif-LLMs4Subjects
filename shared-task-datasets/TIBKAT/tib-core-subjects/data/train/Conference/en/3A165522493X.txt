@@ -1,0 +1,2 @@
+Microlocal Analysis and Applications : Lectures given at the 2nd Session of the Centro Internazionale Matematico Estivo (C.I.M.E.) held at Montecatini Terme, Italy, July 3–11, 1989
+CONTENTS: J.M. Bony: Analyse microlocale des equations aux derivees partielles non lineaires.- G.G. Grubb: Parabolic pseudo-differential boundary problems and applications.- L. H|rmander: Quadratic hyperbolic operators.- H. Komatsu: Microlocal analysis in Gevrey classes and in complex domains.- J. Sj|strand: Microlocal analysis for the periodic magnetic Schr|dinger equation and related questions

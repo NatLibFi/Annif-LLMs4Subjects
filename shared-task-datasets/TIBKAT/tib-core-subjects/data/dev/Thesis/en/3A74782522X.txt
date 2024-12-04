@@ -1,0 +1,2 @@
+Multi-standard context-aware cognitive radio : sensing and classification mechanisms
+Cognitive radio, signal detection and classification, spectrum sensing, Signaldetektion und -klassifizierung

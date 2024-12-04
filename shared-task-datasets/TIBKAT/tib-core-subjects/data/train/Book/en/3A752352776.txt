@@ -1,0 +1,2 @@
+Learning Java through games
+"A first year undergraduate textbook for computer science majors, this book can also be used by anyone who wants to learn Java on their own. After reading the textbook and completing the attached projects and exercises, the reader will be ready to take the next computer science courses, such as data structures or software engineering. This textbook makes the learning experience enjoyable and rewarding via a sequence somewhat related game projects. "--

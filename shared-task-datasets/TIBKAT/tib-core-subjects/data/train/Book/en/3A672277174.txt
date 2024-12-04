@@ -1,0 +1,2 @@
+Nonlinear optics : phenomena, materials, and devices
+"This book is based on tried and tested courses taught by the author, George Stegeman, who is one of the experimental pioneers in nonlinear optics. The book starts with second order phenomena, goes on to explain the derivation of nonlinear susceptibilities, and finishes with a thorough discussion of third order nonlinear effects. Included is a simple "electron on a spring" model which helps readers begin their journey through the field of nonlinear optics"--

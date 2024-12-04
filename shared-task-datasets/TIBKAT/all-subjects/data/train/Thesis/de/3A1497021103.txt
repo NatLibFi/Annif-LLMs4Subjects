@@ -1,0 +1,2 @@
+Toward an automatic solution for updating building databases using space-borne stereo imaging
+Building, change detection, stereoscopic, image matching, GIS database, high resolution. - Gebäude, Aktualisierung, stereoskopisch, Bildzuordnung, GIS-Datenbank, hochauflösend

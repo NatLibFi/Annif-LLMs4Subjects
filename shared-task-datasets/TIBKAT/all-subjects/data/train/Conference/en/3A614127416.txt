@@ -1,0 +1,2 @@
+Geometric algebra computing : in engineering and computer science
+Pt.1. Geometric Algebra -- Pt.2. Clifford Fourier Transform -- Pt.3. Image Processing, Wavelets and Neurocomputing -- Pt.4. Computer Vision -- Pt.5. Conformal Mapping and Fluid Analysis -- Pt.6. Crystallography, Holography and Complexity -- Pt.7. Efficient Computing with Clifford (Geometric) Algebra

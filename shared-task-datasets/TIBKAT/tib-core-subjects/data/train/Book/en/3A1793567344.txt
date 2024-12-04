@@ -1,0 +1,2 @@
+Wide bandgap nanowires : synthesis, properties, and applications
+"The first part of the book gives an overview of nanotechnology-enabled fabrication of wide band gap nanowires, covering bottom-up, top-down and hybrid approaches. The second part reviews their electrical, mechanical, optical and thermal properties which are the basis for realizing the sensor and energy device applications that are the focus of the third part."--

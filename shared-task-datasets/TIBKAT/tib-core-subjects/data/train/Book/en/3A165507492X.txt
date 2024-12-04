@@ -1,0 +1,2 @@
+Cyclic Difference Sets
+Existence questions -- Multipliers and constructive existence tests -- Difference sets of special type -- Families of difference sets -- Miscellany.

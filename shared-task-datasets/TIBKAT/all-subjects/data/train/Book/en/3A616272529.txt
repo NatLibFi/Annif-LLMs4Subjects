@@ -1,0 +1,2 @@
+Applied cryptography for cyber security and defense : information encryption and cyphering
+"This book is written for professionals who want to improve their understanding about how to bridge the gap between cryptographic theory and real-world cryptographic applications and how to adapt cryptography solutions to emerging areas that have special requirements"--Provided by publisher

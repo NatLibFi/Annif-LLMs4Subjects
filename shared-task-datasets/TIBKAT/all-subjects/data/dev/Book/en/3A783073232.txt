@@ -1,0 +1,2 @@
+SAP BW: administration and performance optimization : [architect an SAP BW system for optimal performance on a traditional database or on SAP HANA ; employ best practices to design efficient data models and optimize query and report performance ; explore administration tasks that are performed daily, weekly, monthly, quarterly, and yearly]
+System environment -- Data loading and data management -- Roles and authorizations -- Data modeling and loading for performance -- Daily tasks -- Quarterly tasks -- Yearly tasks

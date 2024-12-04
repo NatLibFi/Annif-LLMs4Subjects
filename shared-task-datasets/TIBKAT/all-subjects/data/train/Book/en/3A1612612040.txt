@@ -1,0 +1,2 @@
+Aircraft systems : mechanical, electrical, and avionics subsystems integration
+Flight control systems -- Engine control systems -- Fuel systems -- Hydraulic systems -- Electrical systems -- Pneumatic systems -- Environmental control systems -- Emergency systems -- Rotary wing systems -- Advanced systems -- System design & development -- Avionics technology -- Environmental conditions

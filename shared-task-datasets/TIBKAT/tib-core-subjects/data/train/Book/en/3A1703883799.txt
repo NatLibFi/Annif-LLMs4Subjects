@@ -1,0 +1,2 @@
+An introduction to differential equations with applications
+"Our book presents methods for solving differential equations that many other text do not cover. These include Heaviside operator methods, phase plane analysis and several detailed methods for approximating solutions that cannot be obtained analytically"--

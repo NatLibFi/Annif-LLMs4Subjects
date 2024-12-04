@@ -1,0 +1,2 @@
+Advancing embedded systems and real-time communications with emerging technologies
+"This book discusses embedded systems, communication system engineering, and real-time systems in an integrated manner and covers advancements in the fields of computer science, computer engineering, and telecommunication engineering in regard to how they are used in embedded and real-time systems for communications purposes"--

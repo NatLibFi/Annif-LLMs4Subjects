@@ -1,0 +1,2 @@
+Foundations and Applications of Multi-Agent Systems : UKMAS Workshops 1996–2000 Selected Papers
+This book presents revised full versions of papers contributed to UK Workshops on Multi-Agent Systems, UKMAS, during 1996 and 2000. From the early days of MAS research, the UK community has been a particularly productive one with numerous key contributions. The 15 papers by internationally reputed researchers deal with various aspects of agent technology, with a certain emphasis on foundational issues in multi-agent systems

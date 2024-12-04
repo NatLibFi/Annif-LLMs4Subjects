@@ -1,0 +1,2 @@
+Solving linear partial differential equations : spectra
+"The most comprehensive coverage of linear partial differential equations of arbitrary order. Three chapters are devoted to background material. Only a good knowledge of calculus and vector spaces is required. Much of the material is not found in other books"--

@@ -1,0 +1,2 @@
+Elektrische Maschinen und Antriebstechnik : Grundlagen und Betriebsverhalten
+Dieses Buch behandelt in kompakter Form den Einsatz elektrischer Maschinen in Antrieben unter besonderer Berücksichtigung moderner Stromrichtertechnik, und es vermittelt Fähigkeiten zur Dimensionierung von Elektromotoren für typische Anwendungsfälle. Es ist als Lehrbuch konzipiert, jeder Abschnitt enthält Kontrollfragen sowie Übungsaufgaben mit Lösungen

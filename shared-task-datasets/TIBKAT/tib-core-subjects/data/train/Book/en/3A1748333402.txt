@@ -1,0 +1,2 @@
+Multicast and group security
+A handbook for engineers, architects and other practitioners working in the field of Internet security. It presents detailed coverage of security technologies and techniques for IP (Internet protocol) multicast networks, along with algorithms and protocols for multi-party secure communication

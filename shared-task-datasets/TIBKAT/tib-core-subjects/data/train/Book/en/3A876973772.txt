@@ -1,0 +1,2 @@
+Video encoding by the numbers
+"Video Encoding by the Numbers teaches you to optimize video quality by tying key configuration decisions to quality metrics like PSNR and SSIMplus, eliminating the guesswork. You'll learn to apply these metrics to your own videos, and how to choose and deploy adpative bitrate (ABR) technologies like HLS and DASH. You'll also get a primer on encoding and packaging with FFmpeg."--

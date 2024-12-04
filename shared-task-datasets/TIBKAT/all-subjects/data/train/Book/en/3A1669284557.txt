@@ -1,0 +1,3 @@
+Introduction to self-driving vehicle technology
+"This book aims to teach the core concepts that make Self-driving vehicles (SDVs) possible. It is aimed at people who want to get their teeth into self-driving vehicle technology, by providing genuine technical insights where other books just skim the surface. The book tackles everything from sensors and perception to functional safety and cybersecurity. It also passes on some practical know-how and discusses concrete SDV applications, along with a discussion of where this technology is heading"--
+Hardware -- Perception -- Architecture -- Putting it all together -- Other technology aspects -- Applications and outlook.

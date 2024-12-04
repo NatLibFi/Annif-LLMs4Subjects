@@ -1,0 +1,3 @@
+Non-Linear Dynamics Near and Far from Equilibrium
+This text gives a detailed account of various techniques that are used in the study of dynamics of continuous systems, near as well as far from equilibrium. The analytic methods covered include diagrammatic perturbation theory, various forms of the renormalization group, and self-consistent mode coupling.
+Gives an account of various techniques that are used in the study of dynamics of continuous systems, near as well as far from equilibrium. This book provides the dynamic phenomena near a second order phase transition, phase ordering dynamics, dynamics of surface growth and turbulence

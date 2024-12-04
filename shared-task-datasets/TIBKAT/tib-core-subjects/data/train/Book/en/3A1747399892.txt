@@ -1,0 +1,2 @@
+An introduction to interpretation of graphic images
+The image analysis community has put much effort into developing systems for the automatic reading of various types of documents containing text, graphic information, and pictures. A closely related but much more problematic task is the reading and interpretation of line drawings such as maps, engineering drawings, and diagrams. This book considers the problem in detail, analyzes its theoretical foundations, and analyzes existing approaches and systems

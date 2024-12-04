@@ -1,0 +1,2 @@
+Pro SQL Server 2008 Service Broker : [learn how to program distributed message applications with SQL Server 2008 Service Broker]
+Provides information on message-based programming and service-oriented database architecture using SQL Server 2008 Server Broker

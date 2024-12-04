@@ -1,0 +1,3 @@
+C# and XML Primer
+1. Introduction to XML -- 2. Reading XML -- 3. Modifying XML -- 4. Serialization -- 5. Real Life Examples
+Learn XML and how to use and integrate it into your C# applications using this compact book. This guide helps you avoid the pitfalls of dealing with XML and C# since handling XML with C# and the .NET Platform can present its own set of challenges. XML is far from a dead technology, so it is important to learn how best to use it in your applications when the need arises. You will: Gain the essentials of XML for C# development Read XML files with XMLDocuMent and XDocument Write XML with XMLDocument, XDocument, and XMLWriter Modifiy your XML with XML Document and XDocument

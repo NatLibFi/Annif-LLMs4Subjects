@@ -1,0 +1,2 @@
+Inversion of surface parameters using polarimetric SAR
+In this dissertation on the Inversion of Surface Parameters using Polarimetric SAR, the potential of implementing recent advances made in Polarimetric Synthetic Aperture Radar to surf ace parameter estimation is investigated. The sensitivity of microwave scattering to the dielectric properties and the geometric structure of bare soil surfaces makes radar remote sensing a challeng e for a wide range of environmental issues related to the condition of natural surfaces.

@@ -1,0 +1,2 @@
+Software Engineering
+Das als Klassiker geltende Lehrbuch für den Einsatz an Hochschulen liegt jetzt in 10. Auflage vor, in der agile Methoden des Software-Engineering weiter an Gewicht gewonnen haben. Ferner wurden einige Kapitel stark renoviert (Zuverlässigkeit, Betriebssicherheit, Informationssicherheit), andere wurden teilweise auf die Website ausgelagert, die ebenfalls erweitert wurde. Die vorhergehende Auflage erschien bereits 2012 und sollte zumindest durch diese aktuelle Ausgabe ergänzt werden. (2)

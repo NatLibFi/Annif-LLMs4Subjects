@@ -1,0 +1,2 @@
+Mixed and Hybrid Finite Element Methods
+Research on non-standard finite element methods is evolving rapidly and in this text Brezzi and Fortin give a general framework in which the development is taking place. The presentation is built around a few classic examples: Dirichlet's problem, Stokes problem, Linear elasticity. The authors provide with this publication an analysis of the methods in order to understand their properties as thoroughly as possible

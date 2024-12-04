@@ -1,0 +1,2 @@
+Dependency injection in .NET
+A dependency injection tasting menu -- A comprehensive example -- DI containers -- DI patterns -- DI anti-patterns -- DI refactorings -- Object composition -- Object lifetime -- Interception -- Castle Windsor -- StructureMap -- Spring.NET -- Autofac -- Unity --MEF

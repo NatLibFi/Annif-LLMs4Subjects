@@ -1,0 +1,2 @@
+Clojure programming : [practical Lisp for the Java world]
+"Clojure programming ... This functional programming language not only lets you take advantage of Java libraries, services, and other JVM resources, it rivals other dynamic languages such as Ruby and Python. With this comprehensive guide, you'll learn Clojure fundamentals with examples that relate it to languages you already know"--P. [4] of cover

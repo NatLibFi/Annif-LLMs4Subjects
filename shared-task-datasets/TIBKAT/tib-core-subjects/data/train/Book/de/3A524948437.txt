@@ -1,0 +1,2 @@
+Methoden der Bioinformatik : eine Einführung
+Die Autoren führen von den mathematischen Grundlagen zu den konkreten bioinformatischen Methoden und den fertigen Soft-warewerkzeugen. Ein besonderes Highlight sind die Mathematica-Exkurse. Schritt für Schritt wird die Implementierung wichtiger bioinformatischer Algorithmen im Computeralgebra-Programm Mathematica vorgeführt.

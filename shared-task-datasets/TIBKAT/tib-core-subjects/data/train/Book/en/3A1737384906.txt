@@ -1,0 +1,2 @@
+Energy transfer in macromolecules
+This book is a review of energy transfer mechanisms and luminescence measurements of efficiency of electronic excitation energy transfer in synthetic bichromophoric molecules, polymers, and biopolymers. It is devoted mostly to contradictions and alternative viewpoints and is intended for researchers in the field of fluorescent spectroscopy and photochemistry of polymers and biopolymers

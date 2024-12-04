@@ -1,0 +1,2 @@
+Markov chains : from theory to implementation and experimentation
+From observation to simulation -- Building the stochastic matrix -- Predictions by using 2-state Markov chains -- Predictions by using N-state Markov chains -- Absorbing Markov chains -- The average time spent in each state -- Discussions on different configurations of chains -- The simulation of an N-state Markov chain

@@ -1,0 +1,2 @@
+Flow and transport in porous media and fractured rock : from classical methods to modern approaches
+Zwei verschiedene Wege der Modellbildung werden vorgestellt. Der erste Weg basiert auf klassischen Fluß- und Transportgleichungen, 'Kontinuumsmodelle' genannt. Der zweite Weg basiert auf modernen Methoden aus der statistischen Physik ungeordneter Materie, d.h. auf 'diskreten Modellen'. Das Buch ist ideal für Doktoranden, für Chemie-, Petrochemie-, Bau- und Umweltingenieure, Geologen, Physiker und alle Wissenschaftler, die sich mit porösen Medien beschäftigen

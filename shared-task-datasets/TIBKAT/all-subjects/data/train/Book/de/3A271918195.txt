@@ -1,0 +1,2 @@
+Laser : sicherheitstechnische Festlegungen für Lasergeräte und -anlagen; Normen
+Enthält: DIN 5335:1993 [Entwurf] ; DIN 18735:1991 [Vornorm] ; DIN 56912:1982 ; DIN EN 60601-2-22:1996 ; DIN EN 207:1993 ; DIN EN 208:1993 ; DIN EN 60825-1:1997 ; DIN EN 60825-2:1994 ; DIN EN 61040:1993 ; DIN EN ISO 11145:1995

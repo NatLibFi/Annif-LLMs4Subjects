@@ -1,0 +1,2 @@
+Mastering Kotlin : a beginner's guide
+"This book is a detailed guide that will help learners get started with Kotlin programming. It talks about the basics and then moves on to practical exercises to help readers quickly gain the required knowledge. This book is meant for both seasoned developers as well as learners without a formal coding background"--

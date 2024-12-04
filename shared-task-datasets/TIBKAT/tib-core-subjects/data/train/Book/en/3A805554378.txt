@@ -1,0 +1,2 @@
+Python playground : geeky projects for the curious programmer
+"Python Playground is a collection of imaginative programming projects that will inspire you to use Python to make art and music, build simulations of real-world phenomena, and interact with hardware like the Arduino and Raspberry Pi."--

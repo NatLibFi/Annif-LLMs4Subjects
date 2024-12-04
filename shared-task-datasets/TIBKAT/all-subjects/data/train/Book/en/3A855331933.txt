@@ -1,0 +1,2 @@
+Multiconfigurational quantum chemistry
+Mathematical background -- Molecular orbital theory -- Hartree-Fock theory -- Relativistic effects -- Basis sets -- Second quantization and multiconfigurational wave functions -- Electron correlation -- Multiconfigurational SCF theory -- The RAS State-Interaction method -- The multireference CI method -- Multi-configurational reference perturbation theory -- CASPT2/CASSCF applications

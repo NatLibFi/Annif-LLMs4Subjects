@@ -1,0 +1,2 @@
+An introduction to chemical kinetics
+The book is a short primer on chemical reaction rates based on a six-lecture first-year undergraduate course taught by the author at the University of Oxford. The book explores the various factors that determine how fast or slowly a chemical reaction proceeds and describes a variety of experimental methods for measuring reaction rates. The link between the reaction rate and the sequence of steps that makes up the reaction mechanism is also investigated. Chemical reaction rates is a core topic in all undergraduate chemistry courses.

@@ -1,0 +1,2 @@
+Virtual environments and advanced interface design
+virtual environment technologies -- virtual environment modeling -- visual displays -- auditory displays -- haptic displays -- integration of technology

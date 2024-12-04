@@ -1,0 +1,2 @@
+Meshless methods in solid mechanics
+The subjects in this book cover the fundamentals of continuum mechanics, the integral formulation methods of continuum problems, the basic concepts of finite element methods, and the methodologies, formulations, procedures, and applications of various meshless methods. It also provides general and detailed procedures of meshless analysis on elastostatics, elastodynamics, non-local continuum mechanics and plasticity with a large number of numerical examples. Some basic and important mathematical methods are included in the Appendixes

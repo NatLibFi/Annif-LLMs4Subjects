@@ -1,0 +1,2 @@
+Programming and mathematical thinking : a gentle introduction to discrete math featuring Python
+"Concepts of discrete mathematics can help clarify a programmer's thinking about software design problems and can make many solutions obvious. Starting at an elementary level, this book teaches about fundamental structures of discrete mathematics together with many simple but powerful programming techniques using those structures."--

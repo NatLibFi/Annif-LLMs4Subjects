@@ -1,0 +1,2 @@
+Powering the internet of things with 5G networks
+"This book presents the 5G networks challenges and enabling technologies, the IOT challenges and enabling technologies, distinguishes IOT as a 5G main ingredient while being empowered by 5G, identifies how 5G empowers IOT while IOT is driving 5G, and identifies IOT/5G challenges of spectrum, connectivity, management, performance, QoS variability, privacy, security"--

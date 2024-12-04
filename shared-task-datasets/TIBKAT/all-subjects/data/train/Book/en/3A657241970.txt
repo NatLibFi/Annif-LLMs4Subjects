@@ -1,0 +1,2 @@
+New generation of portal software and engineering : emerging technologies
+"This book presents a strong understanding of Portals, SOA, the published research in these fields, as well providing an enterprise-based experience of factors that challenge implementation of Portal and SOA projects in practice"--Provided by publisher

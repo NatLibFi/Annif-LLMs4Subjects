@@ -1,0 +1,2 @@
+Degenerate Parabolic Equations
+Mathematicians have only recently begun to understand the local structure of solutions of degenerate and singular parabolic partial differential equations. The problem originated in the mid '60s with the work of DeGiorgi, Moser, Ladyzenskajia and Uraltzeva. This book will be an account of the developments in this field over the past five years. It evolved out of the 1990-Lipschitz Lectures given by Professor DiBenedetto at the Institut für angewandte Mathematik of the University, Bonn

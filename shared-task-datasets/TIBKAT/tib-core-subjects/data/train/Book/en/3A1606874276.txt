@@ -1,0 +1,3 @@
+Learning modern algebra : from early attempts to prove fermat's last theorem
+"Learning Modern Algebra is designed for college students who want to teach mathematics in high school, but it can serve as a text for standard abstract algebra courses as well. [...] The presentation is organized historically: the Babylonians introduced Pythagorean triples to teach the Pythagorean theorem; these were classified by Diophantus, and eventually this led Fermat to conjecture his Last Theorem."--Publisher description
+Early number theory -- Induction -- Renaissance -- Modular arithmetic -- Abstract algebra -- Arithmetic of polynomials -- Quotients, fields, and classical problems -- Cyclotomic integers -- Epilog -- Appendices

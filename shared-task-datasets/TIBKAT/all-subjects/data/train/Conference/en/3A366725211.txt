@@ -1,0 +1,2 @@
+Geophysical applications in geomorphology : [ ... most of the papers were originally presented at the "International Workshop Geophysical Techniques in Geomorphology" held in Bonn, Germany in February 2002]
+CD-ROM contains a demo version of the program REFLEXW for the 2- and 3- dimensional processing and interpretation of reflection, refraction and transmission data with a wide range of applications: GPR, reflection seismics, refraction seismics, borehole transmission, ultrasound

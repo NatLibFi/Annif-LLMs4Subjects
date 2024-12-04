@@ -1,0 +1,2 @@
+BeagleBone for dummies
+The BeagleBone is a tiny computer board about the size of a credit card and which has all the capability of a desktop. This volume guides you step-by-step throughout the process of getting acquainted with your BeagleBone Original or BeagleBoneBlack. You'll learn how to get set up, use the software, build the hardware, and code your projects, with plenty of examples to walk you through the process. You'll move carefully through your first BeagleBone project, then get ideas for even better, more advanced programs

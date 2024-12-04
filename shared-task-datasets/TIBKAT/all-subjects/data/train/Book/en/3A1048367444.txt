@@ -1,0 +1,3 @@
+Advanced Lectures on General Relativity
+Surface charges in Gravitation -- Three dimensional Einstein gravity -- Asymptotically flat spacetime -- Rotating black holes
+These lecture notes are intended for starting PhD students in theoretical physics who have a working knowledge of General Relativity. The four topics covered are: Surface charges as conserved quantities in theories of gravity; Classical and holographic features of three-dimensional Einstein gravity; Asymptotically flat spacetimes in four dimensions: BMS group and memory effects; The Kerr black hole: properties at extremality and quasi-normal mode ringing. Each topic starts with historical foundations and points to a few modern research directions

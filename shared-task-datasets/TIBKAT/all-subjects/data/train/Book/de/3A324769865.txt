@@ -1,0 +1,2 @@
+KDE- und Qt-Programmierung : GUI-Entwicklung für Linux
+Die 2., aktualisierte und erweitere Auflage behandelt neben den Grundlagen der Entwicklung von Programmen mit KDE 2.0 und Qt 2.1 auch spezielle Themen wie z.B. Internationalisierung, DCOP, MCOP und Netzwerkprogrammierung. Ein spezielles Kapitel beschäftigt sich mit portablen Qt-Programmen unter Microsoft Windows und Unix. Ein ausführlicher Referenzteil beschreibt alle Klassen der KDE- und Qt-Bibliotheken.Die CD-ROM enthält die Beispiele des Buchs, KDE 2.0, Qt 2.1, Dokumentation sowie Entwicklerwerkzeuge.

@@ -1,0 +1,2 @@
+Designing hybrid nanoparticles
+In the last few years, several "bottom-up" and "top-down" synthesis routes have been developed to produce tailored hybrid nanoparticles (HNPs). This book provides a new insight into one of the most promising "bottom-up" techniques, based on a practical magnetron-sputtering inert-gas-condensation method. A modified magnetron-sputtering-based inert-gas-condensation (MS-IGC) system is presented, and its performances under different conditions are evaluated.

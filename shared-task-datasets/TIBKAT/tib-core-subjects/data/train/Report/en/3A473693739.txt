@@ -1,0 +1,2 @@
+MEDARPA Augmented Reality - Medical Augmented Reality for patients : Schlussbericht ; Laufzeit: 01.04.2001 bis 31.03.2004
+Augmentes reality, tracking, hybrid tracking, rendering, visualization of volumetric images, transparent display, minimalinvasive

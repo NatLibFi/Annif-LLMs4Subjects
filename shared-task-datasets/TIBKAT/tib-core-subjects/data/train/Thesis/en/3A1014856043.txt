@@ -1,0 +1,2 @@
+An elastic primal active-set method for structured QPs
+Active-set methods, sequential quadratic programming, nonlinear optimization, quadratic programming, penalty formulation, slack relaxation, infeasible warm start. - Aktive Mengen Methode, sequentielle quadratische Programmierung, nichtlineare Optimierung, quadratische Programme, Straffunktionen, Relaxierung, Warmstart

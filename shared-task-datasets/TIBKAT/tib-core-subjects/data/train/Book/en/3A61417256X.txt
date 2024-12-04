@@ -1,0 +1,2 @@
+Modeling and analysis of dynamic systems
+Introduction to MATLAB® and Simulink® -- Complex analysis, differential equations, and Laplace transformation -- Matrix analysis -- System model representation -- Mechanical systems -- Electrical, electronic, and electromechanical systems -- Fluid and thermal systems -- System response -- Introduction to vibrations -- Introduction to feedback control systems

@@ -1,0 +1,2 @@
+Kalibriernormal zur Ermittlung der Tastspitzenform für Raster-Kraft-Mikroskope und -Profilometer : Mikroschäfte für die Charakterisierung der Tastspitzenform von Rasterkraftsonden ; Abschlussbericht für das F&E-Förderprojekt 13N7732[!] ; Laufzeit: 01.01.2000 - 31.03.2002
+AFM, calibration artefact, metrology, tip characterisation, silicon etching, electron optical characterisation

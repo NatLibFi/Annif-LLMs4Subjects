@@ -1,0 +1,2 @@
+Konzeption, Optimierung und theoretische Fundierung eines Meßsystems für Gravitationsexperimente am Fallturm Bremen
+Experimentelle Überprüfung des Äquivalenzprinzips, hochauflösender Positionsdektor auf der Basis von DC-SQUIDs, theoretische Fundierung des Experimentes.

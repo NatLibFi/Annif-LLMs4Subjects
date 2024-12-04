@@ -1,0 +1,2 @@
+On the Origin of Objects
+On the Origin of Objects is the culmination of Brian Cantwell Smith's decade-long investigation into the philosophical and metaphysical foundations of computation, artificial intelligence, and cognitive science. Based on a sustained critique of the formal tradition that underlies the reigning views, he presents an argument for an embedded, participatory, "irreductionist," metaphysical alternative. Smith seeks nothing less than to revise our understanding not only of the machines we build but also of the world with which they interact.

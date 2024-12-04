@@ -1,0 +1,2 @@
+The joy of clojure
+Provides information on the features and functions of Clojure and describes how to create applications

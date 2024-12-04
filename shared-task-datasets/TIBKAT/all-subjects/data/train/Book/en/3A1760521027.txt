@@ -1,0 +1,2 @@
+Python workout : 50 ten-minute exercises
+"Python Workout presents 50 exercises that focus on key Python 3 features. In it, expert Python coach Reuven Lerner guides you through a series of small projects, practicing the skills you need to tackle everyday tasks. You'll appreciate the clear explanations of each technique, and you can watch Reuven solve each exercise in the accompanying videos."--

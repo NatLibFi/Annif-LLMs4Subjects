@@ -1,0 +1,2 @@
+Tauberian Remainder Theorems
+Different approaches to tauberian theorems -- A typical general remainder theorem -- Remainder theorems in Wiener's form -- Some precise theorems in several dimensions -- Rapidly decreasing remainders -- Convolution equations without non-trivial solutions -- Complex tauberian theorems -- Miscellaneous remarks.

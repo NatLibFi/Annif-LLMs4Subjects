@@ -1,0 +1,2 @@
+Packet guide to core network protocols : [understanding network packets, protocols, and architectures]
+Networking models -- Ethernet -- Internet protocol -- Address resolution protocol -- Network equipment -- Internet control message protocol -- Subnetting and other masking acrobatics

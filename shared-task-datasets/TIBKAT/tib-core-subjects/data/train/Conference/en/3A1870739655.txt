@@ -1,0 +1,2 @@
+Intelligence for future cities : planning through big data and urban analytics
+This book contains a selection of the best papers presented at the Computational Urban Planning and Urban Management (CUPUM) conference, held in June 2023 at McGill University in Montreal, Quebec. Major themes of this book are smart cities, urban big data, and shared mobility. This book also contains chapters with cutting-edge research on urban modeling, walkability and bikeability analysis, and planning support systems (PSS).

@@ -1,0 +1,2 @@
+The browser hacker's handbook
+Hackers exploit browser vulnerabilities to attack deep within networks. The Browser Hacker's Handbook gives a practical understanding of hacking the everyday web browser and using it as a beachhead to launch further attacks deep into corporate networks. Written by a team of highly experienced computer security experts, the handbook provides hands-on tutorials exploring a range of current attack methods

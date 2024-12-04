@@ -1,0 +1,2 @@
+A developerʹs guide to Amazon SimpleDB
+Introducing Amazon SimpleDB -- Getting started with SimpleDB -- A code-snippet tour of the SimpleDB API -- A closer look at select -- Bulk data operations -- Working beyond the boundaries -- Planning for the application lifecycle -- Security in SimpleDB based applications -- Increasing performance -- Writing a SimpleDB client: a language independent guide -- Improving the SimpleDB client -- Building a web-based task list

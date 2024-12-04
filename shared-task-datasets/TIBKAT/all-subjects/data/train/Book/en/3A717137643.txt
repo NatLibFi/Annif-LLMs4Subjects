@@ -1,0 +1,2 @@
+Formal and practical aspects of domain-specific languages : recent developments
+"This book presents current research on all aspects of domain-specific language for scholars and practitioners in the software engineering fields, providing new results and answers to open problems in DSL research"--

@@ -1,0 +1,2 @@
+Applications of matching theory in constraint programming
+Matching theory, decomposition theory, extreme sets, dominators, constraint programming, global constraints, filtering algorithms, computational complexity. - Matchingtheorie, Zerlegungstheorie, extreme Mengen, Dominatoren, Constraint-Programmierung, globale Constraints, Filteralgorithmen, Komplexität

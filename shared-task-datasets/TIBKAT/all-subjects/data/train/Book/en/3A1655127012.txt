@@ -1,0 +1,2 @@
+Optimal Processes on Manifolds : an Application of Stokes’ Theorem
+Optimal processes on manifolds -- Processes, described by ordinary differential equations -- Processes, described by first order partial differential equations -- Processes, described by second order partial differential equations.

@@ -1,0 +1,2 @@
+Two-Dimensional Linear Systems
+1 State-space models and response formulae -- 2 Transfer function matrix and realization problem -- 3 Controllability and observability -- 4. Stability and stabilization -- 5. Characteristic polynomial and eigenvalue assignment -- 6. Observers, exact model matching and decoupling -- 7. Deadbeat control and deadbeat servo problem.

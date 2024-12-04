@@ -1,0 +1,2 @@
+Category Seminar : Proceedings Sydney Category Theory Seminar 1972/1973
+On adjoint-functor factorisation -- On closed categories of functors II -- An embedding theorem for closed categories -- Limit spaces and closed span categories -- Review of the elements of 2-categories -- Fibrations and Yoneda's lemma in a 2-category -- Elementary cosmoi I -- On clubs and doctrines -- Doctrinal adjunction -- Coherence theorems for lax algebras and for distributive laws.

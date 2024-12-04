@@ -1,0 +1,2 @@
+Algorithms - ESA 2004 : 12th Annual European Symposium, Bergen, Norway, September 14-17, 2004. Proceedings
+This book constitutes the refereed proceedings of the 12th Annual European Symposium on Algorithms, ESA 2004, held in Bergen, Norway, in September 2004. The 70 revised full papers presented were carefully reviewed from 208 submissions. The scope of the papers spans the entire range of algorithmics from design and mathematical issues to real-world applications in various fields, and engineering and analysis of algorithms

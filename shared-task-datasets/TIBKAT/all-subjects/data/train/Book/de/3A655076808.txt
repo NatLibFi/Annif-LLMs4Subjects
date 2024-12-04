@@ -1,0 +1,3 @@
+Formeln und Tabellen zur technischen Mechanik
+Ergänzung zum Lehrbuch zur Technischen Mechanik (vgl. A. Böge, 27., überarbeitete Auflage BA 4/07, 29. in dieser Nr.) mit Formeln, Tabellen, Merksätzen zur Technischen Mechanik. In Abstimmung auf die 29., überarbeitete und erweiterte Auflage des Lehrbuchs wurden für die entsprechenden Kapitel zur Hydrodynamik neu die Formeln zu den 3 Erhaltungssätzen für Masse, Energie und Impuls aufgenommen. (2 S) (LK/SH: Preisler)
+Formel- und Tabellensammlung zur Statik, Dynamik und Festigkeitslehre. Ergänzung zum Lehrbuch zur Technischen Mechanik. (LK/SH: Preisler)

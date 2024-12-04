@@ -1,0 +1,2 @@
+Inverse problems for partial differential equations
+A comprehensive description of the current theoretical and numerical aspects of inverse problems in partial differential equations. Applications include recovery of inclusions from anomalies of their gravity fields, reconstruction of the interior of the human body from exterior electrical, ultrasonic, and magnetic measurement.

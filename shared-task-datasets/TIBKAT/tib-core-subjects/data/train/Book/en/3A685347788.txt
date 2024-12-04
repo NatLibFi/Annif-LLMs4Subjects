@@ -1,0 +1,2 @@
+Achieving federated and self-manageable cloud infrastructures : theory and practice
+"This book presents an overview of current developments in cloud computing concepts, architectures, infrastructures and methods, focusing on the needs of small to medium enterprises"--Provided by publisher

@@ -1,0 +1,2 @@
+POP3 und IMAP : Mailserver mit Courier und Cyrus
+IMAP-Server organisieren für Hunderte oder gar Tausende Mailkonten Ablage und Abruf der Nachrichten und spielen daher in der (Firmen-)Kommunikation eine Schlüsselrolle. Das Buch beleuchtet die beiden großen Alternativen "Cyrus IMAP" und "Courier", vermittelt die technischen Strukturen und Abläufe und erklärt auch komplexere Einsatzmöglichkeiten für praxisrelevante Szenarien. Die ideale Ergänzung zu "Das Postfix-Buch" von Peer Heinlein

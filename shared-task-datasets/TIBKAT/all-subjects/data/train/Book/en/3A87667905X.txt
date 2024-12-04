@@ -1,0 +1,2 @@
+Introduction to modeling and simulation of technical and physical systems with Modelica
+Frontmatter -- Basic Concepts -- A Quick Tour of Modelica -- Classes and Inheritance -- System Modeling Methodology -- The Modelica Standard Library -- Appendix A: Glossary -- Appendix B: OpenModelica and OMNotebook Commands -- Appendix C: Textual Modeling with OMNotebook and DrModelica -- Appendix D: Graphical Modeling Exercises -- References -- Index

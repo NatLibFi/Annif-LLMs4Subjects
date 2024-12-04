@@ -1,0 +1,2 @@
+Sequence spaces : topics in modern summability theory
+"This book presents the important role sequences and series play in everyday life, it covers geometry of Banach Sequence Spaces, it discusses the importance of generalized limit, it offers spectrum and fine spectrum of several linear operators and includes fuzzy valued sequences which exhibits the study of sequence spaces in fuzzy settings"--

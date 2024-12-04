@@ -1,0 +1,2 @@
+Finite element exterior calculus
+Introduction -- Basic notions of homological algebra -- Unbounded operators on Hilbert space -- Hilbert complexes -- Approximation of Hilbert complexes -- Basic notions of exterior calculus -- Finite element differential forms -- Further directions and applications

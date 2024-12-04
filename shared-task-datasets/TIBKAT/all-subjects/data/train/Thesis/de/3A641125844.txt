@@ -1,0 +1,2 @@
+Investigation of collisional losses and decoherence in a 1-D optical lattice clock with 88Sr
+Optical lattice, elastic and inelastic collisions, frequency shift, interleaved stabilization. - Optisches Gitter, elastische und inelastische Stöße, Frequenzverschiebung, verschachtelte Stabilisierung

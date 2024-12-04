@@ -1,0 +1,2 @@
+A study of the marine boundary layer by LES-modelling and experimental observations with a focus on offshore wind energy applications
+Marine atmospheric boundary layer, offshore wind energy, large eddy simulation. - Marine atmosphärische Grenzschicht, Offshore Windenergie, Grobstruktursimulation

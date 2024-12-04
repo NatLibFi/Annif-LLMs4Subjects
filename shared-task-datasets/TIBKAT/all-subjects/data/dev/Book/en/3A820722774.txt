@@ -1,0 +1,2 @@
+Environmental applications of instrumental chemical analysis
+"Readers will gain a general review of modern instrumental method of chemical analysis that are mostly useful in the environmental work and will learn how to select methods for analyzing certain samples. Analytical instrumentation and its underlying principles are presented, along with the types of sample for which each instrument is best suited. Some noninstrumental techniques, such as colorimetric detection tubes for gases and immunoassays, are also discussed."

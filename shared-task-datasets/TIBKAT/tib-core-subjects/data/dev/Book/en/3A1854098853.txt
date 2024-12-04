@@ -1,0 +1,2 @@
+Artificial intelligence for intrusion detection systems
+"This book is aligned with the cyber security issues and provides a wide view of the novel cyber-attacks and the defence mechanisms, especially AI-based IDS. This book serves as a reference book for scientific investigators who need to analyse Intrusion Detection Systems (IDS), as well as researchers developing methodology in this field. It may also be used as a textbook for a graduate-level course in information security"--

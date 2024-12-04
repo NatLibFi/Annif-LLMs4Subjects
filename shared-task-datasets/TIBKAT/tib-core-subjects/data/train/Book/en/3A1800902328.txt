@@ -1,0 +1,2 @@
+Impact of digital twins in smart cities development
+"This book defines Digital Twins as virtual replicas of physical entities that are created in software and that can be represented by devices, people, processes or systems and offer insights into domains such as ethics, data governance, cyber-security, inclusion, diversity and sustainability"

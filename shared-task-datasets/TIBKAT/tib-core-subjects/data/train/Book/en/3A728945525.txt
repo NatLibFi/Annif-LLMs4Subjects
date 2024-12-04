@@ -1,0 +1,2 @@
+Secret history : the story of cryptology
+"Codes are a part of everyday life, from the ubiquitous Universal Price Code (UPC) to postal zip codes. They need not be intended for secrecy. They generally use groups of letters (sometimes pronounceable code words) or numbers to represent other words or phrases. There is typically no mathematical rule to pair an item with its representation in code. A few more examples will serve to illustrate the range of codes"--

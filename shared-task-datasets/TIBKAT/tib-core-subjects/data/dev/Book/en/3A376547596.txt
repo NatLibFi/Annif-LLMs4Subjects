@@ -1,0 +1,2 @@
+Advances in time-delay systems
+The book focuses on delay systems and their applications. We brought together well-known experts in the field to present a wide panorama of interdisciplinary methods in handling stability, control and related numerical issues. By reading the book, the readers will get a up-to-date picture of this active area of research as well as representative methods used in this field. This book can be used as a reference for both experts and novices interested in the research of time-delay, numerical issues, as well as applications of time-delay systems

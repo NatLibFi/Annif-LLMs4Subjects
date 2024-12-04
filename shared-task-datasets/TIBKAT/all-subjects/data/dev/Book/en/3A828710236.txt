@@ -1,0 +1,2 @@
+Medical biometrics : computerized TCM data analysis
+Tongue image acquisition and preprocessing -- Automated tongue segmentation -- Tongue image feature analysis -- Computerized tongue diagnosis -- Pulse signal acquisition and preprocessing -- Feature extraction of pulse signals -- Classification of pulse signals -- Breath analysis system : design and optimization -- Feature extraction and classification of breath odor signals

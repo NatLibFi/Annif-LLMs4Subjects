@@ -1,0 +1,2 @@
+Linux command line and shell scripting bible : [use command lines and bypass the GUI ; automate common tasks ; create professional, real-world scripts]
+A guide to the Linux command line and shell scripts covers such topics as using Linux environment variables, working with editors, using structured commands, handling user input, creating functions, and working with Regular Expressions --

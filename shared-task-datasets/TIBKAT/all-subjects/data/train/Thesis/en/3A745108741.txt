@@ -1,0 +1,2 @@
+Bestimmung des Reflexionsverhaltens eines Spänestrals an einer festen Wand
+The reflection behavior of the particle jet against a fixed wall is not yet investigatet, it determines the rough copy of the calculation program. A high speed camera makes the behaviour of the particles during the collision with the fixed wall. In addition to particle size distribution the reflection type was determines. Supplementary the loss of velocity of the chips was investigated during the impact to the wall.

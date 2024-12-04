@@ -1,0 +1,2 @@
+Molekülsymmetrie und Spektroskopie
+Based on a compact course, this book familiarizes chemistry students with the fundamental concepts of molecular symmetry, symmetry operations, and point groups. It covers vibrational spectroscopy and electron spectroscopy along with nuclear magnetic resonance. The discussion describes the correlation of spectroscopic findings with molecular symmetry, and also shows how principles of molecular symmetry can be demonstrated with measurement data

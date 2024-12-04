@@ -1,0 +1,2 @@
+CAD mit Solid Edge : Draft, Part, Assembly, Zeichnungsableitung, Sheet Metal, Weldment ; mit zahlreichen Screenshots
+Dieses einführende Lehrbuch in Solid Edge war so erfolgreich, dass es jetzt schon in 2. Auflage erscheint, die die Änderungen bis Version 14 berücksichtigt. Stichworte zum Inhalt: Draft - Part - Assembly - Zeichnungsableitung - Sheet Metal - Weldment

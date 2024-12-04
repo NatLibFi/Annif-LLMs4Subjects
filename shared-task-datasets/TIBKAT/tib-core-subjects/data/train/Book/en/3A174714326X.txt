@@ -1,0 +1,2 @@
+Simulation method of multipactor and its application in satellite microwave components
+"It introduces the main concepts, theories, methods and latest technologies of multipactor simulation, at both the theoretical and as a process of engineering, while providing a comprehensive introduction to the outstanding progress made in the research technology of multipactor numerical simulation in China"--

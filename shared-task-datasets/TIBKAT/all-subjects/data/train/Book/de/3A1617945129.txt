@@ -1,0 +1,2 @@
+Computergestützte Analyse qualitativer Daten : eine Einführung in Methoden und Arbeitstechniken
+Die sozialwissenschaftliche orientierte Analyse von qualitativen Daten, die Text- und Inhaltsanalyse, lassen sich heute sehr effektiv mit Unterstützung von Computerprogrammen durchführen. In diesem Buch werden die methodischen Grundlagen - u.a. qualitative und klassische Inhaltsanalyse, "Grounded Theory" - und die praktischen Arbeitstechniken dieser neuen computergestützten Methoden dargestellt.

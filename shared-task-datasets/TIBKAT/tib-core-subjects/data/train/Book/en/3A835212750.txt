@@ -1,0 +1,2 @@
+Discrete algebraic methods : arithmetic, cryptography, automata and groups
+Algebraic structures -- Cryptography -- Number theoretic algorithms -- Polynomial time primality test -- Elliptic curves -- Combinatorics on words -- Automata -- Discrete infinite groups

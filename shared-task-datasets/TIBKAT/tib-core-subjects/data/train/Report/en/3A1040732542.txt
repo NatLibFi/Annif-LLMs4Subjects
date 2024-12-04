@@ -1,0 +1,2 @@
+Principles of statistical physics and numerical modeling
+This unique text provides an introduction to classical statistical mechanics, using molecular dynamic simulations to teach and explore the subject. Illustrated by numerous figures and animations the book will be useful for students and professionals wishing to receive a contemporary understanding of statistical physics and use the methods in their research.

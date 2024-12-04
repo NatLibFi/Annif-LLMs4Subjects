@@ -1,0 +1,2 @@
+Thermodynamics of natural systems : theory and applications in geochemistry and environmental science
+What is thermodynamics? -- Defining our terms -- The first law of thermodynamics -- The second law of thermodynamics -- Getting data -- Some simple applications -- Solutions -- Fugacity and activity -- The equilibrium constant -- Rock-water systems -- Redox reactions -- Phase diagrams -- Affinity and extent of reaction

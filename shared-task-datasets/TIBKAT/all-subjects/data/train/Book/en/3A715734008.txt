@@ -1,0 +1,2 @@
+The complete idiot's guide to iPad & iPhone app development : [turn your cool idea into the next hot app]
+You have all kinds of ideas you'd like to turn into apps. But it turns out designing those cool little programs isn't nearly as simple as using them-- but it can be! Learn to master the apps development kit so that you can start building your app right away

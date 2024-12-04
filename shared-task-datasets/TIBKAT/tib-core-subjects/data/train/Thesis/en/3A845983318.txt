@@ -1,0 +1,2 @@
+Development of physical models for the simulation of optical properties of solar cell modules
+Simulation of PV modules, PV module optical properties, soda-lime glass. - Simulation von PV-Modulen, optische Eigenschaften von PV-Modulen, Kalk-Natron-Glas

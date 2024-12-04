@@ -1,0 +1,2 @@
+Deep learning for remote sensing images with open source software
+Deep learning backgrounds -- Software -- Data used : the Tokyo dataset -- A simple convolutional neural network -- Fully convolutional neural network -- Classifiers on deep features -- Dealing with multiple sources -- Semantic segmentation of optical imagery -- Data used : the Amsterdam dataset -- Mapping buildings -- Gap filling of optical images : principle -- The Marmande dataset -- Pre-processing -- Model training -- Inference.

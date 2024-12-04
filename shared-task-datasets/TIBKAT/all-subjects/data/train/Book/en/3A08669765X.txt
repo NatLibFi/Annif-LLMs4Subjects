@@ -1,0 +1,2 @@
+System level design model with re-use of system IP
+Annotation This book addresses system design, providing a framework for assessing and developing system design practices that observe and utilise reuse of system design know-how. The know-how accumulated in the companies represents an intellectual asset, or property ('IP')

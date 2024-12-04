@@ -1,0 +1,2 @@
+MoWiMa : Modellierung und Wiederverwendung objektorientierter Maschinensoftware ; Abschlußpräsentation des BMBF Verbundprojektes ; Wiederverwendung von Steuerungssoftware durch Konstruktionskataloge
+Machine and software parts, machineconcept, CA-tools, CASE-tool, unified modeling language, frameworks, state transition diagram, librarysystematic, machine and software partlibrary, classdiagram, objectdiagram, functionblockdiagram, IEC1131, online test, configuration of machines

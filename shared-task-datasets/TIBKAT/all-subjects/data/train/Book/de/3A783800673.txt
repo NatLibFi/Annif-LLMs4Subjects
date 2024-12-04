@@ -1,0 +1,2 @@
+Linux-Server : das umfassende Handbuch ; [aktuell zu Ubuntu 14.04 LTS ; Debian GNU/Linux, SUSE Linux Enterprise Server, Ubuntu Server ; Linux-Server distributionsabhängig einrichten und administrieren ; Backup, Sicherheit, Samba 3 & 4, LDAP, Web-, Mail- und FTP-Server, Datenbanken, Kerberos, IPv6, NFSv4 u.v.m. ; inklusive sofort einsetzbare Praxislösungen]
+Dieses Handbuch und Nachschlagewerk unterstützt Systemadministratoren bei allen Aufgaben, die in einem Linux-Netzwerk anfallen. Berücksichtigt werden die Distributionen Debian, Suse und Ubuntu. (3)

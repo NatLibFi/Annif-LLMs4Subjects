@@ -1,0 +1,2 @@
+Practical augmented Lagrangian methods for constrained optimization
+Nomenclature -- Introduction -- Practical motivations -- Optimality conditions -- Model augmented lagrangian algorithm -- Global minimization approach -- General affordable algorithms -- Boundedness of the penalty parameters -- Solving unconstrained subproblems -- Solving constrained subproblems -- First approach to algencan -- Adequate choice of subroutines -- Making a good choice of algorithmic options and parameters -- Practical examples -- Final remarks

@@ -1,0 +1,2 @@
+Globale Analysis
+Das Anliegen des vorliegenden Buches ist es, die klassische Vektoranalysis unter Verwendung der Differentialformen darzulegen. Anwendungen der allgemeinen Stokeschen Formel in Analysis, Geometrie und Topologie werden besprochen. In weiteren Teilen des Buches werden die Integrierbarkeit Pfaffscher Systeme, die Flächentheorie in Euklidischen Räumen sowie Elemente der Lie-Gruppen, Mechanik, Thermodynamik und Elektrodynamik unter Verwendung der Differentialformen behandelt

@@ -1,0 +1,2 @@
+Workflow modeling : tools for process improvement and applications development
+This extensively revised second edition of the acclaimed and bestselling book, Workflow Modeling, serves as a complete guide to discovering, scoping, assessing, modeling, and redesigning business processes. Providing proven techniques for identifying, modeling, and redesigning business processes, and explaining how to implement workflow improvement, this book helps you define requirements for systems development or systems acquisition

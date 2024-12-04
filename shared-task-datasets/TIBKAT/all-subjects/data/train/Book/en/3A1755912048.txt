@@ -1,0 +1,2 @@
+Classic computer science problems in Java
+"Classic Computer Science Problems in Java is a master class in computer programming designed around 55 exercises that have been used in computer science classrooms for years." -- Page [4] of cover

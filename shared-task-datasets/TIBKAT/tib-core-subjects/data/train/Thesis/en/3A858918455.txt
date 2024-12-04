@@ -1,0 +1,2 @@
+A modified adaptive harmony search algorithm approach on structural identification and damage detection
+Optimization algorithms, harmony search, structural identification, damage detection, output-only, search space reduction, FAST, offshore, onshore, wind turbine supporting structures, model reduction. - Optimierungsalgorithmen, Strukturidentifikation, Schadensfrüherkennung, Suchraumreduktion, Tragstrukturen von Windturbinen, Modellreduktion

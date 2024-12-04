@@ -1,0 +1,2 @@
+Cyber-physical systems for social applications
+"This book focuses on how cyber-physical systems in the social sphere can be designed and implemented to improve the human ability to learn new knowledge and to feel and perform art. This will impact future societies when knowledge and art will be even more accessible to all due to the emergent novel information and robotic technologies"

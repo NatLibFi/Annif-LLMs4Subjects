@@ -1,0 +1,2 @@
+Reliability-based design in soil and rock engineering : enhancing partial factor design approaches
+"This text contains probabilistic analyses and reliability-based designs (RBD) for the enhancement of the Eurocode 7 (EC7) and the Load and Resistance Factor Design (LRFD) methods. Renowned cases in soil and rock engineering are analysed both deterministically and probabilistically"--

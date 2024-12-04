@@ -1,0 +1,2 @@
+New Approaches in Classification and Data Analysis
+The subject of this book is the analysis and processing of structural or quantitative data with emphasis on classification methods, new algorithms as well as applications in various fields related to data analysis and classification. The book presents the state of the art in world-wide research and application of methods from the fields indicated above and consists of survey papers as well as research papers

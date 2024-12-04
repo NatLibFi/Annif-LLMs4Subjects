@@ -1,0 +1,2 @@
+Java 2 : kompakt, komplett, kompetent ; [auf CD-ROM: aktuelle Browser ; Entwicklungspaket J2SE ; alle Beispiele aus dem Buch]
+Klappentext: In diesem Buch steckt alles, was Sie zu Java 2 wissen müssen. Es eignet sich hervorragend als Nachschlagewerk, aber auch zum schrittweisen Erlernen des Programmierens mit Java. Der erfahrene Autor präsentiert Ihnen die professionelle Programmierung mit Java 2 und dem J2SE (Java Platform 2 Standard Edition) in der Version 1.4.

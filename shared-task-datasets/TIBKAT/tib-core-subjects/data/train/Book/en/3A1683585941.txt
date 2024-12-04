@@ -1,0 +1,2 @@
+Biological language model : theory and application
+"Conceived as a cross between natural language processing methods and biological sequences in DNA, RNA and protein, biological language model is a new scientific research topic in bioinformatics that has been extensively studied by the authors. The basic theory and applications of this model are presented in this book to serve as an reference for graduate students and researchers"--

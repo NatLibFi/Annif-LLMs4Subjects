@@ -1,0 +1,2 @@
+Cloud computing : web-based dynamic IT services
+Cloud computing is a buzz-word in today's information technology (IT) that nobody can escape. But what is really behind it? There are many interpretations of this term, but no standardized or even uniform definition. Instead, as a result of the multi-faceted viewpoints and the diverse interests expressed by the various stakeholders, cloud computing is perceived as a rather fuzzy concept. With this book, the authors deliver an overview of cloud computing architecture, services, and applications

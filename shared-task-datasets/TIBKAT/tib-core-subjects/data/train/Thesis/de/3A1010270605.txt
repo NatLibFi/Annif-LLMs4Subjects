@@ -1,0 +1,2 @@
+IT-Architektur für die digitale Hochschule
+Eine kosteneffiziente, nutzerorientierte und gleichzeitig zukunftsfähige IT-Versorgung zu gewährleisten, stellt eine große Herausforderung für Hochschulen dar. Diese Arbeit leistet einen Beitrag, die IT-Architektur der Domäne Hochschule im Kontext der Digitalisierung idealtypisch weiterzuentwickeln. Aufbauend auf den Erkenntnissen einer Fallstudie und den Bedarfen und Herausforderungen an deutschen Hochschulen wird eine zukunftsweisende IT-Architektur für die digitale Hochschule vorgestellt.

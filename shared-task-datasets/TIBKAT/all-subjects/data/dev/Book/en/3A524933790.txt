@@ -1,0 +1,2 @@
+Measurement Errors and Uncertainties : Theory and Practice
+Part of practical reference for scientists and engineers on how to estimate errors and uncertainty of measurements in both experimental research and industry. This third edition is useful for students and theorists in metrology, as well as applied physicists, mechanical and electrical engineers

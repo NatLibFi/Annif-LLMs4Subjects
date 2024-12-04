@@ -1,0 +1,2 @@
+Novel design and the applications of smart-M3 platforms in the internet of things : emerging research and opportunities
+"This book focus on Smart Spaces architecture that delivers new kinds of smart services by directly utilizing processing and storage capabilities of the surrounding devices. A central role in this architecture is given to the personal mobile device, e.g., smartphone or tablet"--

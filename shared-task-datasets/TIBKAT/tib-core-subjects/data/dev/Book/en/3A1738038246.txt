@@ -1,0 +1,2 @@
+Energy Storage for Power Systems
+The supply of energy from renewables is not constant, and energy storage is essential in enabling higher shares of renewable energy. This 3rd Edition has been thoroughly revised, reviewing different types of renewables and considering possibilities arising from integrating a combination of different storage technologies into a system

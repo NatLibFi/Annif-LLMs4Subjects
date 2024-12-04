@@ -1,0 +1,2 @@
+XML data mining : models, methods, and applications
+"This book is a collection of knowledge from experts of database, information retrieval, machine learning, and knowledge management communities in developing models, methods and systems for XML data mining that can be used to address key issues and challenges in XML data mining"--Provided by publisher

@@ -1,0 +1,2 @@
+Bridge traffic loading : from research to practice
+"New and reliable truck weight data allows accurate calculations of vertical loading of traffic on bridges, both, whereas codes are often crude and inconsistent for different load effects. This book provides the state-of-the-art and best-practice for short-span, single and multi-lane bridge loading, dynamic allowance and long-span bridges"--

@@ -1,0 +1,2 @@
+Essays on nonlinearity in economic time series
+Nonlinearities, specification testing, identification problem, purchasing power parity. - Nichtlinearitäten, Spezifikationstests, Identifikationsproblem, Kaufkraftparität

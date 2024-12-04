@@ -1,0 +1,2 @@
+A Course in H∞ Control Theory
+Background mathematics: Function spaces -- The standard problem -- Stability theory -- Background mathematics: Operators -- Model-matching theory: Part I -- Factorization theory -- Model-matching theory: Part II -- Performance bounds.

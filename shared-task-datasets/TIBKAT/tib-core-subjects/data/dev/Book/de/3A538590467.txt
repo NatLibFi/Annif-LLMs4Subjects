@@ -1,0 +1,2 @@
+Qt 4 : Einführung in die Applikationsentwicklung
+Das "C++ application development framework" der Firma Trolltech ist bei der plattformübergreifenden Andwendungsentwicklung eine feste Größe und beispielsweise als Grundlage des KDE-Desktop bekannt. Dieses Buch eines ehemaligen Trolltech-Entwicklers führt nicht nur in die neue Version 4 ein, sondern ist zugleich eine Anleitung zur professionellen Anwendungsentwicklung

@@ -1,0 +1,2 @@
+Natural language processing with Python and spaCy : a practical introduction
+"Teaches the foundations of natural language processing (the task of converting human language into data a computer can process), including how to understand a user's intent, customize a statistical model, and set up a basic chatbot"--

@@ -1,0 +1,2 @@
+Zur Darstellungstheorie von Darstellungsringen
+Der Schwerpunkt dieser Arbeit liegt auf dem Fall char k = p > 0, sozusagen der modularen Darstellungstheorie von Darstellungsringen. Die beiden Charakteristiken p und q von k bzw. F konnen dabei sowohl gleiche wie auch verschiedene Primzahlen sein.

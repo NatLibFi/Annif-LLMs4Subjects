@@ -1,0 +1,2 @@
+Pro Core Data for iOS : data access and persistence engine for IPhone, IPad, and IPod touch ; [store and retrieve your Apps data accurateley and efficiently ; covers iOS4]
+Provides information on storing and retrieving application data, covering such topics as creating a data model, working with data objects, refining the results set, versioning and migrating data, and adding encryption

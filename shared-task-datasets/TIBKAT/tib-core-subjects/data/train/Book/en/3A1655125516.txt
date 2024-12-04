@@ -1,0 +1,2 @@
+Canonical Gibbs Measures : Some Extensions of de Finetti's Representation Theorem for Interacting Particle Systems
+Basic concepts -- Equilibrium states for systems of moving particles -- Spatially homogeneous models -- Independent models -- Discrete models with interaction -- Continuous models with interaction -- Some further results on homogeneous models.

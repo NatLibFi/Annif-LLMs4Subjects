@@ -1,0 +1,3 @@
+3D bioprinting : fundamentals, principles and applications
+This book provides the latest information on the fundamentals, principles, physics, and applications of 3D bioprinting. It contains descriptions of the various bioprinting processes and technologies used in additive biomanufacturing of tissue constructs, tissues, and organs using living cells
+1. Introduction -- 2. Design for bioprinting -- 3. The bioink -- 4. Extrusion-based bioprinting -- 5. Droplet-based bioprinting -- 6. Laser-based bioprinting -- 7. Bioprinter technologies -- 8. Roadmap to organ printing -- 9. Applications of 3D bioprinting -- 10. Future trends

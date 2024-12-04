@@ -1,0 +1,2 @@
+Stochastic approaches for systems biology
+1. Introduction -- 2. Biochemical reaction networks -- 3. Randomness -- 4. Probability and random variables -- 5. Stochastic modelling of biochemical networks -- 6. The 2MA approach -- 7. The 2MA cell cycle model -- 8. Hybrid Markov processes -- 9. Wet-lab experiments and noise

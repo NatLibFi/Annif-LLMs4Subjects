@@ -1,0 +1,2 @@
+Enterprise architecture and integration : methods, implementation and technologies
+"This book provides a detailed analysis of the important strategies for integrating IT systems into fields such as e-business and customer-relationship management. It supplies readers with a comprehensive survey of existing enterprise architecture and integration approaches, and presents case studies that illustrate best practices, describing innovative methods, tools, and architectures with which organizations can systematically achieve enterprise integration"- Provided by publisher

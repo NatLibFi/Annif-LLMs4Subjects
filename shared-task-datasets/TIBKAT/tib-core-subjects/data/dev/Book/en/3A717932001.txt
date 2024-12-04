@@ -1,0 +1,2 @@
+Artificial higher order neural networks for modeling and simulation
+"This book introduces Higher Order Neural Networks (HONNs) to computer scientists and computer engineers as an open box neural networks tool when compared to traditional artificial neural networks"--Provided by publisher

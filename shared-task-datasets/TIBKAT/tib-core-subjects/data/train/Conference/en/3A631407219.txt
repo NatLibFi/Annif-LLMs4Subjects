@@ -1,0 +1,2 @@
+IUTAM-ISIMM Symposium on Mathematical Modeling and Physical Instances of Granular Flows : Reggio Calabria, Italy, 14 - 18 September 2009
+Visco-plasticity and micromechanics of rate-dependent flow -- Elasto-plasticity and micromechanics of rate-indepedent flow: Non-polar continuum modeling, experiment, numerical simulation, statistical mechanics and statistical physics ; Polar continuum modeling : experiment and numerical simulation -- Segregation -- Waves

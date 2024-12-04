@@ -1,0 +1,2 @@
+Microsoft SQL Server 2012 : step by step
+"Teach yourself how to use SQL Server 2012--one step at a time. Ideal for beginning database administrators and developers, this tutorial provides practical, learn-by-doing exercises to help you design and manage databases, develop reports, and employ business intelligence systems"--

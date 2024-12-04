@@ -1,0 +1,2 @@
+Die Konstruktion von Baßlautsprechergehäusen : der Entwurf von Baßlautsprechergehäusen mit Hilfe der Filtertheorie
+Eine kompakte, allgemeine Dimensionierungsanleitung für erfahrene HiFi-Freaks; mit vielen Formeln, Kennlinien, Tabellen sowie PC-Programm in Pascal.

@@ -1,0 +1,2 @@
+Beginning iOS game development : [in full color]
+Games on iOS -- The Xcode Programming Environment -- The C Programming Language -- The Objective-C Programming Language -- The Cocoa Foundation Framework -- Drawing with UIKit and Core Graphics -- Responding to User Interaction -- Animating Your Graphics -- Making Noise with iOS Audio APIs -- Building a Networked Game with GameKit

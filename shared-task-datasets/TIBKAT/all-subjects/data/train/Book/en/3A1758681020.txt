@@ -1,0 +1,3 @@
+Matrix analysis and computations
+"This book introduces the basics of matrix analysis and presents representative methods and their corresponding theories in matrix computations"--
+Basic concepts and properties -- Matrix decompositions -- Numerical range -- Nonnegative matrices and M-matrices -- Matrix splitting iteration methods -- Krylov subspace methods -- Preconditioning -- Saddle-point problems.

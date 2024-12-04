@@ -1,0 +1,2 @@
+Lectures on Operator Algebras
+Topics in C*- and von neumann algebras -- Infinitely divisible probaility measures on compact groups -- Darstellung Verallgemeinerter L1-Algebren II -- Lectures on the trace in a finite von Neumann algebra -- Cohomology of operator algebras -- Generations of von Neumann algebras -- Hyponormal operators and related topics -- Duality and von Neumann algebras.

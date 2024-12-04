@@ -1,0 +1,2 @@
+Queueing modelling fundamentals : with applications in communication networks
+Mathematical tools refresher -- Introduction to queueing systems -- Discrete & continuous markov processes -- Single-queue markovian systems -- Semi-markovian queueing systems -- Open queueing networks -- Closed queueing networks -- Markov modulated arrival process -- To follow

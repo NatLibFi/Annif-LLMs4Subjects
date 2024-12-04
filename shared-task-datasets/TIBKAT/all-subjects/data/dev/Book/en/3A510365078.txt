@@ -1,0 +1,2 @@
+Functional and object oriented analysis and design : an integrated methodology
+"The main objective of this book is to teach both students and practitioners of information systems, software engineering, computer science and related areas to analyze and design information systems using the FOOM methodology. FOOM combines the object-oriented approach and the functional (process-oriented) approach"--Provided by publisher

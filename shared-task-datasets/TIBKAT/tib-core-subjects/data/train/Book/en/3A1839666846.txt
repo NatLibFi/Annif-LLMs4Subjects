@@ -1,0 +1,2 @@
+Spin : from basic symmetries to quantum optimal control
+This monograph is a fundamental reference for scientists and engineers who encounter spin processes in their work. The author, Ilya Kuprov, derives the concept of spin from basic symmetries and gives an overview of theoretical and computational aspects of spin dynamics: from Dirac equation and spin Hamiltonian, through coherent evolution and relaxation theories, to quantum optimal control, and all the way to practical implementation advice for parallel computers.

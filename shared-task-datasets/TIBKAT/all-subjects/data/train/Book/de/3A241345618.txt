@@ -1,0 +1,2 @@
+Statik : Grundlagen und Beispiele
+Skriptum einer Vorlesung für Ingenieurstudenten. Legt Wert auf Axiome und auf zeichnerische Problembeschreibungen und ist als kurzgefaßtes, gestrafftes Lehr- und Arbeitsbuch angelegt, das solide mathematische Kenntnisse (Vektoralgebra, Analysis u.a.) voraussetzt. Einsetzbar wie "Elementare Statik" (Fachbuchverlag, 1988) in Ergänzung ausführlicher Lehrbuchliteratur. (3) (LK/N: Pleuß)

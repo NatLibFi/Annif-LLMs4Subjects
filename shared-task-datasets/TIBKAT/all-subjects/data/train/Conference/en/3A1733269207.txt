@@ -1,0 +1,2 @@
+Analysis and partial differential equations on manifolds, fractals and graphs
+The book covers the latest research in the areas of mathematics that deal the properties of partial differential equations and stochastic processes on spaces in connection with the geometry of the underlying space. Written by experts in the field, this book is a valuable tool for the advanced mathematician.

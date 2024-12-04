@@ -1,0 +1,2 @@
+GaN transistors for efficient power conversion
+"Written by leaders in the power semiconductor field and industry pioneers in GaN power transistor technology and applications. 35% new material including 3 new chapters on Thermal Management, Multi-Level Converters and LiDAR - Features practical guidance on formulating specific circuit designs when constructing power conversion systems using GaN transistors. A valuable learning resource for professional engineers and systems designers needing to fully understand new devices as well as electrical engineering students"--

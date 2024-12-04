@@ -1,0 +1,2 @@
+Video game design : principles and practices from the ground up
+Contents: culture, play, and games (world building, video game analysis ...), systems and designing worlds (planning, character design ...), game design (unterstanding the motivations for play ...), keeping them playing, interface design and audio design, monetization, copyright and, intellectual property.

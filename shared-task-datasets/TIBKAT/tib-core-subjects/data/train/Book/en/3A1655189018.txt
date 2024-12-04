@@ -1,0 +1,2 @@
+Controlled Simple Homotopy Theory and Applications
+Applications -- Definitions and notation -- Construction of Wh(y)? -- Functorial properties -- Controlled whitehead torsion -- Construction of K0(Y)? -- Controlled finiteness obstruction -- Further properties of the controlled finiteness obstruction -- The splitting homomorphism -- The splitting sequence -- The realization theorem -- Calculations -- The Controlled Boundary Theorem -- The Controlled s-Cobordism Theorem.

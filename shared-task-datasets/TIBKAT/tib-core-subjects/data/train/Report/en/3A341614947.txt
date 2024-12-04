@@ -1,0 +1,2 @@
+Parallele Partikelcodes für industrielle Anwendungen : Verbundprojekt im Rahmen des HPSC ; Abschlussberichte über die Unteraufträge: Konsortium: Algorithmen und Softwareentwicklung; Erstellung und Einbindung des Geometriemodells für poröse Medien; Kopplung: Fäden-Strömung ; Projektzeitraum: 01.04.1998 - 31.03.2001
+ParPac, LBU, particle-codes, flow solver, filter simulation, filling simulation, fibre model, fibre-flow interaction

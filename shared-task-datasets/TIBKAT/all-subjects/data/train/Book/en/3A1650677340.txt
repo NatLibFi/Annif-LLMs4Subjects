@@ -1,0 +1,2 @@
+Fluid Mechanics and the Environment: Dynamical Approaches : A Collection of Research Papers Written in Commemoration of the 60th Birthday of Sidney Leibovich
+This book is a collection of papers presented at a symposium held in honor of Sidney Leibovich. Accordingly all papers deal with mathematical or computational aspects of fluid dynamics applied mostly to atmospheric or oceanographic problems. All contributions are research papers having not only specialists but also graduate students in mind

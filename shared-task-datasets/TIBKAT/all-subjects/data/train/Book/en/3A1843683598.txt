@@ -1,0 +1,2 @@
+Local coefficients and gamma factors for principal series of covering groups
+Keywords: Covering groups, Whittaker functionals, local coefficients matrix, scattering matrix, gamma factor, Plancherel measure

@@ -1,0 +1,2 @@
+Calculus set free : infinitesimals to the rescue
+This is a single-variable calculus textbook that incorporates the use of infinitesimal methods. The procedures used throughout make many of the calculations simpler and the concepts clearer for undergraduate students, heightening success and easing a significant burden of entry into STEM disciplines. This text features a student-friendly exposition with ample marginal notes, examples, illustrations, and more.

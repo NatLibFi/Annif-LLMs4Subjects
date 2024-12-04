@@ -1,0 +1,2 @@
+Introduction to statistical decision theory : utility theory and causal analysis
+Introduction to Statistical Decision Theory: Utility Theory and Causal Analysis provides the theoretical background to approach decision theory from a statistical perspective. It covers both traditional approaches, in terms of value theory and expected utility theory, and recent developments, in terms of causal inference. The book is specifically designed to appeal to students and researchers that intend to acquire a knowledge of statistical science based on decision theory.

@@ -1,0 +1,2 @@
+Dynamic spectrum management : from cognitive radio to blockchain and artificial intelligence
+Introduction -- Spectrum Sensing Methods -- Opportunistic Spectrum Access -- Concurrent Spectrum Access -- Blockchain for Dynamic Spectrum Management -- Artificial Intelligence for Dynamic Spectrum Management

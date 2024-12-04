@@ -1,0 +1,2 @@
+The speech processing lexicon : neurocognitive and behavioural approaches
+In this book, some of today’s leading neurolinguists and psycholinguists provide insight into the nature of phonological processing using behavioural measures, computational modeling, EEG and fMRI. The essays cover a range of topics including categorization, acoustic variability and invariance, underspecification, talker-specificity and machine learning, focusing on the acoustics, perception, acquisition and neural representation of speech.

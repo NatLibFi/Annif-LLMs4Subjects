@@ -1,0 +1,2 @@
+The elements of user experience : user-centered design for the web and beyond
+Provides an overview of the complexities of interactive Web design for non-designers, explaining the processes, methods, and vocabulary of user experience design

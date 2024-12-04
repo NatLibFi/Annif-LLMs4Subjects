@@ -1,0 +1,2 @@
+An introduction to error analysis : the study of uncertainties in physical measurements
+"This best-selling text by John Taylor, now released in its third edition with Bayesian statistics, introduces the study of uncertainties to lower division science students. Assuming no prior knowledge, the author introduces error analysis through the use of familiar examples ranging from carpentry to well-known historic experiments"--

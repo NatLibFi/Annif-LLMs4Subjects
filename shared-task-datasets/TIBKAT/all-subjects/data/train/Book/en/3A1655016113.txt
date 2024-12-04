@@ -1,0 +1,2 @@
+User Manual for the Interactive Geometry Software Cinderella
+Cinderella is a unique, technically very sophisticated teachware for geometry. It will be used as a tool by students learning Euclidean, projective, spherical and hyperbolic geometry, as well as in geometric research by scientists. Moreover, it can also serve as an authors' tool to design web pages with interactive constructions or even complete geometry exercises

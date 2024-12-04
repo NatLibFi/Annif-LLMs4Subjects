@@ -1,0 +1,2 @@
+Amerikanische Stahlsorten : Leitfaden für den Vergleich amerikanischer Stahlsorten mit EN- bzw. DIN-Normen
+"Dieses Pocket ermöglicht einen raschen Vergleich von amerikanischen Stahlsorten mit ähnlichen Stahlsorten nach EN und DIN und soll als Leitfaden dienen für das Auffinden der entsprechenden Stahlsorten. Die mehrheitlichen Stahlbezeichnungen wurden den ASTM-Normen entnommen, gefolgt von den SAE-, API-, AMS-Stählen, AWS-Schweißzusatzwerkstoffen und den UNS-Stahlbezeichnungen."--

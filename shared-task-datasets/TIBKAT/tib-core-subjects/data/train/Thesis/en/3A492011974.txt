@@ -1,0 +1,2 @@
+Kinetic schemes for the relativistic hydrodynamics
+Hyperbolic systems, non-relativistic and relativistic Euler equations, kinetic schemes, conservation laws, discontinuous solutions, high order accuracy

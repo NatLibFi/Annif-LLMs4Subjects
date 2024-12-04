@@ -1,0 +1,2 @@
+Field guide to nonlinear optics
+This Field Guide is designed for those looking for a condensed and concise source of key concepts, equations, and techniques for nonlinear optics. Examples throughout this Field Guide illustrate fundamental concepts while demonstrating the application of key equations. Topics covered include technologically important effects, recent developments in nonlinear optics, and linear optical properties central to nonlinear phenomena, with a focus on real-world applicability in the field of nonlinear optics

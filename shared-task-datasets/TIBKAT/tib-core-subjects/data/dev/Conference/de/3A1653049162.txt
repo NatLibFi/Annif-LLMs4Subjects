@@ -1,0 +1,3 @@
+Funktionale Sicherheit : Echtzeit 2013
+Vorwort -- Sensornetze -- Beitriebssysteme und Middleware -- Mehrkernprogrammierung -- Mobile Systeme -- Engineering -- Modellbildung und Simulation -- Aktuelle Anwendungen -- Ausbildung.
+Mit seinem Workshop 2013 zum Thema "Funktionale Sicherheit" bietet der Fachausschuss Echtzeitsysteme Wissenschaftlern, Nutzern und Herstellern ein Formu an, auf dem neue Trends und Entwicklungen zu folgenden Programmschwerpunkten vorgestellt werden: Sensornetze, Betriebssysteme und Middleware, Mehrkernprogrammierung, Mobile Systeme, Engineering, Modellbildung und Simulation. Berichte zu aktuellen Anwendungen und zur Ausbildung runden die Publikation ab.

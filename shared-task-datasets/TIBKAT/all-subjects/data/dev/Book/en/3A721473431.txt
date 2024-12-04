@@ -1,0 +1,2 @@
+Developing and applying biologically-inspired vision systems : interdisciplinary concepts
+"This book provides interdisciplinary research that evaluates the performance of machine visual models and systems in comparison to biological systems, blending the ideas of current scientific knowledge and biological vision"--

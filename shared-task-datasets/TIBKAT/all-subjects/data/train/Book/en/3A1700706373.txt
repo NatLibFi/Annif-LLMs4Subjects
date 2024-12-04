@@ -1,0 +1,3 @@
+Wearable systems and antennas technologies for 5G, IOT and medical systems
+Wearable Communication and IOT Systems Basics -- Small Wearable Antennas-Experimental Case Studies -- Wideband RF Technologies for Wearable Communication Systems -- Development of Wearable Body Area Networks, BAN, for 5G and Medical Communication Systems -- Active Wearable Antennas for 5G and Medical Applications.
+"This book covers wearable antennas, RF measurements techniques and measured results in the vicinity of the human body, setups, and design considerations. New topics and design methods are presented for the first time in the area of wearable antennas, metamaterial antennas and fractal antennas"--

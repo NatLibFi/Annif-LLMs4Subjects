@@ -1,0 +1,2 @@
+Pro Android 3 : [Android 3 platform SDK techniques for developing smartphone and tablet apps]
+Provides information on using Android 3 to build mobile applications, covering such topics as creating user interfaces, working with menus, using the media framework, programming 3D graphics, managing preferences, using widgets, and working with Android Market

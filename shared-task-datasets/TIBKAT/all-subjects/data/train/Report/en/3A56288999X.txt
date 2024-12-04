@@ -1,0 +1,2 @@
+Immunological computation : theory and applications
+Immunology basics -- Theoretical models of immune processes -- Immunity-based computational models -- T cell- inspired algorithms -- B cell-inspired algorithms -- Latest immune models and hybrid approaches -- Real-world applications

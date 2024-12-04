@@ -1,0 +1,2 @@
+Gamification by design : implementing game mechanics in web and mobile apps
+"What do Foursquare, Zynga, Nike+, and Groupon have in common? These and many other brands use gamification to deliver a sticky, viral and engaging experience to their customers. This book provides the design strategy and tactics you need to integrate game mechanics into any kind of consumer-facing website or mobile app. You'll learn how to use core game concepts, design patterns, and meaningful code samples to create a fun and captivating social environment"--P. [4] of cover

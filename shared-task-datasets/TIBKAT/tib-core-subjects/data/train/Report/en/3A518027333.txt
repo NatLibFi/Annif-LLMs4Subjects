@@ -1,0 +1,2 @@
+Intelligent assistant systems : concepts, techniques, and technologies
+"This book demonstrates that assistant systems will become reality, as the technology for implementing these systems is available and the problems that require assistance for their solutions are soon to be discovered. It addresses intelligent assistant systems and issues, their scope, purpose, architecture, implementation, deployment, theoretical background, and use"--Provided by publisher

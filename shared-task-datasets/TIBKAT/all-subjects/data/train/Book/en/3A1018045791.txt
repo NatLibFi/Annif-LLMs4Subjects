@@ -1,0 +1,2 @@
+The geometry of higher-dimensional polytopes
+"This book determines the features of the geometry of polytopes of higher dimension, which are models of molecules of chemical compounds. This monograph is devoted to the study of geometry polytopes dimension four and above, taking into account the features of polytopes that are models of chemical compounds"--

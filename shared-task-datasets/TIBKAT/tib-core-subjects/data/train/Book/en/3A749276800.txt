@@ -1,0 +1,2 @@
+Singular Perturbations and Asymptotic Analysis in Control Systems
+Singular perturbation techniques in control theory -- Singular perturbations for deterministic control problems -- Singular perturbations in stochastic control -- Singular perturbation of Markov chains -- Optimal control of perturbed Markov chains -- Time scale modeling of dynamic networks with sparse and weak connections -- Stability analysis of singularly perturbed systems -- New stability theorems for averaging and their application to the convergence analysis of adaptive identification and control schemes.

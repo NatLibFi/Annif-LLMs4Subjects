@@ -1,0 +1,2 @@
+Gas cyclones and swirl tubes : principles, design and operation
+Believed to be a publishing first when originally brought out, this book covers all aspects of centrifugal gas cleaning devices. These are cyclones used as gas-solid separators for dedusting and as gas-liquid separators for demisting. The optimization of cyclone performance for any given task is a sought-after goal but it is one that is seldom achieved in practice. This second edition will help mechanical and chemical engineers to achieve this optimization.

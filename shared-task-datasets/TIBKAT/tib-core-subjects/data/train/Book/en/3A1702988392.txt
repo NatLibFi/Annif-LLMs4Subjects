@@ -1,0 +1,2 @@
+Microwave circuit design : using linear and nonlinear techniques
+"Microwave circuit design is important in modern telecommunications, for the design of cellular and wireless devices. This book systematically presents computer-aided methods for the linear and nonlinear designs used in the design and manufacture of microwave amplifiers, oscillators, and mixers"--

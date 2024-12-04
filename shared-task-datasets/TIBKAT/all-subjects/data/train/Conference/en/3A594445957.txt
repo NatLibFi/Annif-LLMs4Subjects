@@ -1,0 +1,2 @@
+Complex dynamics in physiological systems : from heart to brain
+Focuses on the trends of research concerning the prediction of sudden cardiac death and the onset of epileptic seizures, using the nonlinear analysis based on ECG and EEG data. This book includes the analysis of cardiac models and neural models

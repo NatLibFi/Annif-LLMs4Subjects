@@ -1,0 +1,2 @@
+Einführung in die Theorie der quantitativen Analyse
+1. Grundlagen -- 2. Neutralisationsanalyse -- 3. Fällungsanalyse -- 4. Komplexometrische Analyse -- 5. Oxidations- und Reduktionsanalyse -- 6. Elektroanalyse -- 7. Die Methoden zur Bestimmung von Titrationsendpunkten -- 8. Kolorimetrie und Nephelometrie -- 9. Gasanalyse -- 10. Radiochemie -- 11. Internationales Einheitensystem (SI-Einheiten), Konstanten, Umrechnungstabelle -- 12. Anhang — Aufgaben und Lösungen -- Periodensystem der Elemente mit Angabe der Atomgewichte.

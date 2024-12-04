@@ -1,0 +1,2 @@
+Raspberry Pi
+"The Raspberry Pi is an inexpensive, simple computer that's about the size of a credit card. It has multiple inputs and outputs that make it the foundation for almost a limitless number of projects -- from creating a wi-fi hot spot to an elaborate, programmed LED light show. Idiot's Guides: Raspberry Pi is the perfect beginner book for learning how it works, how to program it (using Scratch, a basic program for programming Linux), how to connect it to an existing device, and how to put together some basic first projects,"--Amazon.com

@@ -1,0 +1,2 @@
+Silicon Valley Cybersecurity Conference : Third Conference, SVCC 2022, virtual event, August 17-19, 2022 : revised selected papers
+This open access book constitutes refereed proceedings of the Third Conference on Silicon Valley Cybersecurity Conference, SVCC 2022, held as virtual event, in August 17-19, 2022.The 8 full papers included in this book were carefully reviewed and selected from 10 submissions. The contributions are divided into the following thematic blocks: Malware Analysis; Blockchain and Smart Contracts; Remote Device Assessment.This is an open access book

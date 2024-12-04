@@ -1,0 +1,2 @@
+Methods of Nonconvex Analysis : Lectures given at the 1st Session of the Centro Internazionale Matematico Estivo (C.I.M.E.) held at Varenna, Italy, June 15–23, 1989
+The ?-variational principle revisited -- Non convex integrals of the Calculus of Variations -- Some variational problems with lack of convexity and some partial differential inequalities -- The Lyapunov Theorem: Its extensions and applications -- Differential inclusions the baire category method -- Nonsmooth analysis and parametric optimization -- Young measures.

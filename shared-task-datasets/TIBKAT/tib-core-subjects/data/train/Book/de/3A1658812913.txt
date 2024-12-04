@@ -1,0 +1,2 @@
+Grundkurs C++ in Beispielen : Eine Einführung in das Programmieren - Beispiele aus Mathematik und Technik - Objektorientierung anschaulich mit UML
+Eine bodenständige und beispielhafte Einführung in C++. Die Programmierprinzipien werden durch die Beispiele für alle Leser direkt und leicht nachvollziehbar. Für numerische und naturwissenschaftlich-technische Zwecke ist C++ im Gegensatz zu Java immer noch die handlichere Alternative. Dietmar Herrmann hat die 6. Auflage komplett überarbeitet und aktualisiert. Profitieren Sie von der Erfahrung, die in diesem Buch steckt

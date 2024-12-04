@@ -1,0 +1,2 @@
+Random perturbation of PDEs and fluid dynamic models : école d'été de probabilités de Saint-Flour XL-2010
+Introduction to uniqueness and blow-up -- Regularization by additive noise -- Dyadic models -- Transport equation -- Other models: uniqueness and singularities

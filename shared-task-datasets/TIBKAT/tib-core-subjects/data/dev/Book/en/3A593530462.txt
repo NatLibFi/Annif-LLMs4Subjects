@@ -1,0 +1,2 @@
+Rare association rule mining and knowledge discovery : technologies for infrequent and critical event detection
+"This book provides readers with an in-depth compendium of current issues, trends, and technologies in association rule mining"--Provided by publisher

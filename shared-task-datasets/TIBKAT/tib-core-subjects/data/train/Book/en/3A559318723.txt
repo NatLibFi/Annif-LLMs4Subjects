@@ -1,0 +1,2 @@
+Real world Adobe InDesign CS3 : [industrial-strength page-layout techniques ; covers every tool and feature ; dozens of tips for PageMaker and QuarkXPress users ;  what you need to know about transparency and printing]
+A guide to the desktop publishing and page layout program covers manipulation of text and graphics, adding transparency effects, optimizing the PDF workflow, and customizing with AppleScript, JavaScript, and Visual Basic

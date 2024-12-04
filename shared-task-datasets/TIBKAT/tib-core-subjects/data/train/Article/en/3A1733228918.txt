@@ -1,0 +1,2 @@
+The subtrace order and counting first-order logic
+We study the subtrace relation among Mazurkiewicz traces which generalizes the much-studied subword order. Here, we consider the 2-variable fragment of a counting extension of first-order logic with regular predicates. It is shown that all definable trace languages are effectively recognizable implying that validity of a sentence of this logic is decidable (this problem is known to be undecidable for virtually all stronger logics already for the subword relation).

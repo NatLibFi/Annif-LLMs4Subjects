@@ -1,0 +1,2 @@
+Oracle essentials : Oracle database 11g ; [what you need to know about Oracle database architecture and features ; covers Oracle database 11g and earlier releases]
+Covers system architecture, data structures, installation, management, security, networking, backup, recovery, and troubleshooting

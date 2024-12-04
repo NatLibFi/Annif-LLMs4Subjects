@@ -1,0 +1,2 @@
+Android Studio Game Development : Concepts and Design
+This one of a kind short book walks any Android developer through the process of creating mobile games using the new Android Studio IDE. What You’ll Learn How to create projects in Android Studio How to use the SDK manager to keep your Android SDK current How to commit and get projects to and from Git hub How to use OpenGL ES to load images How to react to player input How to debug your games using Android Studio

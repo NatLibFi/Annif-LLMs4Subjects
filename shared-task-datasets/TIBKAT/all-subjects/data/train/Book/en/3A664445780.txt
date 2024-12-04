@@ -1,0 +1,2 @@
+Smart grid : fundamentals of design and analysis
+"The book is written as primer hand book for addressing the fundamentals of smart grid. It provides the working definition the functions, the design criteria and the tools and techniques and technology needed for building smart grid"--

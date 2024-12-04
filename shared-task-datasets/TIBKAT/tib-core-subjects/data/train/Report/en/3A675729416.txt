@@ -1,0 +1,2 @@
+Fundamentals of digital manufacturing science
+Uses theoroms, illustrations and tables to introduce the definition, theory architecture, main content, and key technologies of digital manufacturing science. Designed to allow readers to integrate the theories and technologies described witht heir own research works, and to propose new ideas and new methods to improve the theory and application of digital manufacturing science

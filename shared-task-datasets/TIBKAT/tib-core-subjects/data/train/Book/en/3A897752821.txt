@@ -1,0 +1,2 @@
+Intelligent techniques for data analysis in diverse settings
+"This book addresses the specialized requirements of data analysis in a comprehensive way, giving a comprehensive overview of the most innovative recent approaches borne from intelligent techniques such as neural networks, rough sets, fuzzy sets, and metaheuristics"--Provided by publisher.

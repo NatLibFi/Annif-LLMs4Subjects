@@ -1,0 +1,2 @@
+Types for Proofs and Programs : International Workshop, TYPES’99 Lökeberg, Sweden, June 12-16, 1999 Selected Papers
+This book constitutes the thoroughly refereed post-workshop proceedings of the Third International Workshop, TYPES'99, organized by the ESPRIT Working Group 21900, in Lökeberg, Sweden, in June 1999. The 11 revised full papers presented in the volume were carefully reviewed and selected during two rounds of refereeing. All current issues on type theory and type systems and their applications to programming and proof theory are addressed

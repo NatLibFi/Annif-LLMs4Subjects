@@ -1,0 +1,3 @@
+Graduiertes Tensorieren für SL(2,IR)
+Zusammenfassung: We define the graded tensor product for finite-dimensional sl(2,C)-modules with certain Harish-Chandra associated to representations fo SL(2,IR). We make use of quiver theory and the theory for graded categories
+Zusammenfassung: Wir definieren das graduierte Tensorieren von endlich-dimensionalen sl(2,C)-Moduln mit bestimmten graduierten Harish-Chandra Moduln assoziiert zu SL(2,IR)-Darstellungen. Dafür benutzten wir die Theorie der Köcher-Darstellungen und die Theorie graduierter Kategorien

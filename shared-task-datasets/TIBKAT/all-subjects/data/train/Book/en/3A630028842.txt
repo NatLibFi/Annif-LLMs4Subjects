@@ -1,0 +1,2 @@
+Mathematical elasticity : Vol. 3. Theory of shells
+The objective of Volume III is to lay down the proper mathematical foundations of the two-dimensional theory of shells. To this end, it provides, without any recourse to any a priori assumptions of a geometrical or mechanical nature, a mathematical justification of two-dimensional nonlinear and linear shell theories, by means of asymptotic methods, with the thickness as the "small" parameter

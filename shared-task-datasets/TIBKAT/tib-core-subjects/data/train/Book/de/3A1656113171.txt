@@ -1,0 +1,2 @@
+Handbuch der Geodäsie : 6 Bände
+Vermessungskunde und Geodäsie hast sich die letzten Jahre zu einem Arbeitsgebiet entwickelt, das weniger die klassische Kartengrundlage nutzt, sondern vielmehr computerbaiserte Daten. Nach wie vor existieren die klassischen Anwendungen der Kartographie, Vermessung und des Katasterwesens, es interessieren jedoch heute auch GIS-gestützte Anwendungen sowie Fragestellungen, die sich aus Auswertungen von Satellitendaten ergeben

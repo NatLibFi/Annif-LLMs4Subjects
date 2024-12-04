@@ -1,0 +1,2 @@
+Einführung in die mathematische Logik : ein Lehrbuch
+Verlagstext: Dieses umfassende Lehrbuch wurde geschrieben für Studenten und Dozenten der Mathematik und Informatik, und wegen der ausführlichen Darstellung der Gödelschen Unvollständigkeitssätze auch für Fachstudenten der Philosophischen Logik.

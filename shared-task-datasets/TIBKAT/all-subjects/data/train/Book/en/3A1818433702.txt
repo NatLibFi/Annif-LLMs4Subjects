@@ -1,0 +1,3 @@
+Advanced reduced order methods and applications in computational fluid dynamics
+"This is the first book dedicated to reduced order methods in computational fluid dynamics. The book focuses on complex parametrization of shapes for their optimization and applications. Advanced topics, such as turbulence, stability of flows, inverse problems, optimization, and flow control are included"--
+Overview and motivation / Martin W. Hess, Marco Tezzele, Gianluigi Rozza -- Finite element-based reduced basis method in computational fluid-dynamics / Federico Pichi, Maria Strazzullo, Francesco Ballarin, Gianluigi Rozza -- Certified Smagorinsky reduced basis turbulence model / Enrique Delgado Ávila, Francesco Ballarin, Gianluigi Rozza.

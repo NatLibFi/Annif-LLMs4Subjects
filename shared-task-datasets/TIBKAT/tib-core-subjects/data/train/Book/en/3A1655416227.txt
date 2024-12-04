@@ -1,0 +1,2 @@
+Manifolds, Tensor Analysis, and Applications
+The purpose of this book is to provide core material in nonlinear analysis for mathematicians, physicists, engineers, and mathematical biologists. The main goal is to provide a working knowledge of manifolds, dynamical systems, tensors, and differential forms. Some applications to Hamiltonian mechanics, fluid mechanics, electromagnetism, plasma dynamics and control theory are given using both invariant and index notation. The prerequisites required are solid undergraduate courses in linear algebra and advanced calculus

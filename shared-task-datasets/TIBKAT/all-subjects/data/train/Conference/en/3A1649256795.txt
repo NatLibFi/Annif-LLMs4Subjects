@@ -1,0 +1,2 @@
+Intelligent Agents: Specification, Modeling, and Applications : 4th Pacific Rim International Workshop on Multi-Agents, PRIMA 2001 Taipei, Taiwan, July 28–29, 2001 Proceedings
+This book constitutes the refereed proceedings of the 4th Pacific Rim International Workshop on Multi-Agents, PRIMA 2001, held in Taipei, Taiwan in July 2001. The 16 revised full papers presented were carefully reviewed and selected from 41 submissions. The book offers topical sections on specification, modeling, and applications

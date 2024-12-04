@@ -1,0 +1,2 @@
+General linear methods for nonlinear DAEs in circuit simulation
+The Modified Nodal Analysis leads to differential algebraic equations with properly stated leading terms. In this article a special structure of the DAEs modelling electrical circuits is exploited in order to derive a new decoupling for nonlinear index-2 DAEs. This decoupling procedure leads to a solvability result and is also used to study general linear methods, a class of numerical schemes that covers both Runge-Kutta and linear multistep methods. Convergence for index-2 DAEs is proved.

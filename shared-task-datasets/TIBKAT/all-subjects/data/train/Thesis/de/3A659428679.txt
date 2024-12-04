@@ -1,0 +1,2 @@
+Entity linkage for heterogeneous, uncertain, and volatile data
+Data integration, entity linkage, probabilistic linkage database. - Datenintegration, Duplikaterkennung, probabilistische Verlinkungsdatenbanken

@@ -1,0 +1,2 @@
+Methods of Descent for Nondifferentiable Optimization
+Fundamentals -- Aggregate subgradient methods for unconstrained convex minimization -- Methods with subgradient locality measures for minimizing nonconvex functions -- Methods with subgradient deletion rules for unconstrained nonconvex minimization -- Feasible point methods for convex constrained minimization problems -- Methods of feasible directions for nonconvex constrained problems -- Bundle methods -- Numerical examples.

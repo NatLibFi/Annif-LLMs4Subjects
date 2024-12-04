@@ -1,0 +1,2 @@
+Torsion Theories, Additive Semantics, and Rings of Quotients
+An exposition of torsion theories -- Additive semantics -- Torsion ideals and rings of quotients -- Protorsion modules -- Embedding theorems.

@@ -1,0 +1,2 @@
+Electronic imaging technology
+This book provides an overview of electronic imaging systems, technology, and practical applications. Written by industry experts, its 11 chapters explore a variety of systems and applications, ranging from video compression and handwritten word recognition to color science and hardware architectures. The text is intended for readers interested in applied, industrial electronic imaging

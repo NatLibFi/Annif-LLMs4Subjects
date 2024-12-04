@@ -1,0 +1,2 @@
+Smart antenna engineering
+Whether you are designing for systems based on 2G, 3G, or advanced MIMO technology, you can find the solution you need with this comprehensive reference on applying smart antennas in wireless and mobile communications. The book provides you with a simple yet powerful design methodology that enables you to select the smart antenna approach most suitable for a particular application. Moreover, it offers guidance in designing the appropriate uplink and downlink beamforming algorithms

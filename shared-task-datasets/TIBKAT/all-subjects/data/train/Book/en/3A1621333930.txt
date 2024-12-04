@@ -1,0 +1,2 @@
+Data visualization : a guide to visual storytelling for libraries
+"Data Visualization: A Guide to Visual Storytelling for Libraries is a practical guide to the skills and tools needed to create beautiful and meaningful visual stories through data visualization. Learn how to sift through complex datasets to better understand a variety of metrics, such as trends in user behavior and electronic resource usage, return on investment and impact metrics, and learning and reference analytics"

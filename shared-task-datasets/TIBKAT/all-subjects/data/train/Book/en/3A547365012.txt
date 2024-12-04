@@ -1,0 +1,2 @@
+Molecular modeling of inorganic compounds
+Molecular modeling is a well-established and powerful tool for the investigation of complex structures. This text shows how this method can be applied to inorganic and coordination compounds

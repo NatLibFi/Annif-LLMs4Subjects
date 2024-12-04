@@ -1,0 +1,2 @@
+Geospatial Web services : advances in information interoperability
+"This book highlights the strategic role of geospatial Web services in a distributed heterogeneous environment and the life cycle of geospatial Web services for building interoperable geospatial applications"--Provided by publisher

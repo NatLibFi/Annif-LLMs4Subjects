@@ -1,0 +1,2 @@
+Basic SPSS tutorial : [a simple, easy-to-understand guide to IBM SPSS statistics]
+This supplementary book for the social, behavioral, and health sciences helps readers with no prior knowledge of SPSS, statistics, or mathematics learn the basics of SPSS. Designed to reduce fear and build confidence, the book guides readers through point-and-click sequences using clear examples from real scientific research and invites them to replicate the findings.

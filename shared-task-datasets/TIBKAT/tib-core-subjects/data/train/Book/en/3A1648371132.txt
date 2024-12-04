@@ -1,0 +1,2 @@
+Adaptive Networks : Theory, Models and Applications
+With some adaptive, complex networks, the evolution of the network topology and the dynamical processes on the network are equally important and often fundamentally entangled. This book defines the scope and direction of some of the most advanced developments in the vast field of complex network science and its applications

@@ -1,0 +1,2 @@
+Non-Commutative Ring Theory : Proceedings of a Conference held in Athens, Ohio Sept. 29–30, 1989
+The papers of this volume share as a common goal the structure and classi- fication of noncommutative rings and their modules, and deal with topics of current research including: localization, serial rings, perfect endomorphism rings, quantum groups, Morita contexts, generalizations of injectivitiy, and Cartan matrices

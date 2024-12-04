@@ -1,0 +1,3 @@
+MDCT:A Practical Approach
+Computed tomography (CT) is the most rapidly evolving medical imaging technology. This book describes examination techniques and advanced clinical applications of multidetector computed tomography (MDCT) scanners in chapters contributed by several distinguished radiologists and clinicians
+This book describes current examination techniques and advanced clinical applications of state-of-the-art multidetector computed tomography (MDCT) scanners. There are contributions from several distinguished radiologists and clinicians. Each chapter is written from a practical perspective, so that radiologists, residents, medical physicists, and radiology technologists can obtain relevant information about MDCT applications.

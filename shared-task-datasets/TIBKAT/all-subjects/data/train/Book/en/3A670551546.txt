@@ -1,0 +1,2 @@
+Emerging technologies for the evolution and maintenance of software models
+"This book contains original work about current research and research projects related to all aspects affecting the maintenance, evolution, and reengineering (MER), as well as long-term management, of software models"--Provided by publisher

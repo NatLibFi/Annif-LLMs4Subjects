@@ -1,0 +1,2 @@
+Maya character modeling and animation : principles and practices
+The animation production process -- Fundamentals of computer animation -- Modeling and texturing a simple character -- Rigging and animating a simple character -- NURBS modeling and path animation with dynamics -- Modeling a biped character -- Rigging a biped character -- The art and science of animation -- Facial expression

@@ -1,0 +1,2 @@
+Adobe Photoshop Lightroom 5 : the missing FAQ; real answers to real questions asked by Lightroom users
+Primarily designed as a FAQ-style reference book, rather than step-by-step tutorials this book starts off with a short series of Quick Start tutorials designed to help you quickly understand the basics and get started, while avoiding the most frequent problems and mistakes. It then switches to a conversational question and answer format, so you can comfortably flip around the book, reading the sections that interest you most at the time

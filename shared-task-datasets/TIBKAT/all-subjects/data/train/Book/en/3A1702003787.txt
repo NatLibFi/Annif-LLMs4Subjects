@@ -1,0 +1,2 @@
+Fluid flow in porous media : fundamentals and applications
+"This book focuses on the fundamental theory of fluid flow in porous media, including classical and complex porous media, as well as fluid flow in unconventional reservoirs"--

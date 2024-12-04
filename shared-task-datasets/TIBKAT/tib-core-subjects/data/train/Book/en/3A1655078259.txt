@@ -1,0 +1,2 @@
+Rings and Modules of Quotients
+Torsion theory -- Categories of modules of quotients -- General properties of rings of quotients -- Self-injective rings -- maximal and classical rings of quotients.

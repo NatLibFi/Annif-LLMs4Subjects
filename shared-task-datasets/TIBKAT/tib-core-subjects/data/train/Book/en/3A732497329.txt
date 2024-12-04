@@ -1,0 +1,2 @@
+Designing, engineering, and analyzing reliable and efficient software
+"This book discusses and analyzes various designs, systems, and advancements in software engineering, concentrating on the integration of mathematics, computer science, and practices in engineering"--

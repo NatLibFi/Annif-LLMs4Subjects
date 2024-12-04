@@ -1,0 +1,2 @@
+Technische Mechanik mit Mathcad, Matlab und Maple : Grundlagen, Beispiele und numerische Lösungen
+Aufgabensammlung zur technischen Mechanik in klar gefasster Themenstellung unter Zuhilfenahme gängiger Mathematikprogramme. Bringt detaillierte Beschreibungen der Lösungswege sowie - zusätzlich - Übungsaufgaben zur Vertiefung in einem Schlussabschnitt (Lösungen im Internet), dazu Einführungen in die angewandte Software. Einsetzbar als Alternative zu H. D. Motz (ID 16/02) zu älteren Darstellungen. (3)

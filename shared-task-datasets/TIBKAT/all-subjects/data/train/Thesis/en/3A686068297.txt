@@ -1,0 +1,2 @@
+hp-finite element and boundary element methods for elliptic, elliptic stochastic, parabolic and hyperbolic obstacle and contact problems
+Stochastic/time dependent contact/obstacle problems, mixed and VI hp-FEM/BEM, a priori and a posteriori error estimates and hp-adaptivity, semi-smooth Newton, biorthogonal basis functions. - Stochastische/zeitabhängige Kontakt/Hindernis Probleme, gemischte und VU hp-FEM/BEM, a priori und a posteriori Fehlerabschätzungen, halbglattes Newton, biorthogonale Basisfunktionen

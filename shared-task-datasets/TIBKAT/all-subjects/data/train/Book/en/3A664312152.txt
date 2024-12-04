@@ -1,0 +1,2 @@
+Eigenvalues of Non-Linear Problems
+H. Amann: Nonlinear eigenvalue problems in ordered Banach spaces.- P.C. Fife: Branching phenomena in fluid dynamics and chemical reaction-diffusion theory.- W. Klingenberg: The theory of closed geodesics.- P. Rabinowitz: Variational methods for nonlinear eigenvalue problems.- M. Reeken: Existence of solutions to the Hartree-Fock equations.- R. Turner: Positive solutions of nonlinear eigenvalue problems

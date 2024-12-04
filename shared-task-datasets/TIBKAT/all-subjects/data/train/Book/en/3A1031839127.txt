@@ -1,0 +1,3 @@
+Gaussian Capacity Analysis
+Inhaltsverzeichnis: Gaussian Sobolev p-space -- Gaussian Campanato (p, k)-class -- Gaussian p-capacity -- Restriction of Gaussian Sobolev p-space -- Gaussian 1-capacity to Gaussian ∞-capacity -- Gaussian BV-capacity.
+This monograph develops the Gaussian functional capacity theory with applications to restricting the Gaussian Campanato/Sobolev/BV space. Included in the text is a new geometric characterization of the Gaussian 1-capacity and the Gaussian Poincaré 1-inequality. Applications to function spaces and geometric measures are also presented. This book will be of use to researchers who specialize in potential theory, elliptic differential equations, functional analysis, probability, and geometric measure theory.

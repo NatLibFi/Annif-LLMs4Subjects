@@ -1,0 +1,2 @@
+Komponentenorientierte Modellierung elektrischer Systeme in der Mechatronik
+Object-oriented simulation, mechatronic systems, non-iterative algorithm, electric components, piezo-actuator, symbolic computation, Maple, Sparse-Tableau, Library of components

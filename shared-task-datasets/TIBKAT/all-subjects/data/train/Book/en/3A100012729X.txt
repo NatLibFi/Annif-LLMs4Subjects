@@ -1,0 +1,2 @@
+Loss data analysis : the maximum entropy approach
+With applications in insurance, banking and finance as well as engineering and the natural sciences, Operational Risk Assessment is an important tool to mitigate losses. This textbook focuses on loss data analysis using a maximum entropy approach. After introductions of statistical tools and frequency models, specific examples using R are discussed.

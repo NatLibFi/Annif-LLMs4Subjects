@@ -1,0 +1,2 @@
+Field guide to image processing
+Digital imaging is essential to many industries, such as remote sensing, entertainment, defense, and biotechnology, and many processing techniques have been developed over time. This Field Guide serves as a resource for commonly used image-processing concepts and tools; with this foundation, readers will better understand how to apply these tools to various problems encountered in the field. Topics include filtering, time-frequency-domain processing, and image compression, morphology, and restoration

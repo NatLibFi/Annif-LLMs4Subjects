@@ -1,0 +1,2 @@
+Probabilistic nodes combination (PNC) for object modeling and contour reconstruction
+"This book is an innovative reference source that examines the latest trends in 2D curve interpolation and modeling methodologies. Focusing on a range of pertinent topics such as 3D surface modeling, high-dimensional data, and numerical methods"--Provided by publisher.

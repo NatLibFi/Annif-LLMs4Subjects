@@ -1,0 +1,2 @@
+Materials thermodynamics : with emphasis on chemical approach
+Preface --  1. Introduction -- 2. The first law of thermodynamics -- 3. The second law of thermodynamics -- 4. Free energy functions -- 5. The third law of thermodynamics -- 6. Enthalpy and Gibbs energy changes -- 7. Behavior of gases -- 8. Thermodynamic functions of mixing -- 9. Behavior of solutions -- 10. Reaction equilibria -- 11. Phase equilibria -- 12. Phase diagrams -- 13. Electrochemistry -- Appendices -- Index

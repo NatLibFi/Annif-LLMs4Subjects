@@ -1,0 +1,2 @@
+Modern anti-windup synthesis : control augmentation for actuator saturation
+"This book contains a collection of modern anti-windup algorithms. It is aimed at practicing control engineers as well as graduate students. The reader will learn the objectives and terminology of the anti-windup problem, will be exposed to the mathematics behind anti-windup synthesis, and will gain exposure to a variety of anti-windup algorithms, which are illustrated through examples"--

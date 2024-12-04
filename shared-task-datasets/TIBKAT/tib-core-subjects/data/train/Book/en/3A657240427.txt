@@ -1,0 +1,2 @@
+Oracle Database 11g release 2 high availability : maximize your availability with grid infrastructure, Oracle Real Application Clusters, and Oracle Data Guard
+Provides information on using Oracle database 11g to grid-enable an IT framework, maintain databases, build test clusters, and identify and undo user errors

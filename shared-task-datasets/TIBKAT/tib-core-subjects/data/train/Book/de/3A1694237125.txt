@@ -1,0 +1,2 @@
+Automatisierungstechnik : Methoden für die Überwachung und Steuerung kontinuierlicher und ereignisdiskreter Systeme
+Dieses Buch gibt eine breite Einführung in die Aufgaben und Methoden der Automatisierungstechnik und veranschaulicht diese an zahlreichen Anwendungsbeispielen. Die Themen reichen von der Modellbildung über die Vorhersage des zukünftigen Systemverhaltens, den Entwurf von Regelungen und Steuerungen bis zur Prozessdiagnose. Die vierte Auflage verbessert und erweitert die Darstellung der Methoden, die Beispiele und die Übungsaufgaben

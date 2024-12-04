@@ -1,0 +1,2 @@
+Hand pose recognition using a consumer depth camera
+Model-based pose estimation, gesture recognition, time-of-flight imaging. - Modellbasierte Poseschätzung, Gestenerkennung, Time-of-Flight-Bildgebung

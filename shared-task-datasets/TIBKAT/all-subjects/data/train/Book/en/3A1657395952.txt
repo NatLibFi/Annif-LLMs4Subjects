@@ -1,0 +1,2 @@
+Protocols and applications for the industrial internet of things
+"This book addresses the difficulties, challenges, and the current state of the Industrial Internet of Things (IIoT). It addresses different aspects of the adoption of the IoT in Industrials process: examples of how IoT can help in the production, how IoT can help to improve the work life, and related topics"--

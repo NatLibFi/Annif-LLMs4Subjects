@@ -1,0 +1,2 @@
+Human information retrieval
+Introduction -- Selection power and selection labor -- Description and search labor -- A labor theoretic approach -- Retrieval from full text -- A semantics for retrieval from full text -- A syntactics for retrieval from full text -- Semantics and syntactics for retrieval from full text -- Conclusion

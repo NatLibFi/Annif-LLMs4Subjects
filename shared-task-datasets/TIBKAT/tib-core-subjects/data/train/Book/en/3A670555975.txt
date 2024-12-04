@@ -1,0 +1,2 @@
+Simulation in computer network design and modeling : use and analysis
+"This book reviews methodologies in computer network simulation and modeling, illustrates the benefits of simulation in computer networks design, modeling, and analysis, and identifies the main issues that face efficient and effective computer network simulation"--Provided by publisher

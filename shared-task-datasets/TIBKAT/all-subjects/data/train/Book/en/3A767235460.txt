@@ -1,0 +1,2 @@
+Access 2013 for dummies : a Wiley Brand ; [learn to: navigate the Access interface and understand database architecture ; build tables to organize data and create forms for easy data entry ; query your data and produce reports ; build custom interfaces for all users]
+Drowning in data? Learn to manage it all and make it useful with the tools in Access 2013. This guide will help you organize your data, produce reports that make you look like a genius, and create forms that enable your staff to enter and manage more data --

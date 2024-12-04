@@ -1,0 +1,2 @@
+Advanced game design with HTML5 and JavaScript
+Level up! -- The canvas drawing API -- Working with game assets -- Making sprites and a scene graph -- Making things move -- Interactivity -- Collision detection -- Juice it up -- Sound with the web audio API -- Tweening -- Make your own game engine -- Appendix A: Vectors for movement and collision detection

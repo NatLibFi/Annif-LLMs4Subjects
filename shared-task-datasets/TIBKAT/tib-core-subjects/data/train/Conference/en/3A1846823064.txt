@@ -1,0 +1,2 @@
+Cognitive computation and systems : First International Conference, ICCCS 2022, Beijing, China, December 17-18, 2022, revised selected papers
+This volume constitutes selected papers presented during the First International Conference on Cognitive Computation and Systems, ICCCS 2022, held in Beijing, China, in October 2022. The 31 papers were thoroughly reviewed and selected from the 75 submissions. The papers are organized in topical sections on computer vision; decision making and cognitive computation; robot and autonomous vehicle

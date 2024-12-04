@@ -1,0 +1,2 @@
+Foliage Penetration Radar : Detection and characterisation of objects under trees
+The book reviews developments in the following fields: History of battlefield surveillance; foliage penetration SAR collection system; FOPEN SAR image formation; radio frequency interference suppression; FOPEN target detection and characterization; FOPEN SAR design; FOPEN ground moving target indication; and bistatic FOPEN SAR

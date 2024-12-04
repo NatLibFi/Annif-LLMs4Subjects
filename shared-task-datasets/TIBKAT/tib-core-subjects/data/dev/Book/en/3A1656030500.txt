@@ -1,0 +1,3 @@
+Selected Applications of Convex Optimization
+This book focuses on the applications of convex optimization and highlights several topics, including support vector machines, parameter estimation, norm approximation and regularization, semi-definite programming problems, convex relaxation, and geometric problems. All derivation processes are presented in detail to aid in comprehension. The book offers concrete guidance, helping readers recognize and formulate convex optimization problems they might encounter in practice
+Preliminary Knowledge -- Support Vector Machines -- Parameter Estimations -- Norm Approximation and Regulariztion -- Semi-Definite Programing and Linear Matrix Inequalities -- Convex Relaxation -- Geometric Problems

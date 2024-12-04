@@ -1,0 +1,2 @@
+Pro Silverlight 2 in VB 2008 : [create cross-platform .NET applications for the browser ; full color inside]
+Silverlight 2 is a revolutionary browser plug-in that allows developers to create rich client applications that run inside the browser. Like Adobe Flash, Silverlight supports event handling, two-dimensional drawing, video playback, networking, and animation

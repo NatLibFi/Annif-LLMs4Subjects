@@ -1,0 +1,2 @@
+Microsoft Windows 8 administration : pocket consultant
+Furnishes quick reference answers to questions about day-to-day administration of Windows 8, covering such topics as configuring user and computer policies, automating configuration, managing user access and security, installing and maintaining programs,and handling maintenance and support tasks

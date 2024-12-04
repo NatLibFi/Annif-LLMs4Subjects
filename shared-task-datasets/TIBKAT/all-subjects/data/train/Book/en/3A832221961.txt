@@ -1,0 +1,2 @@
+Handbook of research on advanced hybrid intelligent techniques and applications
+"This book highlights the latest research on various issues relating to the hybridization of artificial intelligence, practical applications, and best methods for implementation by focusing on key interdisciplinary computational intelligence research dealing with soft computing techniques, pattern mining, data analysis, and computer vision"--

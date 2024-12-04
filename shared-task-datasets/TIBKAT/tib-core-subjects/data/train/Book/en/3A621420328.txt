@@ -1,0 +1,2 @@
+Load calculation applications manual
+"Focuses on the radiant time series and heat balance methods for calculating cooling loads in nonresidential buildings. The intended audience is relatively new engineers who are learning to do load calculations, as well as experienced engineers who wish to learn the radiant time series method"--Provided by publisher

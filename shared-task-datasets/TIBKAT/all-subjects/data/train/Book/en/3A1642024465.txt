@@ -1,0 +1,2 @@
+Two and three dimensional calculus : with applications in science and engineering
+Revision of one dimensional calculus -- Partial differentiation -- Maxima and minima -- Vector algebra -- Vector differentiation -- Grad div and curl -- Curvilinear co-ordinates -- Path integrals -- Multiple integrals -- Surface integrals -- Integral theorems -- Solutions and answers to exercises

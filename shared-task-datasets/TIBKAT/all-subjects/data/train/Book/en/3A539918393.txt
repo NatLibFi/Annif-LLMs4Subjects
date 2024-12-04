@@ -1,0 +1,2 @@
+Advanced Rails : [building industrial-strenght web apps in record time]
+A guide to building applications with Rails covers such topics as metaprogamming, Active Support library, advanced database functions, security principles, RESTful architecture, and optimizing performance

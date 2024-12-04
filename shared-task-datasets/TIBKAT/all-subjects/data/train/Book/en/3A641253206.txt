@@ -1,0 +1,2 @@
+Developments in intelligent agent technologies and multi-agent systems : concepts and applications
+"This book discusses research on emerging technologies and systems based on agent and multi-agent paradigms across various fields of science, engineering and technology, offering a collection that covers conceptual frameworks, case studies, and analysis"--

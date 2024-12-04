@@ -1,0 +1,2 @@
+Expansions and asymptotics for statistics
+General series methods -- Padé approximants and continued fractions -- The delta method and its extensions -- Optimality and likelihood asymptotics -- The Laplace approximation and series -- The saddle-point method -- Summation of series

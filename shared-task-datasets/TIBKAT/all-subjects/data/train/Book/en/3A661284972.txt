@@ -1,0 +1,2 @@
+Jenkins: the definitive guide : [ continuous integration for the massses ; also covers Hudson]
+"Streamline software development with Jenkins, the popular Java-based open source tool that has revolutionized the way teams think about Continuous Integration (CI). This complete guide shows you how to automate your build, integration, release, and deployment processes with Jenkins -- and demonstrates how CI can save you time, money, and many headaches"--Back cover

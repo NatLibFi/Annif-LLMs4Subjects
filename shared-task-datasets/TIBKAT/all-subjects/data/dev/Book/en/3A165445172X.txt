@@ -1,0 +1,2 @@
+Advancements in applied metaheuristic computing
+"This book considers the foremost optimization algorithms in several applications. It deals primarily with methods and approaches that include meta-heuristics for further systems improvements. It grants substantial frameworks and the most contemporary empirical research outcomes in employing optimization algorithms"--

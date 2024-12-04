@@ -1,0 +1,2 @@
+Coding with XML for efficiencies in cataloging and metadata : practical applications of XSD, XSLT, and XQuery
+"This new handbook from the Association for Library Collections & Technical Services (ALCTS) is for experienced catalogers and copy catalogers who know their way around the tags and strings of a MARC record as well as for coders and new librarians coming from iSchool or software backgrounds who need examples of how to use XLML or XSLT scripting with library records"--

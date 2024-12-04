@@ -1,0 +1,2 @@
+HTML5 und CSS3 für Dummies : [Webdesign ist keine Zauberei - mit HTML5 und CSS3 ; auf einen Blick: die Vorteile von HTML5 und CSS3 kombinieren ; schöne und funktionale Webseiten gestalten ; Mediadateien, Formulare und Geolocation implementieren ; mit vielen Inspirationsideen und Codebeispielen ; komplett in Farbe]
+Eine praxisnahe Lektüre für Webdesigner, die sich über den derzeitigen Stand von HTML5 und CSS3 informieren und diese Standards schon jetzt anwenden wollen. Sie erfahren hier u.a., wie man Videos, Animationen und andere Medien in Webseiten einbinden kann

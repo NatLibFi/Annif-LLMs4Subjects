@@ -1,0 +1,2 @@
+Bioinformatics : problem solving paradigms
+Core bioinformatics problems -- Turning to algorithmic problems -- Dynamic programming -- Intelligent data structures -- NP-hardness of core bioinformatics problems -- Approximation algorithms -- A selection of metaheuristics and various projects

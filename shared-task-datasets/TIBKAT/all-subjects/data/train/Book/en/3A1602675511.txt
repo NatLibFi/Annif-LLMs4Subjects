@@ -1,0 +1,2 @@
+Effective C# : 50 specific ways to improve your C#
+C♯ language idioms -- .NET resource management -- Expressing designs in C♯ -- Working with the Framework -- Dynamic programming in C♯ -- Miscellaneous

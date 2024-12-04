@@ -1,0 +1,2 @@
+Robot Vision : International Workshop RobVis 2001 Auckland, New Zealand, February 16–18, 2001 Proceedings
+This book constitutes the refereed proceedings of the International Workshop on Robot Vision, RobVis 2001, held in Auckland, New Zealand in February 2001. The 17 revised full papers presented together with 17 posters were carefully reviewed and selected from 52 submissions. The papers and posters are organized in topical sections on active perception, computer vision, robotics and video, computational stereo, robotic vision, and image acquisition

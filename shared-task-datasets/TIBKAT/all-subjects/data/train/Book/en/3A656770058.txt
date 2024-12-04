@@ -1,0 +1,2 @@
+Supercharged JavaScript graphics : [with HTML5 Canvas and jQuery]
+"This fast-paced book shows you how to use JavaScript, jQuery, DHTML, and HTML5's Canvas element to create rich web applications for desktop and mobile devices. By following real-world examples, experienced web developers learn fun and useful approaches to arcade games, DHTML effects, business dashboards, and other applications"--P. [4] of cover

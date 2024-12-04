@@ -1,0 +1,2 @@
+Geschichte der Zeta-Funktion von Oresme bis Poisson
+This useful handbook summarizes and quotes various investigations on the divergence of the harmonic series and the convergence of ζ(s) (particularly s=2) from the 14th to the 19th century by, among others, Oresme, Mengoli, Leibniz, the Bernoullis, Euler, Riemann and Poisson. An appendix contains biographical notes on those cited.

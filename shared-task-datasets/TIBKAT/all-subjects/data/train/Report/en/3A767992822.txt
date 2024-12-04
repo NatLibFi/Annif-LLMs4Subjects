@@ -1,0 +1,2 @@
+Phonetic search methods for large speech databases
+"Phonetic Search Methods for Large Databases focuses on Keyword Spotting (KWS) within large speech databases. The brief will begin by outlining the challenges associated with Keyword Spotting within large speech databases using dynamic keyword vocabularies. It will then continue by highlighting the various market segments in need of KWS solutions, as well as, the specific requirements of each market segment."--

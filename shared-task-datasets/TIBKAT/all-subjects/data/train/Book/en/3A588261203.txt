@@ -1,0 +1,2 @@
+Security of information and communication networks
+Introduction -- Mathematical foundations -- Ciphers and algorithms -- Cryptographic key distribution systems -- Chaotic cryptographic systems -- Communication security layer classifications -- Network security: wireless systems -- Network security: wired systems -- Network security: optical systems -- Quantum networks -- Next generation optical network security -- Biometrics in communication networks

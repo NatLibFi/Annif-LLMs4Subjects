@@ -1,0 +1,2 @@
+The mathematics of signal processing
+Preface -- Introduction -- 1. Normed vector spaces -- 2. Analytic tools -- 3. Fourier series -- 4. The Fourier transform -- 5. Compressive sampling -- 6. Discrete transforms -- 7. Linear filters -- 8. Windowed fourier and continuous wavelet transforms. Frames -- 9. Multiresolution analysis -- 10. Discrete wavelet theory -- 11. Biorthogonal filters and wavelets -- 12. Parsimonious representation of data

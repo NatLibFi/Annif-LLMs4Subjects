@@ -1,0 +1,2 @@
+Handbook of probability
+Probability Space -- Probability Measure -- Random Variables : Generalities -- Random Variables : the Discrete Case -- Random Variables : the Continuous Case -- Generating Random Variables -- Random Vectors in Rn -- Characteristic Function -- Moment Generating Function -- Gaussian Random Vectors -- Convergence Types : A.S. Convergence, LP Convergence, Convergence in Probability -- Limit Theorems -- Appendix A: Integration Theory : General Expectations -- Appendix B: Inequalities Involving Random Variables and Their Expectations

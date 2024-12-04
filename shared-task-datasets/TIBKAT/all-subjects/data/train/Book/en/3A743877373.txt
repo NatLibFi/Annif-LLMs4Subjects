@@ -1,0 +1,3 @@
+Pro NuGet : [your salvation from dependency hell!]
+Getting started  -- Consuming and managing packages in a solution  -- Creating packages  -- Publishing packages  -- Hosting your own nuget server   -- Continuous package integration  -- Automated delivery   -- Extending nuget   -- Nuget as a protocol  -- Appendices
+"Have you ever been to a place called dependency hell? Every added dependency to your software product is a potential increase in risk. Pro NuGet, an open-source tool for the .NET Framework, will give you the skills you'll need to manage your software development process with confidence."--Publisher's description

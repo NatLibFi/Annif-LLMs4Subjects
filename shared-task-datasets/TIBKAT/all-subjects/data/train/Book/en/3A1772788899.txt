@@ -1,0 +1,2 @@
+Alignment of optical systems using lasers : a guide for the uninitiated
+This Spotlight is intended to pass on some nuggets of knowledge about how to go about setting up an optical alignment using a laser and some tricks to use to make life easier. There are other topics that are important to grasp, topics that may have been presented in lectures but not faced in reality - such as chromatic effects and collimation. This text is not intended to be rigorously scientific in its approach but more as a companion on your optics journey.

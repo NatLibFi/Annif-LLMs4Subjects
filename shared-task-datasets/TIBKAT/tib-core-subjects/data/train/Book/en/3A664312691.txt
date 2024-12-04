@@ -1,0 +1,2 @@
+Relativistic Fluid Dynamics
+This title includes: Pham Mau Quam: Problemes mathematiques en hydrodynamique relativiste; A. Lichnerowicz: Ondes de choc, ondes infinitesimales et rayons en hydrodynamique et magnetohydrodynamique relativistes; A.H. Taub: Variational principles in general relativity; J. Ehlers: General relativistic kinetic theory of gases; K. Marathe: Abstract Minkowski spaces as fibre bundles; and, G. Boillat: Sur la propagation de la chaleur en relativite

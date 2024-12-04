@@ -1,0 +1,3 @@
+Semiconductor gas sensors
+Part I. Introduction -- part II. Advanced sensing methods and structures -- part III. Nanomaterials for gas sensing -- part IV. Applications of semiconductor gas sensors
+Semiconductor gas sensors have a wide range of applications in safety, process control, environmental monitoring, indoor or cabin air quality and medical diagnosis. This book summarizes recent research on basic principles, new materials and emerging technologies in this essential field

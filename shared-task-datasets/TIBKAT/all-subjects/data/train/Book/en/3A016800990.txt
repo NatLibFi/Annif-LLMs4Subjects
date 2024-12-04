@@ -1,0 +1,2 @@
+The MS-DOS encyclopedia
+A comprehensive and updated reference contains detailed information on MS-DOS versions 1.0 through 3.2, covering the development of MS-DOS, programming tools and techniques, and commands.

@@ -1,0 +1,2 @@
+Handbook of X-Ray Data
+Intended for scientists and engineers working in the field of energy or wavelength dispersive X-ray spectrometry and related fields of basic and applied research and technology, this book tabulates important data connected with the emission of characteristic X-ray lines for all elements up to Z = 95

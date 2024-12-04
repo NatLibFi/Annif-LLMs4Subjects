@@ -1,0 +1,2 @@
+Introduction to applied numerical analysis
+"This book is appropriate for an applied numerical analysis course for upper-level undergraduate and graduate students as well as computer science students. Actual programming is not covered, but an extensive range of topics includes round-off and function evaluation, real zeros of a function, integration, ordinary differential equations, optimization, orthogonal functions, Fourier series, and much more. 1989 edition"--Provided by publisher

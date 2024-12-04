@@ -1,0 +1,2 @@
+Multi-Frame Rate Rendering
+Multi-Frame Rate Rendering ist eine parallele Rendertechnik, die interaktive Teile einer Szene auf einer separaten Graphikkarte berechnet. Die Abbildung des Rests der Szene erfolgt asynchron auf einer anderen Graphikkarte. Die resultierenden Farb- und Tiefenbilder beider Darstellungsprozesse werden mittels optischer Überlagerung oder digitaler Komposition kombiniert und angezeigt. Die Ergebnisse einer Nutzerstudie zeigen, daß Multi-Frame Rate Rendering die Interaktion für große Szenen deutlich beschleunigt.

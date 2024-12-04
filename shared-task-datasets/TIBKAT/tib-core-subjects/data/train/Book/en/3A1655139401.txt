@@ -1,0 +1,2 @@
+Equivariant Sheaves and Functors
+The equivariant derived category of sheaves is introduced. All usual functors on sheaves are extended to the equivariant situation. Some applications to the equivariant intersection cohomology are given. The theory may be useful to specialists in representation theory, algebraic geometry or topology

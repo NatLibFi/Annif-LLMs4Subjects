@@ -1,0 +1,2 @@
+Transport phenomena fundamentals
+"Preface The primary purposes of this third edition were to 1. Eliminate, as much as possible, the number of typographical, cut-and-paste, and numerical errors that remained or cropped up during the writing of the second edition 2. Eliminate some old-fashioned/graphical approaches to working problems in favor of solutions that make use of more modern tools like MATLAB--

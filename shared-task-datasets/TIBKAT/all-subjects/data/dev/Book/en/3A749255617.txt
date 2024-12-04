@@ -1,0 +1,2 @@
+Symmetries in Physics : Group Theory Applied to Physical Problems
+Symmetries in Physics presents the fundamental theories of symmetry, together with many examples of applications taken from several different branches of physics. Emphasis is placed on the theory of group representations and on the powerful method of projection operators. The excercises are intended to stimulate readers to apply the techniques demonstrated in the text

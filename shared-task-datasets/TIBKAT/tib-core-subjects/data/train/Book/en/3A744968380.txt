@@ -1,0 +1,2 @@
+Influence of Stress on Cell Growth and Product Formation
+Stresses which arise in bioreactors can influence process performance considerably. Recent molecular biological investigations indicate that stress caused by fluid dynamical effects and extreme values of process variables and toxic substances cause similar responses in the cells. These molecular fundamentals, as well as quantitative evaluation of fluid dynamical stresses and, their effects on microorganisms, animal and plant cells and proteins are treated in this volume

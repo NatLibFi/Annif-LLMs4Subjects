@@ -1,0 +1,2 @@
+Job Scheduling Strategies for Parallel Processing : IPDPS 2000 Workshop, JSSPP 2000 Cancun, Mexico, May 1, 2000 Proceedings
+This book constitutes the thoroughly refereed post-workshop proceedings of the 6th International Workshop on Job Scheduling Strategies for Parallel Processing, JSSPP 2000, held in Cancun, Mexico in May 2000 as a satelite meeting of IPDPS 2000. The 12 revised full papers presented were carefully reviewed during an iterated evaluation process and present the state of the art in the area

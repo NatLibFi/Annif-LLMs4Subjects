@@ -1,0 +1,2 @@
+Logic Colloquium : Symposium on Logic Held at Boston, 1972–73
+Combinatorial functors -- Equality between functionals -- The use of abstract language in elementary metamathematics: Some pedagogic examples -- Weak monadic second order theory of succesor is not elementary-recursive -- The variable -- Abolition of the fregean axiom -- A realizability interpretation of the theory of species.

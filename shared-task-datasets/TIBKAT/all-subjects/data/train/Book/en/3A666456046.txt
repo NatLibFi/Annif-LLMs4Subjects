@@ -1,0 +1,2 @@
+The official Ubuntu book
+A guide to the Ubuntu operating system covers such topics as installation, using applications, installing updates, the Ubuntu server, networking, system administration, Kubuntu, and GNOME Shell

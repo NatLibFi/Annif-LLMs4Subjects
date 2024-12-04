@@ -1,0 +1,3 @@
+GIS based chemical fate modeling : principles and applications
+"The book provides the fundamental knowledge necessary for the application of GIS in solving chemical fate modeling problems"--
+"This book covers the integration of chemical fate modeling for use in Geographic Information System (GIS) functions. It features a practical and hands-on approach that's intended for modelers preparing maps of chemical emissions, and creating landscape and climate properties within a GIS, while chemical fate calculations are performed using specialized model codes. A relevant part of the book also discusses data retrieval and processing as a basis for modeling. As such, the book offers a one-stop reference for practitioners who wish to integrate GIS with chemical modeling"--

@@ -1,0 +1,2 @@
+Visual analytics and interactive technologies : data, text, and web mining applications
+"This book is a comprehensive reference on concepts, algorithms, theories, applications, software, and visualization of data mining, text mining, Web mining and computing/supercomputing, covering state-of-the-art of the theory and applications of mining"--

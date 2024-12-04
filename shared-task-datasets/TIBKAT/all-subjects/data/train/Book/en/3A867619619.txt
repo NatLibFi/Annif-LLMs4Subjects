@@ -1,0 +1,2 @@
+Picturing quantum processes : a first course in quantum theory and diagrammatic reasoning
+Guide to reading this textbook -- Processes as diagrams -- String diagrams -- Hilbert space from diagrams -- Quantum processes -- Quantum measurement -- Picturing classical-quantum processes -- Picturing phases and complementarity -- Quantum theory: the full picture -- Quantum foundations -- Quantum computation -- Quantum resources -- Quantomatic

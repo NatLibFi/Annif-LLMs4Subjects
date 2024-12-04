@@ -1,0 +1,2 @@
+Exploring malicious hacker communities : toward proactive cyber-defence
+Background -- Mining key-hackers -- Reasoning about hacker engagement -- Uncovering communities of malware and exploit vendors -- Identifying exploits in the wild proactively -- Predicting enterprise-targeted external cyber-attacks -- Bringing social network analysis to aid in cyber-attack prediction -- Finding at-risk systems without software vulnerability identifiers (CVE's) -- Final considerations.

@@ -1,0 +1,2 @@
+Practical database programming with Visual Basic.NET
+Introduction -- Introduction to databases -- Introduction to ADO.NET -- Data selection query with Visual Basic.NET -- Data insertion with Visual Basic.NET -- Data updating and deleting with Visual Basic.NET -- Accessing data in ASP.NET -- ASP.NET web services

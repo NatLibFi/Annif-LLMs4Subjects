@@ -1,0 +1,2 @@
+Microsoft .NET fundamentals : [MTA] exam 98-372
+Machine generated contents note:  Lesson 1: Understanding Object Oriented Programming Lesson 2: Understanding Data Types and Collections Lesson 3: Understanding Events and Exceptions Lesson 4: Understanding Code Compilation and Deployment Lesson 5: Understanding Input/Output (I/O) Classes Lesson 6: Understanding Security Appendix Credits Index

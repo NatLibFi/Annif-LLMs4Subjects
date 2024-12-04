@@ -1,0 +1,2 @@
+Digital forensics processing and procedures : meeting the requirements of ISO 17020, ISO 17025, ISO 27001 and best practice requirements
+"A comprehensive handbook that covers all aspects of designing, managing and running a digital forensics laboratory in line with relevant ISO standards."--

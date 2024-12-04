@@ -1,0 +1,2 @@
+UNICORE Uniformes Interfaces für Computer Ressourcen : gemeinsamer Abschlußbericht des BMBF-Verbundprojekts ; Projektlaufzeit: August 1997 bis Dezember 1999
+High performance computing, supercomputer centres, grid computing, computing portals, IT infrastructure

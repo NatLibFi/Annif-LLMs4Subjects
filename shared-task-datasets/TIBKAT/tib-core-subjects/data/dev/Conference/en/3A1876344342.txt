@@ -1,0 +1,2 @@
+Big data : 11th CCF conference, BigData 2023, Nanjing, China, September 8-10, 2023 : proceedings
+This book constitutes the refereed proceedings of the 11th CCF Conference on BigData 2023, which took place in Nanjing, China, in September 2023. The 14 full papers presented in this volume were carefully reviewed and selected from 69 submissions. The topics of accepted papers include theories and methods of data science, algorithms and applications of big data

@@ -1,0 +1,2 @@
+Beginning HTML with CSS and XHTML : modern guide and reference ; [learn how to create modern, standards-compliant HTML and CSS websites with no fuss]
+Describes how to develop Web sites using HTML and CSS, covering such topics as XHTML, adding content, using images, building forms, scripting, and assembling pages

@@ -1,0 +1,2 @@
+Social engineering : the art of human hacking
+Examines what social engineering is, the methods used by hackers to gather information, and ways to prevent social engineering threats

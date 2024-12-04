@@ -1,0 +1,2 @@
+Fundamentals of radar imaging
+Introduction -- Radar systems -- Introduction to scattering -- Detection of signals in noise -- The radar ambiguity function -- Wave propagation in two and three dimensions -- Inverse synthetic-aperture radar -- Antennas -- Synthetic-aperture radar -- Related techniques -- Open problems

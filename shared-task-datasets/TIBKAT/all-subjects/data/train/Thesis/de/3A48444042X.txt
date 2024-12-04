@@ -1,0 +1,2 @@
+Symmetrization procedures for the isoperimetric problem in symmetric spaces of noncompact type
+In der vorliegenden Arbeit wird ein neues Symmetrisierungsverfahren für das isoperimetrische Problem in symmetrischen Räumen vom nichtkompakten Typ entwickelt. Dieses ist eine Verallgemeinerung der Steiner-Symmetrisierung im Euklidischen Raum. Anders als im klassischen Fall ergibt sich das symmetrisierte Gebiet durch Lösen einer nichtlinearen partiellen Differentialgleichung. Abschließend werden mögliche Anwendungen des Verfahrens auf das isoperimetrische Problem diskutiert.

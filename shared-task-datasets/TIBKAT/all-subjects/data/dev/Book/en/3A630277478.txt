@@ -1,0 +1,2 @@
+Principles and applications of distributed event-based systems
+"This book showcases event-based systems in real-world applications, providing professionals, researchers, and students in systems design with a rich compendium of latest applications in the field"--Provided by publisher

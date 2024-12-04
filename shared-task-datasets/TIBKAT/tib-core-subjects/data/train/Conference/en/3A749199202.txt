@@ -1,0 +1,2 @@
+Feedback Control, Nonlinear Systems, and Complexity
+This volume is the proceedings of a conference held May 6 and 7, 1994 at McGill University in Montreal in honour of Professor George on the occasion of his 60th birthday. He has devoted most of his professional life to the subject of feedback control. Invited speakers were internationally prominent researchers from the USA, Canada, UK and the Netherlands. Their papers cover various aspects of linear multivariable feedback control, nonlinear systems and the complexity of systems

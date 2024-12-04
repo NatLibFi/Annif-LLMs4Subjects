@@ -1,0 +1,2 @@
+DSL advances
+Introduction to DSL -- Review of transmission fundamentals for DSLs -- ADSL -- Second-generation HDSL (HDSL2) -- Handshake for the ITU-T Suite of DSL systems -- Single-pair high-speed digital subscriber line (SHDSL) -- VDSL-- Unbundling and line sharing -- Spectral compatibility of DSL systems -- Spectral management of DSL systems -- Dynamic spectrum management (DSM) -- Customer premises networking -- DSL CPE autoconfiguration -- Network aspects -- DSL and security -- Voice-over DSL (VODSL) -- Standards

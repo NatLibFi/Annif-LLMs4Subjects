@@ -1,0 +1,2 @@
+Simulation analysis of the piezoelectric microgenerator based on vibration induced by sound
+Piezoelectric microgenerator, vibration induced by sound, electromechanical resonator, lumped elements, acoustic characterization

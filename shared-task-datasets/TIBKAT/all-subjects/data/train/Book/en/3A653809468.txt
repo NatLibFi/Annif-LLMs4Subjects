@@ -1,0 +1,2 @@
+Robotics, vision and control : fundamental algorithms in MATLAB
+1. Introduction -- 2. Representing position and orientation -- 3. Time and motion -- 4. Mobile robot vehicles -- 5. Navigation -- 6. Localization -- 7. Robot arm kinematics -- 8. Velocity relationships -- 9. Dynamics and control -- 10. Light and color -- 11. Image formation -- 12. Image processing -- 13. Image feature extraction -- 14. Using multiple images -- 15. Vision-based control -- 16. Advanced visual servoing

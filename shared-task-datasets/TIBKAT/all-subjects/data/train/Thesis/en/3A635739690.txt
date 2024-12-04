@@ -1,0 +1,2 @@
+Quantenchemische Untersuchungen photochemischer und thermischer Reaktionen mit Car-Parrinello-Moleküldynamiksimulationen
+Moleküldynamik, Photodissoziation, thermische Dekomposition. - Molecular dynamics, photodissociation, thermal decomposition

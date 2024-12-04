@@ -1,0 +1,2 @@
+Fluent Python
+Learn how to write idiomatic, effective Python code by leveraging its best features. Python's simplicity quickly lets you become productive with it, but this often means you aren't using everything the language has to offer. By taking you through Python's key language features and libraries, this practical book shows you how to make your code shorter, faster, and more readable all at the same time--what experts consider Pythonic

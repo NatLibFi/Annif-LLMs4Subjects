@@ -1,0 +1,2 @@
+Diagnostic test approaches to machine learning and commonsense reasoning systems
+"This book analyzes and compares the existing and most effective algorithms for mining through logical rules and shows how these approaches use shared concepts for mining logical rules, including item, item set, transaction, frequent itemset, maximal itemset, generator (non-redundant or irredundant itemset), closed itemset, support, and confidence"--

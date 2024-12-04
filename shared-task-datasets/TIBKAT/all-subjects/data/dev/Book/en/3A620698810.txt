@@ -1,0 +1,2 @@
+SystemC : from the ground up
+Why SystemC: ESL and TLM -- Overview of SystemC -- Data Types -- Modules -- A Notion of Time -- Concurrency -- Dynamic Processes -- Basic Channels -- Evaluate-Update Channels -- Structure -- Communication -- More on Ports and Interfaces -- Custom Channels and Data -- Additional Topics -- SCV -- OSCI TLM -- Odds and Ends

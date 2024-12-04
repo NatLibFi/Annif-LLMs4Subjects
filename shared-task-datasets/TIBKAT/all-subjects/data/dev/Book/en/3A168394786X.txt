@@ -1,0 +1,2 @@
+Characterisation methods in solid state and materials science
+This book presents a comprehensive overview of the various characterisation techniques involved in solid state research. The generalised approach offers a deeper understanding of the benefits, drawbacks and overlap within different characterisation techniques. In particular, the book examines techniques within diffraction, microscopy and spectroscopy and discusses thermal, electric and magnetic characterisation.

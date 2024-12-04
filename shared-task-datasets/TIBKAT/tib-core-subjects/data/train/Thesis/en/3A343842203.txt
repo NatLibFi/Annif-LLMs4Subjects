@@ -1,0 +1,2 @@
+2.5D-GIS und Geobasisdaten : Integration von Höheninformation und digitalen Situationsmodellen
+Digital terrain models (DTM), geographical information systems (GIS), multidimensional objectstructured landscape modeling

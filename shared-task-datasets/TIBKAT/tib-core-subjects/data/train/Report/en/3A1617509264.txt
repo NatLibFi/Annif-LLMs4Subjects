@@ -1,0 +1,2 @@
+Physics of organic semiconductors
+Filling the gap in the literature, this overview of our knowledge of the physics behind organic semiconductor devices contains contributions from over 17 international research groups on various aspects of the field. Topics include the growth of organic layers and crystals, electronic properties at interfaces, photophysics and electrical transport properties, as well as applications. For both students and researchers

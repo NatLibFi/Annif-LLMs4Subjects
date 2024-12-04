@@ -1,0 +1,2 @@
+Stein Manifolds and Holomorphic Mappings : The Homotopy Principle in Complex Analysis
+Part I Stein Manifolds -- 1 Preliminaries -- 2 Stein Manifolds -- 3 Stein Neighborhoods and Approximation -- 4 Automorphisms of Complex Euclidean Spaces -- Part II Oka Theory -- 5 Oka Manifolds -- 6 Elliptic Complex Geometry and Oka Theory -- 7 Flexibility Properties of Complex Manifolds and Holomorphic Maps -- Part III Applications -- 8 Applications of Oka Theory and its Methods -- 9 Embeddings, Immersions and Submersions -- 10 Topological Methods in Stein Geometry -- References -- Index

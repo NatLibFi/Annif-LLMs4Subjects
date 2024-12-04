@@ -1,0 +1,2 @@
+Data structures and the Java collections framework : [with JUnit]
+"Instead of emphasizing the underlying mathematics to get programmers to build their own data structures, Collins enables them to manipulate existing structures in the Java Collections Library. This allows them to learn through coding rather than by doing proofs. 23 lab projects and hundreds of programming examples are integrated throughout the pages to build their intuition. The approach this book takes helps programmers quickly learn the concepts that underlie data structures."--

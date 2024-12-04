@@ -1,0 +1,2 @@
+Einführung in die Digitale Bildverarbeitung : Grundlagen, Systeme und Anwendungen
+Das Lehrbuch führt in das umfangreiche Gebiet der digitalen Bildverarbeitung ein. Neben der Hardware wie u.a. Beleuchtung, Kamera und Frame Grabber werden auch Algorithmen und Methoden beschrieben, z.B. zur Rauschunterdrückung, Bildverbesserung, Kantenextraktion und Objekterkennung. Anspruchsvolle mathematische Sachverhalte werden anhand von Bildbeispielen erklärt.  Professor Dr. Angelika Erhardt lehrt an der Fachhochschule Offenburg die Fächer Mathematik und Digitale Bildverarbeitung.

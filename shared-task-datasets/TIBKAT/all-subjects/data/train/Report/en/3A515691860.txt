@@ -1,0 +1,2 @@
+Cases on database technologies and applications
+"This case book presents many real-life examples and experiences of those involved in database research and database technology applications and management"--Provided by publisher

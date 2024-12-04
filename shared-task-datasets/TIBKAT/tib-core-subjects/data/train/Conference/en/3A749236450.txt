@@ -1,0 +1,2 @@
+Control Theory of Distributed Parameter Systems and Applications : Proceedings of the IFIP WG 7.2 Working Conference Shanghai, China, May 6-9, 1990
+The IFIP-TC7, WG 7.2 Conference on Control Theory of Distributed Parameter Systems and Applications was held at Fudan University, Shanghai, China, May 6-9, 1990. The papers presented cover a wide variety of topics, e.g. the theory of identification, optimal control, stabilization, controllability, stochastic control as well as appplications in heat exchangers, elastic structures, nuclear reactor, meteorology etc

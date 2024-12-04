@@ -1,0 +1,2 @@
+How AI works : from sorcery to science
+"An accessible, straightforward guide that demystifies Artificial Intelligence for a general audience without the use of complex math or technical jargon. Covers the fundamentals, from classical models and neural networks to the large language models leading today's AI revolution"--

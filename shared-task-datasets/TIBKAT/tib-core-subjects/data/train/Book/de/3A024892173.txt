@@ -1,0 +1,2 @@
+Probabilistische Methoden bei der atomrechtlichen Schadensvorsorge
+Aus der Einleitung: Die Genehmigung von kerntechnischen Anlagen darf nur dann erteilt werden, wenn die erforderliche Vorsorge gegen Schäden getroffen ist. Der Inhalt dieser vom Gesetz verlangten atomrechtlichen Schadensvorsorge ist nicht leicht zu bestimmen. Welche Methode darf aus rechtlicher Sicht verwendet werden, um die Frage "Wie sicher ist sicher genug?" zu beantworten? Diese Untersuchung will daher die probalistische / wahrscheinlichkeitsmäßige Methode dazu darstellen.

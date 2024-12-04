@@ -1,0 +1,2 @@
+Recurrent neural networks : concepts and applications
+"This book comprehensively covers concepts of recurrent neural networks and discusses practical issues such as predictability and nonlinearity detecting. It will an ideal text for senior undergraduate, graduate students, researchers, and professionals in the fields of electrical, electronics and communication, and computer engineering"--

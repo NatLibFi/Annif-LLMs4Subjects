@@ -1,0 +1,2 @@
+High-level data fusion
+The book explores object and situation fusion processes with an appropriate handling of uncertainties, and applies cutting-edge artificial intelligence and emerging technologies like particle filtering, spatiotemporal clustering, net-centricity, agent formalism, and distributed fusion together with essential Level 1 techniques and Level 1/2 interactions

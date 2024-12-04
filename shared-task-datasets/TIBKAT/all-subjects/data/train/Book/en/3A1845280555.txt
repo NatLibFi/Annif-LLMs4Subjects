@@ -1,0 +1,2 @@
+Recent advanced in image security technologies : intelligent image, signal, and video processing
+This book provides the readers with a comprehensive overview of principles methodologies and recent advances in image, signal, and video processing using different system. This book is used as the handbook of postgraduates course, such as image processing, signal processing, and optical information security.

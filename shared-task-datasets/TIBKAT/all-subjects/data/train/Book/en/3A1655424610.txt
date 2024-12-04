@@ -1,0 +1,2 @@
+Stochastic Population Models : A Compartmental Perspective
+The book focuses on stochastic modeling of population processes. The book presents new symbolic mathematical software to develop practical methodological tools for stochastic population modeling. The book assumes calculus and some knowledge of mathematical modeling, including the use of differential equations and matrix algebra

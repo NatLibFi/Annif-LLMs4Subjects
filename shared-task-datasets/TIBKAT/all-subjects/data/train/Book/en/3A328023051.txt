@@ -1,0 +1,2 @@
+Laser welding : a selection of reports presenting research findings from highly professional and skilled engineers, originally prepared under TWI's core research programme for industrial members
+Contains the following reports: Diffractive optical elements for manipulation of CO2 laser radiation - a feasibility study, P A Hilton and J R Tyrer; A review of joint tracking systems for laser welding, K R Ayres; Control of porosity in CO2 laser welds in C/Mn steel, I A Jones; The development of a solidification cracking test for carbon-manganese steel laser welds, G I Rees.

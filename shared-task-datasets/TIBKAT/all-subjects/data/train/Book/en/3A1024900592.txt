@@ -1,0 +1,2 @@
+On non-generic finite subgroups of exceptional algebraic groups
+The study of finite subgroups of a simple algebraic group G reduces in a sense to those which are almost simple. If an almost simple subgroup of G has a socle which is not isomorphic to a group of Lie type in the underlying characteristic of G, then the subgroup is called non-generic. This paper considers non-generic subgroups of simple algebraic groups of exceptional type in arbitrary characteristic

@@ -1,0 +1,2 @@
+Spatial planning in the big data revolution
+"This book explores in a systematic way the themes of big data and the spatial analysis, with theoretical and operative recommendations for urban planning. It also brings together different work methodologies that combine the potential of large data analysis with GIS applications in dedicated tools specifically for sectoral, territorial, environmental, transport, energy, real estate and landscape assessment"--

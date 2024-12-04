@@ -1,0 +1,2 @@
+The logician and the engineer : how George Boole and Claude Shannon created the information age
+George Boole and Claude Shannon : two mini-biographies -- Boolean algebra -- Logical switching circuits -- Boole, Shannon, and probability -- Some combinatorial design logic examples -- Sequential-state digital circuits -- Turing machines -- Beyond Boole and Shannon

@@ -1,0 +1,2 @@
+Particle swarm optimization and intelligence : advances and applications
+"This book presents the most recent and established developments of Particle swarm optimization (PSO) within a unified framework by noted researchers in the field"--Provided by publisher

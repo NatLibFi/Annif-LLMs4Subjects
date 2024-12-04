@@ -1,0 +1,2 @@
+Finite element and boundary element methods for contact with adhesion
+Finite element method, boundary element method, hemivariational inequality, active set strategy. - Finite-Elemente-Methode, Randelemente-Methode, Hemivariationsungleichung, Active-Set-Strategie

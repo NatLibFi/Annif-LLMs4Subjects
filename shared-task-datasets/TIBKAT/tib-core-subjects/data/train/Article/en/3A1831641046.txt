@@ -1,0 +1,2 @@
+Chapter 18 Agent Learning Representation: Advice on Modelling Economic Learning
+This chapter presents an overview of the existing learning models in the economic literature. Furthermore, it discusses the choice of models that should be used under various circumstances and how adequate learning models can be chosen in simulation approaches. It gives advice for using the many existing models and selecting the appropriate model for each application.

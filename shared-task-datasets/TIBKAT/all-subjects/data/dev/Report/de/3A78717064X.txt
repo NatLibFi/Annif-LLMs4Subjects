@@ -1,0 +1,2 @@
+Computeralgebra mit Maxima : Grundlagen der Anwendung und Programmierung
+Solide Einführung in das Open-Source-Computeralgebra-System "Maxima", vorzugsweise für Studierende und Dozenten mathematikintensiver Fächer und auch in der Praxis stehende Mathematiker, Ingenieure und Naturwissenschaftler. Rezension (ekz)

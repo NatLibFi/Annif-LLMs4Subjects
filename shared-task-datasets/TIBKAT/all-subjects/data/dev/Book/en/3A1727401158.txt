@@ -1,0 +1,2 @@
+Biomedical signal and image examination with entropy based techniques
+"The aim of this book is to outline the concept of entropy, various types of entropies and their implementation to evaluate a variety of biomedical signals/images. The book emphasizes various entropy-based image pre-processing methods which are essential for the development of suitable computerized examination systems"--

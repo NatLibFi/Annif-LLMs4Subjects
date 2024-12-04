@@ -1,0 +1,2 @@
+Microsoft SharePoint 2013 for dummies : [learn to: get up to speed with SharePoint 2013 and take advantage of new features ; set up and effectively manage your SharePoint site ; use SharePoint in the cloud with Office 365 and SharePoint Online ; leverage SharePoint capabilities to drive business value]
+Learn SharePoint from the group up, get your site going, collaborate, and go mobile. This hands-on guide shows you just what SharePoint is, translates the terminology, and explains the tools --

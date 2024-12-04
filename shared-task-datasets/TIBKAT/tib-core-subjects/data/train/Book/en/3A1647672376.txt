@@ -1,0 +1,2 @@
+Synchronization : From Simple to Complex
+Focuses on the fundamental phenomenon in physics - synchronization that occurs in coupled non-linear dissipative oscillators. This work aims to demonstrate that the complexity of synchronous patterns of real oscillating system can be described in the framework of the general approach

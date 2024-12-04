@@ -1,0 +1,2 @@
+Optimal investment in time inhomogeneous Poisson models
+Ruin probability, adjustment coefficient, optimal investment, Markovian environment, periodic environment, martingale methods, diffusion approximation

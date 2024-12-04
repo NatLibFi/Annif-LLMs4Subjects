@@ -1,0 +1,2 @@
+Theoretische und experimentelle Studie der Gradienten-Gegenstromchromatographie unter linearen Bedingungen
+Simulated Moving Bed (SMB)-Chromatography, solvent gradients, mathematical modelling for linear isotherms

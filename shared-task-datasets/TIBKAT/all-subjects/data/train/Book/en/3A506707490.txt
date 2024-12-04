@@ -1,0 +1,2 @@
+Object-oriented computation in C++ and Java : a practical guide to design patterns for object-oriented computing
+"Introduces use of numeric data items in C++ and Java, object-oriented computer programming languages. Numeric data items are a subset of application-domain objects and are central to business and scientific software applications. Includes exercises and answers"--Provided by publisher

@@ -1,0 +1,2 @@
+Quantum mechanics : the theoretical minimum
+Explains the theory and associated mathematics of quantum mechanics, discussing topics ranging from uncertainty and time dependence to particle and wave states.--

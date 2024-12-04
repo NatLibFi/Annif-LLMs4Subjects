@@ -1,0 +1,2 @@
+Euler-Poincaré-Arnold equations on semi-direct products
+Euler-Poincaré-Arnold equations, diffeomorphism group of the circle, semi-direct products. - Euler-Poincaré-Arnold Gleichung, Diffeomorphismengruppe des Einheitskreises, semidirekte Produkte

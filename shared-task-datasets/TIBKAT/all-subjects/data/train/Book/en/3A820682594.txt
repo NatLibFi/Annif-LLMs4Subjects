@@ -1,0 +1,2 @@
+Mastering R for quantitative finance : use R to optimize your trading strategy and build up your own risk management system
+This book is intended for those who want to learn how to use R's capabilities to build models in quantitative finance at a more advanced level. If you wish to perfectly take up the rhythm of the chapters, you need to be at an intermediate level in quantitative finance and you also need to have a reasonable knowledge of R

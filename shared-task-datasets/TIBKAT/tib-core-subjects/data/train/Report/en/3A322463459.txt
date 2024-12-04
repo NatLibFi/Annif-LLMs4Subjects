@@ -1,0 +1,2 @@
+Neuronale Perzeption und Manipulation multisensorieller Manipulatoren und Roboterhände
+Perception, manipulation, sensor fusion, robotics, neural networks, multilayer perceptron, radial-basis-function networks, kohohnen-maps, 3D-reconstruction from images, shape from shading, pixel-based stereo, pose estimation, multisensory world modeling, path planning, configuration space modeling, inverse dynamics control, learning control, skill transfer of compliant motion dextrous manipulation, grasping

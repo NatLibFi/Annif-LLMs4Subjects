@@ -1,0 +1,2 @@
+Networked sensing information and control
+pt. 1. Blind localization -- pt. 2. Distributed computation over unreliable communication networks -- pt. 3. Rate constrained field reconstruction -- pt. 4. Dynamics & control over communication networks

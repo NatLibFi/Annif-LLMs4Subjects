@@ -1,0 +1,2 @@
+Intelligent data analysis for real-life applications : theory and practice
+"This book investigates the application of Intelligent Data Analysis (IDA) in real-life applications through the design and development of algorithms and techniques to extract knowledge from databases"--

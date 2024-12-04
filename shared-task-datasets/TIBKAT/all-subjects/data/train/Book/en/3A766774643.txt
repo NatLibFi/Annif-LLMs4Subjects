@@ -1,0 +1,2 @@
+Lecture notes on Newtonian mechanics : lessons from modern concepts
+One could make the claim that all branches of physics are basically generalizations of classical mechanics. It is also often the first course which is taught to physics students. The approach of this book is to construct an intermediate discipline between general courses of physics and analytical mechanics, using more sophisticated mathematical tools. The aim of this book is to prepare a self-consistent and compact text that is very useful for teachers as well as for independent study. --

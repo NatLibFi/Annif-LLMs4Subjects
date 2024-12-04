@@ -1,0 +1,2 @@
+Structural analysis and design to prevent disproportionate collapse
+"This book features a detailed introduction to progressive collapse and the use of FE programs such as ABAQUS in modeling. Case studies based on various types of structures such as multi-story buildings, long-span space structures, and bridges demonstrate failure mechanisms and effective mitigation methods in practice"--

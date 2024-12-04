@@ -1,0 +1,2 @@
+Optisch geführtes Steuerungskonzept eines Roboters in Echtzeit
+Roboter, direkte Kinematik, inverse Kinematik, Trajektoriengenerierung, optische Sensoren, Kameramodell, Objektverfolgung

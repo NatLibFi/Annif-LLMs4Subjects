@@ -1,0 +1,2 @@
+Managerial analytics : an applied guide to principles, methods, tools, and best practices
+Pt. I. Overview -- What is managerial analytics? -- What is driving the analytics movement? -- The analytics mindset -- pt. II. Analytics toolset -- Machine learning -- Descriptive analytics -- Predictive analytics -- Case study : Moneyball and optimization -- Prescriptive analytics (aka optimization) -- pt. III. Conclusion -- Revenue management -- Final tips for implementing analytics

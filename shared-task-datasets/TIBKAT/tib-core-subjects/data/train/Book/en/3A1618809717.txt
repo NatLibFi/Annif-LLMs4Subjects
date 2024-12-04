@@ -1,0 +1,2 @@
+Handbook of research on redesigning the future of internet architectures
+"This book covers some of the hottest topics currently being debated by the Internet community at large, including Internet governance, privacy issues, service delivery automation, advanced networking schemes, and new approaches to Internet traffic-forwarding and path-computation mechanics"--

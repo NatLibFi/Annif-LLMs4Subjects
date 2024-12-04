@@ -1,0 +1,2 @@
+Riemannian Metrics of Constant Mass and Moduli Spaces of Conformal Structures
+This monograph deals with recent questions of conformal geometry. It provides in detail an approach to studying moduli spaces of conformal structures, using a new canonical metric for conformal structures. This book is accessible to readers with basic knowledge in differential geometry and global analysis. It addresses graduates and researchers

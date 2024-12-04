@@ -1,0 +1,3 @@
+Measure Theory and Integration
+Chapter 1. Measure Theory -- Chapter 2. Measurable Functions -- Chapter 3. Lebesgue Integration -- Chapter 4. Lebesgue Spaces -- Chapter 5. Abstract Measure Theory.
+This textbook contains a detailed and thorough exposition of topics in measure theory and integration. With abundant solved examples and more than 200 problems, the book is written in a motivational and student-friendly manner. Targeted to senior undergraduate and graduate courses in mathematics, it provides a detailed and thorough explanation of all the concepts. Suitable for independent study, the book, the first of the three volumes, contains topics on measure theory, measurable functions, Lebesgue integration, Lebesgue spaces, and abstract measure theory. .

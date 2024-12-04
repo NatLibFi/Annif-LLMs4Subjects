@@ -1,0 +1,2 @@
+Riemann problems and Jupyter solutions
+"This book addresses an important class of mathematical problems (the Riemann problem) for first-order hyperbolic partial differential equations (PDEs)"--

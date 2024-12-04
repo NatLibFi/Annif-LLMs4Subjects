@@ -1,0 +1,2 @@
+New generalized functions and multiplication of distributions
+This volume presents a new mathematical theory of generalized functions, more general than Distribution Theory, giving a rigorous mathematical sense to any product of a finite number of distributions and to heuristic computations of Quantum Field Theory. Although the physical motivations are emphasized, the book is also addressed to mathematicians with no knowledge of physics. This work opens a new domain of research in both pure and applied mathematics

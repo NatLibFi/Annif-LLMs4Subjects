@@ -1,0 +1,2 @@
+Advanced data science and analytics with Python
+1.No Time To Lose: Time Series Analysis2.Speaking Naturally: Text and Natural Language Processing3.Let Us Get Social: Graph Theory and Social Network Analysis4.Thinking Deeply: Neural Networks and Deep Learning5.Here Is One I Made Earlier: Machine Learning Deployment

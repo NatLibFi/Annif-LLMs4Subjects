@@ -1,0 +1,2 @@
+Connectivity of Boolean satisfiability
+Komplexität, Erfüllbarkeit, Zusammenhang in Graphen, Boolesche CSPs, Boolesche Schaltkreise, Post'scher Verband, Dichotomien. - Computational complexity, Boolean satisfiability, graph connectivity, Boolean CSPs, Boolean circuits, Post's lattice, dichotomy theorems

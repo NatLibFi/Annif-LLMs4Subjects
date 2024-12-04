@@ -1,0 +1,2 @@
+Data intensive storage services for cloud environments
+"This book provides an overview of the current and potential approaches towards data storage services and its relationship to cloud environments, bringing together research on storage technologies in cloud environments and various disciplines useful for both professionals and researchers"--Provided by publisher

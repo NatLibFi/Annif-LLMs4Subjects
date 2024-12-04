@@ -1,0 +1,2 @@
+From System Complexity to Emergent Properties
+Emergence and complexity refer to the appearance of higher-level properties and behaviours of a system that obviously comes from the collective dynamics of that system's components. This book highlights complexity modelling through dynamical or behavioral systems

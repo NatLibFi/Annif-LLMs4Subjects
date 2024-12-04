@@ -1,0 +1,2 @@
+Computational diffusion MRI : 13th International Workshop, CDMRI 2022, held in conjunction with MICCAI 2022, Singapore, Singapore, September 22, 2022, proceedings
+This book constitutes the proceedings of the International Workshop on Computational Diffusion MRI, CDMRI 2022, which was held 22 September 2022, in conjunction with MICCAI 2022.The 12 full papers included were carefully reviewed and selected for inclusion in the book.The papers were organized in topical sections as follows: Data processing, Signal representations, Tractography and WM pathways

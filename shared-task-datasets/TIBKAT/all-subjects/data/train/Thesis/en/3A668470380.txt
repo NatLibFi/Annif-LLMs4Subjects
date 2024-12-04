@@ -1,0 +1,2 @@
+Automatic road network extraction in suburban areas from aerial images
+Automatic image analysis, road extraction, suburban areas. - Automatische Bildanalyse, Straßenextraktion, Vorstadtgebiete

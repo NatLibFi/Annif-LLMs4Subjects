@@ -1,0 +1,2 @@
+Bootstrap Tests for Regression Models
+An accessible discussion examining computationally-intensive techniques and bootstrap methods, providing ways to improve the finite-sample performance of well-known asymptotic tests for regression models. This book uses the linear regression model as a framework for introducing simulation-based tests to help perform econometric analyses.

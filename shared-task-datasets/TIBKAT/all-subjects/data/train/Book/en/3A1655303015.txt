@@ -1,0 +1,2 @@
+Structure and Representations of Q-groups
+Notation -- General structural results -- Constructions of Q-groups -- Local characters -- Rational representations of Q-groups -- Application to the Weyl groups of exceptional type.

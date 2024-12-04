@@ -1,0 +1,2 @@
+The enemy of good : estimating the cost of waiting for nearly perfect automated vehicles
+"How safe should highly automated vehicles (HAVs) be before they are allowed on the roads for consumer use? In this report, RAND researchers use the RAND Model of Automated Vehicle Safety to compare road fatalities over time under a policy that allows HAVs to be deployed when their safety performance is just moderately better than human drivers and a policy that waits to deploy HAVs only once their performance is nearly perfect."--Provided by publisher

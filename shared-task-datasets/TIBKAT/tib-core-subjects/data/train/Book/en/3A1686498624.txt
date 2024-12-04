@@ -1,0 +1,2 @@
+LC-NMR : expanding the limits of structure elucidation
+"A practical guide to addressing problems in natural products chemistry, synthetic reaction impurities, degradants, and metabolite investigations. This edition includes implementation and application of qNMR and automated and practical use of computational chemistry combined with QM and DFT to predict highly accurate NMR chemical shifts"--

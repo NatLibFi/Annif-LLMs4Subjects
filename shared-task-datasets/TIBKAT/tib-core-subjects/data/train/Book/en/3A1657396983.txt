@@ -1,0 +1,2 @@
+Computational tools and techniques for biomedical signal processing
+"This book investigates high-performance computing techniques being utilized in hospital information systems, featuring comprehensive coverage on various theoretical perspectives, best practices, and emergent research in the field"--Provided by publisher.

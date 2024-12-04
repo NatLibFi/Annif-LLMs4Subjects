@@ -1,0 +1,2 @@
+MongoDB Basics
+Need a quick and easy to understand introduction to MongoDB and NoSQL databases? MongoDB Basics, from The Definitive Guide to MongoDB, 2E, shows you how a document-oriented database system differs from a relational database, and how to install and get started using it. You'll also learn MongoDB design basics, including geospatial indexing, how to navigate, view, and query your database, and how to use GridFS with a bit of Python

@@ -1,0 +1,2 @@
+Topics in functional analysis over valued division rings
+Valued division rings -- Topological vector spaces -- Non-Archimedean TVS -- The Hahn-Banach theorem -- Stone-Weierstrass theorem -- Normed spaces -- Topological rings and algebras of continuous functions -- Ultranormal and ultraparacompact spaces -- Best approximation.

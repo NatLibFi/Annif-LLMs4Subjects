@@ -1,0 +1,2 @@
+The essential guide to CSS and HTML web design
+An introduction to web design -- Web page essentials -- Working with type -- Working with images -- Using links and creating navigation -- Tables: how nature (and the W3C) intended -- Page layouts with CSS -- Getting user feedback -- Dealing with browser quirks -- Putting everything together -- Appendix A: XHTML reference -- Appendix B: Web color reference -- Appendix C: Entities reference -- Appendix D: CSS reference -- Appendix E: Browser guide -- Appendix F: Software guide

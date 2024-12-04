@@ -1,0 +1,2 @@
+Fundamentals of linear algebra
+Preliminaries -- What is linear algebra? -- Matrix algebra -- Vector spaces -- Linear maps -- Determinants -- Diagonalization -- Inner product spaces -- Linear algebra over complex numbers -- Orthonormal diagonalization -- Selected applications of linear algebra

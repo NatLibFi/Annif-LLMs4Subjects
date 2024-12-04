@@ -1,0 +1,2 @@
+Security-aware systems applications and software development methods
+"This book facilitates the promotion and understanding of the technical as well as managerial issues related to secure software systems and their development practices"--Provided by publisher

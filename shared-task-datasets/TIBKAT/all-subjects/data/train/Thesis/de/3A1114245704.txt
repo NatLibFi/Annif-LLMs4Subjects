@@ -1,0 +1,2 @@
+Optimierung eines Seegangsmodells mit der Adjungierten Methode
+Aus der Zusammenfassung: Die Untersuchung der Quellfunktion (Windanfachung) als zentrale Größe der Seegangsmodellierung ist Gegenstand dieser Arbeit. Dabei steht die physikalische Diskussion der Prozesse an der Meeresoberfläche im Vordergrund. Für das bestehende Seegangsmodell WAM wurde ein adjungiertes Modell entwickelt, mit dessen Hilfe freie Parameter in den Modellgleichungen optimiert wurden.

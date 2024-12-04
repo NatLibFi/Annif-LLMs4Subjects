@@ -1,0 +1,2 @@
+Biologically inspired networking and sensing : algorithms and architectures
+"This book offers current perspectives and trends in biologically inspired networking, exploring various approaches aimed at improving network paradigms, addressing communication networks, performance modeling, and distributed computing in networking"--Provided by publisher

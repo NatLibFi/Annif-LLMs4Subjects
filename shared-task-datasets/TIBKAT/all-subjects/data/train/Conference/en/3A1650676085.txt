@@ -1,0 +1,2 @@
+Astrotomography : Indirect Imaging Methods in Observational Astronomy
+This comprehensive and unique reference work on astro-tomography is based on expanded and suitably edited contributions to the 1st International Workshop on Astro-tomography. The focus is on studying indirect imaging and subsequent reconstruction techniques with applications in all areas of observational astronomy, astrophysics and cosmology. Detailed subject and object indexes, together with a list of useful resources on the Internet, will help the reader to use this book in a most efficient way

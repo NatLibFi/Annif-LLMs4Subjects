@@ -1,0 +1,2 @@
+Basic linear partial differential equations
+Front Cover; Basic Linear Partial Differential Equations; Copyright Page; Contents; Preface; Notation; Chapter I. The Basic Examples of Linear PDEs and Their Fundamental Solutions; Chapter II. The Cauchy Problem; Chapter III. Boundary Value Problems; Chapter IV. Mixed Problems and Evolution Equations; Bibliography; Index; Pure and Applied Mathematics

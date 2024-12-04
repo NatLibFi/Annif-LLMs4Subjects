@@ -1,0 +1,2 @@
+Thermodynamics problem solving in physical chemistry : study guide and map
+Gases and gas laws -- First law of thermodynamics -- Second and Third law of thermodynamics, [Delta]S -- Free energy ([Delta]G), Helmholtz energy ([Delta]A) and equilibrium -- Two component systems : ideal and real solutions, colligative properties -- Free energy, equilibrium constants and electrochemistry.

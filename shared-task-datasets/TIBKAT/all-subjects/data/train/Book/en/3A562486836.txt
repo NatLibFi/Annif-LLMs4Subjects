@@ -1,0 +1,2 @@
+Numerical methods for evolutionary differential equations
+Introduction -- Methods and concepts for ODEs -- Finite difference and finite volume methods -- Stability for constant coefficient problems -- Variable coefficient and nonlinear problems -- Hamiltonian systems and long time integration -- Dispersion and dissipation --  More on handling boundary conditions -- Several space variables and splitting methods --  Discontinuities and almost discontinuities -- Additional topic

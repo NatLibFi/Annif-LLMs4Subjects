@@ -1,0 +1,2 @@
+Intelligent Information Agents : The AgentLink Perspective
+This book presents 10 chapters on various aspects of intelligent information agents contributed by members of the respective AgentLink special interest group. The papers are organized in three parts on agent-based information systems, adaptive information agents, and coordination of information agents. Also included are a comprehensive introduction and surveys for each of the three parts

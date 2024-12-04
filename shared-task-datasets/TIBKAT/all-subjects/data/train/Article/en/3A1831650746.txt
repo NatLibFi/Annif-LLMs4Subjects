@@ -1,0 +1,2 @@
+Chapter 6. Statistical Methods for Distributional Analysis
+This chapter discusses the formal and informal techniques that are commonly used to give quantitative answers in the field of distributional analysis. To this end, it covers subjects including inequality, poverty, and the modeling of income distributions. It also deals with parametric and nonparametric approaches and the way in which imperfections in data may be handled in practice.

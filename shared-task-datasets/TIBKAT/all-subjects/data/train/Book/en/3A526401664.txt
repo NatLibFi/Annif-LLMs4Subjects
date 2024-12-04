@@ -1,0 +1,2 @@
+Ultra-wideband communications systems : multiband OFDM approach
+Channel characteristics -- UWB: single-band approaches -- UWB: multiband OFDM approach -- MIMO multiband OFDM -- Performance characterization -- Performance under practical considerations -- Differential multiband OFDM -- Power-controlled channel allocation -- Cooperative UWB multiband OFDM

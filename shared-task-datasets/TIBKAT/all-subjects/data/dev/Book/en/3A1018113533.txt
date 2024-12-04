@@ -1,0 +1,2 @@
+Hydrogen-air PEM fuel cell : integration, modeling, and control
+"The book presents the modeling and control of hydrogen-air PEM fuel cell, including simultaneous estimation of the parameters and states, fuzzy cluster modeling, SPM-based predictive control, advanced fuzzy control, etc. MATLAB/Simulink-based modeling and control programs are also discussed in detail. With abundant practical programs and source codes, it is an essential reference for both scientists and industrial engineers"--

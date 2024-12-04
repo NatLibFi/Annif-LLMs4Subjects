@@ -1,0 +1,2 @@
+Übungsbuch zur Analysis 2 : Aufgaben und Lösungen
+Dieses Buch ist als Ergänzung zu dem Buch Analysis 2 von Otto Forster gedacht. Die Lösungen zu den einzelnen Aufgaben sind weitgehend sehr ausführlich dargestellt, so dass sie auch ohne zusätzliche Literatur zu verstehen sind. Ist zu einer Aufgabe keine Lösung enthalten, so wurde sie - je nach Schwierigkeitsgrad - mit einer ausführlichen Anleitung versehen.Das Buch unterstützt Studierende der Mathematik und Physik der ersten Semester beim Selbststudium (z. B. bei Prüfungsvorbereitungen).

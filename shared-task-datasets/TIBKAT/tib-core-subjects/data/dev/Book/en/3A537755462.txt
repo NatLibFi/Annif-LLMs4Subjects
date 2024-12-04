@@ -1,0 +1,2 @@
+Outside-in software development : a practical approach to building successful stakeholder-based products
+Introducing outside-in development -- Understanding your stakeholders -- Understand organizational context -- Make products consumable -- Aligning with stakeholders goals -- Defining success in your stakeholders' terms -- Becoming an outside-in developer

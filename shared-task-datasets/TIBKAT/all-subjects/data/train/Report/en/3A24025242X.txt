@@ -1,0 +1,2 @@
+Submodularität und die Monge-Property, Netzwerke, Graphenspiele : Schlußbericht zum Projekt ; [Abschlußdatum des Vorhabens: April 1997]
+Combinatorial optimization, network games, multicommodity flows, Monge-Property, submodularity, resource allocation problem, Travelling Salesman problem

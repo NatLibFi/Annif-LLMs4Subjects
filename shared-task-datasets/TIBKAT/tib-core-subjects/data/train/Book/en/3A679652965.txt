@@ -1,0 +1,2 @@
+Quantifying the user experience : practical statistics for user research
+"The primary purpose of this book is to provide a statistical resource for those who measure the behavior and attitudes of people as they interact with interfaces. The focus is on methods applicable to practical user research, based on our experience, investigations, and reviews of the latest statistical literature"--

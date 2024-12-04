@@ -1,0 +1,2 @@
+The shellcoder's handbook : discovering and exploiting security holes
+"In a nutshell, this book is about code and data and what happens when the two become confused. You'll work with the basic building blocks of security bugs--assembler, source code, the stack, the heap, and so on. You'll experiment, explore, and understand the systems you're running--and how to better protect them." --Back cover

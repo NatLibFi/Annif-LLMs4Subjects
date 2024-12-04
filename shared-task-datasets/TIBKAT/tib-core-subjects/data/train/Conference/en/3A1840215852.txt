@@ -1,0 +1,2 @@
+Advanced analytics and learning on temporal data : 7th ECML PKDD Workshop, AALTD 2022, Grenoble, France, September 19-23, 2022 : revised selected papers
+This book constitutes the refereed proceedings of the 7th ECML PKDD Workshop, AALTD 2022, held in Grenoble, France, during September 19-23, 2022. The 12 full papers included in this book were carefully reviewed and selected from 21 submissions. They were organized in topical sections as follows: Oral presentation and poster presentation

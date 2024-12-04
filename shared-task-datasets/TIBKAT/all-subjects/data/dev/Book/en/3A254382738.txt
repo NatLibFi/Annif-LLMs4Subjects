@@ -1,0 +1,2 @@
+Algorithms: a functional programming approach
+A student introduction to the design of algorithms for problem solving. Written from a functional programming perspective, the text should appeal to anyone studying algorithms. Included are end-of-chapter exercises and bibliographic references.

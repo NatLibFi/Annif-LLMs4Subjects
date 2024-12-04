@@ -1,0 +1,2 @@
+Group theory for high energy physicists
+Group theory has played an exciting and significant role in the development of various disciplines of physics. This text provides an introduction to the group theory of the symmetries of the standard model of elementary particle physics

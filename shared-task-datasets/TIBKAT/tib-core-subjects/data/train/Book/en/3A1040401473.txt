@@ -1,0 +1,2 @@
+Finite element simulations with ANSYS Workbench 19
+Introduction -- Sketching -- 2D Simulations -- 3D Solid Modeling -- 3D Simulations -- Surface Models -- Line Models -- Optimization -- Meshing -- Buckling and Stress Stiffening -- Modal Analysis -- Transient Structural Simulations -- Nonlinear Simulations -- Nonlinear Materials -- Explicit Dynamics

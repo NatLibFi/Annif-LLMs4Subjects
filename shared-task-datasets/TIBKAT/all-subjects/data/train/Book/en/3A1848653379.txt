@@ -1,0 +1,2 @@
+Generation of self-excited, hidden and non-self-excited attractors in piecewise linear systems : some recent approaches
+"A textbook that presents the fundamentals of linear system theory and recent approaches to design the three classes of chaotic attractors in piecewise linear systems"--

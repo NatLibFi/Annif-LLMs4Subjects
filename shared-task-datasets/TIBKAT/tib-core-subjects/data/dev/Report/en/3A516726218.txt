@@ -1,0 +1,2 @@
+Kernel methods in bioengineering, signal and image processing
+"This book presents an extensive introduction to the field of kernel methods and real world applications. The book is organized in four parts: the first is an introductory chapter providing a framework of kernel methods; the others address Bioegineering, Signal Processing and Communications and Image Processing"--Provided by publisher

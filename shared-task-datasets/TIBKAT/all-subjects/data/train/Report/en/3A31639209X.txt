@@ -1,0 +1,2 @@
+Schlußbericht ACON-Projekt : [Vorhabensbezeichnung: ACON - Adaptive Control] ; [Laufzeit des Vorhabens: 01.03.1996 - 31.12.1999]
+Adaptive control, hardare in the loop, dynamic power train test bench for vehicles, tyre models, combustion engine models

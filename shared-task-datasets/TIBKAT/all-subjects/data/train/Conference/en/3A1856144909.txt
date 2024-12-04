@@ -1,0 +1,2 @@
+Cloud computing, big data & emerging topics : 11th conference, JCC-BD&ET 2023, La Plata, Argentina, June 27-29, 2023 : proceedings
+This book constitutes the revised selected papers of the 11th International Conference on Cloud Computing, Big Data & Emerging Topics, JCC-BD&ET 2023, held in La Plata, Argentina_, in June 2023. The 14 full papers were carefully reviewed and selected from a total of 38 submissions.  The papers are organized in topical sections on: Parallel and Distributed Computing, Big Data, Machine and Deep Learning, Smart Cities and E-Government, Visualization

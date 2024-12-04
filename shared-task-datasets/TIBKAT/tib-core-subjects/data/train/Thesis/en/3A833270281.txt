@@ -1,0 +1,2 @@
+µ-Hyperholomorphic Function Theory in R³: geometric mapping properties and applications
+This thesis applies the theory of \psi-hyperholomorphic functions dened in R^3 with values in the set of paravectors, which is identified with the Eucledian space R^3, to tackle some problems in theory and practice: geometric mapping properties, additive decompositions of harmonic functions and applications in the theory of linear elasticity.

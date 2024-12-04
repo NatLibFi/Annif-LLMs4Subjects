@@ -1,0 +1,2 @@
+Enhanced optical filter design
+This book serves as a supplement to the classic texts by Angus Macleod and Philip Baumeister, taking an intuitive approach to the enhancement of optical coating (or filter) performance. Drawing from 40 years of experience in thin film design, Cushing introduces the basics of thin films, the commonly used materials and their deposition, the major coatings and their applications, and improvement methods for each

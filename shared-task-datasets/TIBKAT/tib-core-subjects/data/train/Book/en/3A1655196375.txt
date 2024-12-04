@@ -1,0 +1,2 @@
+Geometry of Banach Spaces-Selected Topics
+Support functionals for closed bounded convex subsets of a Banach space -- Convexity and differentiability of norms -- Uniformly convex and uniformly smooth Banach spaces -- The classical renorming theorems -- Weakly compactly generated banach spaces -- The Radon-Nikodým theorem for vector measures.

@@ -1,0 +1,2 @@
+Nonlinear Time-discrete Systems : A General Approach by Nonlinear Superposition
+1. Automata — definitions and notations -- 2. Linear automata -- 3. Automata superponable with respect to pairs of operations -- 4. Automata superponable with respect to pairs of automata -- 5. Invariant relations of automata.

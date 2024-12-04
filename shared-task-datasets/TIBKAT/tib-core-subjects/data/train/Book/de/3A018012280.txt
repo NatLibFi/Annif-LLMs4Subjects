@@ -1,0 +1,2 @@
+Laser : sicherheitstechnische Festlegungen für Lasergeräte und -anlagen ; Normen
+Enthält: DIN 40700-98:1977 ; DIN 56912:1982 ; DIN 57835:1981 ; DIN 57836:1977 ; DIN 58126-6:1981 ; DIN 58215:1986 ; DIN 58219:1982

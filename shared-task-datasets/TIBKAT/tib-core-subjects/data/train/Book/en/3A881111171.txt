@@ -1,0 +1,2 @@
+R for Microsoft Excel users : making the transition for statistical analysis
+Introduction -- Making the transition -- Descriptive statistics -- Regression analysis in Excel and R -- Analysis of variance and covariance in Excel and R -- Logistic regression in Excel and R -- Principal components analysis

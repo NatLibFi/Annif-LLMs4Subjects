@@ -1,0 +1,2 @@
+Introduction to modern EW systems
+Introduction to electronic warfare scenarios -- Evolution of signal emitters and sensors -- EW RF band sensor systems -- RF direction finding and emitter location techniques -- Electronic countermeasure systems -- ECM techniques and sensor ECCMs -- Signal detection in sensor receivers -- Introductory concepts of estimation theory -- Antennas and phased array antennas -- Analog modulation methods -- Evaluation of BER increase for noise and CW tone jamming in communication systems employing BFSK modulation -- Radar pulse compression waveforms

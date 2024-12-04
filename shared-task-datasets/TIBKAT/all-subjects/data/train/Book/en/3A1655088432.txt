@@ -1,0 +1,2 @@
+The Computational Complexity of Logical Theories
+and background -- Ehrenfeucht games and decision procedures -- Integer addition — An example of an Ehrenfeucht game decision procedure -- Some additional upper bounds -- Direct products of theories -- Lower bound preliminaries -- A technique for writing short formulas defining complicated properties -- A lower bound on the theories of pairing functions -- Some additional lower bounds.

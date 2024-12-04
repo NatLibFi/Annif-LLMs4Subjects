@@ -1,0 +1,2 @@
+Formal theories of information : from Shannon to semantic information theory and general concepts of information
+"This book presents the scientific outcome of a joint effort of the computer science departments of the universities of Berne, Fribourg and Neuchâtel. Within an initiative devoted to 'Information and Knowledge', these research groups collaborated over several years on issues of logic, probability, inference, and deduction. The goal of this volume is to examine whether there is any common ground between the different approaches to the concept of information."--

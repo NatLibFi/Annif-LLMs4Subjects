@@ -1,0 +1,2 @@
+Use of optical correlation techniques for characterizing scattering objects and media
+This monograph examines the possibilities for diagnostics of light-scattering objects and media by utilizing the properties of coherent optical radiation. Special emphasis is placed on diagnostics of rough surfaces. Ideas formulated in classical work on statistical radiophysics and optics have been adapted to diagnostic applications. The text includes unique techniques and unconventional methods aimed at obtaining the maximum information available.

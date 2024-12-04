@@ -1,0 +1,2 @@
+Handbook of research on modern cryptographic solutions for computer and cyber security
+"This book identifies emergent research and techniques being utilized in the field of cryptology and cyber threat prevention, featuring theoretical perspectives, best practices, and future research directions"--

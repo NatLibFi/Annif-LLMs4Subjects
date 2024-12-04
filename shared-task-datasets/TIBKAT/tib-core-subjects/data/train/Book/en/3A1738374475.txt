@@ -1,0 +1,2 @@
+TypeScript quickly
+"TypeScript Quickly teaches you to exploit the benefits of types in browser-based and standalone applications. In this practical guide, you'll build a fascinating blockchain service app that takes you through a range of type-sensitive programming techniques. As you go, you'll also pick up valuable techniques for object-oriented programming with classes, interfaces, and advanced features such as decorators and conditional types." --Publisher's website

@@ -1,0 +1,2 @@
+Flugroutenmodellierung bei Gewitter
+Flugverkehr, Gewitter, Ausweichtrajektorie, Sicherheit und Effizienz, Risikogebiete, konvexe Hülle, Sicherheitsabstand, Sichtfeld, Kopplung an NAVSIM. - Air traffic, thunderstorm, deviation route, safety and efficiency, risk areas, convex hull, safety distance, field of view, coupling to NAVSIM

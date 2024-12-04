@@ -1,0 +1,2 @@
+Fundamentals of Cosmology
+A self-contained introduction to general relativity that is based on the homogeneity and isotropy of the local universe. Emphasis is placed on estimations of the densities of matter and vacuum energy, and on investigations of the primordial density fluctuations and the nature of dark matter.

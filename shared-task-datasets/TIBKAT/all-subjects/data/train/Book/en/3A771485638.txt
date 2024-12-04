@@ -1,0 +1,2 @@
+Network security technologies : design and applications
+"This book presents theoretical frameworks and the latest research findings in network security technologies while analyzing malicious threats which can compromise network integrity"--

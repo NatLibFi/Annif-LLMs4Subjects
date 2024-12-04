@@ -1,0 +1,2 @@
+Polarization dynamics of mode-locked fiber lasers : science, technology, and applications
+Polarization dynamics in mode-locked fiber lasers -- Recent development of Polarizing fiber grating based mode-locked fiber laser -- Polarization and color domains in fiber lasers -- Dual output vector soliton fiber lasers -- Vector solitons formed in linearly birefringent single mode fibers -- Vector solitons in figure-eight fiber lasers -- Polarization dynamics of mode-locked fiber lasers with dispersion management -- Dual-wavelength fiber laser for 5G and LIDAR applications.

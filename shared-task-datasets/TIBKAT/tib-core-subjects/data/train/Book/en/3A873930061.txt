@@ -1,0 +1,2 @@
+Handbook of structural life assessment
+Fundamentals of fracture mechanics -- Applications of fracture mechanics -- Dynamic fracture and peridynamics -- Structural health monitoring : basic ingredients and sensors -- Statistical pattern recognition and vibration-based techniques -- Fatigue life and reliability assessment -- Structural reliability and risk assessment under extreme loading -- Corrosion and hydrogen embrittlement -- Joints and weldments -- Crack control

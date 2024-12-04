@@ -1,0 +1,2 @@
+Objective-C for dummies : [learn to: understand object-oriented programming; use the leading language for Mac programming, even if you're a novice; create apps for the iPhone and Mac OS X; practice your Mac programming skills using code samples on the CD]
+"[This book] is a beginner's guide to developing applications for both the iPhone and the Mac. You don't need any programming experience to get started."--P. 2

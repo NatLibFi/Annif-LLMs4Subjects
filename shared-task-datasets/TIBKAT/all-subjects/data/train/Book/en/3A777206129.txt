@@ -1,0 +1,2 @@
+Mechanical design of electric motors
+"Focused on the design, analysis, construction, optimization, and applications of electric motors, this book can be used for regular or advanced mechanical engineering design courses. Mechanical Design of Electric Motors offers research results based on the personal experience of the author as well as the significant research contribution of others. It provides mechanical engineers and students of in energy conversion industries with comprehensive design techniques and practical approaches in the design of electric motors"--

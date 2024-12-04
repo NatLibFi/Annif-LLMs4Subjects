@@ -1,0 +1,2 @@
+Differential Games and Applications
+This volume contains fifteen articles on the topic of differential and dynamic games, focusing on both theory and applications. It covers a variety of areas and presents recent developments on topics of current interest. It should be useful to researchers in differential and dynamic games, systems and control, operations research and mathematical economics

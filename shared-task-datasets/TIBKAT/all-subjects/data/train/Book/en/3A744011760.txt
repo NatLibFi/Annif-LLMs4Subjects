@@ -1,0 +1,2 @@
+Nonlinear finite elements for continua and structures
+"Focuses on the formulation and solution of the discrete equations for various classes of problems encountered in the application of the finite element method to solid and structural mechanics"--

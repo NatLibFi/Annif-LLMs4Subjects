@@ -1,0 +1,2 @@
+System management algorithms for distributed vision networks
+Smart Camera Netzwerke, verteilte Algorithmen zur Kameraausrichtung, Interaktion zwischen Nutzern und Kameras. - Smart Camera networks, distributed algorithms for camera alignment, interaction between users and Smart Cameras

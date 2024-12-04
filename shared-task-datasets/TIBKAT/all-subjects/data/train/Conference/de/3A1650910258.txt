@@ -1,0 +1,2 @@
+Eingebettete Systeme
+Mit seinem Workshop 2010 zum Thema "Eingebettete Systeme" bietet der Fachausschuss Wissenschaftlern, Nutzern und Herstellern ein Forum an, auf dem neue Trends und Entwicklungen zu folgenden Programmschwerpunkten vorgestellt werden: Sicherheit/Zertifizierung, Echtzeitbetriebssysteme, Softwareentwicklung, Testen, Energieeffizienz, Virtuelle Umgebungen, Multicore-Systeme.

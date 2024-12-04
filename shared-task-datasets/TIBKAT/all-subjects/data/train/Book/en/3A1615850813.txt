@@ -1,0 +1,2 @@
+The finite-difference modelling of earthquake motions : waves and ruptures
+"Numerical simulation is an irreplaceable tool in earthquake ground motion research. Among all the numerical methods in seismology, the finite-difference (FD) technique is the most widely-used, providing the best balance of accuracy and computational efficiency. Now, for the first time, this book offers a comprehensive introduction to this method and its applications to earthquake motion"--

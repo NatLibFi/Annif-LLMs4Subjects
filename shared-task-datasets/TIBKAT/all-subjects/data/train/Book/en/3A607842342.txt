@@ -1,0 +1,2 @@
+Robust Control for Uncertain Networked Control Systems with Random Delays
+Addresses the problem of analysis and design of networked control systems when the communication delays are varying in a random fashion. This book provides numerical examples in each designed control system to demonstrate the effectiveness and advantages of the proposed design method

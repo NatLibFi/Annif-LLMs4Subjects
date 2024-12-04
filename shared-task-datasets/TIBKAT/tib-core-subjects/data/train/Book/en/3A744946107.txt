@@ -1,0 +1,2 @@
+Phonon Raman Scattering in Semiconductors, Quantum Wells and Superlattices : Basic Results and Applications
+This book presents recent results of basic research in the field of Raman scattering by optic and acoustic phonons in semiconductors, quantum wells and superlattices. It also describes various new applications for analytical materials research which have emerged alongside with scientific progress. Trends in Raman techniques and instrumentation and their implications for future developments are illustrated

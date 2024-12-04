@@ -1,0 +1,3 @@
+Modelling the composition of government expenditure
+pt. 1. Introduction -- pt. 2. Voting Models -- pt. 3. Optimal Choice -- pt. 4. A General Equilibrium Mode
+The composition of government expenditure varies considerably across countries. The aim of this book is to explore the choice of expenditure using a range of modelling approaches

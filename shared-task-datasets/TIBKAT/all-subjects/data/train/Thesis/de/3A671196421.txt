@@ -1,0 +1,2 @@
+Flow optimization using computational fluid dynamics
+Die vorliegende Arbeit beschäftigt sich mit der Optimierung technischer Anwendungen, basierend auf numerischer Strömungsberechnung (CFD). Es wird gezeigt, dass die Optimierung komplexer Strömungen einschließlich des Wärmeübergangs und komplexer chemischer Reaktionen mit heutigen Computern effizient realisiert werden kann.

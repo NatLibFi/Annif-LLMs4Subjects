@@ -1,0 +1,2 @@
+Praxis der Analog- und Digitalwandler : Grundlagen, Versuchs- und Anwendungsschaltungen
+Erläutert Grundlagen und Anwendung der gebräuchlichsten elektronischen Wandlerverfahren (AD-DA-SP-PS) anhand praktischer Beispiele; Grundkenntnisse werden vorausgesetzt.

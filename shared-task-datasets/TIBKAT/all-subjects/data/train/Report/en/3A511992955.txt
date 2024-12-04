@@ -1,0 +1,2 @@
+Ajax design patterns : [creating web 2.0 sites with programming and usability patterns]
+Introduction -- Foundational technology patterns -- Programming patterns -- Functionality and usability patterns -- Development patterns -- Appendixes

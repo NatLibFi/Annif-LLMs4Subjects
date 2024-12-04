@@ -1,0 +1,2 @@
+Managing the web of things : linking the real world to the web
+This book presents a consolidated and holistic coverage of engineering, management, and analytics of the Internet of Things. The web has gone through many transformations, from traditional linking and sharing of computers and documents (i.e., Web of Data), to the current connection of people (i.e., Web of People), and to the emerging connection of billions of physical objects (i.e., Web of Things)

@@ -1,0 +1,2 @@
+R : Einführung durch angewandte Statistik
+R - Einführung durch angewandte Statistik hat sich im deutschen Sprachraum zum führenden Buch für statistische Analysen in R entwickelt. Die Neuauflage behandelt R 3.0, das seit April 2013 verfügbar ist. Das Buch wurde für die aktuelle Auflage umfassend überarbeitet und um hilfreiche Funktionen der Datenanalyse sowie zusätzliche grafische Beschreibungsmethoden erweitert

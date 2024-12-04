@@ -1,0 +1,2 @@
+Wearable communication systems and antennas : design, efficiency, and miniaturization techniques
+The main objective of this book is to present efficient wearable systems, compact sensors and antennas for communication and healthcare systems.

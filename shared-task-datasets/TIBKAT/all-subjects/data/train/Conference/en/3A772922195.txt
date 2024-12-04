@@ -1,0 +1,2 @@
+Quantum [Un]speakables : From Bell to Quantum Information
+This outstanding collection of essays in commemoration of John S. Bell is the result of the "Quantum (Un)speakables" conference organised by the University of Vienna. The title was taken from a famous note written by John Bell during the "Schrödinger Symposium" of 1987. The book leads the reader from the foundations of quantum mechanics to quantum entanglement, quantum cryptography, and quantum information, and is written for all those who need more insight into this new area of physics

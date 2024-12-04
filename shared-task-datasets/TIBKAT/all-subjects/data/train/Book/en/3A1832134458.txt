@@ -1,0 +1,2 @@
+Dynamics of flexible aircraft : coupled flight mechanics, aeroelasticity, and control
+"This text explores the interface between aeroelasticity, flight dynamics and control. Presenting concepts in a rigorous yet accessible way, the book builds up to state-of-the-art models through an intuitive step-by-step approach. It empowers the reader to design better, more eco-friendly aircraft, and features many hands on examples"--

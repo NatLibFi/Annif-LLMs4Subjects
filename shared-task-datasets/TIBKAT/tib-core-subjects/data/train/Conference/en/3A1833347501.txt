@@ -1,0 +1,2 @@
+Digital forensics and watermarking : 21st International Workshop, IWDW 2022, Guilin, China, November 18-19, 2022 : revised selected papers
+This book constitutes the refereed proceedings of the 21st International Workshop, IWDW 2022, held in Guilin, China, during November 18-19, 2022.The 14 full papers included in this book were carefully reviewed and selected from 30 submissions. They were organized in topical sections as follows: Steganology, Forensics and Security Analysis, Watermarking

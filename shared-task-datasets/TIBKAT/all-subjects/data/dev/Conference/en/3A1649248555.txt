@@ -1,0 +1,2 @@
+Discrete Geometry for Computer Imagery : 9th International Conference, DGCI 2000 Uppsala, Sweden, December 13–15, 2000 Proceedings
+This book constitutes the refereed proceedings of the 9th International Conference on Discrete Geometry for Computer Imagery, DGCI 2000, held in Uppsala, Sweden in December 2000. The 40 revised papers presented together with two invited papers were carefully reviewed and selected from 62 submissions. The papers are organized in topical sections on topology, discrete images, surfaces and volumes, shape representation, and shape understanding

@@ -1,0 +1,2 @@
+Advances applications and structures in XML processing : label streams, semantics utilization and data query technologies
+"This book is for professionals and researchers working in the field of XML in various disciplines who want to improve their understanding of the XML data management technologies, such as XML models, XML query and update processing, XML query languages and their implementations, keywords search in XML documents, database, web service, publish/subscribe, medical information science, and e-business"--Provided by publisher

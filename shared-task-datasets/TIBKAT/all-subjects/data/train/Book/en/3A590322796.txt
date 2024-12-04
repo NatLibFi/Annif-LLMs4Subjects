@@ -1,0 +1,2 @@
+Head first data analysis : [a learner's guide to big numbers, statistics, and good decisions ; a brain-friendly guide]
+A guide for data managers and analyzers. It shares guidelines for identifying patterns, predicting future outcomes, and presenting findings to others

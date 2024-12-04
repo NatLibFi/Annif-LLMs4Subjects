@@ -1,0 +1,2 @@
+Data mining applications for empowering knowledge societies
+"This book presents an overview on the main issues of data mining, including its classification, regression, clustering, and ethical issues"--Provided by publisher

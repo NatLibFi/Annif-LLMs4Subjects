@@ -1,0 +1,2 @@
+Integrated Usage Mining : Eine Methode zur Analyse des Benutzerverhaltens im Web
+Wie nutzen User Webseiten? Mit den etablierten Verfahren ist es bisher nicht möglich, ausreichend detaillierte, objektive und repräsentative Antworten darauf zu finden. Kai Honsel schließt diese Forschungslücke durch eine neue Methodik: der Integration von Web Usage Mining und Eye Tracking. Neben der Theorie beschreibt der Autor die softwaretechnische Implementierung und belegt Mehrwert und Effizienz des Verfahrens in einer groß angelegten Referenzstudie.

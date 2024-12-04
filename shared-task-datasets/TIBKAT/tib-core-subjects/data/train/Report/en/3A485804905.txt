@@ -1,0 +1,2 @@
+Verbundprojekt: "Präzise Materialbearbeitung mit Ultrakurzpuls-Strahlquellen (PRIMUS)" : Abschlussbericht für das Teilvorhaben "Systemtechnik für das hochpräzise Bohren und Oberflächenabtragen mit ultrakurzen Laserpulsen" ; Laufzeit: 01.01.2000 bis 30.06.2003
+Laser, femtonics, ultrashort pulsed laser technology, ablation, drilling, structuring, system technology, processing technology, trepanning optic

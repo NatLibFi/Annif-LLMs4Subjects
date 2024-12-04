@@ -1,0 +1,2 @@
+Sourcebook of ATM and IP internetworking
+Provides a comprehensive, detailed description of the fundamental architectural principles and protocols used in ATM-based networks, as well as interworking with IP and Frame Relay based networks. Begins with general coverage of ATM, but moves quickly into the most important new area of ATM--IP switching, which allows communications companies to combine IP routing with ATM switching. Offers the reader a clear understanding of the evolutionary trends in the development of ATM A Wiley-IEEE Press publication

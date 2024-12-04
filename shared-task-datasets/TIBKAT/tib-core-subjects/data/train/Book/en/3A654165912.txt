@@ -1,0 +1,3 @@
+An introduction to the DLNA architecture : network technologies for media devices
+"This book will describe the architecture and protocols for interconnecting media devices in home networks"--
+"This book describes the architecture and protocols for interconnecting media devices in home networks. The architecture and protocols described in this book have been developed during the last 10 years by R&D teams from several companies working jointly in two industry organizations known as UPnP and DLNA. This book mainly deals with the DLNA (Digital Living Network Alliance) protocol. This text is especially relevant for the design and development of smart homes, where media devices, communication devices, appliances, and sensors are all integrated in an intelligent network"--

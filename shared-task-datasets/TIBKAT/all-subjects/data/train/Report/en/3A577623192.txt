@@ -1,0 +1,2 @@
+Density functional theory : a practical introduction
+This work provides a brief, readable introduction to the key concepts and practical applications of DFT, at a level suitable for individuals who have never performed DFT calculations before. It includes worked examples and problems sets which will test the reader's ability to apply what they've learned

@@ -1,0 +1,2 @@
+Bitcoin and cryptocurrency technologies : a comprehensive introduction
+Introduction to cryptography and cryptocurrencies -- How Bitcoin achieves decentralization -- Mechanics of Bitcoin -- How to store and use Bitcoins -- Bitcoin mining -- Bitcoin and anonymity -- Community, politics, and regulation -- Alternative mining puzzles -- Bitcoin as a platform -- Altcoins and the cryptocurrency ecosystem -- Decentralized institutions: the future of Bitcoin? -- Conclusion

@@ -1,0 +1,2 @@
+Guide to advanced software testing
+The book offers you a practical understanding of essential software testing topics and their relationships and interdependencies. This unique resource provides a thorough overview of software testing and its purpose and value. It covers topics ranging from handling failures, faults, and mistakes, to the cost of fault corrections, "scoping" the test effort and using standards to guide testing

@@ -1,0 +1,2 @@
+Computational intelligence in bioinformatics
+The book is comprised of carefully developed and edited contributions by leading educators that explain and apply CI methods to central bioinformatics problems such as drug docking, sequence alignment, phylogenetic reconstruction, metabolic network infere

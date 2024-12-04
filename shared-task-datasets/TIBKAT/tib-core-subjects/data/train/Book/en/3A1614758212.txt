@@ -1,0 +1,2 @@
+Complexity : a very short introduction
+"In this Very Short Introduction, John H. Holland, one of the leading figures in the field, introduces the key elements and conceptual framework of complexity. From complex physical systems such as fluid flow and the difficulties of predicting weather, to complex adaptive systems such as the diverse and interdependent ecosystems of rainforests, he uses simple examples to illustrate the approach and insights provided by complexity theory."--

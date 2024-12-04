@@ -1,0 +1,2 @@
+Photonic Crystals : Towards Nanoscale Photonic Devices
+Offers theoretical background needed for modeling photonic crystals and their optical properties. This book also presents a variety of devices, from optics to microwaves, where photonic crystals have found applications

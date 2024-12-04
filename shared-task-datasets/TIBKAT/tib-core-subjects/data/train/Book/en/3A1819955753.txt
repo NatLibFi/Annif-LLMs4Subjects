@@ -1,0 +1,2 @@
+Software security : concepts & practices
+"Software Security: Concepts & Practices is designed as a textbook and explores fundamental security theories that govern common software security technical issues. It focuses on the practical programming materials that will teach readers how to implement security solutions using the most popular software packages. It's not limited to any specific cybersecurity subtopics and the chapters touch upon a wide range of cybersecurity domains, ranging from malware to biometrics and more"--

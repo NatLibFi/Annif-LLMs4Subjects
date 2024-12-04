@@ -1,0 +1,2 @@
+Real-world machine learning
+pt. 1. The machine-learning workflow. What is machine learning? ; Real-world data ; Modeling and prediction ; Model evaluation and optimization ; Basic feature engineering -- pt. 2. Practical application. Example : NYC taxi data ; Advanced feature engineering ; Advanced NLP example : Movie review sentiment ; Scaling machine-learning workflows ; Example : digital display advertising

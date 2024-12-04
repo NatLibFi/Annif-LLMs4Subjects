@@ -1,0 +1,2 @@
+Sams teach yourself ASP.NET Core in 24 hours
+Microsoft has made the important decision to re-write ASP.NET from the ground up with modern framework techniques. The goal is to improve on the foundation of ASP.NET and make it cross-platform capable. In just 24 sessions of one hour or less, you'll learn how to build complete, professional-quality web solutions with ASP.NET5. Using this book's straightforward, step-by-step approach, you'll master the entire process, from site design through data collection, user management through debugging and deployment

@@ -1,0 +1,2 @@
+Wicked cool Java : code bits, open-source libraries, and project ideas
+Java language and core API -- String utilities -- Processing XML and HTML -- Crawling the semantic Web -- Math and science -- Graphics and visualization -- Multimedia and sychronization -- Fun and games -- Integration.

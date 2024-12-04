@@ -1,0 +1,2 @@
+Schauder Bases in Banach Spaces of Continuous Functions
+General properties of bases in C(X) -- Bases of broken-line functions of a single varaible -- Bases of pyramidal and multiaffine functions of several variables -- Further properties of bases in C(X).

@@ -1,0 +1,2 @@
+Building web reputation systems : [ratings, reviews & karma to keep your community healthy]
+Reputation systems are everywhere -- A (graphical) grammar for reputation -- Building blocks and reputation tips -- Common reputation models -- Planning your system's design -- Objects, inputs, scope, and mechanism -- Displaying reputation -- Using reputation: the good, the bad, and the ugly -- Application integration, testing, and tuning -- Case study: Yahoo! Answers Community Content moderation

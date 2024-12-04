@@ -1,0 +1,2 @@
+Introduction to stochastic control theory
+Stochastic control -- Stochastic processes -- Stochastic state models -- Analysis of dynamical systems whose inputs are stochastic processes -- Parametric optimization -- Minimal variance control strategies -- Prediction and filtering theory -- Linear stochastic control theory

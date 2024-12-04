@@ -1,0 +1,2 @@
+Geometry and martingales in Banach spaces
+"This book provides a compact exposition of the results explaining the interrelations existing between the metric geometry of Banach spaces and the theory of martingales with values in those Banach spaces"--

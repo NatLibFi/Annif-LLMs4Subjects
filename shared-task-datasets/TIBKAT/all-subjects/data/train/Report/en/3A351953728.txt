@@ -1,0 +1,2 @@
+Validierung von X-SAR SRTM Höhendaten mit Laserhöhen- und Laserintensitätsdaten : Schlussbericht ; Shuttle Radar Topography Mission (SRTM) ; Berichtszeitraum: 01.07.1999 bis 15.03.2001
+Validation of SRTM-data, laser reference heigth model, across track interferometry, ERS-1/ERS-2 tandem data

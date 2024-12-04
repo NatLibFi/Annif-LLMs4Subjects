@@ -1,0 +1,2 @@
+Arduino and Kinect projects: design, build, blow their minds
+Provides an introduction to Arduino, Kinect and Processing and includes step-by-step instructions for ten projects

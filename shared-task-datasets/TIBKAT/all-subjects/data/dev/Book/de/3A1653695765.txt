@@ -1,0 +1,3 @@
+Linux-Unix-Kurzreferenz : Für Anwender, Entwickler und Systemadministratoren
+Kennenlernen eines Linux-Systems -- Kommandoüberblick für den Anwender -- Befehle für den Administrator -- Kommandos alphabetisch -- Tools für den Linux-Systemadministrator -- Tools unter RedHat -- Tastenkürzel -- Editoren -- Wichtige Dateien -- Shells -- C-Schell -- AWK-Kurzübersicht -- Deutsche und Englische Tastaturen.
+Dieses handliche Nachschlagewerk enthält alle relevanten Informationen für Linux- oder Unix-Anwender, -Entwickler und -Administratoren. Es ist die ideale Ergänzung zu "Keine Angst vor Linux/Unix" der gleichen Autorin, das in der Reihe Xpert.press erscheint.

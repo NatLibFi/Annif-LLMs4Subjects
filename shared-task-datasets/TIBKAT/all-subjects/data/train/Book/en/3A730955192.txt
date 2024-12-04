@@ -1,0 +1,2 @@
+Principles, methodologies, and service-oriented approaches for cloud computing
+"This book investigates the use of service-oriented computing technologies in addressing supporting infrastructure of the cloud, including new challenges in modeling and simulation"--

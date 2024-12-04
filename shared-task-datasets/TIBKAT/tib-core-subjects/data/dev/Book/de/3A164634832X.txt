@@ -1,0 +1,3 @@
+Masterkurs IT-Management : Das Wissen für die erfolgreiche Praxis — Grundlagen und beispielhafte Umsetzung — Für Studenten und Praktiker
+Welches sind die Aufgabenstellungen und Handlungsfelder des IT-Managements? Das Buch zeigt die Grundlagen, Tätigkeitsfelder und wesentlichen Handlungsschritte. Es illustriert die erforderlichen Maßnahmen anhand von ausgewählten Beispielen aus der betrieblichen Praxis (Best Practices). Der Leser erhält so einen wertvollen Orientierungsrahmen für die Ausgestaltung des Aufgabenspektrums von IT-Managern.
+Einführung -- IT-Strategie -- IT-Organisation und -Personal -- IT-Controlling -- Management von Anwendungssystemen -- IT-Sicherheitsmanagement -- IT-Recht -- IT-Governance.

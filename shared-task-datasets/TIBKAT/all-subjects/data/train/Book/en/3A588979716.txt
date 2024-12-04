@@ -1,0 +1,2 @@
+Implementing Cisco IOS Network Security (IINS) : [authorized self-study guide ; foundation learning for CCNA Security IINS 640-553 exam]
+Introduction to network security principles -- Perimeter security -- Network security using Cisco IOS firewalls -- Fundamentals of cryptography -- Site-to-site VPNs -- Network security using Cisco IOS IPs -- LAN, SAN, voice, and endpoint security overview

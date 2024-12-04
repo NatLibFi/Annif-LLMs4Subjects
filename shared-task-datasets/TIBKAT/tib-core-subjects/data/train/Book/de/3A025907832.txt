@@ -1,0 +1,2 @@
+OS/2 2.0 - das Kompendium : Einführung, Arbeitsbuch, Nachschlagewerk
+In diesem Buch werden in abgeschlossenen Kapiteln vorgestellt: die objektorientierte Arbeitsoberfläche Workplace Shell, die vollständige Windows-3.0- Kompatibilität, mehr als 20 OS/2-Minianwendungen und 6 Spiele, die Möglichkeit, bis zu 240 multitaskingfähige, parallel arbeitende DOS-Sessions zu öffnen und die prozedurale Batchprogrammiersprache REXX. Desweiteren werden in einem eigenen, umfangreichen Kapitel alle Fragen der Installation und der Konfiguration von OS/2 2.0 behandelt.

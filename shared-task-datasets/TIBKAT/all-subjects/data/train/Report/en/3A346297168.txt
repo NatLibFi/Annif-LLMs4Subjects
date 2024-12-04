@@ -1,0 +1,2 @@
+Programming Microsoft .NET : core reference
+Machine generated contents note: Part 1. Essential Concepts -- 1 Hello, .NET -- 2 Types and Exceptions -- 3 The .NET Framework Class Library -- 4 Windows Forms -- Part 2. ASRNET -- 5 Web Forms -- 6 Web Controls -- 7 User Controls -- 8 Custom Controls -- 9 Web Applications -- 10 ASP.NET Security -- 11 Web Services -- Part 3. The Cutting Edge -- 12 ADO.NET -- 13 XML -- 14 Multithreading -- 15 Remoting

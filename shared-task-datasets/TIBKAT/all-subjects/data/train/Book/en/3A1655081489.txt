@@ -1,0 +1,2 @@
+Spectral Analysis of Nonlinear Operators
+Foreword -- Preliminaries -- Fredholm alternative for nonlinear operators -- Ljusternik-Schnirelmann theory -- Morse-Sard theorem -- The converse of Ljusternik-Schnirelmann theory.

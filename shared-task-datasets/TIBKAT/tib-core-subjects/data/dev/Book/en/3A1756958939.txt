@@ -1,0 +1,2 @@
+Radiative transfer, light scattering, and remote sensing
+This book is aimed at description of recent progress in radiative transfer, atmospheric remote sensing, snow optics, and light scattering. Light scattering/ radiative transfer and atmospheric optics research community will greatly benefit from the publication of this book.

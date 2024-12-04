@@ -1,0 +1,2 @@
+Big-data analytics for cloud, IoT and cognitive computing
+Big data science and machine intelligence -- Smart clouds, virtualization and mashup services -- IoT sensing, mobile and cognitive systems -- Supervised machine learning algorithms -- Unsupervised machine learning and choices of algorithms -- Deep learning with artificial neural networks -- Programming with hadoop, spark and tensorflow -- Machine learning over big data in healthcare applications -- Reinforcement deep learning and social media analytics

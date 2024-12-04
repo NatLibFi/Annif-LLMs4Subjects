@@ -1,0 +1,2 @@
+Parametric resonance in dynamical systems [contains a collection of contributions presented at an invented workshop with the same name held from June 22-26, 2011 in Longyearbyen, Svalbard, Norway]
+"The subject of the book is parametric resonance in marine and mechanical systems with focus on detection, mathematical modeling, and control.  The book contains new results on modeling, detection, and control of parametric resonance and it is a supplement to engineers who are familiar with nonlinear systems."--P. v

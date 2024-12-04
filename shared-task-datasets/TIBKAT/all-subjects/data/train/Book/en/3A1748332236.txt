@@ -1,0 +1,2 @@
+System-in-package RF design and applications
+In the past few years, System in Package (SiP) design has fueled a revolution in the use of modules in wireless devices due its effectiveness in meeting the increasingly demanding requirements for reliability, shielding, performance, size, and cost. Here's the first comprehensive resource on SiP design techniques that offers designers state-of-the-art packaging know-how. Moreover, the book provides numerous examples that illustrate real-world capabilities, constraints, trade-offs, and options at every step

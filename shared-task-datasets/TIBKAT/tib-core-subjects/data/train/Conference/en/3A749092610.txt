@@ -1,0 +1,2 @@
+Modelling and Adaptive Control : Proceedings of the IIASA Conference Sopron, Hungary, July 1986
+This volume is the proceedings of an IIASA conference held in Sopron, Hungary, whose purpose was to bring together prominent control theorists and practitioners from the east and west in order to focus on fundamental systems and control problems arising in the areas of modelling and adaptive control

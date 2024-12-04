@@ -1,0 +1,2 @@
+Effiziente Datenanalyse in Netzwerkgraphen : durch User Defined Functions in PostgreSQL
+In dieser Arbeit wurde ein Konzept vorgestellt, dass die Performance der Datenanalyse von Netzwerkgraphen unter Verwendung von UDF stark beschleunigt.

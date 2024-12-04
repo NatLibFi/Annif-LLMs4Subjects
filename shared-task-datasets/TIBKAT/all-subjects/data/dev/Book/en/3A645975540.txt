@@ -1,0 +1,2 @@
+Knowledge engineering for software development life cycles : support technologies and applications
+"This book bridges the best practices and design principles successfully employed over last two decades with modern Knowledge Engineering (KE), which has provided some of the most valuable techniques and tools to support encoding knowledge and experiences"--Provided by publisher

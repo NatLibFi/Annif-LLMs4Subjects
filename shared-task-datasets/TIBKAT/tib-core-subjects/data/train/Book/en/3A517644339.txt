@@ -1,0 +1,2 @@
+Microsoft Windows Server 2003 Active Directory-Infrastruktur - original Microsoft-Training ; [praktisches Selbststudium und Prüfungsvorbereitung ; Microsoft certified professional 70-294]
+Originaltitel: MCSA, MCSE exam 70-294: planning, implementing, and maintaining a Microsoft Windows Server 2003 Active Directory infrastructure self-paced training kit <dt.>

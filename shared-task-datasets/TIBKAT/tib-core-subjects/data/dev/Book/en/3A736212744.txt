@@ -1,0 +1,2 @@
+Knight's Microsoft SQL Server 2012 integration services : 24-hour trainer
+This book-and-video package gets novices up to speed on Microsoft SQL Server 2012. If you need a practical, hands-on introduction, especially to SQL Server Integration Services (SSIS), this book-and-video package from authority Brian Knight is the perfect solution

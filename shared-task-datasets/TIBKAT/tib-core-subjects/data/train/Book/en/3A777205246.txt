@@ -1,0 +1,2 @@
+Liquid cooling guidelines for datacom equipment centers
+"Provides information on liquid cooling for datacom equipment centers. Concerned with energy efficiency"--

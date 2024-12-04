@@ -1,0 +1,3 @@
+Policy-driven mobile ad hoc network management
+Policy-Driven Mobile Ad hoc Network Management; CONTENTS; Foreword; Preface; Acknowledgments; List of Figures; Chapter 1 Introduction; Chapter 2 Policy Terminology; Chapter 3 Policy Languages and Frameworks; Chapter 4 Policy Conflict Detection and Resolution; Chapter 5 Policy-Based Network Management; Chapter 6 Configuration Management; Chapter 7 Fault Management; Chapter 8 Performance Management; Chapter 9 Security Management; Chapter 10 Concluding Remarks; References; Acronyms; Index
+Discusses the management challenges associated with ad hoc networks, and provides an in depth description of how policy based network management can be used for increasing automation in the management of mobile ad hoc networks

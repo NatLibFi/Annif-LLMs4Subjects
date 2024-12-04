@@ -1,0 +1,2 @@
+Speech recognition over digital channels : robustness and standards
+Speech recognition with HMMs -- Networks and degradation -- Speech compression and architectures for RSR -- Robustness against transmission channel errors -- Front-end processing for robust feature extraction -- Standards for distributed speech recognition

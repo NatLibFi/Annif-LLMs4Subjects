@@ -1,0 +1,2 @@
+Linear Determinants with Applications to the Picard Scheme of a Family of Algebraic Curves
+The linear determinant -- Representation of n-fold sections by symmetric products -- Invertible sheaves and rational maps into C(g) -- Construction of the Picard scheme of a family of curves.

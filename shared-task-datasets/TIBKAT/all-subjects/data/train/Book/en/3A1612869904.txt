@@ -1,0 +1,2 @@
+Quantitative Methods and Socio-Economic Applications in GIS
+The book integrates GIS and quantitative (computational) methods and demonstrates them in various policy-relevant socio-economic applications with step-by-step instructions and datasets. The book demonstrates the diversity of issues where GIS can be used to enhance the studies related to socio-economic issues and public policy.--Provided by publisher

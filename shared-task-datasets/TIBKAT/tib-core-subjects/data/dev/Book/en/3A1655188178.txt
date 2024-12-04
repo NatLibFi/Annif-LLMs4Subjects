@@ -1,0 +1,2 @@
+Trajectory Spaces, Generalized Functions and Unbounded Operators
+Prologue -- Analyticity spaces, trajectory spaces and linear mappings between them -- Illustrative examples of analyticity spaces -- Compound spaces, tensor products and kernel theorems -- Algebras of continuous linear mappings on analyticity spaces and trajectory spaces -- A mathematical interpretation of Dirac's formalism for quantum mechanics.

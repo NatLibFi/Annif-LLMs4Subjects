@@ -1,0 +1,2 @@
+Theory Is Forever : Essays Dedicated to Arto Salomaa on the Occasion of His 70th Birthday
+This commemorative book celebrates the 70th birthday of Arto Kustaa Salomaa, one of the most influential researchers in theoretical computer science. The 24 invited papers by leading researchers in the area address a broad variety of topics in theoretical computer science and impressively reflect the breadth and the depth of Arto Salomaa's scientific work

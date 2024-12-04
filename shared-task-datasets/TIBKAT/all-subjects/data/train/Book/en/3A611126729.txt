@@ -1,0 +1,2 @@
+Large-scale distributed computing and applications : models and trends
+"The book has three overall objectives: offer a coherent and realistic image of today's research results in large scale distributed systems; explain state-of-the-art technological solutions for the main issues regarding large scale distributed systems; and presents the benefits of using large scale distributed systems and the development process of scientific and commercial distributed applications"--Provided by publisher

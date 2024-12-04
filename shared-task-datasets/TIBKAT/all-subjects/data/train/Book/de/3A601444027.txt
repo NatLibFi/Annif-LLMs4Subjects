@@ -1,0 +1,2 @@
+Algorithmen kompakt und verständlich : Lösungsstrategien am Computer
+Ameisen organisieren Städtereisen und ein Computer spielt Schach - wie es geht, das zeigt dieses Buch. Für Programmierer, die bereits erste Erfahrungen gesammelt haben, wird ein breites Spektrum an Problemlösungsstrategien anhand konkreter und verständlicher Beispiele vorgestellt. Sie können künftig selbstständig neue Aufgabenstellungen bewältigen, Optimierungspotential in bestehenden Programmen entdecken und damit bessere Software schreiben.

@@ -1,0 +1,2 @@
+Modelling Non-Stationary Time Series : A Multivariate Approach
+Co-integration, equilibrium and equilibrium correction are key concepts in modern applications of econometrics to real world problems. This book provides direction and guidance to the now vast literature facing students and graduate economists. Econometric theory is linked to practical issues such as how to identify equilibrium relationships, how to deal with structural breaks associated with regime changes and what to do when variables are of different orders of integration

@@ -1,0 +1,2 @@
+Ask, measure, learn : using social media analytics to understand and influence customer behavior
+You can measure practically anything in the age of social media, but if you don't know what you're looking for, collecting mountains of data won't yield a grain of insight. This non-technical guide shows you how to extract significant business value from big data with Ask-Measure-Learn, a system that helps you ask the right questions, measure the right data, and then learn from the results.--back cover

@@ -1,0 +1,2 @@
+Web-based Support Systems
+The interdisciplinary study of Web-based support systems focuses on the theories, technologies and tools for the design and implementation of Web-based systems that support various human activities. This book presents advances in Web-based support systems (WSS)

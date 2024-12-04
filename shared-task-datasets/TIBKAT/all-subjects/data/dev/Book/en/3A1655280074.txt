@@ -1,0 +1,2 @@
+Germs of Diffeomorphisms in the Plane
+Summary, some motivation and acknowledgments -- Introduction, definitions, formal study and statement of the results -- Stability of type I-and type II-singularities -- Stability of type III-singularities -- Proof of the C? results -- Proof of the topological results.

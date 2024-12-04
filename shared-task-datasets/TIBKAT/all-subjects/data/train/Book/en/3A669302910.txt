@@ -1,0 +1,2 @@
+3D motion graphics for 2D artists : conquering the third dimension
+Provides lessons and tutorials covering the essentials of building and compositing 3D elements in 2D work

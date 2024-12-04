@@ -1,0 +1,2 @@
+Hacking for dummies : [learn to: use the latest ethical hacking methods and tools ; test your windows or Linux systems ; hack databases, VoIP systems, and Web applications ; report vulnerabilities and improve information security]
+A guide to computer hacking covers such topics as hacking methodology, social engineering, computer security, passwords, war dialing, wireless LANs, and messaging systems

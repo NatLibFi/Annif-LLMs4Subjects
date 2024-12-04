@@ -1,0 +1,2 @@
+Software engineering : Barry W. Boehm's lifetime contributions to software development, management, and research
+Introduction / Richard W. Selby -- Software architecture and quality -- Software economics -- Software tools -- Software processes: early spiral model -- Software risk management -- Software process: emerging extensions -- Software and systems management -- Software engineering state of the art and practice -- Value-based software engineering -- Being a software engineer in the software century / Barry W. Boehm

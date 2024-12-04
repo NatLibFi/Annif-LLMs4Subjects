@@ -1,0 +1,2 @@
+Model-based engineering with AADL : an introduction to the SAE Architecture Analysis & Design Language
+Model-based software systems engineering -- Working with the SAE AADL -- Modeling and analysis with the AADL : the basics -- Applying AADL capabilities -- Defining AADL components -- Software components -- Execution platform components -- Composite and generic components -- Static and dynamic architecture -- Component interactions -- System flows and software deployment -- Organizing models -- Annotating models -- Extending the language -- Creating and validating models

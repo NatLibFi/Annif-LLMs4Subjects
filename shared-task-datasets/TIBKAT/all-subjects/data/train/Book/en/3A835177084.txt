@@ -1,0 +1,2 @@
+Flexible multibody dynamics : efficient formulations and applications
+"This book describes how to build mathematical models of multibody systems with elastic components. Examples of such systems are the human body itself, construction cranes, cars with trailers, helicopters, spacecraft deploying antennas, tethered satellites, and underwater maneuvering vehicles looking for mines while being connected by a cable to a ship"--

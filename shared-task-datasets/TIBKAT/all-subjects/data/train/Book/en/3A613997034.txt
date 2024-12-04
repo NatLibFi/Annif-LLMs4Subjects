@@ -1,0 +1,2 @@
+Evolutionary computation and optimization algorithms in software engineering : applications and techniques
+"This book presents applications of evolutionary computation in the software enginnering field, including how evolutionary algorithms are used to solve different search and optimization problems in the area of software engineering"--Provided by publisher

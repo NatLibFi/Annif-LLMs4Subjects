@@ -1,0 +1,2 @@
+Dynamical Systems and Small Divisors : Lectures given at the C.I.M.E. Summer School held in Cetraro, Italy, June 13-20, 1998
+Perturbations of linear quasi-periodic system -- KAM-persistence of finite-gap solutions -- Analytic linearization of circle diffeomorphisms -- Some open problems related to small divisors.

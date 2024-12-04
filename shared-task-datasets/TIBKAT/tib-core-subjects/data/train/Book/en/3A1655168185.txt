@@ -1,0 +1,2 @@
+Equivariant Stable Homotopy Theory
+Preamble: A polemical introduction to the stable category -- The equivariant stable category -- Change of universe, smash products, and change of groups -- Equivariant duality theory -- Equivariant transfer -- The Burnside ring and splittings in equivariant homology theory -- Twisted half smash products and extended powers -- Operad ring spectra -- The homological analysis of extended powers -- Thom spectra -- Equivariant Thom spectra.

@@ -1,0 +1,2 @@
+Cocoa programming for Mac OS X
+Provides step-by-step instructions for learning Cocoa, discussing such topics as Objective-C, memory management, key-value coding, NSArrayController, archiving, user defaults, and keyboard events

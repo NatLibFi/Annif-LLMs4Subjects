@@ -1,0 +1,2 @@
+Key methods and concepts in condensed matter physics : Green's functions and real space renormalization group
+This book aims to present a concise introduction, for graduate students and researchers, to powerful techniques and important concepts in condensed matter physics. Key conceptual elements include the fluctuation-dissipation theorem, the theory of critical phenomena (both classical and quantum) and the renormalization group. The book focuses on the Green's functions method and the real space renormalization group (RG).

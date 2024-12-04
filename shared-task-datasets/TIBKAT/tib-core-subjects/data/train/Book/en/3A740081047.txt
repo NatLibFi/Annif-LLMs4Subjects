@@ -1,0 +1,2 @@
+Efficiency and scalability methods for computational intellect
+"This book presents various theories and methods for approaching the problem of modeling and simulating intellect in order to target computation efficiency and scalability of proposed methods"--

@@ -1,0 +1,2 @@
+Dynamical Systems with Saturation Nonlinearities : Analysis and Design
+This three-part monograph addresses topics in the areas of control systems, signal processing and neural networks. Procedures and results are determined which constitute the first successful synthesis procedure for associative memories by means of artificial neural networks with arbitrarily pre-specified full or partial interconnecting structure and with or without symmetry constraints for the connection matrix

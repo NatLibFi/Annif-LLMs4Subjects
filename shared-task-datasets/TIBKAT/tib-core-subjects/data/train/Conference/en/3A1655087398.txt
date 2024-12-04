@@ -1,0 +1,2 @@
+Mathematical Control Theory : Proceedings, Canberra, Australia, August 23 – September 2, 1977
+Stochastic control problems -- Lie theory, functional expansions, and necessary conditions in singular optimal control -- Necessary conditions for optimal control problems with differentiable or nondifferentiable data -- General control systems -- The bang-bang principle -- Statistical filtering -- Singular perturbations and optimal control -- Duality in optimal control.

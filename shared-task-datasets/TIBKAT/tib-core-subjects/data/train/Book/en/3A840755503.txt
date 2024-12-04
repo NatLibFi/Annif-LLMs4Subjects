@@ -1,0 +1,2 @@
+Quantum wells, wires and dots : theoretical and computational physics of semiconductor nanostructures
+Semiconductors and heterostructures -- Solutions to Schrödinger's equation -- Numerical solutions -- Diffusion -- Impurities -- Excitons -- Strained quantum wells -- Simple models of quantum wires and dots -- Quantum dots -- Carrier scattering -- Optical properties of quantum wells -- Carrier transport -- Optical waveguides -- Multiband envelope function (k.p) method -- Empirical pseudo-potential bandstructure -- Pseudo-potential calculations of nanostructures

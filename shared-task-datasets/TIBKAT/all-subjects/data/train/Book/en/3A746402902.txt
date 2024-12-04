@@ -1,0 +1,2 @@
+Verification of communication protocols in web services : model-checking service compositions
+"Provides implementation details of each networking type to help readers to be able to set up Sensor networks in their related job fields"--

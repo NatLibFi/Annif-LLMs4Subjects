@@ -1,0 +1,2 @@
+Eine Termlogik mit Auswahloperator
+Prädikatenlogik mit Auswahloperator -- Termlogik mit Auswahloperator -- Zusammenhang zwischen der Prädikatenlogik und der Termlogik -- Rang, freies Vorkommen einer Variablen, Substitution -- Ein Kalkül für die Termlogik -- Gleichwertigkeit von # und ?. Korrektheit der Regeln -- Übersicht über den Vollständigkeitsbeweis -- Termisomorphismen -- Maximalisierung von M ? -- Verallgemeinerte Substitution -- Erfüllbarkeit von M *

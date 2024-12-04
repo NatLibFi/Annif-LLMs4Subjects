@@ -1,0 +1,2 @@
+Radar Essentials : A concise handbook for radar design and performance analysis
+This contains basic principles of radar design and analysis, characteristics of the major radar components, key radar equations, and tables and charts with the most-used radar performance data. The reader can go directly to the topic of interest, where references are provided to other helpful sections. It is intended as a reference for radar and aerospace engineers and system analysts, and provides a handy desktop source as well as an essential traveling companion

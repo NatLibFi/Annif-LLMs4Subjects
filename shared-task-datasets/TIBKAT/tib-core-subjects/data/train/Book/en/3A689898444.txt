@@ -1,0 +1,2 @@
+Virtualization essentials
+"This full-color, hands-on guide thoroghly covers virtualization fundamentals. You'll discover how today's virtual machines work, explore hypervisors, learn virtual networking concepts, see how to plan for high availability, and much more"--Page 4 of cover

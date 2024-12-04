@@ -1,0 +1,2 @@
+Pro Android 2 : [covers Googleś Android 2 platform including advanced topics such as OpenGL, widgets, text to speech, multi-touch, and titanium mobile]
+Android, Google's open-source platform for mobile development, has the momentum to become the leading mobile platform. Pro Android 2 shows you how to build real-world mobile apps using Google's Android SDK. Android is easy to learn yet comprehensive, and is rich in functionality.--[back cover]

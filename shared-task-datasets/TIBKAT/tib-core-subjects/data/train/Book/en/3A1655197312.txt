@@ -1,0 +1,2 @@
+Ordinary and Modular Representations of Chevalley Groups
+Irreducible modular representations -- Projective modules -- Ordinary representations -- Twisted groups.

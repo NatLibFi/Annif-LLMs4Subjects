@@ -1,0 +1,2 @@
+Mobile social networking and computing : a multidisciplinary integrated perspective
+"This book introduces mobile social networking (MSN) and computing from a multi-disciplinary perspective. It covers fundamental theory and key problems in MSN, including characteristics, inner structural relationship, incentive mechanisms, resource allocating, information diffusion, search, ranking, privacy, trust and reputation in MSN. It reviews various applications and includes analysis on related platforms"--

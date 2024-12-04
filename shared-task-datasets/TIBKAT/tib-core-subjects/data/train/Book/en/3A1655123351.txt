@@ -1,0 +1,2 @@
+Distributions and Nonlinear Partial Differential Equations
+Associative, commutative algebras containing the distributions -- Dirac algebras containing the distributions -- Solutions of nonlinear partial differential equations application to nonlinear shock waves -- Quantum particle scattering in potentials positive powers of the dirac ? distribution -- Products with dirac distributions -- Linear independent families of dirac distributions -- Support, local properties -- Necessary structure of the distribution multiplications.

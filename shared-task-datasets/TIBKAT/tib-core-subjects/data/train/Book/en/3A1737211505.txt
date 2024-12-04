@@ -1,0 +1,2 @@
+Numerical homogenization by localized orthogonal decomposition
+"The objective of this book is to introduce the reader to the Localized Orthogonal Decomposition (LOD) method for solving partial differential equations with multiscale data"--

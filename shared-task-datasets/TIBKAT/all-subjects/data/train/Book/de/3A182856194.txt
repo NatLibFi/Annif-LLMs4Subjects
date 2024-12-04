@@ -1,0 +1,2 @@
+Lichtwellenleiterkabel : Grundlagen, Kabeltechnik, Anlagenplanung
+Aus dem Inhalt: Physikalische und chemische Grundlagen des Lichtwellenleiters (LWL) - LWL-Profile - LWL-Parameter und LWL-Meßverfahren - LWL-Aufbau - Herstellung von LWL - LWL-Ader - LWL-Kabelkonstruktion - Anlagentechnik - Netzkonfigurationen - Elektrooptische Signalumwandlung - LWL-Komponenten - Systeme für die LWL-Übertragung.

@@ -1,0 +1,2 @@
+Rational Representations of Algebraic Groups : Tensor Products and Filtrations
+Homological algebra -- More homological algebra -- Reductions -- The classical groups -- Homological algebra revisited -- G2 -- F4 -- E6 -- E7 -- E8 -- An example and applications -- Miscellany.

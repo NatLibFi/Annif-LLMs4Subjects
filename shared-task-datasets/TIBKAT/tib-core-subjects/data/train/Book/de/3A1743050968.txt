@@ -1,0 +1,2 @@
+3D-Datenaufnahme und Objekterkennung auf Baustellen und in Gebäuden
+Diese Kurzstudie stellt Geräte zur 3D-Datenaufnahme vor und testet ein ausgewähltes Messgerät exemplarisch zur 3D-Vermessung einer Büroumgebung. Auf Grundlage der erzeugten 3D-Messdaten werden Anwendungsprogramme zur automatisierten Objekterkennung erprobt, welche die Erstellung und Aktualisierung von Modellen im Building Information Modeling (BIM) vereinfachen und beschleunigen sollen.

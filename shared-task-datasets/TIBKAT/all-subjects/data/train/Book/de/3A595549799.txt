@@ -1,0 +1,2 @@
+Statistik : eine verständliche Einführung
+Dieses Lehrbuch der statistischen Datenanalyse wurde speziell für Einführungskurse konzipiert und richtet sich an alle, die eine leicht verständliche Einführung in die sozialwissenschaftliche Statistik suchen. Es bezieht sich auf das Feld der Erziehungs- und Sozialwissenschaften und behandelt den Stoff nicht als inhaltsunabhängiges mathematisches Wissen.

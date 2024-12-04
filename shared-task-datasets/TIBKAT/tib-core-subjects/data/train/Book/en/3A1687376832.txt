@@ -1,0 +1,2 @@
+Advanced problem solving using Maple : applied mathematics, operations research, business analytics, and decision analysis
+"The advanced text covers dynamical systems, single variable and multi-variable optimization, linear algebra, advanced model fitting techniques, game theory, and multi-attribute decision processes"--

@@ -1,0 +1,2 @@
+Robotic technologies in biomedical and healthcare engineering
+"This book aims at exhibiting the latest research achievements, findings, and ideas in the field of robotics in biomedical and healthcare engineering, primarily focusing on the walking assistive robot, telerobotic surgery, upper/lower limb rehabilitation, and radiosurgery, etc"--

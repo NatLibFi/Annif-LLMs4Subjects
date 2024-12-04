@@ -1,0 +1,2 @@
+Learning CSS3 animations and transitions : a hands-on guide to animating in CSS3 with transforms, transitions, keyframe animations, and JavaScript
+Working with CSS3 animations -- Building a foundation with transforms -- Animating elements with transitions -- Keyframe animations -- Creating 3d effects with parallax scrolling -- Adding depth with 3D transforms -- Animating 2D and 3D transforms -- Using transitions and transforms to animate text -- Building Flash-style animations with keyframe animations -- Creating animated infographics -- Building interactive infographics

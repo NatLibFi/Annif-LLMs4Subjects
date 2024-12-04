@@ -1,0 +1,2 @@
+Map scripting 101 : an example-driven guide to building interactive maps with Bing, Yahoo!, and Google Maps
+"Websites like MapQuest and Google Maps have transformed the way we think about maps. But these services do more than offer driving directions, they provide APIs that web developers can use to build highly customized map-based applications. The author, Adam DuVander, delivers 73 useful scripts, examples that will s how you how to create interactive maps and mashups."--[book cover]

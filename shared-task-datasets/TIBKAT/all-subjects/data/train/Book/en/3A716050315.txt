@@ -1,0 +1,2 @@
+Adaptive web services for modular and reusable software development : tactics and solutions
+"The book comprises chapters that present tactics and solutions for modular and reusable software development in the field of adaptive Web services"--Provided by publisher

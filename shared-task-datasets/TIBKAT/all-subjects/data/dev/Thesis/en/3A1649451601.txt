@@ -1,0 +1,2 @@
+Domain-Specific Model-Driven Testing
+Stefan Baerisch applies a combination of feature modelling and code generation, for which he uses a model-driven approach, in order to facilitate the design of tests by non-programmers.  This combination of modelling and code generation allows for a more integrated and more efficient testing process.<br>

@@ -1,0 +1,2 @@
+Linux-Server mit Debian 7 GNU/Linux : das umfassende Praxis-Handbuch ; aktuell für die Version Debian 7 (Wheezy)
+Praxis-Szenarien: Backoffice-Server, Root-Server, Linux als Gateway, Server-Security. Zahlreiche Workshops mit Schritt-für-Schritt-Anleitungen

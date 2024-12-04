@@ -1,0 +1,2 @@
+Regelungstechnik für Ingenieure : Analyse, Simulation und Entwurf von Regelkreisen ; mit 77 Beispielen und 34 Aufgaben
+Bewährtes Grundlagenwerk der Regelungstechnik für Studenten ingenieurwissenschaftlicher Fachrichtungen. Wurde gegenüber der 9. Auflage 1994 (ID 3/95) um knapp 40 Seiten (Abschnitt "Intelligente Regelung", das sind Fuzzy- und Neuro-Regelung) erweitert, dazu druchgehend aktualisiert. Ein Austausch der Ausgaben ist sinnvoll (die 10. Auflage 2002 kann verbraucht werden). (3)

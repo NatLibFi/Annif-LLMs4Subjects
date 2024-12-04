@@ -1,0 +1,2 @@
+Guidelines for failure investigation
+"This technical report outlines the fundamental steps that assist forensic engineers in tailoring their forensic investigations of failures and performance problems associated with structures and building systems"--

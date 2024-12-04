@@ -1,0 +1,2 @@
+Geometric Aspects of Convex Sets with the Radon-Nikodým Property
+Background -- Basic results -- Extreme points -- Dual spaces -- Asplund spaces and the GSP -- Integral representations -- Selected topics.

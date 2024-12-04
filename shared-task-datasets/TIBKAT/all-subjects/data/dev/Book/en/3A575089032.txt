@@ -1,0 +1,2 @@
+Spoken language processing
+Speech analysis -- Principles of speech coding -- Speech synthesis -- Facial animation for visual speech -- Computational auditory scene analysis -- Principles of speech recognition -- Speech recognition systems -- Automatic speaker recognition -- Robust recognition methods -- Multimodal speech, two or three senses are better than one -- Speech and human-computer communication -- Voice services in the telecom sector

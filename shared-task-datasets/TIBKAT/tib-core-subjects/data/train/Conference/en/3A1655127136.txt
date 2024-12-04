@@ -1,0 +1,2 @@
+Functional Analysis : Proceedings of a Conference Held at Dubrovnik, Yugoslavia, November 2–14, 1981
+Spectral functions of definitizable operators in Krein spaces -- Semigroups and cosine functions -- Strongly continuous operator cosine functions -- Rank and index in Banach algebras -- Fixed point theorems in not necessarily locally convex topological vector spaces -- to lie groups and their representations -- Probability and geometry of Banach spaces -- Completions and the null-completion of vector measures -- On some counterexamples in measure theory.

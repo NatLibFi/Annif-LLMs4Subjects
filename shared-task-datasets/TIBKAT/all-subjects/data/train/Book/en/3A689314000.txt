@@ -1,0 +1,2 @@
+Graph-based methods in computer vision : developments and applications
+"This book addresses problems related to applying graph-based methods in computer vision, including accounts of the latest developments in graph-based methodology and its application to a variety of problems in computer vision such as image segmentation, image matching and classification where graph-based methods play a vital role"--Provided by publisher

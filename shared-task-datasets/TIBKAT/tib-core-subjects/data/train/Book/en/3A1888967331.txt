@@ -1,0 +1,2 @@
+ASP.NET Core in Action
+ASP.NET Core in Action, 3rd edition by Microsoft MVP Andrew Lock, is a fully updated edition, ideal for intermediate C# developers, and teaches you how to use your C# and .NET skills to build amazing cross-platform web applications. Even if you have never worked with ASP.NET, you will soon start creating productive cross-platform web apps

@@ -1,0 +1,2 @@
+Handbook of floating-point arithmetic
+This handbook aims to provide a complete overview of modern floating-point arithmetic. This includes a detailed treatment of the current (IEEE-754) and next (preliminarily called IEEE-754R) standards for floating-point arithmetic

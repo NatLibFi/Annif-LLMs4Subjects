@@ -1,0 +1,2 @@
+Smart cement : development, testing, modeling and real-time monitoring
+"Smart cement is a chemo-thermo-piezoresistive material that functions as a highly sensing 3-dimensional bulk sensor. It can be used for monitoring changes oflectrical resistivity in concrete by the addition of 0.03% of selected conductive or semi-conductive fibers are added to the bulk cement"--

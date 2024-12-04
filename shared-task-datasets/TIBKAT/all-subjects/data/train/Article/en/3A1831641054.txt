@@ -1,0 +1,2 @@
+Chapter 17 Computationally Intensive Analyses in Economics
+Computer technology presents economists with new tools, but also raises novel methodological issues. This essay discusses the challenges faced by computational researchers, and proposes some solutions.

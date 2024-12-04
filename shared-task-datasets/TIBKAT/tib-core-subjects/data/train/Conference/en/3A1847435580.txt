@@ -1,0 +1,2 @@
+Variable neighborhood search : 9th International Conference, ICVNS 2022, Abu Dhabi, United Arab Emirates, October 25-28, 2022, revised selected papers
+This volume constitutes the proceedings of the 9th International Conference on Variable Neighborhood Search, ICVNS 2023, held in Abu Dhabi, United Arab Emirates, in October 2022. The 11 full papers presented in this volume were carefully reviewed and selected from 29 submissions. The papers describe recent advances in methods and applications of variable neighborhood search

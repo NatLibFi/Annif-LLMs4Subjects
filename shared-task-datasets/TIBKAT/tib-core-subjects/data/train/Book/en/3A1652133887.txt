@@ -1,0 +1,2 @@
+AC-DC Power System Analysis
+The following topics are dealt with: AC-DC converter; power flow solution; harmonic solution; three-phase power and harmonic flow; electromagnetic transient simulation; electromechanical stability and transient converter simulation

@@ -1,0 +1,2 @@
+Cloud computing enabled big-data analytics in wireless ad-hoc networks
+"This reference text covers intelligent computing through Internet of Things (IoT) and Big Data in Vehicular Environment in a single volume. The text covers important topics including topology-based routing protocols, heterogeneous wireless networks, security risks, software-defined vehicular Ad-hoc network, vehicular delay tolerant networks, and energy harvesting for WSNs using rectenna"--

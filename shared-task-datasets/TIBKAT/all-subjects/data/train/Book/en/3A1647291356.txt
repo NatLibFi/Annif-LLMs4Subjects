@@ -1,0 +1,2 @@
+Medical Informatics : Knowledge Management and Data Mining in Biomedicine
+Medical Informatics and biomedical computing have grown in quantum measure over the past decade. This book covers the basic foundations of this area. It introduces and examines the concepts, techniques, and practices of biomedical knowledge management and data mining, and is for biomedical professionals and researchers

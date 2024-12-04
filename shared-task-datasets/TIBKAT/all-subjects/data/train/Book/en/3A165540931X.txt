@@ -1,0 +1,2 @@
+Lebesgue Integration
+The fundamental concept of Lebesgue integration provides a basis for approaching theoretical and applied problems in mathematics, engineering, physics and many other sciences. Lebesgue Integration presents a logical development of the basic concepts of Lebesgue's integration theorems, proceeding from the study of topological concepts on the real line. This text is intended for advanced undergraduates and beginning graduate students and is also suitable for self-study by students preparing for the masters or doctoral preliminary examination

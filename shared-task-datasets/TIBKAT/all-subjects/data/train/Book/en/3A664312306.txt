@@ -1,0 +1,2 @@
+Spectral Analysis
+G. Bottaro: Quelques resultats d'analyse spectrale pour des operateurs differentiels a coefficients constants sur des domaines non bornes.- L. Garding: Eigenfuction expansions.- C. Goulaouic: Valeurs propres de problemes aux limites irreguliers: applications.- G. Grubb: Essential spectra of elliptic systems on compact manifolds.- J.Cl. Guillot: Quelques resultats recents en Scattering.- N. Schechter: Theory of perturbations of partial differential operators.- C.H. Wilcox: Spectral analysis of the Laplacian with a discontinuous coefficient

@@ -1,0 +1,3 @@
+Microfluidic technologies for miniaturized analysis systems
+Provides an overview of the fluidic aspects of Lab-on-a-Chip technology. This book describes the important and microfluidic technologies and the principles utilized in the implementation of fluidic protocols of miniaturized analysis systems. It discusses various effects, outcomes, and techniques which are unique to microfluidic systems
+This book addresses Lab-on-a-Chip devices. It focuses on microfluidic technologies that have emerged in the past decade. Coverage presents a comprehensive listing of the most promising microfluidic technologies in the Lab-on-a-Chip field. It also details technologies that can be viewed as toolboxes needed to set up complex Lab-on-a-Chip systems.

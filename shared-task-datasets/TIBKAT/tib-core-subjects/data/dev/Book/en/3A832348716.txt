@@ -1,0 +1,3 @@
+Lasers in 3D printing and manufacturing
+Introduction -- Lasers and basic optics for 3D printing and manufacturing -- Materials for laser-based 3D printing and manufacturing -- One-, two- and three-dimensional laser-assisted manufacturing -- Laser-based 3D printing -- Advanced 3D manufacturing: micro and nanoscale patterning -- Laser safety and hazards -- Future prospects
+This book covers the basics of lasers, optics and materials used for manufacturing and 3D printing. It includes several case studies for readers to apply their understanding of the topics, provide sufficient theoretical background and insights to today's key laser-assisted AM processes and conclude with the future prospects of this exciting technology

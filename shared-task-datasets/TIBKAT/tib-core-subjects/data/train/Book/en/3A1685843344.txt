@@ -1,0 +1,2 @@
+Evolutionary processes and applications
+"This book presents and discusses new developments in the study of evolutionary processes. Topics discussed include evolution of magneto-acoustic waves in isothermal atmosphere, quantum dynamical semigroups, traveling waves in discrete models of biological population, motion of electrorheological fluids, Stacklberg control of a backward linear heat equation, Leray weak solutions of Navier-Stokes equation involving one directional derivative, and initial value boundary problem of an evolutionary p(x)-Laplacian equation"--

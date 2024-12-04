@@ -1,0 +1,2 @@
+A guide to econometrics
+The classic aide to econometric students worldwide is now in a new edition. Guide to Econometrics, 6th edition is designed to illuminate the logic of econometrics without formulas, providing intuition, skepticism, insights, humor, and practical advice. Designed for use in a range of courses, from undergraduate to graduate and PhD level. New chapters cover instrumental variables, computation considerations. Includes extensive information on GMM, nonparametrics, and an introduction to wavelets.

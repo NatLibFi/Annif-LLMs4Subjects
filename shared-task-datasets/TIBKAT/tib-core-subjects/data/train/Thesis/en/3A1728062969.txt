@@ -1,0 +1,2 @@
+Primordial nucleosynthesis in the presence of MeV-scale dark sectors
+Abstract: In this thesis, we perform a comprehensive study of Big Bang nucleosynthesis constraints on different dark-sector models with MeV-scale particles which are neither fully relativistic nor fully non-relativistic during all relevant temperatures. To this end, we derive a generic set of equations that can be used to determine the light-element abundances for many different dark-sector scenarios.

@@ -1,0 +1,2 @@
+Working with map projections : a guide to their selection
+A gentle introduction to map projections -- Representing spatial data through cartographic symbolization -- Map projections' influence on data representation -- Assistance using projection selection guidelines -- Continuously occurring and abruptly changing phenomenon -- Continuously occurring and smoothly changing phenomenon -- Discretely occurring and smoothly changing phenomenon -- Discretely occurring and abruptly changing phenomenon -- Special maps.

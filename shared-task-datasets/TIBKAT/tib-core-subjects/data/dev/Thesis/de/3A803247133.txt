@@ -1,0 +1,2 @@
+Flexibilisierung synchronisationsdefekter Beschaffungsketten : Entwurf eines fachkonzeptuellen Datenmodells für Logistik-Anwendungssysteme am Beispiel mechatronischer Produkte in der Automobilwirtschaft
+Gegenstand dieser Arbeit sind Beschaffungsketten mechatronischer Produkte in der Automobilwirtschaft. Hierbei handelt es sich um überbetriebliche Pro-duktionsstrukturen, welche die Bereitstellung mechatronischer Primärprodukte, Baugruppen und Einzelteile hoher Varietät und unterschiedlicher Technologie zur Aufgabe haben.

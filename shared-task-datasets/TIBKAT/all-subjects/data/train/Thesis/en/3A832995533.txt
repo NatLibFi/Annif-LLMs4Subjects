@@ -1,0 +1,2 @@
+Kontextbasierte Sicherheitsmaßnahmen für mobile Geräte in nicht vertrauenswürdigen Netzwerken
+Evil Twin, Hotspot, kontextbasierte Erkennung, mobile Malware, Ausbreitung. - Context-based recognition, spreading

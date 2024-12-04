@@ -1,0 +1,2 @@
+Weighted total least squares solutions for applications in geodesy
+Total least-squares, nonlinear model, iterative algorithms. - Nichtlineares Modell, iterative Algorithmen

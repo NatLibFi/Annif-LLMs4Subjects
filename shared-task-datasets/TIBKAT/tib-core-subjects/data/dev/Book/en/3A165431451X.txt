@@ -1,0 +1,3 @@
+Beginning Android 3D Game Development
+Beginning Android 3D Game Development is a unique book for today's Android and game app developers who want to learn how to build 3D game apps that run on the latest Android KitKat platform using Java and OpenGL ES.  A Drone Grid game case study is included
+Beginning Android 3D Game Development is a unique book for today's Android and game app developers who want to learn how to build 3D game apps that run on the latest Android KitKat platform using Java and OpenGL ES.  A Drone Grid game case study is included.

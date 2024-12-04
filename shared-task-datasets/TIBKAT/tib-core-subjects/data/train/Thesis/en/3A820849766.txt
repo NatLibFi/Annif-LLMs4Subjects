@@ -1,0 +1,2 @@
+Nonlinear Gaussian Filtering : Theory, Algorithms, and Applications
+By restricting to Gaussian distributions, the optimal Bayesian filtering problem can be transformed into an algebraically simple form, which allows for computationally efficient algorithms. Three problem settings are discussed in this thesis: (1) filtering with Gaussians only, (2) Gaussian mixture filtering for strong nonlinearities, (3) Gaussian process filtering for purely data-driven scenarios. For each setting, efficient algorithms are derived and applied to real-world problems.

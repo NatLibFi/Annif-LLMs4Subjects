@@ -1,0 +1,2 @@
+Advances in Computational Nonlinear Mechanics
+Advanced computational methods in nonlinear mechanics of solids and fluids are dealt with in this volume. Contributions consider large deformations of structures and solids, problems in nonlinear dynamics, aspects of earthquake analysis, coupled problems, convection-dominated phenomena, and compressible and incompressible viscous flows. Selected applications indicate the relevance of the analysis to the demands of industry and science. The contributors are from research institutions well-known for their work in this field

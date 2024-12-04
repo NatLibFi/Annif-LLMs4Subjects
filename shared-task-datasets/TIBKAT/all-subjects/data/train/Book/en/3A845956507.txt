@@ -1,0 +1,2 @@
+A guide to IMF stress testing : methods and models
+The IMF has had extensive involvement in the stress testing of financial systems in its member countries. This book presents the methods and models that have been developed by IMF staff over the years and that can be applied to the gamut of financial systems. An added resource for readers is the companion toolkit, which makes available some of the macros and program codes used in the models

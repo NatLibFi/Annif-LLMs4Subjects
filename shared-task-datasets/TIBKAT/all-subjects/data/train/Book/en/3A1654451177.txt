@@ -1,0 +1,2 @@
+N-ary relations for logical analysis of data and knowledge
+"This book provides a brief introduction to the theoretical foundations of mathematical structures often used in information technologies. It establishes theoretical foundations of NTA, deals with structural algebraic approach to modeling of logical calculi, considers possibilities to use NTA for modeling and analysis of non-deductive reasoning, and other topics"--

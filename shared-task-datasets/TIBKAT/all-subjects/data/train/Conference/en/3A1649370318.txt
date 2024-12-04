@@ -1,0 +1,2 @@
+Advances in Databases : 17th British National Conference on Databases, BNCOD 17 Exeter, UK, July 3–5, 2000 Proceedings
+This book constitutes the refereed proceedings of the 17th British National Conference on Databases, BNCOD 17, held in Exeter, UK, in July 2000. The 12 revised full papers presented with one invited paper were carefully reviewed and selected for inclusion in the book. The book is divided into topical sections on database performance and optimization, user requirements on large database systems, distributed transactions, and interoperability using XML

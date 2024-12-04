@@ -1,0 +1,2 @@
+Fundamentals of Cavitation
+Why are propeller blades of speedboats strongly eroded? Why does a syringe have to be filled slowly in order to avoid the formation of a vapour cavity near the piston? Why does a pump for watering the garden not work efficiently if it is placed too high above the ground water level? These questions, and many others taken from day to day experience, refer to situations which apparently have no connection between them, except for the fact that the motion of a liquid in part of the system plays an essential role

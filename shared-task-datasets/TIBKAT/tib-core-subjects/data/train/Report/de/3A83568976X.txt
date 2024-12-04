@@ -1,0 +1,2 @@
+Einstieg in VBA mit Excel
+Eine mit zahlreichen Übungsaufgaben und Beispielen ausgestattete Einführung in die Excel-Programmierung mit VBA. Berücksichtigt werden die Version Excel 2016 und die drei Vorgängerversionen

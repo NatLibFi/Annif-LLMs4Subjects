@@ -1,0 +1,2 @@
+Integrated approach to web performance testing : a practitioner's guide
+"This book provides an integrated approach and guidelines to performance testing of Web based systems"--Provided by publisher

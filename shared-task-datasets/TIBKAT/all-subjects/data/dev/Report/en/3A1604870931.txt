@@ -1,0 +1,2 @@
+Advances in machine learning applications in software engineering
+"This book provides analysis, characterization and refinement of software engineering data in terms of machine learning methods. It depicts applications of several machine learning approaches in software systems development and deployment, and the use of machine learning methods to establish predictive models for software quality while offering readers suggestions by proposing future work in this emerging research field"--Provided by publisher

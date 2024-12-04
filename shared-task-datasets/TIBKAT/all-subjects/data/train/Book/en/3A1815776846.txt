@@ -1,0 +1,2 @@
+Understanding Blockchain and cryptocurrencies : a primer for implementing and developing Blockchain projects
+1. What are blockchains for? 2. Basic Principles of blockchain 3.Decentralized computing 4. Forks 5. Cryptocurrencies 6. Coins and transactions 7. Mining 8. Summary of blockchain so far 9. Blockchain 2.0 10. Public and private blockchains 11. Privacy coins 12. Blockchains and cryptocurrency issues and answers 13. Attacks

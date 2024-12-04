@@ -1,0 +1,2 @@
+Quantum field theory : Feynman path integrals and diagrammatic techniques in condensed matter
+"This book explores quantum field theory using the Feynman functional and diagrammatic techniques as foundations to apply Quantum Field Theory to a broad range of topics in physics. This book will be of interest not only to condensed matter physicists but physicists in a range of disciplines as the techniques explored apply to high-energy as well as soft matter physics"--

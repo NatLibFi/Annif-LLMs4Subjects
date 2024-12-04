@@ -1,0 +1,2 @@
+Spectral Representations for Schrödinger Operators With Long-Range Potentials
+Limiting absorption principle -- Asymptotic behavior of the radiative function -- Spectral representation.

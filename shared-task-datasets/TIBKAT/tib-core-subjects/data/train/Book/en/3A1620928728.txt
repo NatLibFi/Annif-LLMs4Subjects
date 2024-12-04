@@ -1,0 +1,2 @@
+Generalized Sylvester equations : unified parametric solutions
+"Generalized Sylvester equations (GSEs) have found applications in many fields, including applied mathematics, systems and control, and signal processing. This book presents a unified parametric approach for solving the various types of GSEs, with proofs theorems and some technical results used. It provides a unified parametric solution formula, in an extremely neat and elegant matrix form, for all the various types of GSEs"--

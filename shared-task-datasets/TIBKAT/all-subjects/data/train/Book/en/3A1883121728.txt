@@ -1,0 +1,2 @@
+Healthcare big data analytics : computational optimization and cohesive approaches
+This book highlights how optimized big data applications can be used for patient monitoring and clinical diagnosis. In fact, IoT-based applications are data-driven and mostly employ modern optimization techniques. The book also explores challenges, opportunities, and future research directions, discussing the stages of data collection and pre-processing, as well as the associated challenges and issues in data handling and setup

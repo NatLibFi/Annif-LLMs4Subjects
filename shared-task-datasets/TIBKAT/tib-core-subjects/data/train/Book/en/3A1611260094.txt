@@ -1,0 +1,2 @@
+Random graphs
+A unified, modern treatment of the theory of random graphs-including recent results and techniquesSince its inception in the 1960s, the theory of random graphs has evolved into a dynamic branch of discrete mathematics. Yet despite the lively activity and important applications, the last comprehensive volume on the subject is Bollobas's well-known 1985 book. Poised to stimulate research for years to come, this new work covers developments of the last decade, providing a much-needed, modern overview of this fast-growing area of combinatorics.

@@ -1,0 +1,3 @@
+Foundations of electromagnetic compatibility : with practical applications
+"This book aims to redress the balance by focusing on EMC and providing the background in all three disciplines"--
+Matrix and vector algebra -- Coordinate systems -- Vector differential calculus -- Vector integral calculus -- Differential equations -- Complex numbers and phasors -- Basic laws and methods of circuit analysis -- Systematic methods of circuit analysis -- Circuit theorems and techniques -- Magnetically-coupled circuits -- Frequency-domain analysis -- Frequency content of digital signals -- Static and quasi-static electric fields -- Static and quasi-static magnetic fields -- Rapidly varying electromagnetic fields -- Electromagnetic waves -- Transmission lines -- Antennas and radiation

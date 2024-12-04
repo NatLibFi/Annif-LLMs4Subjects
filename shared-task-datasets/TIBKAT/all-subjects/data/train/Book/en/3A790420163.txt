@@ -1,0 +1,2 @@
+Designing Electronic Systems for EMC
+This book reviews developments in the following topics: electronic system design; EMC; shielding theory; protection technique; bonding; grounding; filter; ferrite; isolator; transient suppressor; cable; and connector

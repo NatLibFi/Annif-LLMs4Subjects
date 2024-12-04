@@ -1,0 +1,2 @@
+Protein physics : a course of lectures
+Introduction -- Elementary interactions in and around proteins -- Secondary structures of polypeptide chains -- Protein structures -- Cooperative transitions in protein molecules -- Prediction and design of protein structure -- Physical background of protein functions

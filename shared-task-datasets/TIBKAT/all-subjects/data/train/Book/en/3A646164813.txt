@@ -1,0 +1,2 @@
+Winning design! : LEGO Mindstorms NXT design patterns for fun and competition
+Presents design patterns for such common tasks as turning, pushing, and pulling using LEGO Mindstorms NXT to create a variety of robots

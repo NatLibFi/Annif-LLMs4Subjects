@@ -1,0 +1,2 @@
+Chapter 60 Game-theoretic analysis of legal rules and institutions
+We offer a selective survey of the uses of cooperative and non-cooperative game theory in the analysis of legal rules and institutions. In so doing, we illustrate some of the ways in which law influences behavior, analyze the mechanism design aspect of legal rules and institutions, and examine some of the difficulties in the use of game-theoretic concepts to clarify legal doctrine.

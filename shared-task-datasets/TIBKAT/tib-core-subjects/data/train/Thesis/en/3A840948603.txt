@@ -1,0 +1,2 @@
+The Harder-Narasimhan filtrations and rational contractions
+Zusammenfassung: In this paper we investigate the relation between of the relative tangent sheaf of a rational contraction between toric varieties and the Harder-Narasimhan filtration of the tangent sheaf of the total space. On the course of the proof, we give a combinatorial description of the terms of the Harder-Narasimhan filtration of the tangent sheaf of given toric variety

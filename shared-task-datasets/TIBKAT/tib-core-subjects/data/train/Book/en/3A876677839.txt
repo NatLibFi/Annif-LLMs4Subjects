@@ -1,0 +1,2 @@
+Introduction to FACTS controllers : theory, modeling, and applications
+Applications of FACTS controllers -- Power flow control concepts -- Modeling principles -- Transformer-based FACTS controllers -- Mechanically switched FACTS controllers -- Voltage-Source Converter (VSC) -- Two-level pole design -- VSC-based FACTS controllers -- Sen transformer

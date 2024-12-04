@@ -1,0 +1,2 @@
+Sams teach yourself Java in 24 hours : [covers Java 6 ; includes Interactive Online Learning Lab ; now in full color]
+Teaches how to create Java applications with the free NetBeans visual editing tools. Companion website includes source code, class files, resources, corrections, solutions to activities in the book, and more

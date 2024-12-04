@@ -1,0 +1,2 @@
+The Quantum Mechanics Solver : How to Apply Quantum Theory to Modern Physics
+The Quantum Mechanics Solver grew from topics which are part of the final examination in quantum theory at the Ecole Polytechnique at Palaiseau near Paris, France. The aim of the text is to guide the student towards applying quantum mechanics to research problems in fields such as atomic and molecular physics, condensed matter physics, and laser physics. Advanced undergraduates and graduate students will find a rich and challenging source for improving their skills in this field

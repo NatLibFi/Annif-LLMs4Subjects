@@ -1,0 +1,2 @@
+Die Berechnung der Welt : von der Weltformel zu Big Data
+Big Data verändert alles. Spätestens seit den Enthüllungen Edward Snowdens ist klar: Eine unersättliche Überwachungsmaschinerie hat uns im Griff. Gewaltige unstrukturierte Datenmengen, die unser Leben abbilden, werden systematisch ausgewertet. Alles wird zu digitaler Information. Die Welt der Algorithmen beherrscht uns längst. Sie verändert unser Leben und unser Denken

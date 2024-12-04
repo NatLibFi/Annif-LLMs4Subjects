@@ -1,0 +1,2 @@
+Windows PowerShell in action : [covers PowerShell v2]
+A guide to using Windows PowerShell to script Windows administrative tasks and control Windows from the command line

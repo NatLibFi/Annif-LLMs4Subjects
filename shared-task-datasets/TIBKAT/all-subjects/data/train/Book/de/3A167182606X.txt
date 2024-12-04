@@ -1,0 +1,2 @@
+Algebra
+Frontmatter -- Vorwort -- Inhaltsverzeichnis -- Einleitung -- 1. Grundlagen -- 2. Gruppen -- 3. Ringe -- 4. Ideale -- 5. Vektorräume -- 6. Körpertheorie -- 7. Galoistheorie -- 8. Auflösbare Polynome -- Anhang -- Lösungen der Aufgaben -- Bezeichnungen -- Literatur -- Namen- und Sachverzeichnis -- Backmatter

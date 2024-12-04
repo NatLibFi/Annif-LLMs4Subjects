@@ -1,0 +1,2 @@
+Optimization in chemical engineering
+"Discusses problem formulation and problem solving with the help of algorithms such as secant method, quasi-Newton method, linear programming and dynamic programming"--

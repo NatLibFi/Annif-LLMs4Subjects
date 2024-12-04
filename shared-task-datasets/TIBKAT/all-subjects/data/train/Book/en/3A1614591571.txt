@@ -1,0 +1,2 @@
+Mobile Health Technologies : Methods and Protocols
+"This volume represents a valuable collection of mobile health (mHealth) emerging technologies. Chapters focus on three main areas of mHealth: technologies for in vitro and environmental testing, mHealth technologies for physiological and anatomical measurements and mHealth technologies for imaging. This book is designed to make mHealth more accessible and understandable to engineers, medical professionals, molecular biologists, chemical, and physical science researchers developing mHealth technologies"--

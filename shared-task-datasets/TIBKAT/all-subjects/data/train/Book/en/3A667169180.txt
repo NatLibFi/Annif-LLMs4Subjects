@@ -1,0 +1,2 @@
+System identification : an introduction
+Following an introduction on system theory, this book shows the reader how to approach the system identification problem in a systematic fashion. It aims to teach students the fundamentals of systems identification without unduly complicated mathematics--

@@ -1,0 +1,2 @@
+Practical Vim : edit text at the speed of thought
+"Vim is a fast and efficient text editor that will make you a faster and more efficient developer. It's available on almost every OS--if you master the techniques in this book, you'll never need another text editor. Practical Vim shows you 120 vim recipes so you can quickly learn the editor's core functionality and tackle your trickiest editing and writing tasks."--Page 4 of cover

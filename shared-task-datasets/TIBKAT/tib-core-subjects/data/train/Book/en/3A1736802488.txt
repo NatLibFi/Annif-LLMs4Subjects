@@ -1,0 +1,2 @@
+An introduction to lifted probabilistic inference
+"The book presents an introduction to, and an authoritative guide, for anyone interested in the problem of probabilistic inference in the presence of symmetries/structured models"--

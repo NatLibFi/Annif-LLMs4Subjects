@@ -1,0 +1,2 @@
+Visual languages for interactive computing: definitions and formalizations
+"This book presents problems and methodologies related to the syntax, semantics, and ambiguities of visual languages. It defines and formalizes visual languages for interactive computing, as well as visual notation interpretation"--Provided by publisher

@@ -1,0 +1,3 @@
+Head first Android development
+"If you have an idea for a killer Android app, this fully revised and updated edition will help you build your first working application in a jiffy. You'll learn hands-on how to structure your app, design flexible and interactive interfaces, run services in the background, make your app work on various smartphones and tablets, and much more. It's like having an experienced Android developer sitting right next to you! All you need to get started is some Java know-how."--Page 4 of cover
+Presents an introduction to Android development, with information on building interactive apps, creating the user interface, setting up databases, using action bars, and making apps fit in with Material Design

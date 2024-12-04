@@ -1,0 +1,3 @@
+Das V-Modell XT : Für Projektleiter und QS-Verantwortliche kompakt und übersichtlich
+Das V-Modell XT -- Ein V-Modell XT-Projekt starten -- Projektplanung und -steuerung -- Qualitätssicherung im Projekt -- Das V-Modell XT für AG und AN.
+Das V-Modell XT ist das durch die Bundesverwaltung verpflichtend vorgeschriebene Vorgehensmodell für die Entwicklung von IT-Systemen. Das Buch gibt einen kompakten Einstieg in das Modell. Es behandelt seine wesentlichen Konzepte und detailliert die Bereiche Projektmanagement und Qualitätssicherung. Best Practises und Hinweise zur Bewältigung typischer Aufgabenstellungen im V-Modell XT runden das Buch ab.

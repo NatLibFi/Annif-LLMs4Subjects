@@ -1,0 +1,2 @@
+Physical mathematics
+Linear algebra -- Vector calculus -- Fourier series -- Fourier and Laplace transforms -- Infinite series -- Complex-variable theory -- Differential equations -- Integral equations -- Legendre polynomials and spherical harmonics -- Bessel functions -- Group theory -- Special relativity -- Tensors and general relativity -- Forms -- Probability and statistics -- Monte Carlo methods -- Artificial intelligence -- Order, chaos, and fractals -- Functional derivatives -- Path integrals -- Renormalization group -- Strings.

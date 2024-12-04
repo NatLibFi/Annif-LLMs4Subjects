@@ -1,0 +1,2 @@
+Analysis for diffusion processes on riemannian manifolds
+Stochastic analysis on Riemannian manifolds without boundary has been well established. However, the analysis for reflecting diffusion processes and sub-elliptic diffusion processes is far from complete. This book contains recent advances in this direction along with new ideas and efficient arguments, which are crucial for further developments. Many results contained here (for example, the formula of the curvature using derivatives of the semigroup) are new among existing monographs even in the case without boundary

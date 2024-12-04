@@ -1,0 +1,2 @@
+Physics of digital photography
+This book provides an overview of the detailed physics involved in the imaging chain for an audience of scientists and engineers. With the increasing use of digital photography in a research environment, modern scientists and engineers need to better understand the science behind digital photography to fully exploit this invaluable research tool.

@@ -1,0 +1,2 @@
+Green heterogeneous wireless networks
+Green network fundamentals -- Green network solutions -- Green multi-homing approach -- Multi-homing for a green downlink -- Multi-homing for a green uplink -- Radio frequency and visible light communication internetworking -- Dynamic planning in green networks -- Greening the cell edges -- D2D communications in hierarchical hetnets -- Emerging device centric communications

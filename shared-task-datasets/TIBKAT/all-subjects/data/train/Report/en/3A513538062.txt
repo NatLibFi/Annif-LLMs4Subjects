@@ -1,0 +1,2 @@
+Intelligent databases : technologies and applications
+"This book integrates data management in databases with intelligent data processing and analysis in artificial intelligence. It challenges today's database technology and promotes its evolution"--Provided by publisher

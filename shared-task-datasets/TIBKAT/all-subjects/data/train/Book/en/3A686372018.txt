@@ -1,0 +1,2 @@
+On patterns and pattern languages
+A solution to a problem and more -- A million different implementations -- Notes on pattern form -- Pattern islands -- Pattern complements -- Pattern compounds -- Pattern sequences -- Pattern collections -- Elements of language -- A network of patterns and more -- A billion different implementations -- Notes on pattern language form -- On patterns versus pattern languages -- From patterns to people -- The past, presence, and future of patterns -- All good things

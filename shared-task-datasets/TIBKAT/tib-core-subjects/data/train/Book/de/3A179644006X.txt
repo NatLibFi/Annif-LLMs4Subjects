@@ -1,0 +1,2 @@
+Computer-Netzwerke : Grundlagen, Funktionsweisen, Anwendung
+Computer-Netzwerke sind überall. Für Ihren Beruf oder Ihre Ausbildung brauchen Sie daher ein solides Fundament zu modernen Netzwerk-Themen. Mit diesem Buch lernen Sie die Schichten des OSI-Modells kennen und machen sich mit den Protokollen und Techniken moderner Netze vertraut. Mit seiner langjährigen Erfahrung gibt Ihnen unser Autor Harald Zisler zahlreiche nützliche Tipps für die Praxis und hilft Ihnen, den Aufbau und die Funktionsweise moderner Rechnernetze zu verstehen

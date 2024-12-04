@@ -1,0 +1,2 @@
+Methods of graded rings
+The Category of Graded Rings.- The Category of Graded Modules.- Modules over Stronly Graded Rings.- Graded Clifford Theory.- Internal Homogenization.- External Homogenization.- Smash Products.- Localization of Graded Rings.- Application to Gradability.- Appendix A:Some Category Theory.- Appendix B: Dimensions in an abelian Category.- Bibliography.- Index.-

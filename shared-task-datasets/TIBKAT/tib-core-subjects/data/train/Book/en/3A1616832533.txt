@@ -1,0 +1,2 @@
+802.11n: a survival guide : [Wi-Fi above 100 Mbps]
+"Building a network for the multitude of new devices is now a strategic decision for network engineers everywhere. This book give you an in-depth look at key parts of 802.11n, and shows you how to acheive an Ethernet-free wireless office."--Back cover

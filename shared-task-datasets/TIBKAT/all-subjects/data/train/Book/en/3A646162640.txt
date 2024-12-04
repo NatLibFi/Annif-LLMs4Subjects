@@ -1,0 +1,2 @@
+Pro Puppet : [maximize and customize Puppet's capabilities for your environment]
+About the authors -- About the technical reviewer -- Acknowledgments -- Introduction -- Getting started with Puppet -- Building hosts with Puppet -- Working with environments -- Puppet scalability -- Externalizing puppet configuration -- Exporting and storing configuration -- Puppet consoles: Puppet dashboard and the foreman -- Tools and integration -- Reporting with Puppet -- Extending facter and Puppet -- Marionette collective -- Appendix A: working with Puppet -- Index

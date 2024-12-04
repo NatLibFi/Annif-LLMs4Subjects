@@ -1,0 +1,2 @@
+Analyse und modellbasierte Regelung von Ruckelschwingungen im Antriebsstrang von Kraftfahrzeugen
+Antriebsstrang, Parameterschätzung, modellbasierte Regelung. - Driveline, parameter estimation, model-based control

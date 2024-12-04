@@ -1,0 +1,2 @@
+Integrating security and software engineering : advances and future visions
+"This book investigates the integration of security concerns into software engineering practices, drawing expertise from the security and the software engineering community; and discusses future visions and directions for the field of secure software engineering"--Provided by publisher

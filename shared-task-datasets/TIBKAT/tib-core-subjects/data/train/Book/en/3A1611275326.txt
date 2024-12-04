@@ -1,0 +1,3 @@
+Electromagnetic modeling and simulation
+"Provides the reader with first steps in EM MODSIM as well as tools for medium and high-level code developers and users"--
+"Electromagnetic modeling is essential to the design and modeling of antenna, radar, satellite, medical imaging, and other applications. In Electromagnetic Modeling and Simulation, author Levent Sevgi explains techniques for solving real-time complex physical problems using MATLAB-based short scripts and comprehensive virtual tools. The book thoroughly covers the physics, mathematical background, analytical solutions, and code development of electromagnetic modeling. Access to online MATLAB scripts and coding tools render this book an ideal resource for electrical engineers and researchers"--

@@ -1,0 +1,2 @@
+Analyse chaotischer Systeme
+Aus dem Inhalt: Fluiddynamik; Nichtlineare dynamische Systeme; Verzweigungstheorie; Rekonstruktion des Zustandsraumes; Quantitative Charakterisierung von Attraktoren; Ermittlung optimaler Einbettungsparameter; Experimenteller Aufbau des Taylor-Couette-Systems; Filterung von Zeitserien; Transformation räumlicher getrennter Messungen; Szenarien des Taylor-Couette- Systems.

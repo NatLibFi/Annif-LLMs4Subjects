@@ -1,0 +1,2 @@
+Handbook of research on artificial intelligence applications in the aviation and aerospace industries
+"This book explores best practices for AI implementation in aviation to enhance security and the ability to learn, improve, and predict. It also examines the enhancement of global aviation security as well as the methods of modern information systems in the aeronautics industry"--

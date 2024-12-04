@@ -1,0 +1,2 @@
+Virtualization for dummies : [boost server utilization to maximize your IT ROI ; "the perfect way to understand both the technology and benefits of virtualization"]
+A guide to virtualization covers such topics as server virtualization, managing a virtualization project, software options, using VMware Server, and implementing XenExpress

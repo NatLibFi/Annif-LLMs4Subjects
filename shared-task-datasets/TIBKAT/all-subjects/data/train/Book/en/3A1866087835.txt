@@ -1,0 +1,2 @@
+Bayesian nonparametric methods for causal inference and missing data
+"Bayesian nonparametric (BNP) methods can be used to flexibly model joint or conditional distributions, as well as functional relationships. These methods, along with causal and/or missingness assumptions, can be used with the g-formula to infer causal effects"--

@@ -1,0 +1,2 @@
+Introduction to machine learning
+A substantially revised fourth edition of a comprehensive textbook, including new coverage of recent advances in deep learning and neural networks.

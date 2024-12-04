@@ -1,0 +1,2 @@
+Chapter 57 Values of perfectly competitive economies
+Perfectly competitive economies are economic models with many agents, each of whom is relatively insignificant. This chapter studies the relations between the basic economic concept of competitive (or Walrasian ) equilibrium , and the game-theoretic solution concept of value . It includes the classical Value Equivalence Theorem together with its many extensions and generalizations, as well as recent results.

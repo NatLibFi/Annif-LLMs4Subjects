@@ -1,0 +1,2 @@
+Fundamentals of cognitive radio
+Game theory -- Cognitive radio transceiver -- Cognitive radio networks -- Sustainability of the spectrum-supply chain network -- Cognitive heterogeneous networks

@@ -1,0 +1,2 @@
+Quantum information processing with Clifford quantum cellular automata
+Quantum information, cellular automata, Clifford operations. - Quanteninformation, Zellularautomaten, Clifford Operationen

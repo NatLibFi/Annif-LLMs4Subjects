@@ -1,0 +1,2 @@
+Partial Differential Equations in Action : Complements and Exercises
+This textbook presents problems and exercises at various levels of difficulty in the following areas: Classical Methods in PDEs (diffusion, waves, transport, potential equations); Basic Functional Analysis and Distribution Theory; Variational Formulation of Elliptic Problems; and Weak Formulation for Parabolic Problems and for the Wave Equation. Thanks to the broad variety of exercises with complete solutions, it can be used in all basic and advanced PDE courses

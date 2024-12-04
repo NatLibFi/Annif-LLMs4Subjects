@@ -1,0 +1,2 @@
+Guide to advanced software testing
+Taking professionals on a complete tour of this increasingly important, multi-dimensional area, this heavily illustrated book offers a practical understanding of all the most critical software testing topics and their relationships and inter-dependencies. --

@@ -1,0 +1,2 @@
+Computational intelligence in remanufacturing
+"This book introduces various computational intelligence techniques that are applied to remanufacturing-related issues, results, and lessons from specific applications while highlighting future development and research"--

@@ -1,0 +1,2 @@
+Railway safety, reliability, and security : technologies and systems engineering
+"This book provides engineering students and professionals with a collection of state-of-the-art methodological and technological notions to support the development and certification of 'real-time safety-critical' railway control systems, as well as the protection of rail transportation infrastructures"--

@@ -1,0 +1,2 @@
+Application of agents and intelligent information technologies
+"This book provides a comprehensive analysis of issues related to agent design, implementation, integration, deployment, evaluation, and business value; it presents research results and application of agents and other intelligent information technologies in various domains. It offers intelligent information technologies that may revolutionize the work environment as well as social computing"--Provided by publisher

@@ -1,0 +1,2 @@
+The GNU make book
+"Covers GNU Make basics through advanced topics, including: user-defined functions, macros, and path handling; creating makefile assertions and debugging makefiles; parallelization; automatic dependency generation, rebuilding targets, and non-recursive Make; and using the GNU Make Standard Library"--

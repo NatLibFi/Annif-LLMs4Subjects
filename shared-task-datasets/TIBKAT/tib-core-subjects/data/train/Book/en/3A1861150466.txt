@@ -1,0 +1,2 @@
+Euclidean structures and operator theory in Banach spaces
+Keywords: Euclidean structure; R-boundedness; factorization; sectorial operator; H∞-calculus; Littlewood-Paley theory; BIP; operator ideal

@@ -1,0 +1,3 @@
+Grundgebiete der Elektrotechnik / von Horst Clausert; Gunther Wiesemann ; 2: Wechselströme, Drehstrom, Leitungen, Anwendungen der Fourier-, der Laplace- und der Z-Transformation
+Band 2 behandelt die Wechselstromlehre einschließlich des Drehstromsystems, die Leitungstheorie, die Maxwellschen Gleichungen, die Fourier-Darstellung von Zeitfunktionen, die Berechnung von Ausgleichsvorgängen mit Hilfe der Laplace-Transformation und die Z-Transformation.
+Band 2 behandelt die Wechselstromlehre einschließlich des Drehstromsystems, die Leitungstheorie, die Maxwellschen Gleichungen, die Fourier-Darstellung von Zeitfunktionen, die Berechnung von Ausgleichsvorgängen mit Hilfe der Laplace-Transformation und die Z-Transformation

@@ -1,0 +1,2 @@
+Asymptotic analysis in general relativity
+Introduction to modern methods for classical and quantum fields in general relativity / Thierry Daudé, Dietrich Häfner, and Jean-Philippe Nicolas -- Geometry of black hole spacetimes / Lars Andersson, Thomas B. Ackdahl, and Pieter Blue -- An introduction to Quantum Field Theory on curved space-times / Christian Gerard -- A minicourse on microlocal analysis for wave propagation / Andras Vasy -- An introduction to conformal geometry and tractor calculus, with a view to applications in general relativity / Sean N. Curry and A. Rod Gover

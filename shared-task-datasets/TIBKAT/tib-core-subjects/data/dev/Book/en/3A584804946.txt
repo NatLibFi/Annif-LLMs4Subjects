@@ -1,0 +1,2 @@
+Software engineering : a practitioner's approach
+Software and software engineering -- The software process -- Process models -- Agile development -- Modeling -- Principles that guide practice -- Understanding requirements -- Requirements modeling: scenarios, information, and anlysis classes -- Requirements modeling: flow, behavior, patterens, and webabbs -- Design concepts -- Architectural desigtn -- Component-level design -- User interface design -- Quality management -- Managing software products

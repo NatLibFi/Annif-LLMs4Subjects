@@ -1,0 +1,2 @@
+Joomla! Start to finish : how to plan, execute, and maintain your web site
+Provides information on building Web sites using Joomla!, covering such topics as designing the content, creating menus, installing templates, configuring modules, adding extensions, using Front Page Manager, and backing up sites

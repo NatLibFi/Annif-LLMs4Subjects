@@ -1,0 +1,2 @@
+Model-based design and implementation of a tool for ultrasonic-assisted turning
+Ultrasonically-assisted turning, ultrasonic vibration machining, vibration cutting, vibration turning

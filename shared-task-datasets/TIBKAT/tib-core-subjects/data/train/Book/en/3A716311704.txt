@@ -1,0 +1,2 @@
+Cloud computing service and deployment models : layers and management
+"This book presents a collection of diverse perspectives on cloud computing and its vital role in all components of organizations, improving the understanding of cloud computing and tackling related concerns such as change management, security, processing approaches, and much more"--Provided by publisher

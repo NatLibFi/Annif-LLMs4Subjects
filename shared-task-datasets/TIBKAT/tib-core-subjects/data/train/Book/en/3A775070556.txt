@@ -1,0 +1,2 @@
+Vehicle dynamics : theory and application
+"The contents in this book are presented at a theoretical-practical level. It explains vehicle dynamics concepts in detail, concentrating on their practical use. Related theorems and formal proofs are provided, as are real-life applications."--

@@ -1,0 +1,2 @@
+Handbook of molecular lasers
+Emission spectra of molecular lasers / Peter K. Cheo -- CO2 TEA lasers / Robert T. Brown -- Radiofrequency discharge excited CO2 lasers / Denis R. Hall and Christopher A. Hill -- High-energy short-pulse CO2 lasers / Joseph F. Figueira -- High-power electron-beam controlled CO2 lasers / Sidney Singer -- HF/DF chemical lasers / Richard A. Meinzer -- Optically pumped FIR lasers / Thomas A. DeTemple -- Transients and instabilities in FIR lasers / Pierre Glorieux and Didier Dangoisse

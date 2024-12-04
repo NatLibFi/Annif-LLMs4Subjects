@@ -1,0 +1,2 @@
+Hochtemperatur-Gasturbine (HTGT): Teilverbundvorhaben: Turbotech II : Abschlußbericht ; Laufzeit: 01.04.1996 - 31.12.2000
+Compressor stability, aeroelasticity, steady/unsteady viscous calculation methods, active noise reduction, multi-stage compressor, optimisation algorithms, secondary flows

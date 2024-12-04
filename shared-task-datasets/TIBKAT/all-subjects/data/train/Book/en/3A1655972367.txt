@@ -1,0 +1,2 @@
+Communication, Control and Security Challenges for the Smart Grid
+The Smart Grid is a modern electricity grid allowing for distributed, renewable intermittent generation, partly owned by consumers. This requires advanced control and communication technologies in order to provide high quality power supply and secure generation, transmission and distribution. This book outlines these emerging technologies

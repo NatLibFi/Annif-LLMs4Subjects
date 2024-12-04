@@ -1,0 +1,2 @@
+Algebraic Geometry : Proceedings, Tromsø Symposium, Norway, June 27 – July 8, 1977
+Defining algebraic intersections -- Genre des courbes de l'espace projectif -- Deformation and stratification of secant structure -- Depth inequalities for complexes -- A generalized trisecant lemma -- Deformations of curves I moduli for hyperelliptic curves -- Double coverings and surfaces of general type -- Some formulas for a surface in ?3 -- Un theoreme de structure locale pour les complexes parfaits.

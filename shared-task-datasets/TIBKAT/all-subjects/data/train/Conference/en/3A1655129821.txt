@@ -1,0 +1,2 @@
+Algebraic Geometry : Proceedings of the Third Midwest Algebraic Geometry Conference held at the University of Michigan, Ann Arbor, USA, November 14–15, 1981
+On the geometry of elliptic modular surfaces and representations of finite groups -- On the rationality of certain moduli spaces related to curves of genus 4 -- A construction of special space curves -- Springer fibres with non-ample normal bundles -- The invariants of liaison -- On étale coverings of the affine space -- On supersingular abelian varieties -- Platonic solids, Kleinian singularities, and Lie groups.

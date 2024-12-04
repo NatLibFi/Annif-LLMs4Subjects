@@ -1,0 +1,2 @@
+Handbook of research on geospatial science and technologies
+"This book discusses multi-disciplinary geo-spatial techniques. highlights the relationships and differences in procedures, techniques and instruments used in geo-spatial science inquiry; as well as showing the type of data collected, its analysis, its input into a database, its management and the anticipated outputs for use in decision making in Earth science-systems"--

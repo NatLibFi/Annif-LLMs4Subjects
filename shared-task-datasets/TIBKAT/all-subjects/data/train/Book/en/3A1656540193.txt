@@ -1,0 +1,2 @@
+Introduction to microfabrication
+This accessible text is now fully revised and updated, providing an overview of fabrication technologies and materials needed to realize modern microdevices. It demonstrates how common microfabrication principles can be applied in different applications, to create devices ranging from nanometer probe tips to meter scale solar cells, and a host of microelectronic, mechanical, optical and fluidic devices in between. Latest developments in wafer engineering, patterning, thin films, surface preparation and bonding are covered

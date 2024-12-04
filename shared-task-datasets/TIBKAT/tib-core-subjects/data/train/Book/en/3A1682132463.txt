@@ -1,0 +1,2 @@
+Wavelet theory and its application to pattern recognition
+This is not a purely mathematical book. It presents the basic principle of wavelet theory to electrical and electronic engineers, computer scientists, and students, as well as the ideas of how wavelets can be applied to pattern recognition. It also contains many novel research results from the authors' research team

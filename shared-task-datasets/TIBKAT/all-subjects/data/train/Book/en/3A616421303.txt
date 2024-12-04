@@ -1,0 +1,2 @@
+Container atlas : a practical guide to container architecture
+"Presents a wide range of container architecture projects along with an in-depth investigation into the background and evolution of this topical field... and reveals a profound variety of functional and aesthetic building possibilities." -- from back cover

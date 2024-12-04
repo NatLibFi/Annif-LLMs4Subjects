@@ -1,0 +1,2 @@
+Deriving organ doses and their uncertainty for epidemiologic studies : (with a focus on the One Million U.S. Workers and Veterans Study of Low-Dose Radiation Health Effects)
+General approach to organ dose reconstruction for the One Million U.S. Workers and Veterans Study -- Application of general approach to the One Million U.S. Workers and Veterans Study populations.

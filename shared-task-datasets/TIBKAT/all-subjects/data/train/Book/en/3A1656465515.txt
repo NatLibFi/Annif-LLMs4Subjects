@@ -1,0 +1,2 @@
+Modern computer algebra
+Now in its third edition, this highly successful textbook is widely regarded as the 'bible of computer algebra'

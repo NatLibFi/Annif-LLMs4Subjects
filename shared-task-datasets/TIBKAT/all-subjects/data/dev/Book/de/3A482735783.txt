@@ -1,0 +1,2 @@
+Unternehmensführung mit SAP BI : die Grundlagen für eine erfolgreiche Umsetzung von Business Intelligence ; mit Vorgehensmodell und Fallbeispiel
+Grundlagen der modernen Unternehmensführung - Warum überhaupt Business Intelligence? - Was Sie beim Einsatz von mySAP BI wissen müssen - Vorgehen bei der Einführung von mySAP BI - Implementierung am Beispiel "Planungsprozess" - Orientierung anhand eines Fallbeispiels

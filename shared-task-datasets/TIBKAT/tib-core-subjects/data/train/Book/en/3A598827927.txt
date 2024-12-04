@@ -1,0 +1,2 @@
+Linear algebra for dummies : [learn to: solve linear algebra equations in several ways, put data in order with matrices, determine values with determinants, work with eigenvalues and eigenvectors]
+Explains the how and the why of solving linear algebra problems in plain English. From matrices to vector spaces to linear transformations, you'll understand the key concepts and see how they relate to everything from genetics to nutrition to spotted owl extinction

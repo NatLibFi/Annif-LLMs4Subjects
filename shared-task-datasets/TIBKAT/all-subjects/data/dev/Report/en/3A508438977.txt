@@ -1,0 +1,2 @@
+Fundamentals of liquid crystal devices
+Liquid crystal physics -- Propagation of light in anisotropic optical media -- Optical modeling methods -- Effects of electric field on liquid crystals -- Freedericksz transition -- Liquid crystal materials -- Modeling liquid crystal director configuration -- Transmissive liquid crystal displays -- Reflective and transflective liquid crystal displays -- Liquid crystal display matrices, drive schemes, and bistable displays -- Liquid crystal/polymer composites -- Tunable liquid crystal photonic devices

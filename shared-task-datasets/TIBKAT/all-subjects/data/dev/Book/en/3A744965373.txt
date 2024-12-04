@@ -1,0 +1,2 @@
+Instrumental Variable Methods for System Identification
+Preliminaries -- Basic and extended IV algorithms -- Consistency -- Accuracy -- Optimal IV estimators -- Optimal input design -- Summary of the analysis and hints for the user -- Case studies.

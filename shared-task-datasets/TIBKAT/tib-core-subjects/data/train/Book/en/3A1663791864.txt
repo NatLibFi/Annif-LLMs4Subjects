@@ -1,0 +1,2 @@
+Recent advances in satellite aeronautical communications modeling
+"This book explores aeronautical satellite communications modeling, taking into account various standards, types of communication channels, modulations, types of fading, different architecture of satellite communication channels, traffic types, and the number of aircraft and satellites"--

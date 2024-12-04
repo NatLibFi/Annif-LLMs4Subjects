@@ -1,0 +1,2 @@
+Learn Raspberry Pi programming with Python : [learn to program on the world's most popular tiny computer]
+'Learn raspberry pi programming with Python' show you how to programyour nifty new $35 computer using Python to make fun, hands-on projects, such as a web spider, a weather station, a media server and more

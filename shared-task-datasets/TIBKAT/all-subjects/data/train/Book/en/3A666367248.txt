@@ -1,0 +1,2 @@
+Mechanics of materials for dummies : [learn to: understand key machanics concepts ; grasp principles of stress, strain, and deformation and their interactions ; solve indeterminate statics problems]
+Provides plain-English explanations of all the topics you'll encounter in a typical undergraduate course, including principles of equilibrium, geometric compatibility, and material behavior; stress and its relation to force and movement; strain and its relation to displacement; and methods for calculating deformations and indeterminate systems

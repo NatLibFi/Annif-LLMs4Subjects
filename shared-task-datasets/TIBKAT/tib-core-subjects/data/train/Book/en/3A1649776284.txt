@@ -1,0 +1,3 @@
+Generalized Bessel Functions of the First Kind
+and Preliminary Results -- Geometric Properties of Generalized Bessel Functions -- Inequalities Involving Bessel and Hypergeometric Functions
+In this volume we study the generalized Bessel functions of the first kind by using a number of classical and new findings in complex and classical analysis. Our aim is to present interesting geometric properties and functional inequalities for these generalized Bessel functions. Moreover, we extend many known inequalities involving circular and hyperbolic functions to Bessel and modified Bessel functions

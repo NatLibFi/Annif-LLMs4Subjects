@@ -1,0 +1,2 @@
+Computational modeling and simulation of intellect : current state and future perspectives
+"This book confronts the problem of meaning by fusing together methods specific to different fields and exploring the computational efficiency and scalability of these methods"--Provided by publisher

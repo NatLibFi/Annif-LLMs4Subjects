@@ -1,0 +1,2 @@
+Computed tomography : algorithms, insight, and just enough theory
+"This book is primarily aimed at students, researchers, and practitioners who are interested in the computational aspects of X-ray computed tomography (CT)"--

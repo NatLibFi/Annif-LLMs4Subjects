@@ -1,0 +1,2 @@
+Integral Operators in Potential Theory
+Introductory remark -- Weak normal derivatives of potentials -- Double layer potentials -- Contractivity of Neumann's operator -- Fredholm radius of the Neumann operator -- Boundary value problems -- Comments and references.

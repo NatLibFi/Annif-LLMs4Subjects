@@ -1,0 +1,2 @@
+Vehicle dynamics : theory and application
+I. Vehicle motion -- Tire dynamics -- Forward vehicle dynamics -- Driveline dynamics -- II. Vehicle kinematics -- Applied kinematics -- Applied mechanisms -- Steering dynamics -- Suspension mechanisms -- III. Vehicle dynamics -- Applied dynamics -- Vehicle planar dynamics -- Vehicle roll dynamics -- IV. Vehicle vibration -- Applied vibrations -- Vehicle vibrations -- Suspension optimization

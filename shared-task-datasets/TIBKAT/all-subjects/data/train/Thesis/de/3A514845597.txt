@@ -1,0 +1,2 @@
+Algorithm design techniques for parameterized graph modification problems
+Diese Arbeit beschaeftigt sich mit dem Entwurf parametrisierter Algorithmen fuer Graphmodifikationsprobleme wie Feedback Vertex Set, Multicut in Trees, Cluster Editing und Closest 3-Leaf Powers. Anbei wird die Anwendbarkeit von vier Technicken zur Entwicklung parametrisierter Algorithmen, naemlich, Datenreduktion, Suchbaum, Iterative Kompression und Dynamische Programmierung, fuer solche Graphmodifikationsprobleme untersucht.

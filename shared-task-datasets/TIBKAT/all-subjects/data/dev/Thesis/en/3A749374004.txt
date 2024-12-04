@@ -1,0 +1,2 @@
+Seismic attenuation system (AEI-SAS) for the AEI 10 m prototype
+AEI 10 m prototype, passive seismic isolation, mechanical low-frequency oscillators. - AEI 10 m Prototyp, passive seismische Isolierung, mechanische Niederfrequenz-Oszillatoren

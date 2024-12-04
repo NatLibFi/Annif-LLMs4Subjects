@@ -1,0 +1,2 @@
+Foliated Bundles and Characteristic Classes
+Foliations -- Foliated bundles -- Characteristic classes of flat bundles -- Characteristic classes of foliated bundles -- Cohomology of g-DG-algebras -- Non-trivial characteristic classes for flat bundles -- Examples of generalized characteristic classes for foliated bundles -- Semi-simplicial weil algebras -- Erratum.

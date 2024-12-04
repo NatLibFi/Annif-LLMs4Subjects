@@ -1,0 +1,2 @@
+A Compactification of the Bruhat-Tits Building
+The aim of this work is the definition of the polyhedral compactification of the Bruhat-Tits building of a reductive group over a local field. In addition, an explicit description of the boundary is given. In order to make this work as self-contained as possible and also accessible to non-experts in Bruhat-Tits theory, the construction of the Bruhat-Tits building itself is given completely

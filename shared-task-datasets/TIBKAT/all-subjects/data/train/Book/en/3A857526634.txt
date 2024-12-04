@@ -1,0 +1,2 @@
+Android Studio development essentials : Android 6 edition
+"Fully updated for Android 6, the goal of this book is to teach the skills necessary to develop Android based applications using the Android Studio Integrated Development Environment (IDE) and the Android 6 Software Development Kit (SDK)."--

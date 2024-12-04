@@ -1,0 +1,2 @@
+Modular design frameworks : a projects-based guide for UI/UX designers
+A modular future -- Fonts, colors, and the invisible UI -- Defining your basic unit -- Adaptation, reusability, variation, and iteration -- Organization, clustering, pages, and navigation -- What's next? -- Appendix A: Breaking down examples into modular systems

@@ -1,0 +1,2 @@
+First Steps in Maple
+Maple is a computer algebraic system with a fast-growing number of users in schools, universities, and other institutions. Intended for anyone who is encountering Maple for the first time, First Steps in Maple provides a detailed step-by-step introduction, teaching by way of examples taken from many areas of mathematics. It is particularly suitable for undergraduates, and has self-test problems (with solutions) for each chapter

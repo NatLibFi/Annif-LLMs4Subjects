@@ -1,0 +1,2 @@
+Chapter Twenty-Five. Strategyproof Social Choice
+This chapter surveys the literature on strategy proofness from a historical perspective. While I discuss the connections with other works on incentives in mechanism design, the main emphasis is on social choice models.

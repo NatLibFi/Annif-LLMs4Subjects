@@ -1,0 +1,2 @@
+Vibration and shock handbook
+Impressive in size (it's 3.5 deep), this handbook aims to provide comprehensive coverage of the techniques, tools, and data used for modeling, analysis, design, monitoring, instrumentation, modification, and control of vibration, shock, noise, and acoustics. The first five chapters are devoted to fundamentals and analysis. Other chapter topics i

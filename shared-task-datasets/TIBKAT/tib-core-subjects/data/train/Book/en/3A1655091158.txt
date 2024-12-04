@@ -1,0 +1,2 @@
+Seminormal Operators
+Seminormal operators -- Concrete realizations of seminormal operators -- Two basic results on seminormal operators -- Perturbation determinants and the phase shift -- The principal function.

@@ -1,0 +1,2 @@
+Beginning HTML, XHTML, CSS and JavaScript
+Provides instructions on creating a basic Web page and includes information on enhancing the site by using CSS, JavaScript, and XHTML

@@ -1,0 +1,2 @@
+Statistische Methoden in der Experimentalphysik
+In der Physik haben Datenanalysen zentrale Bedeutung für die Bewertung von experimentellen Resultaten. Dieses Lehrbuch startet mit den elementaren Konzepten der Statistik, zeigt die wichtigsten Wahrscheinlichkeitsverteilungen und erklärt die Datenanalysemethoden für Experimente der Laborpraktika. Darüber hinauswerden Konzepte moderner wissenschaftlicher Datenanalysen von der Computer-Simulation bis zur Klassifizierung mit neuronalen Netzwerken vorgestellt

@@ -1,0 +1,2 @@
+Practical ship hydrodynamics
+PrefaceIntroduction -- Propellers -- Resistance and propulsion -- Ship seakeeping -- Vibrations -- Ship maneuvering -- Appendix A: Boundary element methods -- Appendix B: Numerical examples for BEM.

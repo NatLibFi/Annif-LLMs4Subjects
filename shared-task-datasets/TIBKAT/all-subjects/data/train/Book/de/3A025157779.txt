@@ -1,0 +1,2 @@
+Die Boundary-Element-Methode : Theorie und industrielle Anwendung
+Aus dem Inhalt: I) Stationäre Wärmeleitung II) Instationäre Wärmeleitung III) Thermoelastizität IV) BEM-Anwendungen in der Bruchmechanik V) Elastoplastizität VI) BEM-Berechnungsbeispiele aus der industriellen Praxis VII) Voraussetzungen für den praktischen Einsatz der BEM.

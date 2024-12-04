@@ -1,0 +1,2 @@
+Communication infrastructures for cloud computing
+"This book presents the issues and research directions for a broad range of cloud computing aspects of software, computing, and storage systems, covering topics in communication infrastructures for cloud computing"--

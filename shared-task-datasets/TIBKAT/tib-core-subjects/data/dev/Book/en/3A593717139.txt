@@ -1,0 +1,2 @@
+Natural language processing with Python : [analyzing text with the natural language toolkit]
+This is an introduction to natural language processing, which supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation.

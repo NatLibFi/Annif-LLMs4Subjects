@@ -1,0 +1,2 @@
+Principles of marine bioacoustics
+Measurement and generation of underwater sounds -- Transducer properties and utilization -- Acoustic propagation -- Signal recording and data acquisition -- Fourier analysis -- Auditory systems of marine animals -- Experimental psychological and eletrophysiological methodology -- Hearing in marine animals -- Emission of social sounds by marine animals -- Echolocation in marine mammals -- Some signal processing techniques -- Some instrumentation for marine bioacoustics research

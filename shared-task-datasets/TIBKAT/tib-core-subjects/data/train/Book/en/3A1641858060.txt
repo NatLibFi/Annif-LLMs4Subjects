@@ -1,0 +1,2 @@
+Linear algebra and matrices
+Basic facts on vector spaces, matrices, and linear transformations -- Canonical forms -- Applications of jordan canonical form -- Inner product spaces -- Perron-frobenius theorem -- Tensor products -- The sets and mappings -- Basic facts in analysis and topology -- Basic facts in graph theory -- Basic facts in abstract algebra -- Complex numbers -- Differential euqations -- Basic notions of matrices

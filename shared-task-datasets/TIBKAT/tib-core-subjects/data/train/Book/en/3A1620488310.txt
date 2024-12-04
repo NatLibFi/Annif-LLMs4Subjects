@@ -1,0 +1,2 @@
+Quantum mechanics of non-hamiltonian and dissipative systems
+This work is self-contained and can be used by students without a previous course in modern mathematics and physics. It describes the modern structure of the theory and covers the fundamental results of the last 15 years

@@ -1,0 +1,2 @@
+Field-programmable gate array (FPGA) technologies for high performance instrumentation
+"This book presents experimental and theoretical research on FPBA-based design and the development of virtual scientific instrumentation that can be used by a broad segment of scientists across a variety of research fields"--Provided by publisher.

@@ -1,0 +1,2 @@
+Messer Beteiligung am Verbundprojekt: Prozesse und Equipment für 300-mm-Wafer : final report 1997 - 2001 ; Teilziel 1: Point of use analytik/in situ monitoring ; Teilziel 2: Point of use generation of chemicals
+Point of use gas analytics, in situ monitoring of process gas lines, FTIR spectrometer, gas chromatograph, optimization of cylinder change procedures in HBr- and HCl-process gas lines, metal free equipment for generation of RCA wafer cleaning solutions, reproducibility of conposition, metal trace analysis by ICPMS and AAS, cost estimation, efficiency

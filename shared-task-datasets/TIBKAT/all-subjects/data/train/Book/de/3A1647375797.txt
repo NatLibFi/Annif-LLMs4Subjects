@@ -1,0 +1,3 @@
+Mathematik 1 : Lehrbuch für ingenieurwissenschaftliche Studiengänge
+Mengen, reelle Zahlen -- Funktionen -- Zahlenfolgen und Grenzwerte -- Grenzwerte von Funktionen; Stetigkeit -- Die komplexen Zahlen -- Lineare Gleichungssysteme, Matrizen, Determinanten -- Vektoren und ihre Anwendungen -- Differentialrechnung -- Integralrechnung.
+Dieses erfolgreiche einführende Lehrbuch liegt nun in der 10. Auflage vor. Es zeichnet sich durch eine exakte und anschauliche Darstellung aus. Der Lehrstoff ist klar gegliedert und gut strukturiert. Er wird durch eine Fälle von Beispielen und Abbildungen veranschaulicht und vertieft. Zahlreiche Aufgaben mit Lösungen zu jedem Abschnitt erleichtern das Selbststudium.

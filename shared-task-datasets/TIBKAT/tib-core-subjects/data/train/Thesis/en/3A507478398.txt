@@ -1,0 +1,2 @@
+Mehrkernige Übergangsmetallkomplexe als Basis für neue Klassen magnetischer Materialien
+New copper(II), nickel(II), cobalt(II) and iron(III) complexes with triaminoguanidin derivate ligands have been synthesized and characterized by analytical, crystallographic and magnetic susceptibility measurements. In some cases an oxidative cyclization of the ligand have been observed. The reaction without co-ligands yielded three-dimensional metal-organic frameworks. Temperature- and field-dependent magnetic analyses reveal strong antiferromagnetic interactions for all complexes.

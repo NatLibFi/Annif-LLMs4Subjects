@@ -1,0 +1,2 @@
+Handbuch für Blitzschutz und Erdung
+Im ersten Teil werden Blitzstromkennwerte, Schutzbereiche von Fanganordnungen, sowie Schutzmaßnahmen und Schutzgeräte gegen Gewitterüberspannungen vorgestellt und erläutert. Der zweite Teil befaßt sich mit dem Berechnen von Erdern, der Ausführung von Blitzschutzerdungsanlagen, Maßnahmen zur Vermeidung von Korrosion der Erder und dem Messen der Spannungsverteilung und des Ausbreitungswiderstandes. (MOD)

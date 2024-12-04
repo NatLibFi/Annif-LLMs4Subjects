@@ -1,0 +1,2 @@
+Programmierung für Wirtschaftsinformatiker : Vorlesungen über Basic, Visual Basic und VBA
+Dieses Teubner-Lehrbuch wendet sich an alle Lernenden, in deren Informatik-Lehrveranstaltung die Sprache Basic verwendet wird: in ihrer ursprünglichen Form der klassischen Programmierung, als Visual Basic zur Herstellung von Benutzeroberflächen, als VBA (Visual Basic for Applications) zur Qualifizierung des Umgangs mit Excel oder Word. In besonderen Textpassagen - als "Navigator" hervorgehoben - geht der Autor auf jene Schwierigkeiten ein, mit denen Anfänger am meisten zu kämpfen haben

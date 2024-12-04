@@ -1,0 +1,2 @@
+Guide to biometric reference systems and performance evaluation
+Introduction.- The BioSecure Benchmarking Methodology.- Iris Recognition.- Fingrprint Recognition.- Hand Recognition.- On-line Handwritten Signatures.- Text-independent Speaker Verification.- 2D Face Recognition.- 3D Face Recognition.- Talking-face Verification.- The BioSecure Multimodal Evaluation Campaign 2007

@@ -1,0 +1,2 @@
+Computational mathematics with SageMath
+Getting to grips with Sage -- Algebra and symbolic computation -- Numerical computation -- Combinatorics

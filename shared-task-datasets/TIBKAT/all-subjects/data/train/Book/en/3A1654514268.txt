@@ -1,0 +1,2 @@
+Game theory solutions for the internet of things : emerging research and opportunities
+"This book examines the latest strategies for the management of IoT systems and the application of theoretical models to enhance real-world applications and improve system efficiency. Highlighting innovative algorithms and methods, as well as coverage on cloud computing, cross-domain applications, and energy control"--Provided by publisher.

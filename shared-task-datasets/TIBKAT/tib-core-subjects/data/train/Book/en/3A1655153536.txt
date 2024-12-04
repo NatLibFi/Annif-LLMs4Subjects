@@ -1,0 +1,2 @@
+Resolution of Surface Singularities : Three Lectures with an Appendix by H. Hironaka
+Embedded resolution of algebraic surfaces after abhyankar (Characteristic 0) -- Desingularization in low dimension -- Desingularization in dimension 2.

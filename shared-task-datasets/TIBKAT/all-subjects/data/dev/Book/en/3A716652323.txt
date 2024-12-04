@@ -1,0 +1,2 @@
+Android developer tools essentials
+Android development can be challenging, but through the effective use of Android Developer Tools (ADT), you can make the process easier and improve the quality of your code. This concise guide demonstrates how to build apps with ADT for a device family that features several screen sizes, different hardware capabilities, and a varying number of resources

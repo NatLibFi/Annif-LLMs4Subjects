@@ -1,0 +1,2 @@
+Random and Quasi-Random Point Sets
+This book sumarizes recent theoretical and practical developments. The generation and the assessment of pseudo- and quasi-random point sets is one of the basic tasks of applied mathematics and statistics, with implications for Monte Carlo methods, stochastic simulation, and applied statistics. They are also of strong theoretical interest, with applications to algebraic geometry, metric number theory, probability theory, and cryptology

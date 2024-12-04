@@ -1,0 +1,2 @@
+Automata theory : an algorithmic approach
+"The book presents automata theory from a fresh viewpoint inspired by its main modern application: program verification"--

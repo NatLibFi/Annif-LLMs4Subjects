@@ -1,0 +1,2 @@
+Strange code : 14 esoteric programming languages to make you think
+"Beginning with a foundation in the history and theory of programming languages, then guiding readers through a tour of novel, atypical, and esoteric programming languages (esolangs), this book probes the limits and boundaries of what a programming language can be. Readers will become more knowledgeable and confident programmers by exploring the different, surprising, and often "strange" ways in which programming languages can express thought"--

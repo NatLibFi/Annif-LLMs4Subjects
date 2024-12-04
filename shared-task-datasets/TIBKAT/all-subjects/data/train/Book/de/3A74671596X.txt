@@ -1,0 +1,2 @@
+Höhere Mathematik in Rezepten : Begriffe, Sätze und zahlreiche Beispiele in kurzen Lerneinheiten
+Im Fokus stehen praxisrelevante Problemlösungsstrategien der höheren Mathematik und deren rezeptartige Umsetzung unter Berücksichtigung numerischer Fragestellungen und der Anwendbarkeit von MATLAB. Die mit zahlreichen Beispielen und Abbildungen versehene Darstellung liefert mithin kompakt Begriffe und Sätze wie Rezepte zur Lösung typischer Probleme

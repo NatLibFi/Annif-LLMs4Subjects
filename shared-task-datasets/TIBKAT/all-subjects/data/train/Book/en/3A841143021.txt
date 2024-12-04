@@ -1,0 +1,2 @@
+Microsoft mapping : geospatial development in Windows 10 with Bing Maps an C#
+This revised edition of Microsoft Mapping includes the latest details about SQL Server 2014 and the new 3D and Streetside-capable map control for Windows 10 applications. It contains updated chapters on Microsoft Azure and Power Map for Excel plus a new chapter on Bing Maps for windows Universal applications. -- Back cover

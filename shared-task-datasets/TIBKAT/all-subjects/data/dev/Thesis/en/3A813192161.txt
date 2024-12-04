@@ -1,0 +1,2 @@
+Charakterisierungsmethoden und simulationsgestützte Analysen von Silizium Solarzellen
+Photoleitfähigkeitsmessungen, Kurzschlussstromverluste, Rückkontakt-Solarzellen. - Photoconductance decay, short-circuit current losses, back contacted solar cells

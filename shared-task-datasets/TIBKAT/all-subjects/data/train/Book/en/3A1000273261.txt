@@ -1,0 +1,2 @@
+Statistics and chemometrics for analytical chemistry
+Introduction -- Statistics of repeated measurements -- Significance tests -- The quality of analytical measurements -- Calibration methods in instrumental analysis : regression and correlation -- Non-parametric and robust methods -- Experimental design and optimisation -- Multivariate analysis

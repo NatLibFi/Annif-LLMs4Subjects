@@ -1,0 +1,2 @@
+Statistical inference as severe testing : how to get beyond the statistics wars
+Preface -- How to tell what's true about statistical inference -- Taboos of induction and falsification -- Statistical tests and scientific inference -- Objectivity and auditing -- Power and severity -- (Probabilist) foundations lost, (probative) foundations found

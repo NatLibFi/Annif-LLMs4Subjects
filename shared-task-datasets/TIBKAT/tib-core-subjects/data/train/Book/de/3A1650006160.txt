@@ -1,0 +1,2 @@
+Data Mining : Methoden und Algorithmen intelligenter Datenanalyse
+Dieses Buch behandelt die wichtigsten Methoden zur Erkennung und Extraktion von Wissen aus numerischen und nichtnumerischen Datenbanken in Technik und Wirtschaft. Es vermittelt einen kompakten, fundierten Überblick über die verschiedenen Methoden sowie deren Motivation und versetzt den Leser in die Lage, Data Mining selbst praktisch einzusetzen.

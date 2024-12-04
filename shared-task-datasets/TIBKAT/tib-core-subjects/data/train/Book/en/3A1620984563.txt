@@ -1,0 +1,2 @@
+Rocket surgery made easy : the do-it-yourself guide to finding and fixing usability problems
+In this how-to companion to Don't make me think : a common sense approach to web usability, Steve Krug spells out an approach to usability testing that anyone can easily apply to their own web site, application, or other product. --

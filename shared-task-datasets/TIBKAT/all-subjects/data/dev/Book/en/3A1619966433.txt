@@ -1,0 +1,2 @@
+Stylin' with CSS : a designer's guide
+Explains how to style text, create style sheets, position content, create links, design navigation, and style forms, lists, and tables, to enable any level designer to start quickly creating sites with CSS

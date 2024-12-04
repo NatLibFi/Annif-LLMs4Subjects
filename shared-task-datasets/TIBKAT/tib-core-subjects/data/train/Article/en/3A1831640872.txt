@@ -1,0 +1,2 @@
+Chapter 35 Coordination Issues in Long-Run Growth
+Economic growth depends not only on how people make decisions but also upon how their decisions are coordinated. Because of this, aggregate outcomes can diverge from individual intentions. I illustrate this with reference to the modern literature on economic growth, and also with reference to an older literature on the stability of full-employment equilibrium. Agent-based computational methods are ideally suited for studying the aspects of growth most affected by coordination issues.

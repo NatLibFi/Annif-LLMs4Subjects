@@ -1,0 +1,2 @@
+Computational methods in biometric authentication : statistical methods for performance evaluation
+"Biometric authentication systems take physiological or behavioral measurements of individuals and attempt to use those to authenticate an individual's identity. The aim of this book is to provide rigorous statistical methods for the evaluation of biometric authentication systems"--P. 3

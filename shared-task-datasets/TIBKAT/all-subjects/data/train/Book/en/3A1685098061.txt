@@ -1,0 +1,3 @@
+An introduction to compressed sensing
+Mathematical preliminaries -- Compressed sensing : problem formulations -- Null-space based conditions -- Concepts from graph theory -- Deterministic construction of measurement matrices -- Probabilistic construction of measurement matrices -- Matrix recovery and completion -- Some recent approaches to vector recovery -- Optimization algorithms -- Case studies.
+"The intended audience for the book consists of those who are interested in applying the theory of compressed sensing to practical problems, as well as those whose aim is to make further advances in the theory"--

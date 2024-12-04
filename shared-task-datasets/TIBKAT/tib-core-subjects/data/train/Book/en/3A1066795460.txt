@@ -1,0 +1,2 @@
+On-chip pretreatment of whole blood by using MEMS technology
+On-chip pretreatment of whole blood is one of the hottest topics in lab-on-a-chip research since whole blood has been regarded as the most important clinical sample. This e-book is a valuable reference for readers interested in this specific clinical application of advanced MEMS technology

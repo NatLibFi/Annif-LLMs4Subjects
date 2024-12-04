@@ -1,0 +1,2 @@
+Mobile HTML5 : [using the latest today]
+Readers will quickly become familiar with HTML5's many new APIs and understand how they work in the mobile environment with this book. Learn how to use audio, video and graphics within the bandwith and screen constraints of mobile devices, and discover how HTML5 interacts with JavaScript and CSS3

@@ -1,0 +1,2 @@
+Introduction to static analysis using SolidWorks simulation
+"This book introduces the basic features of SolidWorks simulation through practical solved examples. It provides a detailed description of all stages and program commands used during static analysis of a body. It offers a description of some common examples and techniques used to reduce the size of the model and to increase the accuracy of the calculations. It also discusses useful, yet hard to find information about applications of the program, i.e. calculations of welded or plastically deformed machine elements"--

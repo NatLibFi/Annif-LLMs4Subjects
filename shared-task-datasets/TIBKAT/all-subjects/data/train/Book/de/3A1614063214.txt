@@ -1,0 +1,2 @@
+Finanzmathematik : Lehrbuch mit Übungen
+Verl.Beschr.: Klar strukturiert vermittelt dieses Lehr- und Übungsbuch die Grundlagen der Finanzmathematik. Behandelt werden verschiedene übliche Verzinsungsarten, Rentenrechnung, Tilgungsrechnung, Investitionsrechnung, Abschreibungsverfahren sowie die effektive Verzinsung. Die dritte Auflage wurde erweitert durch Formeln der Finanzmathematik im Tabellenkalkulator Excel, und am Ende eines jeden Kapitels wurde eine Formelsammlung erstellt

@@ -1,0 +1,2 @@
+Development of MALDI-TOF mass spectrometry based methods for the identification and molecular characterization of proteins, phosphoproteins and DNA adducts
+MALDI-TOF, mass spectrometry, protein analysis, proteomics, protein phosphorylation, DNA adducts. - Massenspektrometrie, Protein-Analyse, Proteomik, Protein-Phosphorylierung, DNA-Addukte

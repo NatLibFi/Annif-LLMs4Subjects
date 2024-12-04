@@ -1,0 +1,2 @@
+Ein integrales Modellierungskonzept zur numerischen Simulation der Osseointegration und Langzeitstabilität von Endoprothesen
+Finite-Elemente-Methode, adaptive Netzverfeinerung, Knochenumbau, Osseointegration, Mikrobewegungen, Knochen-Implantat-Interface, Hüftgelenksendoprothese, patientenspezifische Modellierung, Femurkopfnekrosen. - Finite element method, adaptive mesh refinement, bone remodeling, micromotion, bone-implant interface, hip joint endoprosthesis, patient-specific modeling, femoral head necrosis

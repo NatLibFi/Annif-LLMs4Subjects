@@ -1,0 +1,3 @@
+Prüfungstrainer Elektrotechnik : Erst verstehen, dann bestehen
+Physikalische Grundlagen: Elektrodynamik -- Passive Bauelemente -- Halbleiter-Bauelemente -- Lineare elektrische Netze -- Wechselstromnetze -- Frequenzselektion durch Zwei- und Vierpole -- Transistorschaltungen -- Operationsverstärker -- Anhänge: Was Sie vielleicht schon immer wissen wollten, Arbeitstechniken.
+Dieses Buch bereitet gezielt auf eine Prüfung vor dem Bachelor-Abschluss vor. Es enthält Antworten auf Prüfungsfragen, Lösungsstrategien für Klausuraufgaben und Begründungen der wesentlichen Gesetze der Elektrotechnik und Elektronik. Die Fragen sind nach Schwierigkeitsgrad geordnet. So können die Studierenden Lücken im eigenen Wissen finden und durch ein vertieftes Verständnis ersetzen.

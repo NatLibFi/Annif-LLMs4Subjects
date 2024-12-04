@@ -1,0 +1,2 @@
+Free-Space Laser Communications : Principles and Advances
+Provides a comprehensive tutorial covering the advances in the technology of free-space laser communications (FSLC). This book is intended as an all-inclusive source to serve the needs of those who require information about the basics of FSLC, as well as advanced knowledge of the state-of-the-art in the technologies available

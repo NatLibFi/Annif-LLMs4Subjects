@@ -1,0 +1,2 @@
+Controlling the crystal growth and morphology of conjugated polymers
+Zusammenfassung: Eine einfache "Self-Seeding"-Strategie ermöglicht die Bildung großer Einkristalle von langen, regioregulären Poly(3-hexylthiophen)-Ketten aus Lösung. Durch geeignete Kristallisation bilden Materialien, die sich in der Regioregularität und im Molekulargewicht unterscheiden, monoklinische Form-II-Kristalle mit verzahnten Hexyl-Seitenketten

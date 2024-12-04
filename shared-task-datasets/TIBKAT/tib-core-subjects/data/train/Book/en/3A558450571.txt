@@ -1,0 +1,2 @@
+Real-time digital signal processing : implementations and applications
+Real-time Digital Signal Processing: Implementations and Applications has been completely updated and revised for the 2nd edition and remains the only book on DSP to provide an overview of DSP theory and programming with hands-on experiments using MATLAB, C and the newest fixed-point processors from Texas Instruments (TI)

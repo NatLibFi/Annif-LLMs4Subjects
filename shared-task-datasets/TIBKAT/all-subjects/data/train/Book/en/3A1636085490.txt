@@ -1,0 +1,2 @@
+Elementary numerical analysis : an algorithmic approach : updated with Matlab
+Number systems and errors -- Interpolation by polynomial -- The solution of nonlinear equations -- Matrices and systems of linear equations -- Systems of equations and unconstrained optimization -- Approximation -- Differentiation and integration -- The solution of differential equations -- Boundary value problems

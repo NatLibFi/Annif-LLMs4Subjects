@@ -1,0 +1,2 @@
+Computer programming for beginners : a step-by-step guide
+This book aims to capture the fundamentals of computer programming without tying the topic to any specific programming language. To the best of the authors' knowledge there is no such book in the market.

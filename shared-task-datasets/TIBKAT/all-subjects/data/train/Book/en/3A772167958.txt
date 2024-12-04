@@ -1,0 +1,3 @@
+JUNOS OS for dummies : [learn to: work with the Junos network operating system ; set up and configure a Juniper Networks device and add security ; connect, manage, and troubleshoot routers and other Juniper appliances ; make your network more efficient]
+Here's just what you need to get your network running smoothly and securely on Janos. This guide will help you configure, add key services, enhance security, and make your network more efficient --
+Discovering Junos OS -- Setting up Junos OS -- Deploying a device -- Running a Junos network - The part of tens

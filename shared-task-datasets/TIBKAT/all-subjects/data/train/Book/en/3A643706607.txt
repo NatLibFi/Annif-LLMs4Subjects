@@ -1,0 +1,2 @@
+Pragmatic guide to Subversion
+A guide to the version control system covers such topics as working with a team, viewing the log, file locking, and setting up a server--

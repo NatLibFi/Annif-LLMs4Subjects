@@ -1,0 +1,2 @@
+Numerical methods in engineering with MATLAB
+Introduction to MATLAB -- Systems of linear algebraic equations -- Interpolation and curve fitting -- Roots of equations -- Numerical differentiation -- Numerical integration -- Initial value problems -- Two-point boundary value problems -- Symmetric matrix eigenvalue problems -- Introduction to optimization

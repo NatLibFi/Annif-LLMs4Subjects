@@ -1,0 +1,2 @@
+97 things about ethics everyone in data science should know : collective wisdom from the experts
+Written by renowned data science experts Foster Provost and Tom Fawcett, Data Science for Business introduces the fundamental principles of data science, and walks you through the "data-analytic thinking" necessary for extracting useful knowledge and business value from the data you collect. This guide also helps you understand the many data-mining techniques in use today

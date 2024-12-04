@@ -1,0 +1,2 @@
+UNIGRAPHICS NX3 - kurz und bündig : Grundlagen für Einsteiger
+Systemgrundlagen - Erste Modellierungsschritte - Modellierung von Solids - Freiformflächen - Zeichnungserstellung - Parametrik und Teilefamilien - UDF's und Wiederverwendung von Bauteilen

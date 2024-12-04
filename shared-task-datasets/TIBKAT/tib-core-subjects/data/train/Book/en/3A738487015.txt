@@ -1,0 +1,3 @@
+Stochastic geometry and its applications
+"The previous edition of this book has served as the key reference in its field for over 20 years and is regarded as the best treatment of the subject of stochastic geometry.  Extensively updated, this mew edition includes new sections on analytical and numerically tractable results and applications of Voronoi tessellations; introduces models such as Laguerre and iterated tessellations; and presents theoretical results.  Statistics for planar point processes are introduced, and the text also includes a new section on random geometrical graphs and random networks"--
+"Includes new sections such as random geometrical graphs and random networks and tractable results and applications of Voronoi tessellations"--

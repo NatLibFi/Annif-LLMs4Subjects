@@ -1,0 +1,2 @@
+Algebraic geometry codes ; [2]: Advanced chapters
+Chapter 5. Curves with many points, I, modular curves -- Chapter 6. Class field theory -- Chapter 7. Curves with many points -- Chapter 8. Infinite global fields -- Chapter 9. Decoding : some examples -- Chapter 10. Sphere packings -- Chapter 11. Codes from multidimensional varieties -- Chapter 12. Applications -- Appendix. Some basic facts from volume 1.

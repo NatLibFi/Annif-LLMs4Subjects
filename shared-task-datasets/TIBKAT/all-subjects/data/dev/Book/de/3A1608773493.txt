@@ -1,0 +1,2 @@
+Groovy : kurz & gut
+Groovy ist eine dynamische Programmiersprache für die Java Virtual Machine und erweitert Java um Features, die von Sprachen wie Python und Ruby inspiriert sind. (3)

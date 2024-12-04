@@ -1,0 +1,2 @@
+Lectures on stochastic programming : modeling and theory
+"This third edition covers optimization problems involving uncertain parameters, for which stochastic models are available"--

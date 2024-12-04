@@ -1,0 +1,2 @@
+Cluster ion-solid interactions : theory, simulation, and experiment
+The main goal of this book is therefore to provide the reader with an overview of various concepts in cluster physics and related topics in physics, and is based on lecture courses given by the author to undergraduate and graduate students at Kyoto University (Japan), to nuclear engineering students at Purdue University (USA), and to biology and molecular physics students at the Moscow Institute of Physics and Technology (MIPT) and the Moscow Engineering Physics Institute (MEPhI), both in Russia

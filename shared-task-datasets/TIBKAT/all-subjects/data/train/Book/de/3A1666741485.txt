@@ -1,0 +1,3 @@
+Handbuch Erkenntnistheorie
+Die Erkenntnistheorie zählt zu den wichtigsten Teildisziplinen der theoretischen Philosophie. Seit 2000 hat sich die Disziplin sehr stark entwickelt. In diesem Zeitraum wurden in der Forschungsliteratur viele neue Antworten auf klassische erkenntnistheoretischen Fragen hervorgebracht und auch gänzlich neue Fragen und Probleme behandelt. Das Handbuch liefert einen Überblick über die aktuelle Entwicklung der Disziplin
+I Einleitung -- II Historische Stationen -- III Begriff und Natur des Wissens -- IV Begriff der Rechtfertigung -- V Epistemische Normen und Werte -- VI Skeptizismus -- VII Formale Erkenntnistheorie -- VIII Methoden der zeitgenössischen Erkenntnistheorie -- IX Schnittstellen

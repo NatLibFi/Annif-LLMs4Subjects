@@ -1,0 +1,2 @@
+ASP.NET Web API 2 Recipes : A Problem Solution Approach
+ASP.NET Web API Recipes provides you with the code to solve a full range of Web API problems and question marks that you might face when developing line-of-business applications. ASP.NET Web API Recipes gives you an in-depth explanation for each of these scenarios and shows you how to use Web API with a vast array of .NET application development tools and external libraries, to solve common business problems. Find out how you can build custom web services with ASP.NET Web API more efficiently than ever

@@ -1,0 +1,3 @@
+The Search for the Higgs Boson at CMS
+This book describes the searches that lead to the discovery of a Higgs boson performed at CMS, one of the two main experiments at the CERN LHC. After an overview of the theory and of the CMS experiment, all search channels are described, with emphasis on the ones with the best sensitivity. The statistical methodology used to analyse and the outcomes of the searches and the discovery results are then presented in detail.
+The standard model of elementary particles and the Higgs boson -- The CMS experiment at the CERN LHC.- Searches for a Higgs boson at CMS, in the different final states -- Statistical analysis for Higgs boson searches -- Results.

@@ -1,0 +1,2 @@
+Wärmeübertragung : Grundlagen
+Verlagstext: Wärmeübertragung geschieht durch verschiedene Anwendungsmöglichkeiten und Übertragungsformen. Die Grundlagen werden hier zusammengefasst und mit den dazu notwendigen Rechenprozessen verständlich erklärt. Das Fachwissen wurde für Studenten und Techniker der Bereiche Maschinenbau, Verfahrenstechnik, Elektrotechnik und Bautechnik sowie für Fachleute aus der Praxis im Anlagen-, Apparate- und Wärmeaustauscherbau zusammengestellt

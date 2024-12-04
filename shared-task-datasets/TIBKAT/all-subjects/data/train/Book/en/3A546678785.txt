@@ -1,0 +1,2 @@
+Radio access networks for UMTS : principles and practice
+Flow of data -- Channel types -- Non-access stratum -- Iub transport network -- HSDPA -- HSUPA -- Signalling procedures -- Planning

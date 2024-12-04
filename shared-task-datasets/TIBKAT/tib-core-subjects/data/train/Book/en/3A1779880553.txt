@@ -1,0 +1,2 @@
+2D materials for energy storage and conversion
+This reference text provides a comprehensive overview of the latest developments in 2D materials for energy storage and conversion. It covers a wide range of 2D materials and energy applications, including 2D heterostructures for hydrogen storage applications, cathode and anode materials for lithium and sodium-ion batteries, ultrafast lithium and sodium-ion batteries, MXenes for improved electrochemical applications and MXenes as solid-state asymmetric supercapacitors.

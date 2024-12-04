@@ -1,0 +1,2 @@
+PHP: the good parts : [delivering the best of PHP ; includes PHP 5.3 good parts]
+"Get past all the hype about PHP and dig into the real power of the language. This book explores the most useful features of PHP, shows how they can speed up the web development process, and explains why the most commonly used PHP elements are often misused or misapplied ..."--P. [4] of cover

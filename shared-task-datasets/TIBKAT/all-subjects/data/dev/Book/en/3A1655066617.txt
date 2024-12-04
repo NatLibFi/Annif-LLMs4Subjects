@@ -1,0 +1,2 @@
+Operator Functions and Localization of Spectra
+"Operator Functions and Localization of Spectra" is the first book that presents a systematic exposition of bounds for the spectra of various linear nonself-adjoint operators in a Hilbert space, having discrete and continuous spectra. In particular bounds for the spectra of integral, differential and integro-differential operators, as well as finite and infinite matrices are established. The&nbsp;volume also presents a systematic exposition of estimates for norms of operator-valued functions and their applications

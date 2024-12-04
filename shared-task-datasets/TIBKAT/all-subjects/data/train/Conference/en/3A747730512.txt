@@ -1,0 +1,2 @@
+Privacy enhancing technologies : 13th international symposium, PETS 2013, Bloomington, IN, USA, July 10 - 12, 2013 ; proceedings
+This book constitutes the refereed proceedings of the 13th International Symposium on Privacy Enhancing Technologies, PET 2013, held in Bloomington, IN, USA, in July 2013. The 13 full papers presented were carefully selected from 69 submissions. Topics addressed include data privacy, privacy-oriented cryptography, location privacy, performance of the Tor network, censorship evasion, traffic analysis, and user-related privacy perspectives.--

@@ -1,0 +1,2 @@
+Methode der finiten Elemente : [Studienausgabe] ; mit 36 Tabellen
+Das Buch gibt einen umfassenden Überblick über den gegenwärtigen Stand der Anwendungen der FEM (Finite Element Method) und erläutert aus Sicht des Ingenieurs die theoretischen Grundlagen der Methode. Die geschickte Auswahl und methodische Darstellung des umfangreichen Stoffes ist geeignet, den Lernenden für die FEM zu begeistern, den Praktiker bei der Modellierung seines speziellen Problems zu unterstützen und den Theoretiker zur weiteren Klärung der Grundlagen anzuregen.

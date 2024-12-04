@@ -1,0 +1,2 @@
+Missing-data methods : time-series methods and applications
+Volume 27 of Advances in Econometrics, entitled Missing Data Methods, contains 16 chapters authored by specialists in the field, covering topics such as: Missing-Data Imputation in Nonstationary Panel Data Models; Markov Switching Models in Empirical Finance; Bayesian Analysis of Multivariate Sample Selection Models Using Gaussian Copulas; Consistent Estimation and Orthogonality; and Likelihood-Based Estimators for Endogenous or Truncated Samples in Standard Stratified Sampling.

@@ -1,0 +1,2 @@
+MSP430-based robot applications : a guide to developing embedded systems
+Provides an explanation of the basic areas of electronics and computer architecture, along with lots of examples, to demonstrate the interface, sensor design, programming and microcontroller peripheral setup necessary for embedded systems development

@@ -1,0 +1,2 @@
+Population biology : [presented at the AMS short course on population biology, held August 6-7, 1983 in Albany, New York in conjunction with the eighty-seventh summer meeting of the American Mathematical Society]
+Mathematical population biology / Simon Levin -- Population dynamics and demography / James Frauenthal -- Some mathematical problems in population genetics / Thomas Nagylaki -- Evolution, game theory and economics / Ethan Akin -- Optimal control and principles in population management / Wayne Getz -- Graph theory, homology, and food webs / George Sugihara

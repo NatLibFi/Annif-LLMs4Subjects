@@ -1,0 +1,2 @@
+Primality testing and integer factorization in public-key cryptography
+"This monograph provides a survey of recent progress in Primality Testing and Integer Factorization, with implications to factoring-based Public Key Cryptography." "Primality Testing and Integer Factorization in Public-Key Cryptography is designed for practitioners and researchers in industry and graduate-level students in computer science and mathematics."--

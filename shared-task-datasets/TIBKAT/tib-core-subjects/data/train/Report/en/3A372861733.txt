@@ -1,0 +1,2 @@
+Spectral generalizations of line graphs : on graphs with least negative eigenvalue -2
+Introduction -- Forbidden subgraphs -- Root systems -- Regular graphs -- Star complements -- The Maximal exceptional graphs -- Miscellaneous results

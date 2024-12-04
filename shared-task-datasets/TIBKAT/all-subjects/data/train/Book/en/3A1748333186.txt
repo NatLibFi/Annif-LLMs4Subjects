@@ -1,0 +1,2 @@
+Grid computing for electromagnetics
+Today, more and more practitioners, researchers, and students are utilizing the power and efficiency of grid computing for their increasingly complex electromagnetics applications. This cutting-edge book offers you the practical and comprehensive guidance you need to use this new approach to supercomputing for your challenging projects. Supported with over 110 illustrations, the book clearly describes a high-performance, low-cost method to solving huge numerical electromagnetics problems

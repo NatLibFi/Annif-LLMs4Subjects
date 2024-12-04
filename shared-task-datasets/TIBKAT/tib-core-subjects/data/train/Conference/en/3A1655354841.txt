@@ -1,0 +1,2 @@
+Symbolic Computation, Number Theory, Special Functions, Physics and Combinatorics
+This volume contains research and expository papers in a number of different topics including Number Theory, Special Functions, Physics and Combinatorics. A subject that is common to all of these fields is q-series. The chapters contain some of the latest developments in the fields of q-series. Some of the papers describe how symbolic computation has aided these developments. Audience: Researchers and graduate students interested in recent developments in q-series and symbolic computation

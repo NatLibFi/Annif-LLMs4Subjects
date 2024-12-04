@@ -1,0 +1,2 @@
+The Crystals Associated to Barsotti-Tate Groups: with Applications to Abelian Schemes
+Conventions -- Definitions and examples -- The relation between barsotti-tate and formal lie groups -- Divided powers, exponentials and crystals -- The crystals associated to barsotti-tate groups -- The deformation theory and applications.

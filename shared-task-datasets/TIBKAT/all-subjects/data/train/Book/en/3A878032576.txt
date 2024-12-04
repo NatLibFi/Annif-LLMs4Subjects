@@ -1,0 +1,2 @@
+Advanced R : data programming and the cloud
+Programming basics -- Programming utilities -- Programming automation -- Writing functions -- Writing classes and methods -- Writing a package -- Introduction to data management using data.table -- Data munging with data.table -- Other tools for data management -- Reading big data(bases) -- Getting a cloud -- Cloud Ubuntu for Windows users -- Every cloud has a shiny lining -- Shiny dashboard sampler -- Dynamic reports and the cloud

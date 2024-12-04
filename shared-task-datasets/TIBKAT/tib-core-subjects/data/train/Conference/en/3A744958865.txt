@@ -1,0 +1,2 @@
+Logic Programming : 19th International Conference, ICLP 2003, Mumbai, India, December 9-13, 2003. Proceedings
+This book constitutes the refereed proceedings of the 19th International Conference on Logic Programming, ICLP 2003, held in Mumbai, India in December 2003. The 23 revised full papers and 19 poster papers presented together with 5 invited full contributions and abstracts of 4 invited contributions were carefully reviewed and selected from 81 submissions. All current issues in logic programming are addressed

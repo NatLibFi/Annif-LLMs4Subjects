@@ -1,0 +1,2 @@
+Computability theory : an introduction to recursion theory
+The Computability Concept -- General Recursive Functions -- Programs and Machines -- Recursive Enumerability -- Connections to Logic -- Degrees of Unsolvability -- Polynomial-Time Computability -- [Appendices]. Mathspeak -- Countability -- Decadic Notation

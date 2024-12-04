@@ -1,0 +1,3 @@
+Image processing : the fundamentals
+Image processing has been one of the most active areas of research in recent years. The techniques involved have found significant applications in areas such as robotics, medicine, video-conferencing, image communication, and geoscience
+Front Matter -- Colour Plates -- Introduction -- Image Transformations -- Statistical Description of Images -- Image Enhancement -- Image Restoration -- Image Segmentation and Edge Detection -- Image Processing for Multispectral Images -- Bibliographical Notes -- References -- Index

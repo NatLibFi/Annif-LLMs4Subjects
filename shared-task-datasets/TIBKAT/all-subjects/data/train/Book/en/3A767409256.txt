@@ -1,0 +1,2 @@
+Combinatorial reasoning : an introduction to the art of counting
+Showcases the interdisciplinary aspects of combinatorics and illustrates how to problem solve with a multitude of exercises.

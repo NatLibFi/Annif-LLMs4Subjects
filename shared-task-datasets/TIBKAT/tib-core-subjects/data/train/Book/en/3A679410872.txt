@@ -1,0 +1,2 @@
+CompTIA CTP+ : Convergence Technologies Professional certification study guide ; (exam CN0-201)
+Networking infrastructure and design -- Networking protocols -- Wireless networks and real-time communications -- Infrastructure hardware -- Client devices -- Telephony fundamentals -- Telephony hardware -- Data and voice converged -- Multimedia and video -- Understanding quality of service -- Converged network management -- Troubleshooting -- Security vulnerabilities -- Security solutions -- Planning and tuning converged networks

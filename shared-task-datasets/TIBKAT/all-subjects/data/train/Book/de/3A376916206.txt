@@ -1,0 +1,2 @@
+3D-Konstruktion mit CATIA V5 : parametrisch-assoziatives Konstruieren von Teilen und Baugruppen in 3D
+Ein weiterer Lehrkurs über das CAD/CAM-Programm CATIA für 3-dimensionale Anwendungen. Praxisorientierte Darstellung mit einfachen Beispielmodellen (z.T. auf der beigefügten CD-ROM), wobei die Anwendungen aus Maschinenbau und Blechbearbeitung (Formteile) stammen. Das Programm hat sich inzwischen im Werkzeug-, Formen- und Fahrzeugbau durchgesetzt, wird auch in Bibliotheken nachgefragt. Einsetzbar neben dem Einstiegskurs von R. Rembold (BA 1/04). (2)

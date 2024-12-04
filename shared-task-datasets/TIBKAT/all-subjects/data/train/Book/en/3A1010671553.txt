@@ -1,0 +1,2 @@
+Software design : a comprehensive guide to software development projects
+This book gives full treatment to the topic of Software Design. It will facilitate the academia as well as the industry. This book covers all the topics of software design including the ancillary ones--

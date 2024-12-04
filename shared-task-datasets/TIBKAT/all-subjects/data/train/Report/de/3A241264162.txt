@@ -1,0 +1,2 @@
+Teilvorhaben 3-D-Sehen : im Verbundvorhaben Entwicklung von flexiblen 3-D-Industriemeßsystemen mit CCD-Kameras im Förderprojekt Electronic Eye (EA-3-D-IMSY) ; Schlußbericht, Laufzeit des Vorhabens: 1.10.1994 - 10.9.1997, Kostenneutrale Verlängerung: 11.9.1997 - 31.12.1997
+3D-Bildverarbeitung, Reverse Engineering, Digitalisierung, Vermessung, Interpolation, Flächentrennung, 3D-Strukturermittlung, 3D-Formelemente

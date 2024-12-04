@@ -1,0 +1,2 @@
+Computer aided design and manufacturing
+"Most current textbooks were written some years ago and, as with many other areas of technology and manufacturing, CAD/CAM processes and solutions have developed rapidly in this period. This book addresses the need to a) provide up-to-date coverage of current CAD/CAM usage and implementation and b) provide a single source integrating the entire design-to-manufacture process, reflecting the industry trend to further integrate CAD and CAM into a single, unified, process"--

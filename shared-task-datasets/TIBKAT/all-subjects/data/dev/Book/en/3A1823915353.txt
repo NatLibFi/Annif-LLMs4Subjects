@@ -1,0 +1,2 @@
+MySQL crash course : a hands-on introduction to database development
+"Covers all things MySQL from the basics of creating a table to the complexities of managing an entire database. Teaches how to build efficient databases through examples, exercises, and three hands-on projects. Topics include creating simple databases and tables, updating and deleting data, working with multiple tables, and avoiding common mishaps"--

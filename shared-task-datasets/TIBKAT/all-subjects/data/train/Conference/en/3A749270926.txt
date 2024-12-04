@@ -1,0 +1,2 @@
+Object-oriented technology : ECOOP 2003 workshop reader ; ECOOP 2003 workshops, Darmstadt, Germany, July 21 - 25, 2003, final reports
+This book presents the final reports of 19 workshops held during the 17th European Conference on Object-Oriented Programming, ECOOP 2003, held in Darmstadt, Germany, in July 2003. The 19 reports on workshops covering the entire range of object technology and related topics present a coherent and highly representative snapshot of the major trends in the field

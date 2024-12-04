@@ -1,0 +1,2 @@
+Analyse von Ausfallrisiken und Heilungschancen eines Bankportfolios aus deutschen mittelständischen Unternehmen
+Kreditportfolio, Verlustprognose, Mehrjahreshorizont, Heilungswahrscheinlichkeit, Kundenbeziehungskündigung. - Credit portfolio, loss prediction, multi-period, cure-probability, relationship-cancelation

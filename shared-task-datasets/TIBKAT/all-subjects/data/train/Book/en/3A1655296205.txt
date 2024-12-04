@@ -1,0 +1,2 @@
+Techniques of Admissible Recursion Theory
+The jump operator and 1-generic sets -- The ?-finite injury method -- Maximal sets -- Major subsets -- Hyperhypersimple sets -- Minimal pairs -- The density theorem -- Trees -- Set-theoretic methods.

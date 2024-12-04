@@ -1,0 +1,2 @@
+Handbook of research on high performance and cloud computing in scientific research and education
+"This book presents the applications of cloud computing in various settings, such as scientific research, education, e-learning, ubiquitous learning, and social computing, providing various examples, practical solutions, and applications of high performance and cloud computing"--

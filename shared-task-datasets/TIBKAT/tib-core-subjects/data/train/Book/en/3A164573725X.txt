@@ -1,0 +1,2 @@
+Spectral Methods : Fundamentals in Single Domains
+Presents the integration between the theoretical and practical aspects of spectral methods, and material on the Galerkin with numerical integration version. This book discusses the direct and iterative solution methods, and numerical examples that illustrate key properties of various types of spectral approximations and the solution algorithms

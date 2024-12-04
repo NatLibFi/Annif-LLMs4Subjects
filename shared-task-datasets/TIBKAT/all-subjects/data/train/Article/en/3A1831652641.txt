@@ -1,0 +1,2 @@
+Chapter 3. The Theory of Risk and Risk Aversion
+Risk and risk aversion are important concepts when modeling how to choose from or rank a set of random variables. This chapter reviews and summarizes the definitions and related findings concerning risk aversion and risk in both a mean-variance and an expected utility decision model context.

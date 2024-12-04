@@ -1,0 +1,2 @@
+Mathematics of uncertainty modeling in the analysis of engineering and science problems
+"This book provides the reader with basic concepts for soft computing and other methods for various means of uncertainty in handling solutions, analysis, and applications"--

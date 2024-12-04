@@ -1,0 +1,2 @@
+Characterization techniques for polymer nanocomposites
+With its focus on the characterization of nanocomposites using such techniques as x-ray diffraction and spectrometry, light and electron microscopy, thermogravimetric analysis, as well as nuclear magnetic resonance and mass spectroscopy, this book helps to correctly interpret the recorded data. Each chapter introduces a particular characterization method, along with its foundations, and makes the user aware of its benefits, but also of its drawbacks --

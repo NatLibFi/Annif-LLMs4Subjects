@@ -1,0 +1,2 @@
+A measurement-based approach to service modeling and bandwidth estimation in IEEE 802.11 wireless networks
+IEEE 802.11, WLAN, fairness, quality of service, network calculus, bandwidth estimation. - Dienstgüte, Netzwerkkalkül, Bandbreitenabschätzung

@@ -1,0 +1,2 @@
+Migrating legacy applications : challenges in service oriented architecture and cloud computing environments
+"This book presents a closer look at the partnership between service oriented architecture and cloud computing environments while analyzing potential solutions to challenges related to the migration of legacy applications"--Provided by publisher

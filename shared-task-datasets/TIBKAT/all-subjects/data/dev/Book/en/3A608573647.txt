@@ -1,0 +1,2 @@
+Statistical mechanics : theory and molecular simulation
+This work contains a detailed review of classical and quantum mechanics, in-depth discussions of the most commonly used ensembles simultaneously with modern computational techniques such as molecular dynamics. It also covers important topics such as free-energy calculations, linear-response theory and critical phenomena

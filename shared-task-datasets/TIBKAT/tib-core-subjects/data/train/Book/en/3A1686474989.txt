@@ -1,0 +1,2 @@
+Cytotoxic payloads for antibody-drug conjugates
+Introduction to antibody-drug conjugates (ADCs) / Ilona Pysz, Paul J.M. Jackson and David E. Thurston -- Design factors important for antibody-drug conjugate (ADC) payloads / John M. Lambert -- Use of molecular modelling techniques in antibody-drug conjugate (ADC) payload discovery and development / Paul J.M. Jackson and David E. Thurston.

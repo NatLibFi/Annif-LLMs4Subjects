@@ -1,0 +1,3 @@
+The practice of system and network administration : DevOps and other best practices for enterprise IT, Volume 1
+"Whether you use Linux, Unix, or Windows, this new edition describes th essential practices previously handed down only from mentor to protégé. This wonderfully lucid, often funny cornucopia of information introduces beginners to advanced frameworks valuable for their entire career, yet is structured to help even experts through difficult projects."--Page [4] of cover
+Game-changing strategies -- Workstation fleet management -- Servers -- Services -- Infrastructure -- Helpdesks and support -- Change processes -- Service recommendations -- Management practices -- Being more awesome -- Appendices

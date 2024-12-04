@@ -1,0 +1,3 @@
+Digitale Signalverarbeitung 1 : Analyse diskreter Signale und Systeme
+Diskrete determinierte Signale -- Stochastische Folgen -- Diskrete Systeme -- Kausale, lineare Systeme, beschrieben durch Differenzengleichungen -- Strukturen.
+Dieser Bestseller von Professor Schüssler ist eine umfassende Darstellung der Analyse diskreter Signale und Systeme in der Nachrichten- und Datentechnik. Er eignet sich sowohl für den Ingenieur in Forschung und Praxis als auch für den fortgeschrittenen Studenten. In dieser fünften Auflage wurde das Buch um eine umfangreiche und ausführlich dokumentierte MATLAB-Bibliothek zur digitalen Signalverarbeitung erweitert. Die MATLAB-Programme stehen im Internet zur Verfügung.

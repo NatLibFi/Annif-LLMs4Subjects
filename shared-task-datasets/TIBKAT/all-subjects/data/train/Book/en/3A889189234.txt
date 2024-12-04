@@ -1,0 +1,2 @@
+Learning HTTP/2 : a practical guide for beginners
+What can your organization gain by adopting HTTP/2? How about faster, simpler, and more robust websites and applications? This practical guide demonstrates how the latest version of the Hypertext Transfer Protocol can dramatically improve website and application performance. You?ll take a deep dive into HTTP/2 details, and learn how this updated protocol is changing the web landscape

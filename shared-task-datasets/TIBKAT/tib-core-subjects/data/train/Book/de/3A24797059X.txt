@@ -1,0 +1,2 @@
+Dieselmotor-Management
+Gegenstück zu "Ottomotor-Management" (in dieser Nr): Zusammenfassung von Heften der Robert Bosch GmbH mit Informationen zum Dieselmotor, insbesondere zu Dieseleinspritzsystemen für Fachleute der Kraftfahrzeugtechnik. Nicht so grundlegend gearbeitet wie E. Baentsch (BA 9/87) oder "Technisches Handbuch Dieselmotoren" (ID 10/91), dafür aktueller. (3) (LK/N: Pleuß)

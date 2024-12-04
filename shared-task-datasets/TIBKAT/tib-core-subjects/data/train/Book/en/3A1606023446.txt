@@ -1,0 +1,2 @@
+Introduction to digital image processing / William K. Pratt
+"This book contains English language narratives of important image processing operations, from which a student is expected to create executable versions of the operations using C language programming, calls to an image processing library furnished with the book, a furnished PIKSTool interactive package or the widely supported MATLAB interactive package. Executable versions of each narrative operation are furnished so that a student can visualize the result of each operation. "--

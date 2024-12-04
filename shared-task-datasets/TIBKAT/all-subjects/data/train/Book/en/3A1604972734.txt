@@ -1,0 +1,2 @@
+Compression of biomedical images and signals
+Relevance of biomedical data compression -- State-of-the-art of compression methods -- Specificities of physiological signals and medical images -- Standards in medical image compression -- Quality assessment of lossy compressed medical images -- Compression of physiological signals -- Compression of 2-D biomedical images -- Compression of dynamic and volumetric medical sequences -- Compression of static and dynamic 3D surface meshes -- Hybrid coding: encryption-watermarking-compression for medical information security

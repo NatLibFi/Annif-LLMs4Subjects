@@ -1,0 +1,2 @@
+Adaptive hierarchical cluster analysis by self-organizing box maps
+Self-organizing maps, cluster analysis, Voronoi tessellation, feature extraction, essential dimensions, multilevel methods

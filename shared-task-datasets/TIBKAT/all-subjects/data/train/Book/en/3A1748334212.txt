@@ -1,0 +1,2 @@
+GPRS for mobile Internet
+This ground-breaking book offers professionals a comprehensive, in-depth presentation of GPRS (general packet radio service). The book helps practitioners understand how this system is used as a major building block technology for the emerging mobile Internet. It explores the most critical aspects of GPRS in great detail, and offers a real-world understanding of the inevitable implementation challenges engineers will face in the field

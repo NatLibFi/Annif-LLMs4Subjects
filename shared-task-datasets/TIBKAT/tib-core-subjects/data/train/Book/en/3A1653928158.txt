@@ -1,0 +1,3 @@
+Semiconductor Physics
+Part I Bonding and Structure -- Part II Phonons -- Part III Energy Bands -- Part IV Photons -- Part V Defects -- Part VI Transport -- Part VII Generation-Recombination -- Part VIII Kinetics.
+This handbook gives a complete survey of the important topics and results in semiconductor physics. It addresses every fundamental principle and most research topics and areas of application in the field of semiconductor physics. Comprehensive information is provided on crystalline bulk and low-dimensional as well as amporphous semiconductors, including optical, transport, and dynamic properties.

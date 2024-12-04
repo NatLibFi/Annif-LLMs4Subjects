@@ -1,0 +1,2 @@
+Effect of bioinspired surface microstructures on hemodynamics and platelet adhesion
+Occlusion by thrombosis due to the absence of the endothelial cell (EC) layer is one of the most frequent causes of failure of artificial vascular grafts. Bioinspired surface structures may have a potential to reduce the adhesion of platelets contributing to hemostasis. The aim of this PhD research was to design a suitable microstructured surface mimicking the EC morphology for synthetic vascular grafts that inhibits the platelet adhesion and aggregation, the main cause of thrombosis.

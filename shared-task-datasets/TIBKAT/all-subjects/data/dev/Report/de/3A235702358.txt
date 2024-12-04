@@ -1,0 +1,2 @@
+Visuelle Programmierung : Grundlagen und Einsatzmöglichkeiten
+Das Buch stellt die Grundlagen der Programmierung mit grafischen Softwarekomponenten auf anschauliche Weise dar und umfaßt sowohl praktische Aspekte als auch theoretische Konzepte. Es gibt Antwort auf folgende Fragen: a) Was ist visuelle Programmierung ? B) Wofür eignet sich visuelle Programmierung und wofür nicht ? c) Wie sind visuelle Programmiersysteme aufgebaut ? (MOD)

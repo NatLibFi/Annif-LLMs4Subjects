@@ -1,0 +1,2 @@
+Algebraic independence results for reciprocal sums of Fibonacci and Lucas numbers
+Algebraic independence, Fibonacci numbers, Nesterenko's theorem on Ramanujan functions. - Algebraische Unabhängigkeit, Fibonacci-Zahlen, Nesterenkos Satz über Ramanujan Funktionen

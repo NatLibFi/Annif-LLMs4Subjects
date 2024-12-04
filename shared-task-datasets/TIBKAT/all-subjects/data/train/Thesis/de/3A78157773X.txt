@@ -1,0 +1,2 @@
+Automatic performance engineering workflows for high performance computing
+Während des typischen Performance Engineering Prozesses müssen Anwendungsentwickler oft mehrere iterative Aufgaben durchführen, um neue Verbesserungsmöglichkeiten zu identifizieren und eine optimale Optimierungsstrategie zu entwickeln. Deswegen untersucht diese Dissertation das Konzept der Automatisierung des Performance Engineering Prozesses im Bereich Höchstleistungsrechnen (HPC) und schlägt ein Framework für die Standardisierung des gesamten Leistungsanalyse- und Tuning-Zyklus vor.

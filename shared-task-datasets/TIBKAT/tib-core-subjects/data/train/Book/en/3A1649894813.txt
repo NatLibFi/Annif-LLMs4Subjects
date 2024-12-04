@@ -1,0 +1,2 @@
+Spatial Statistics and Modeling
+Key spatial models for three types of data are discussed in this overview of spatial modeling and statistics

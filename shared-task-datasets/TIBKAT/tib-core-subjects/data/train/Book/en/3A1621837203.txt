@@ -1,0 +1,2 @@
+Conversational agents and natural language interaction : techniques and effective practices
+"This book is a reference guide for researchers entering the promising field of conversational agents, providing an introduction to fundamental concepts in the field, collecting experiences of researchers working on conversational agents, and reviewing techniques for the design and application of conversational agents"--

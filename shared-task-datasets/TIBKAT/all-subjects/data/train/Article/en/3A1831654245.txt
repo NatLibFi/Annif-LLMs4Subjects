@@ -1,0 +1,2 @@
+Chapter 15. Learning in Networks
+We choose between alternatives without being fully informed about the rewards from different courses of action. In making our decisions, we use our own past experience and the experience of others. So the ways in which we interact - our social network - can influence our choices. These choices in turn influence the generation of new information and shape future choices. These considerations motivate a rich research programme on how social networks shape individual and collective learning. The present paper provides a summary of this research.

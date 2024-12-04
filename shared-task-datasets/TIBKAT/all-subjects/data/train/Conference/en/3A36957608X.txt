@@ -1,0 +1,2 @@
+Multiagent system technologies : first German conference ; proceedings
+This book constitutes the refereed proceedings of the First German conference on Multiagent System Technologies, MATES 2003, held in Erfurt, Germany in September 2003. The 18 revised full papers presented together with an invited paper were carefully reviewed and selected from 49 submissions. The papers are organized in topical sections on engineering agent-based systems, systems and applications, models and architectures, the semantic Web and interoperability, and collaboration and negotiation

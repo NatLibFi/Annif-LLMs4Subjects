@@ -1,0 +1,2 @@
+Chemical reaction engineering and reactor technology
+Stoichiometry and kinetics -- Homogeneous reactors -- Nonideal reactors : residence time distributions -- Catalytic two-phase reactors -- Catalytic three-phase reactors -- Gas liquid reactors -- Reactors for reactive solids -- Toward new reactor and reaction engineering -- Optimization aspects in chemical reaction engineering -- Historical remarks and future challenges -- Exercises & solutions.

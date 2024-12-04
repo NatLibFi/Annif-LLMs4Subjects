@@ -1,0 +1,2 @@
+Access® solutions : tips, tricks, and secrets from Microsoft® Access MVPs
+Presents a collection of tips and solutions for database problems of Access users, covering such topics as changing the sort order of reports, creating tables for SharePoint applications, implementing Soundex, using ActiveX controls, and adding custom types to forms

@@ -1,0 +1,2 @@
+Some results on resonances for hyperbolic surfaces
+In this thesis we contribute to the spectral theory of hyperbolic surfaces. More concretely, we prove several results concerning the distibution of infinite-area hyperbolic surfaces. Most notable among them are a Weyl law and an improved fractal Weyl law for families of covers of Schottky surfaces, the existence of hyperbolic surfaces with arbitrarily small spectral gap, an equidistribution result for resonances for abelian coverings, and a fractal Weyl law of hyperbolic surfaces arising from Hecke triangle groups.

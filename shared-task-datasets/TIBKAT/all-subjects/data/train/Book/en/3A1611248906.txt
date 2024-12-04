@@ -1,0 +1,2 @@
+Embedded computing systems: applications, optimization, and advanced design
+"This book brings together theoretical and technical concepts of intelligent embedded control systems and their use in hardware and software architectures by highlighting formal modeling, execution models, and optimal implementations"--Provided by publisher

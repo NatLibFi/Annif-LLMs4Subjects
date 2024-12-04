@@ -1,0 +1,2 @@
+Prepress-Knowhow für Grafikdesigner
+Farbmanagement -- Volltonfarben -- Softproof und Digitalproof -- Bildverarbeitung -- Anlegen des Layouts (Layout) -- Fonts in der Druckvorstufe (Schrift, Schriften) -- PDF-Export -- Bearbeitung von PDF-Dateien in Acrobat X

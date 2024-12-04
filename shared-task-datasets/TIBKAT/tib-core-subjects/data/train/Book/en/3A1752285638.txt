@@ -1,0 +1,2 @@
+Learn to code by solving problems : a Python programming primer
+"Teaches readers how to use Python to solve short, situational competitive programming problems. Each chapter requires the reader to learn a new feature or function of Python in order to solve a problem, while emphasizing basic programming concepts, problem-solving strategies, and critical thinking skills"--

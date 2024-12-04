@@ -1,0 +1,2 @@
+Stochastic Processes in Underwater Acoustics
+Identification of causal linear filters and applications in underwater acoustics -- Multiple time delay estimation in underwater acoustic propagation -- Optimal filtering in the presence of multipath -- Level crossing representations, Poisson asymptotics and applications to passive arrays -- Nonlinear data observability and nonGaussian information structures -- Likelihood ratios and signal detection for nonGaussian processes -- Detection and contrast.

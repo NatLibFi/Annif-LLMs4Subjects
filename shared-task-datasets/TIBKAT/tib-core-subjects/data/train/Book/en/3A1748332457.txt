@@ -1,0 +1,2 @@
+Introduction to communication systems simulation
+Here is your one-stop resource on the essentials of communications systems analysis and simulation. Presented in a straight forward, easy-to-understand manner, the book provides a thorough treatment of all the important fundamental topics such as sampling, frequency analysis, linear systems, and filters. You gain a clear understanding of the real-world effects of computer simulation and learn how to perform efficient bit error rate (BER) calculations and baseband simulations

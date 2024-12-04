@@ -1,0 +1,2 @@
+Algebra
+Dieser Universitätsdruck enthält den Stoff einer Algebra-Vorlesung und wendet sich insbesondere an Studierende der Mathematik ab dem dritten Semester. Behandelt werden zunächst Gruppen, Ringe und Körper. In dem daran anschließenden Kapitel werden die Ergebnisse über Körper und Gruppen zusammengeführt zum αHauptsatz der Galoistheorie±. Als Anwendungen ergeben sich Zirkel- und Lineal-Konstruktionen und Aussagen über die Lösbarkeit von algebraischen Gleichungen in einer Unbekannten

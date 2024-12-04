@@ -1,0 +1,2 @@
+Joomla! bible : [design and build a Joomla!-based web site, learn all basic and extended core functions, configure for social networks and e-commerce]
+Joomla! is an open-source content management system (CMS) for web sites. While it is free and relatively easy to use, there are lots of tricks and functionality that may not be intuitive to new users or those switching from other systems. This title is a guide to everything Joomla!

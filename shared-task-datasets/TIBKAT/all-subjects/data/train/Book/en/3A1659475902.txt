@@ -1,0 +1,2 @@
+Advances in cognitive systems
+The book has 17 chapters and deals with the following subjects: cognitive robotics system; adaptive systems; dynamical enactive cognitive architecture; cooperative decision model; virtual humans; neurocomputational cognitive architectures; robotic agents; neural networks; investor behavior; swarm intelligence techniques and distributive cognition

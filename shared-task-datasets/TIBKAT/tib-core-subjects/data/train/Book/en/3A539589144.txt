@@ -1,0 +1,2 @@
+Artificial intelligence for advanced problem solving techniques
+"This book offers scholars and practitioners cutting-edge research on algorithms and techniques such as search, domain independent heuristics, scheduling, constraint satisfaction, optimization, configuration, and planning, and highlights the relationship between the search categories and the various ways a specific application can be modeled and solved using advanced problem solving techniques"--Provided by publisher

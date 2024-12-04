@@ -1,0 +1,2 @@
+Meshfree particle methods
+Introduction.- The Smoothed Particle Hydrodynamics (SPH).- Meshfree Galerkin Methods.- Approximation Theory of Meshfree Interpolants.- Applications.- Reproducing Kernel Element Method (RKEM).- Immersed Meshfree/Finite Element Method and Applications.- Other Meshfree Methods

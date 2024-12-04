@@ -1,0 +1,2 @@
+Proceedings - Fourth IEEE International Conference on Data Mining, 2004, ICDM 2004 : 1 - 4 Nov. 2004, [Brighton, United Kingdom]
+Annotation, This proceedings explores machine learning, automated scientific discovery, statistics, pattern recognition, knowledge acquisition, databases, data warehousing, data visualization, and knowledge-based systems. ICDM 2004 also covers clustering, data streams, text classification, Web mining, and quality assessments

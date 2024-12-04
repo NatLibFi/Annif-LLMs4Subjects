@@ -1,0 +1,2 @@
+Extensions of Moser-Bangert theory : locally minimal solutions
+"With the goal of establishing a version for partial differential equations (PDEs) of the Aubry-Mather theory of monotone twist maps, Moser and then Bangert studied solutions of their model equations that possessed certain minimality and monotonicity properties. This monograph presents extensions of the Moser-Bangert approach that include solutions of a family of nonlinear elliptic PDEs on R[superscript n] and an Allen-Cahn PDE model of phase transitions."--P. [4] of cover

@@ -1,0 +1,2 @@
+Oracle Exalogic elastic cloud handbook : [extreme application performance for a private cloud]
+Architecting the foundation for cloud data centers -- Exalogic hardware architecture -- Exalogic software architecture -- Exalogic solution architecture -- Deploying Exalogic Exalogic administration -- Building private cloud applications -- Packaged applications on Exalogic

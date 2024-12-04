@@ -1,0 +1,2 @@
+OpenOffice.org : Einstieg und Umstieg
+Sie kennen Microsoft Office und wollen umsteigen? Sie möchten Kosten sparen und setzen OpenOffice.org sogar im Unternehmen ein? Dieses Buch behandelt alle wichtigen Module von OpenOffice.org (Textverarbeitung, Kalkulation, Präsentation usw.). Dabei orientiert es sich an den Bedürfnissen von Lesern mit Vorkenntnissen in MS Office. Neben der Beschreibung der wichtigen Funktionen des Programms erfahren Sie, wie ein Umstieg ohne Daten- und Makroverlust reibungslos funktioniert

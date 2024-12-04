@@ -1,0 +1,2 @@
+Global Solutions of Reaction-Diffusion Systems
+Basic notations and definitions -- Corollary of theorem 1 (Uniqueness and maximality) -- Review of standard theorems -- The Gierer-Meinhardt model -- The brusselator -- The FitzHugh-Nagumo system -- Chemical reactions -- A nuclear reactor model -- The Volterra-Lotka model.

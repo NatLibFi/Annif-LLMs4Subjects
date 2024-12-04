@@ -1,0 +1,2 @@
+Web services : international conference ; proceedings
+This book constitutes the refereed proceedings of the International Conference on Web Services, ICWS-Europe 2003, held in Erfurt, Germany in September 2003. The 16 revised full papers included in the book were carefully reviewed and selected fro presentation. The papers are organized in topical sections on constructing and running service-oriented architectures, Web service security, configuration and communication, confluence with agent technology and semantic Web enabled Web services, and current and future issues

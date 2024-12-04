@@ -1,0 +1,3 @@
+Financial Engineering : Certified Financial Engineer
+Financial engineering is one of the most exciting fields in investment banking and large banking institutions. It combines the expertise of several different specialty areas.
+Dieses Buch zeigt einzelne Strategien, Bewertungen, das Risikocontrolling und den Financial-Engineering-Prozess auf und geht dabei explizit auf die verwendeten Derivate sowie die eingesetzten Kombinationsstrategien ein.

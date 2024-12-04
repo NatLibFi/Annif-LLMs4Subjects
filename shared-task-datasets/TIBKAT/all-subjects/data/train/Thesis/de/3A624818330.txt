@@ -1,0 +1,2 @@
+Antriebskonzepte für miniaturisierte Pumpen
+In dieser Arbeit geht es um Antriebskonzepte einer miniaturisierten Pumpe, deren Funktionsprinzip einem Hubkolbenverdränger aus dem klassischen Maschinenbau entspricht, die aber einen deutlich kleineren Volumenstrom erzeugt. Ein erfolgversprechender Entwicklungsansatz besteht darin, aus bekannten Maschinen und Geräten unter Beibehaltung des Funktionsprinzips durch so genanntes Down-Scaling miniaturisierte, mechatronische Produkte abzuleiten. Die Arbeit gliedert sich einschließlich der Einleitung in 6 Kapitel.

@@ -1,0 +1,2 @@
+Singular perturbation methodology in control systems
+The following topics are dealt with: singular perturbation method; time-scale analysis; open loop optimal control; continuous system; discrete systems; closed loop optimal control; and other control theory

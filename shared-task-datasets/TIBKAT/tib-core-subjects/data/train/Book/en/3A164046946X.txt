@@ -1,0 +1,3 @@
+Physics of heavy fermions : heavy fermions and strongly correlated electrons systems
+"Readers can understand the present frontiers of solid state and condensed matter physics, on the basis of fundamental ideas and formulae described in various related methods of measurement, and are encouraged to participate in research concerning single crystal growth and various measurements of characteristic properties"--
+Conduction electrons and Fermi surfaces -- Local magnetic moment -- Single crystal growth and measuring methods -- Itinerant 3D-electrons -- Heavy fermions -- Superconductivity

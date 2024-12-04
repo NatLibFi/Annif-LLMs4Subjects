@@ -1,0 +1,2 @@
+The Logistic Map and the Route to Chaos : From The Beginnings to Modern Applications
+Pierre-Francois Verhulst, with his seminal work using the logistic map to describe population growth and saturation, paved the way for the many applications of this tool in modern mathematics, physics, chemistry, biology, economics and sociology. This volume presents a view of the many ramifications of the developments initiated by Verhulst

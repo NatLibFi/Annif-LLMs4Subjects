@@ -1,0 +1,2 @@
+Feuerwehrwesen : bauliche Anlagen, Einrichtungen, organisatorischer Brandschutz
+Enthält: DIN 55394-1:2000 [Vornorm] ; DIN 55394-2:2000 ; DIN EN ISO 10012:2001 [Manuskript] ; DIN EN ISO 14024:2001

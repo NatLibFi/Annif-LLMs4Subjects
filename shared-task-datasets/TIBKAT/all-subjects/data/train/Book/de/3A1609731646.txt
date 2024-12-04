@@ -1,0 +1,2 @@
+Java : das komplette Starterkit für den erfolgreichen Einstieg in die Programmierung
+Dieses Einsteigerbuch setzt kein Programmiergrundwissen voraus und richtet sich an Schüler, Studenten und Umsteiger von anderen Programmiersprachen, die selbst eigene Anwendungen in Java schreiben wollen. Knapp, präzise und dennoch unterhaltsam vermitteln die Autoren ihr umfangreiches Wissen, und Sie lernen Schritt für Schritt - unterstützt von zahlreichen Übungsaufgaben - das Einmaleins der Java-Programmierung, aktuell zur neuen Version 8

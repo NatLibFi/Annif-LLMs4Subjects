@@ -1,0 +1,2 @@
+Differentiation of Real Functions
+Preliminaries -- Darboux functions -- Darboux functions in the first class of Baire -- Continuity and approximate continuity of derivatives -- The extreme derivates of a function -- Reconstruction of the primitive -- The Zahorski classes -- The problem of characterizing derivatives -- Derivatives a.e. and generalizations -- Transformations via homeomorphisms -- Generalized derivatives -- Monotonicity -- Stationary and determining sets -- Behavior of typical continuous functions -- Miscellaneous topics.

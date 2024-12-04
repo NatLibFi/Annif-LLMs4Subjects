@@ -1,0 +1,2 @@
+The Arithmetic of Fundamental Groups : PIA 2010
+This book acknowledges the varied incarnations of the fundemental group: pro-finite, L-adic, p-adic, pro-algebraic and motivic.  It explores a weaelth of topics that range from anabelian geometry (in particular the section conjecture), the L-adic polylogarithm, gonality questions of mudular curves, vector bundles in connection with monodromy, and relative pro-algebraic completions, to a motivic version of Minhyong Kim's nonabelian Chaubauty method and p-adic integration after Coleman --

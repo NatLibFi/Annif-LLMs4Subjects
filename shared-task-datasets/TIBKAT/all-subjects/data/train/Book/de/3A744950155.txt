@@ -1,0 +1,2 @@
+Wahrscheinlichkeitsrechnung und mathematische Statistik
+Dieses Lehrbuch führt den Anwender der Mathematik, insbesondere Ingenieure und Naturwissenschaftler, in die Wahrscheinlichkeitsrechnung und mathematische Statistik ein. - Inhaltliche Schwerpunkte sind zufällige Ereignisse, Wahrscheinlichkeit, Zufallsgrößen, Stichproben, statistische Schätzverfahren, statistische Prüfverfahren sowie Regressions- und Korrelationsanalyse. Zahlreiche Beispiele sowie Aufgaben mit Lösungen bieten Möglichkeiten zur Kontrolle des erworbenen Wissens

@@ -1,0 +1,2 @@
+Algebraic number theory and Fermat's last theorem
+One of the latest mathematical discoveries was the proof, by Andrew Wiles, of Fermat's last theorum, a 300-year old conjecture that had eluded professional mathematicians as well as serious amateurs. This revised edition introduces all elements necessary for understanding Wiles' proof

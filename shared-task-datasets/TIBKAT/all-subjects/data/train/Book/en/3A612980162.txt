@@ -1,0 +1,2 @@
+Electronic health records
+An introduction to electronic health records -- Standards for electronic health records -- Introduction and setup -- The clinic administration -- The patient's chart -- The office visit -- Clinical tools -- Customizing templates and pop-up text -- Tests, procedures, and diagnosis codes -- Productivity center and utilities -- Applying your knowledge -- Electronic recording

@@ -1,0 +1,2 @@
+Elements of scientific computing : with ... 18 tables
+Computing  integrals -- Differential equations: the first steps -- Systems of ordinary differential equations -- Nonlinear algebraic equations -- Method of least squares -- About scientific software -- Diffusion equation -- Analysis of the diffusion equation -- Parameter estimation and inverse problems -- Glimpse of parallel computing

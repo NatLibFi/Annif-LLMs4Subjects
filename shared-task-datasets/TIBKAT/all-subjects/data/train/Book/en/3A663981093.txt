@@ -1,0 +1,2 @@
+Pseudodifferential analysis, automorphic distributions in the plane and modular forms
+Introduction -- The Weyl calculus -- The Radon transformation and applications -- Automorphic functions and automorphic distributions -- A class of Poincarâe series -- Spectral decomposition of the Poincarâe summation process -- The totally radial Weyl calculus and arithmetic -- Should one generalize the Weyl calculus to an adelic setting? -- Index of notation -- Subject Index -- Bibliography

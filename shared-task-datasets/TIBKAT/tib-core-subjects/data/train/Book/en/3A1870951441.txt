@@ -1,0 +1,2 @@
+Integrated motor drives
+Optimisation of electric drives for machines and EV requires considering the components as a whole. Integrated systems can be smaller, have greater flexibility, lower cost and higher power density. This book presents recent research and trends in integrated electrical motor drive technology

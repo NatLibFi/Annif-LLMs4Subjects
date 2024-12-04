@@ -1,0 +1,2 @@
+The rock physics handbook
+Basic tools -- Elasticity and Hooke's law -- Seismic wave propagation -- Effective elastic media: bounds and mixing laws -- Granular media -- Fluid effects on wave propagation -- Empirical relations -- Flow and diffusion -- Electrical properties -- Appendices.

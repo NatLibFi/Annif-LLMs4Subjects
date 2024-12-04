@@ -1,0 +1,2 @@
+Practical methods for optimal control using nonlinear programming
+"The third edition focuses on the direct transcription method for optimal control and includes new material on implicit Runge-Kutta discretization techniques, new chapters on partial differential equations and delay equations, and over seventy test problems and open source FORTRAN code for all of the problems"--

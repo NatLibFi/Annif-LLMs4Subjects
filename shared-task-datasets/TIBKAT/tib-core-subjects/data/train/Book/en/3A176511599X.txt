@@ -1,0 +1,2 @@
+The standard model and beyond
+chapter 1 Notation and Conventions -- chapter 2 Review of Perturbative Field Theory -- chapter 3 Lie Groups, Lie Algebras, and Symmetries -- chapter 4 Gauge Theories -- chapter 5 The Strong Interactions and QCD -- chapter 6 Collider Physics -- chapter 7 The Weak Interactions -- chapter 8 The Standard Electroweak Theory -- chapter 9 Neutrino Mass and Mixing -- chapter 10 Beyond the Standard Model.

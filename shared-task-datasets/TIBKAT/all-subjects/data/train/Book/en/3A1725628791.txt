@@ -1,0 +1,2 @@
+Introduction to quantum algorithms via linear algebra
+"This text introduces undergraduates to quantum computation in terms of elementary linear algebra by emphasizing computation and algorithms rather than physics"--

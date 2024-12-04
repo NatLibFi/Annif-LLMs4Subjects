@@ -1,0 +1,2 @@
+Homotopy Equivalences of 3-Manifolds with Boundaries
+General theory -- Essential singular surfaces in some special 3-manifolds -- Characteristic submanifolds -- Singular surfaces and characteristic submanifolds -- Singular submanifolds and characteristic submanifolds -- Invariance of the characteristic submanifolds under homotopy equivalences -- Simple 3-manifolds -- Attaching homotopy equivalences -- Dehn twists of 3-manifolds -- Dehn flips of 3-manifolds -- Homotopy equivalences of surfaces and I-bundles -- Geometric properties of 3-manifold groups.

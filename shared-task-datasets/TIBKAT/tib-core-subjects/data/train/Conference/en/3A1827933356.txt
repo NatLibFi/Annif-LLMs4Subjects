@@ -1,0 +1,2 @@
+Cyber Security : 19th China Annual Conference, CNCERT 2022, Beijing, China, August 16-17, 2022, revised selected papers
+This open access book constitutes the refereed proceedings of the 18th China Annual Conference on Cyber Security, CNCERT 2022, held in Beijing, China, in August 2022.The 17 papers presented were carefully reviewed and selected from 64 submissions. The papers are organized according to the following topical sections: data security; anomaly detection; cryptocurrency; information security; vulnerabilities; mobile internet; threat intelligence; text recognition

@@ -1,0 +1,2 @@
+Designing user interfaces with a data science approach
+"This book provides chapters that demonstrate an understanding of human-computer interface guidelines, principles and theories combined with data science techniques investigating user-centered designs of applications across domains while analyzing user data with a data science approach for effective and user-friendly user interfaces"--

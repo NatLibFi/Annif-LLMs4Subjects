@@ -1,0 +1,2 @@
+Sensors for mechatronics
+1. Introduction -- 2. Sensor Fundamentals -- 3. Uncertainty Aspects -- 4. Resistive Sensors -- 5. Capacitive Sensors -- 6. Inductive and Magnetic Sensors -- 7. Optical Sensors -- 8. Piezoelectric Sensors -- 9. Acoustic Sensors

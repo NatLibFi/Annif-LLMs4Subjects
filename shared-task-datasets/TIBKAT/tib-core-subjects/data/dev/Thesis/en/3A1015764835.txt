@@ -1,0 +1,2 @@
+Gestaltung und Analyse elektromagnetischer Kippaktoren
+Elektromagnetische Kippaktoren, gekoppeltes Berechnungsmodell, 3D Finite Elemente Methode. - Electromagnetic tilting actuator, hybrid analysis, 3D finite element analysis

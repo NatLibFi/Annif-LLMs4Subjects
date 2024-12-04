@@ -1,0 +1,2 @@
+Financial engineering : Strategien, Bewertungen und Risikomanagement
+Dieses Buch zeigt einzelne Strategien, Bewertungen, das Risikocontrolling und den Financial-Engineering-Prozess auf und geht dabei explizit auf die verwendeten Derivate sowie die eingesetzten Kombinationsstrategien ein. Erweitert wurde die Vorauflage um Themen wie vertiefte Bewertung und Risikoeinschätzung von exotischen Optionen, neue Referenzzinssätze, künstliche Intelligenz im Financial Engineering und unvollkommene Finanzmärkte.

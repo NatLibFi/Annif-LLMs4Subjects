@@ -1,0 +1,2 @@
+Research developments in biometrics and video processing techniques
+"This book investigates advanced techniques in user identification and security, including retinal, facial, and finger print scans as well as signature and voice authentication models"--

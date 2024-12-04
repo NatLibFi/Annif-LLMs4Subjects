@@ -1,0 +1,2 @@
+WPF recipes in C# 2008 : a problem-solution approach
+Looks at the features and functions of Windows Presentation Foundation, covering such topics as using standard control, data binding, working with styles, multithreading, working with 2D and 3D graphics, and creating animation

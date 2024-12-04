@@ -1,0 +1,2 @@
+Entwicklung und Erprobung eines digitalen Zenitkamerasystems für die hochpräzise Lotabweichungsbestimmung
+Digital zenith camera system, CCD, digital image processing, astrometry, tilt measurement, plumb line, vertical deflection, astrogeodetic geoid determination

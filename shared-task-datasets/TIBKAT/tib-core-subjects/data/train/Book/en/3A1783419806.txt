@@ -1,0 +1,2 @@
+Mastering C# : a beginner's guide
+"Learning a new programming language might seem like a challenging task. You may have looked at coding in the past, and felt it was too confusing and big to tackle. Our Mastering C# Beginner's Guide will take you, step by step, through the process of learning one of the best programming languages out there"--

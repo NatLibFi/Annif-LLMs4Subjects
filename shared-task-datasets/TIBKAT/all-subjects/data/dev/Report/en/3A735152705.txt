@@ -1,0 +1,2 @@
+Introduction to wind turbine aerodynamics
+Wind-Turbine Aerodynamics is a self-contained textbook which shows how to come from the basics of fluid mechanics to modern wind turbine blade design. It presents a fundamentals of fluid dynamics and inflow conditions, and gives a extensive introduction into theories describing the aerodynamics of wind turbines. After introducing experiments the book applies the knowledge to explore the impact on blade design.The book is an introduction for professionals and students of very varying levels.

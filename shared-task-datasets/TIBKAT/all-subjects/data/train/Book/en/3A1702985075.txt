@@ -1,0 +1,2 @@
+PETSc for partial differential equations : numerical solutions in C and Python
+"PETSc for Partial Differential Equations is the first textbook to cover PETSc programming for nonlinear PDEs"--

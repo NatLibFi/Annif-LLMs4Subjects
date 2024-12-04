@@ -1,0 +1,2 @@
+Getting started with Web Dynpro ABAP : [provides information about architecture, basic principles, and real-life solutions; explains UI elements, standard components, functions, development tools, and much more; contains numerous exercises for developing reuseable applications]
+Web Dynpro architecture -- Developing Web Dynpro applications -- Dynamic Web Dynpro applications -- Web Dynpro standard components -- Input help and semantic help -- Configuration, customizing, and personalization -- Practical tips and hints -- Web Dynpro in the enhancement framework

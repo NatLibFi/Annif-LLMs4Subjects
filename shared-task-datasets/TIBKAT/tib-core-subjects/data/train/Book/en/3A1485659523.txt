@@ -1,0 +1,2 @@
+Making the Case for SAP HANA
+Big data : more than just performance -- SAP HANA : capabilities and limitations -- SAP HANA in specific industries and business processes -- Flexible planning -- Detecting fraud automatically

@@ -1,0 +1,2 @@
+Algebroid Curves in Positive Characteristic
+Parametrizations of algebroid curves -- Hamburger-noether expansions of algebroid curves -- Characteristic exponents of plane algebroid curves -- Other systems of invariants for the equisingularity of plane algebroid curves -- Twisted algebroid curves.

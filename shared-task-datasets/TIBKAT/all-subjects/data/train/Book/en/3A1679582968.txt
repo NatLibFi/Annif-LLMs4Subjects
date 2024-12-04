@@ -1,0 +1,3 @@
+Smart grid - communication-enabled intelligence for the electric power grid
+Electric power systems: the main component -- Communication and networking: the enabler -- Embedded and distributed intelligence for a smart grid: the ultimate goal.
+"This book explores the smart grid from generation to consumption; both as it is planned today and how it will likely evolve tomorrow"--

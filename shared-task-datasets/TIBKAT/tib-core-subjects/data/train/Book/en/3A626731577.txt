@@ -1,0 +1,2 @@
+Web GIS : principles and applications
+This book offers a balance of principles, concepts, and techniques to guide readers toward an understanding of how the World Wide Web can expand and modernize the way you use GIS technology.--[book cover]

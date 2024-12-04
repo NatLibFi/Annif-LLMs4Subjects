@@ -1,0 +1,2 @@
+A student's guide to Fourier transforms : with applications in physics and engineering
+Physics and Fourier transforms -- Useful properties and theorems -- Applications 1: Fraunhofer diffraction -- Applications 2: signal analysis and communication theory -- Applications 3: spectroscopy and spectral line shapes -- Two-dimensional Fourier transforms -- Multi-dimensional Fourier transforms -- The formal complex Fourier transform

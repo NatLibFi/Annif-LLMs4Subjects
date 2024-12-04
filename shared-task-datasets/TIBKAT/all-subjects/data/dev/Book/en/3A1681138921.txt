@@ -1,0 +1,2 @@
+Fuzzy linear programming : solution techniques and applications
+Preliminaries and Backgrounds -- Fuzzy Linear Programming -- Fuzzy Number Linear Programming -- Linear Programming with Fuzzy Variables -- Semi-Fully Fuzzy Linear Programming -- Application for the Flexible Linear Programming.

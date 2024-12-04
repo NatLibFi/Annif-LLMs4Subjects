@@ -1,0 +1,2 @@
+Resource service management in manufacturing grid system
+"The aim of this book is to make advanced computing technologies (service computing, grid computing, cloud computing) to be fully used in manufacturing so as to enhance the utilization and sharing of manufacturing resources, and to speed up the transformation from production-oriented manufacturing to service-oriented manufacturing"--

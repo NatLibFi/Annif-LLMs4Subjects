@@ -1,0 +1,2 @@
+Synchronization and sequencing of data acquisition and control electronics at the European X-ray free electron laser
+The European XFEL will generate repetitive bursts of short x-ray laser pulses to several experiment stations, which will allow in-depth research in various scientific fields. In order to accurately synchronize and sequence all control and data acquisition electronics a time reference system is required. This work provides a complete description of the planning, design, realization and evaluation of the European XFEL Timing System.

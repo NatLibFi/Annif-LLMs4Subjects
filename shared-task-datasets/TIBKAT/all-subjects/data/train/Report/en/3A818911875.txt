@@ -1,0 +1,2 @@
+Handbook of research on swarm intelligence in engineering
+"This book presents the latest research being conducted on diverse topics in intelligence technologies such as Swarm Intelligence, Machine Intelligence, Optical Engineering, and Signal Processing with the goal of advancing knowledge and applications in this rapidly evolving field"--

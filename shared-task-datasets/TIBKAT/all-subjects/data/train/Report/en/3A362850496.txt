@@ -1,0 +1,2 @@
+Navigationsunterstützung durch integrierte Kommunikation - (Navigation Support by Integrated Communication) : NACOM ; Schlussbericht ; Berichtszeitraum: 01.06.1999 - 30.06.2002
+Self organised co-ordination systems, AIS, ECIDOS, de-central architecture, master-slave-structure, satellite based communication system, navigation

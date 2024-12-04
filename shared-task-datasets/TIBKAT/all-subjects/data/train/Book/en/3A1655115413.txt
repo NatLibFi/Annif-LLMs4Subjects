@@ -1,0 +1,2 @@
+Potential Theory
+Electrostatics -- Poisson's equation -- Fundamental solutions -- Capacity -- Energy -- Existence of the equilibrium distribution -- Maximum principle for potentials -- Uniqueness of the equilibrium distribution -- The cone condition -- Singularities of bounded harmonic functions -- Green's function -- The kelvin transform -- Perron's method -- Barriers -- Kellogg's theorem -- The riesz decomposition theorem -- Applications of the riesz decomposition -- Wiener's criterion.

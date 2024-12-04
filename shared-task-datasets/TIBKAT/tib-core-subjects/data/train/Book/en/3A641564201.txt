@@ -1,0 +1,2 @@
+Professional Scrum with Team Foundation Server 2010
+Provides information on using Visual Studio Team Foundation Server to execute a Scrum project, covering such topics as software project management, the tracking and reporting functions of TFS, using Scrum artifacts, creating product backlog items, and running a release

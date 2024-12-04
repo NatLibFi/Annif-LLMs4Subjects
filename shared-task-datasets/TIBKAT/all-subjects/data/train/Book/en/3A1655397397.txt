@@ -1,0 +1,2 @@
+Diophantine Geometry : An Introduction
+This is an introduction to diophantine geometry at the advanced graduate level. The book contains a proof of the Mordell conjecture which will make it quite attractive to graduate students and professional mathematicians. In each part of the book, the reader will find numerous exercises

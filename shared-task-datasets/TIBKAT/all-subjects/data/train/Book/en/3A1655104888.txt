@@ -1,0 +1,2 @@
+Infinite Dimensional Lie Transformations Groups
+General theory of strong ILB-Lie groups and subgroups -- Groups of diffeomorphisms -- Basic theorems I -- Vector bundle over strong ILB-Lie groups -- Review of the smooth extension theorem and a remark on elliptic operators -- Basic theorems II (Frobenius theorem) -- Frobenius theorem on strong ILB-Lie groups -- Miscellaneous examples -- Primitive transformation groups -- Lie algebras of vector fields -- Linear groups and groups of diffeomorphisms.

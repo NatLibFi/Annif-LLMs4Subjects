@@ -1,0 +1,2 @@
+Ontology-based applications for enterprise systems and knowledge management
+"This book provides an opportunity for readers to clearly understand the notion of ontology engineering and the practical aspects of this approach in the domains of two interest areas: Knowledge Management Systems and Enterprise Systems"--

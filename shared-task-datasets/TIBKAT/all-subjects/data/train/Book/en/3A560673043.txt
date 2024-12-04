@@ -1,0 +1,2 @@
+Multimedia forensics and security
+"This book provides an in-depth treatment of advancements in the emerging field of multimedia forensics and security by tackling challenging issues such as digital watermarking for copyright protection, digital fingerprinting for transaction tracking, and digital camera source identification"--Provided by publisher

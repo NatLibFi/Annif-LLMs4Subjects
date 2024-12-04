@@ -1,0 +1,2 @@
+Thoughtful machine learning with Python : a test-driven approach
+Probably approximately correct software -- A quick introduction to machine learning -- K-nearest neighbors -- Naive Bayesian classification -- Decision trees and random forests -- Hidden Markov models -- Support vector machines -- Neural networks -- Clustering -- Improving models and data extraction -- Putting it together: conclusion

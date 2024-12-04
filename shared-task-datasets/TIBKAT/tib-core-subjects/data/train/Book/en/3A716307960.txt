@@ -1,0 +1,2 @@
+Applications and developments in grid, cloud, and high performance computing
+"This book provides insight into the current trends and emerging issues by investigating grid and cloud evolution, workflow management, and the impact new computing systems have on the education fields as well as the industries"--

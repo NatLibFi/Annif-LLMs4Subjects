@@ -1,0 +1,2 @@
+Personalized information retrieval and access : concepts, methods, and practices
+"This book surveys the main concepts, methods, and practices of personalized information retrieval and access in today's data intensive, dynamic, and distributed environment, and provides students, researchers, and practitioners with authoritative coverage of recent technological advances that are shaping the future of globally distributed information retrieval and anywhere, anytime information access"--Provided by publisher

@@ -1,0 +1,2 @@
+Schwarzer Rumpf - Realisierung von CFK-Rumpfkomponenten unter Einbeziehung des Concurrent Engineering : Schlussbericht ; HGF-Verbundprojekt: 99/19 ; Laufzeit: 01.07.1999 - 30.06.2002
+Composite, CFRP, aircraft construction, fuselage, concurrent engineering, impact and residual strength, 3D thermal analysis, 3D-stress analysis, buckling, post-buckling, fire safety, crash worthiness, high velocity impact, manufacturing technology, joining technology, design concepts, manufacturing costs

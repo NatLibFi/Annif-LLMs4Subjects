@@ -1,0 +1,2 @@
+Symbolic mathematics for chemists : a guide for Maxima users
+Fundamentals -- Storing and transforming data -- Plotting data and functions -- Programming Maxima -- Algebra -- Differentiation, integration, and minimization -- Matrices and vectors -- Error analysis -- Fitting data to a straight line -- Fitting data to a curve -- Differential equations -- Operators and integral transforms

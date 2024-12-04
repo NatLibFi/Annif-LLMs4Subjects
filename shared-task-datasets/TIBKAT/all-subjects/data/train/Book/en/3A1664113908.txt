@@ -1,0 +1,2 @@
+Computational methods for fracture in porous media : isogeometric and extended finite element methods
+Fractured or fracturing, fully or partially saturated porous media -- Fracture mechanics -- Interface elements -- The extended finite element method -- Fracture modeling using isogeometric analysis -- Phase-field methods for fracture.

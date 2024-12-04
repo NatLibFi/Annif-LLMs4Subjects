@@ -1,0 +1,3 @@
+HTML5 Canvas for dummies : [learn to: create, enhance, and animate objects ; work with color, texture, and multimedia elements ; develop engaging imagery and motion]
+Art meets technology with HTML5 Canvas-- and this guide helps you discover everything you can do with it! Go step-by-step through the mechanics of Canvas so you can set up the platform, draw and animate objects, create lifelike motion, and more!
+Introduction -- Looking at Canvas -- Drawing on Canvas -- Breaking life into your Canvas -- Developing more complex applications -- The part of tens

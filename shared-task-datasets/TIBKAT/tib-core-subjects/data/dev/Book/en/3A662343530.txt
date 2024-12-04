@@ -1,0 +1,2 @@
+CMS security handbook : the comprehensive guide for WordPress, Joomla, Drupal, and Plone
+Provides information on maintaining security for websites built on open source Content Management Systems

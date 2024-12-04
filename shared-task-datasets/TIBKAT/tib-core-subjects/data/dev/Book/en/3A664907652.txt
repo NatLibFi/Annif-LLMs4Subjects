@@ -1,0 +1,2 @@
+Formal and practical aspects of autonomic computing and networking : specification, development, and verification
+"This book outlines the characteristics, novel approaches of specification, refinement, programming and verification associated with automated computing and networking"--Provided by publisher

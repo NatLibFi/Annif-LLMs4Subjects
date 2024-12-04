@@ -1,0 +1,2 @@
+Ubiquitous security : Second International Conference, UbiSec 2022, Zhangjiajie, China, December 28-31, 2022, revised selected papers
+This book constitutes the refereed proceedings of the Second International Conference, UbiSec 2022, held in Zhangjiajie, China, during December 28-31, 2022.The 34 full papers and 4 short papers included in this book were carefully reviewed and selected from 98 submissions. They were organized in topical sections as follows: cyberspace security, cyberspace privacy, cyberspace anonymity and short papers

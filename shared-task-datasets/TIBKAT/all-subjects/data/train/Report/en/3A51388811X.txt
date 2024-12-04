@@ -1,0 +1,2 @@
+Multiscale modeling and simulation of composite materials and structures
+Presenting the state of the art in multiscale modelling and simulation techniques for composite materials and structures, this book focuses on the structural and functional properties of engineering composites and the sustainable high performance of components and structures

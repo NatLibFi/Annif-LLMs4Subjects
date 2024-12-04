@@ -1,0 +1,2 @@
+E-healthcare systems and wireless communications : current and future challenges
+"This book explores the developments and challenges associated with the successful deployment of e-healthcare systems, including pervasive wireless communications, wearable computing, context-awareness, sensor data fusion, artificial intelligence, neural networks, expert systems, databases, and security"--Provided by publisher

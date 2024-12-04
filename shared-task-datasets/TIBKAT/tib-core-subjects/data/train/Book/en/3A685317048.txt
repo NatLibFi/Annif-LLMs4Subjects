@@ -1,0 +1,2 @@
+Animation with scripting for Adobe Flash Professional CS5 : studio techniques
+Shows how to create and animate characters in Adobe Flash Professional CS5 and produce visual effects using ActionScript

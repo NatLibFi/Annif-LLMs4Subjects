@@ -1,0 +1,2 @@
+MongoDB: the definitive guide ; [powerful and scalable data storage]
+This introductory text shows the advantages of using document-oriented databases and demonstrates how MongoDB is a reliable, high-performance system that allows for horizontal scalability. This updated second edition provides guidance for database developers, advanced configuration for system administrators, and an overview of the concepts and use cases for other people on a project

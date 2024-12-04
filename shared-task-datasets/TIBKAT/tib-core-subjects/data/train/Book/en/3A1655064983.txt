@@ -1,0 +1,2 @@
+Conformal Geometry of Surfaces in S4 and Quaternions
+The conformal geometry of surfaces recently developed by the authors leads to a unified understanding of algebraic curve theory and the geometry of surfaces on the basis of a quaternionic-valued function theory. The book offers an elementary introduction to the subject but takes the reader to rather advanced topics. Willmore surfaces in the foursphere, their Bäcklund and Darboux transforms are covered, and a new proof of the classification of Willmore spheres is given

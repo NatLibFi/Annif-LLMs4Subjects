@@ -1,0 +1,2 @@
+Inverse imaging with poisson data : from cells to galaxies
+Inverse Imaging with Poisson Data is an invaluable resource for graduate students, postdocs and researchers interested in the application of inverse problems to the domains of applied sciences, such as microscopy, medical imaging and astronomy. The purpose of the book is to provide a comprehensive account of the theoretical results, methods and algorithms related to the problem of image reconstruction from Poisson data within the framework of the maximum likelihood approach introduced by Shepp and Vardi.

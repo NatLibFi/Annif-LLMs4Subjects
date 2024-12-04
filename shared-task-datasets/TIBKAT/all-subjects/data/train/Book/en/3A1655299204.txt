@@ -1,0 +1,2 @@
+Characterization of Distributions by the Method of Intensively Monotone Operators
+Intensively monotone operators and their properties -- Characterization problems associated with properties of linear statistics -- Characterization problems associated with non-linear statistics and problems of reconstruction of distributions -- On some problems of characterization of distributions associated with mathematical theory of reliability -- Characterizations of multivariate distributions.

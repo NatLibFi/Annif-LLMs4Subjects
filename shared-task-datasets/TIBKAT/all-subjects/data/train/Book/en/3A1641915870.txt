@@ -1,0 +1,2 @@
+Chemotaxis, reaction, network : mathematics for self-organization
+"This monograph is devoted to recent mathematical theories on the bottom up self-organization observed in closed and isolated thermo-dynamical systems."--

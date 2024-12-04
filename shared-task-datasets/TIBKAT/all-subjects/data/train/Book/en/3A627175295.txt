@@ -1,0 +1,2 @@
+Static & dynamic analysis of structures : a physical approach with emphasis on earthquake engineering
+"Summarizes the theoretical development of the finite elements and numerical methods used in the latest versions of the SAP and ETABS programs. Although only a minimum mathematical and programming background is required to completely understand the book, a thorough understanding of the physical behavior of real structures is essential"--Provided by publisher

@@ -1,0 +1,2 @@
+Čech and Steenrod Homotopy Theories with Applications to Geometric Topology
+Background -- The model structure on pro-spaces -- The homotopy inverse limit and its applications to homological algebra -- The algebraic topology of pro-C -- Proper homotopy theory -- Group actions on infinite dimensional manifolds -- Steenrod homotopy theory -- Some open questions.

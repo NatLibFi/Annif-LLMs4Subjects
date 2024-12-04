@@ -1,0 +1,2 @@
+Linear Stochastic Systems with Constant Coefficients : A Statistical Approach
+Case studies, problems and their statistical investigation -- Elementary Gaussian processes -- The maximum likelihood estimators and their distributions in the one dimensional case -- The multi-dimensional processes.

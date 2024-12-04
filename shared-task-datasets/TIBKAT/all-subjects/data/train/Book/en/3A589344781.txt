@@ -1,0 +1,2 @@
+Scientific data mining : a practical perspective
+Chandrika Kamath describes how techniques from the multi-disciplinary field of data mining can be used to address the modern problem of data overload in science and engineering domains. Starting with a survey of analysis problems in different applications, it identifies the common themes across these domains

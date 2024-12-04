@@ -1,0 +1,2 @@
+Handbuch PLS-Pfadmodellierung : Methode, Anwendung, Praxisbeispiele
+In der empirischen Wirtschafts- und Sozialforschung werden Strukturgleichungsmodelle mit latenten Variablen immer bedeutender. Ein wichtiges Verfahren ist die PLS-(Partial-Least-Squares-) Pfadmodellierung. Die erste Einführung in deutscher Sprache ist zugleich als Nachschlagewerk gut geeignet. Strukturgleichungsmodell mit latenten Variablen Mit neuesten Anwendungen aus Forschung und Praxis

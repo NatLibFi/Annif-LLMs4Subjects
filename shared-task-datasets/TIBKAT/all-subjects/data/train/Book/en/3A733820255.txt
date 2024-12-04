@@ -1,0 +1,2 @@
+Nonlinear science : an interactive Mathematica notebook
+"This interactive Mathematica notebook provides a ready-made tool by which users can undertake their own mathematical experiments and explore the behavior of nonlinear systems, from chaos in low-dimensional maps and coupled ordinary differential equations to solitons and coherent structures in nonlinear partial differential equations and 'intrinsic localized modes' and 'discrete breathers' in extended lattice systems."

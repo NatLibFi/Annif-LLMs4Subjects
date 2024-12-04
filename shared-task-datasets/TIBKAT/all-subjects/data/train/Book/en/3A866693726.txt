@@ -1,0 +1,2 @@
+Finite element modeling of exotic options
+The Finite Element Method is a well-studied and well-understood method of solving partial differential equations. It's applicability to financial models formulated as PDEs is demonstrated. It's advantage concerning the computation of accurate "Greeks" is delineated. This is demonstrated with various exotic options.

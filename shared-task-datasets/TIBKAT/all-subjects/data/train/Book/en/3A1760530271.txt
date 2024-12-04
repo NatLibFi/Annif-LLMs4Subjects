@@ -1,0 +1,3 @@
+Machine learning for cloud management
+Time series models -- Error preventive time series models -- Metaheuristic optimization algorithms -- Evolutionary neural networks -- Self directed learning -- Ensemble learning -- Load balancing.
+"Machine Learning for Cloud Management explores cloud resource management through predictive modelling and virtual machine placement. The predictive approaches are developed using regression-based time series analysis and neural network models. The neural network-based models are primarily trained using evolutionary algorithms, and efficient virtual machine placement schemes are developed using multi-objective genetic algorithms. The book is ideal for researchers who are working in the domain of cloud computing"--

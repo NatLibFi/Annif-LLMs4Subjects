@@ -1,0 +1,2 @@
+Grundkurs der Regelungstechnik : Einführung in die praktischen und theoretischen Methoden
+Bewährtes, mit Übungsbeispielen versehenes Grundlagenwerk über Methoden der Regelungstechnik für Ingenieure in Studium und Praxis. Wurde gegenüber der 13. Auflage (noch unter dem Begründer L. Merz: ID 48/96) durchgehend überarbeitet und besonders im Bereich der Software zur Lösung regelungstechnischer Probleme aktualisiert, ausserdem durch neue Anwendungsbeispiele ergänzt. Ein Austausch der Ausgaben ist sinnvoll. (3)

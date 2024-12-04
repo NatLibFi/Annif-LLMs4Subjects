@@ -1,0 +1,2 @@
+Stochastic interest rate modeling with fixed income derivative pricing
+"It is a fairly complete introduction accessible to advanced undergraduates; Also covers more advanced aspects of interest rate modeling; Includes many graphs and code illustrating the modeling of interest rates; Each chapter is accompanied with exercises and their complete solutions."

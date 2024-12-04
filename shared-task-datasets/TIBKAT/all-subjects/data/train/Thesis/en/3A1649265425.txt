@@ -1,0 +1,2 @@
+Software Frameworks and Embedded Control Systems
+Although framework technology has proven its worth as a software reuse technique in many domains, there have been reservations regarding its application in embedded systems, mostly due to limited CPU and memory resources. Recent hardware advances, however, have changed this picture. This book shows how object-oriented software frameworks can be applied to embedded control systems. A case study of a framework using a set of application dependent design patterns for the orbit control system of satellites is presented

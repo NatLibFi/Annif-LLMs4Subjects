@@ -1,0 +1,2 @@
+Concepts, ontologies, and knowledge representation
+Recording knowledge in a common framework that would make it possible to seamlessly share global knowledge remains an important challenge for researchers. This brief examines several ideas about the representation of knowledge addressing this challenge. A widespread general agreement is followed that states uniform knowledge representation should be achievable by using ontologies populated with concepts.

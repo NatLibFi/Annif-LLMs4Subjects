@@ -1,0 +1,2 @@
+Pro ASP.NET extensibility : [explore how to break through ASP.NET's boundaries and extend, customize, and enhance the platform]
+A guide to the features and functions of ASP.NET 3.5, covering such topics as modules and handlers, providers, configuration, page and session management, security, site management, and control extensibility

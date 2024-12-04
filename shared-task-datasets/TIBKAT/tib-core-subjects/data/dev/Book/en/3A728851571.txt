@@ -1,0 +1,2 @@
+Pro multithreading and memory management for iOS and OS X : [with ARC, Grand Central Dispatch and Blocks ; gain insight into Xcode's memory and thread management]
+If you want to develop efficient, smooth-running applications, controlling concurrency and memory are vital. Automatic Reference Counting is Apple's game-changing memory management system, new to Xcode 4.2. Pro Multithreading and Memory Management for iOS and OS X shows you how ARC works and how best to incorporate it into your applications

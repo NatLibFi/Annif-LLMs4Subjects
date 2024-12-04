@@ -1,0 +1,2 @@
+Analytically Uniform Spaces and their Applications to Convolution Equations
+Definition and basic properties of analytically uniform spaces -- Examples of AU-spaces -- Spaces of approximate solutions to certain convolution equations -- The fundamental principle.

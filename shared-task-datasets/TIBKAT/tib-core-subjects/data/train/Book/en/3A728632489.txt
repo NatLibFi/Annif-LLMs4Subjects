@@ -1,0 +1,2 @@
+Advanced vibrations : a modern approach
+'Advanced Vibrations: A Modern Approach' is presented at a theoretical-practical level and explains mechanical vibrations concepts in detail, concentrating on their practical use. Related theorems and formal proofs are provided, as are real-life applications. Students, researchers and practicing engineers alike will appreciate the user-friendly presentation of a wealth of topics including but not limited to practical optimization for designing vibration isolators, and transient, harmonic and random excitations.

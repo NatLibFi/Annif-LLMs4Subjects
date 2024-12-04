@@ -1,0 +1,2 @@
+Artificial intelligence and causal inference
+Deep neural networks -- Gaussian processes and learning dynamic for wide neural networks -- Deep generative models -- Generative adversarial networks -- Deep learning for causal inference -- Causal inference in time series -- Deep learning for counterfactual inference and treatment effect estimation -- Reinforcement learning and causal inference.

@@ -1,0 +1,2 @@
+Methodologies and applications for chemoinformatics and chemical engineering
+"This book brings together innovative research, new concepts, and novel developments in the application of informatics tools for applied chemistry and computer science"--

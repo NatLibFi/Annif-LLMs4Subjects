@@ -1,0 +1,2 @@
+Berichtswesen im SAP®-Controlling
+Grundlagen der Berichtskonzeption im SAP-Controlling - Entwicklung eines internen Berichtswesens in SAP ERP CO - Varianten zur Selektion von Bewegungsdaten - Export von Berichten nach Excel

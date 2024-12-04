@@ -1,0 +1,2 @@
+Basic and advanced Bayesian structural equation modeling : with applications in the medical and behavioral sciences
+"This book introduces the Bayesian approach to SEMs, including the selection of prior distributions and data augmentation, and offers an overview of the subject's recent advances"--

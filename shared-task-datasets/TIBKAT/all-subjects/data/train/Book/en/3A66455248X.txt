@@ -1,0 +1,2 @@
+Singular Perturbation Theory
+This book is a rigorous presentation of the method of matched asymptotic expansions, the primary tool for attacking singular perturbation problems.   A knowledge of conventional asymptotic analysis is assumed. The first chapter introduces the theory and is followed by four chapters of applications to ordinary differential equation problems of  increasing complexity.  Exercises are included as well as several Maple programs for computing the terms of the various asymptotic expansions that arise in solving the problems.

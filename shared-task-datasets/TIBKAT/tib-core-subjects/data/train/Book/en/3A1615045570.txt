@@ -1,0 +1,2 @@
+ABAP® to the future : [discover the latest and greatest features in the ABAP universe ; explore the new worlds of SAP HANA, BRFplus, BOPF, and more ; propel your code and your career into the future]
+ABAP in Eclipse -- New language features in ABAP 7.40 -- ABAP unit and test driven development -- ABAP test cockpit -- Debugger scripting

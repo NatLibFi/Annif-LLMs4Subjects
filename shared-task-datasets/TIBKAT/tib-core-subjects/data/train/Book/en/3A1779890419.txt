@@ -1,0 +1,2 @@
+Practical security for agile and DevOps
+"This text offers college students in Information Security Programs an accessible and practical guide on securing software development practices, regardless of which development methodology is used. It is written with a contemporary view on securing all types of software development practices or methodologies"--

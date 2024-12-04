@@ -1,0 +1,2 @@
+Continuous integration in .NET
+Provides information on the best practices of continuous integration using Microsoft .NET, covering such topics as testing and building automation, analyzing the code, and generating documentation

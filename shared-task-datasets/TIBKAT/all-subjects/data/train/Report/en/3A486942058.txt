@@ -1,0 +1,2 @@
+Projekt Netzwerk DIRECT : Durchgängige Intermodale Reiseplanung mit Echtzeitinformationen ; Schlussbericht der DaimlerChrysler AG ; Beitrag des Zuwendungsempfängers zu den Handlungsfeldern: 1 Bestandsaufnahme, 2 Systemarchitektur und Schnittstellen, 3 Demonstrationsnetzwerk, 5 Projektkoordination ; Laufzeit: 1.07.2001 - 30.06.2004
+Netzwerk DIRECT, mobility services, means of transport, intermodal, multimodal, trip planning, route planning, public transport schedule

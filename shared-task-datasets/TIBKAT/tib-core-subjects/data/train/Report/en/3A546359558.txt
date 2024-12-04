@@ -1,0 +1,2 @@
+The probabilistic method
+The probabalistic method, allows us to prove the existence of combinatorial structure with certain properties by constructing an appropriate probability space and showing that a chosen element has the desired properties with positive probability

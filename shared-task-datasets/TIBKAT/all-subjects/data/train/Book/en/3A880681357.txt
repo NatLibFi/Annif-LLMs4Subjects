@@ -1,0 +1,2 @@
+From photon to neuron : light, imaging, vision
+What is light? -- Photons and life -- Color vision -- How photons know where to go -- Optical phenomena and life -- Direct image formation -- Imaging as inference -- Imaging by X-ray diffraction -- Vision in dim light -- The mechanism of visual transduction -- The first synapse and beyond -- Electrons, photons, and the Feynman principle -- Field quantization, polarization, and the orientation of a single molecule -- Quantum-mechanical theory of FRET

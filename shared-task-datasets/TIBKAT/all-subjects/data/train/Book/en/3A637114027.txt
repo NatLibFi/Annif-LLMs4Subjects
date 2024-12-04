@@ -1,0 +1,2 @@
+Pervasive computing and communications design and deployment : technologies, trends and applications
+"This book covers design principles and relevant implementation techniques and technologies regarding pervasive computing, particularly enabling factors, key characteristics, future trends, user adoption, privacy issues and impact of pervasive computing on Information and Communications Technology (ICT) and its associated social aspects"--Provided by publisher

@@ -1,0 +1,2 @@
+An introduction to the mathematical theory of inverse problems
+Aus dem Inhalt: 1) Introduction and basic concepts 2) Regularization theory for equations of the first kind 3) Regularization by discretization 4) Inverse Eigenvalue problems 5) An inverse scattering problem.

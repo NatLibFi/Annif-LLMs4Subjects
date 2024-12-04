@@ -1,0 +1,2 @@
+Die Nutzung von MOMS-2P-Daten zur Waldzustandserfassung und Aktualisierung von Forsteinrichtungsdaten in Rheinland-Pfalz : Abschlussbericht
+Forest management, forest taxation, forest monitoring, inventory, forest decline, remote sensing, satellite-data, satellite images, geocoding, radiometric correction, data fusion, reflectance model, GIS, geographic information system, forest information system

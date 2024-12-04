@@ -1,0 +1,2 @@
+Finite-Element-Ausgleichsmethoden für Kontaktprobleme : effiziente Löser
+Signorini-Problem, least-squares, Aktive-Mengen, Vorkonditionierung, Finite-Elemente. - Active set, preconditioning, finite-elements

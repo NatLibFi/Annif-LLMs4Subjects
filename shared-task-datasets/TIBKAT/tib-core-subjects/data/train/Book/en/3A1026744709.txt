@@ -1,0 +1,2 @@
+Nonparametric statistical process control
+Background/review of statistical concepts -- Basics of statistical process control -- Parametric univariate variables control charts -- Nonparametric (distribution-free) univariate variables control charts -- Miscellaneous univariate distribution-free (nonparametric) variables control charts

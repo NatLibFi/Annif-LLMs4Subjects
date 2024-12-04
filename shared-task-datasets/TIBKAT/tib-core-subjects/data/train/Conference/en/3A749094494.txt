@@ -1,0 +1,2 @@
+Genetic Programming : 7th European Conference, EuroGP 2004, Coimbra, Portugal, April 5-7, 2004. Proceedings
+This book constitutes the refereed proceedings of the 7th European Conference on Genetic Programming, EuroGP 2004, held in Coimbra, Portugal, in April 2004. The 38 revised papers presented were carefully reviewed and selected from 61 submissions. The papers deal with a variety of foundational and methodological issues as well as with advanced applications in areas like engineering, computer science, language understanding, bioinformatics, and design

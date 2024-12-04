@@ -1,0 +1,2 @@
+Optics, light and lasers : the practical approach to modern aspects of photonics and laser physics
+Light rays -- Wave optics -- Light propagation in matter -- Optical images -- Coherence and interferometry -- Light and matter -- The laser -- Laser dynamics -- Semiconductor lasers -- Sensors for light -- Laser spectoscopy -- Nonlinear optics I: optical mixing processes -- Nonlinear optics II: four-wave mixing -- APPENDIX: A: Mathematics for optics -- B: Supplements in quantum mechanics

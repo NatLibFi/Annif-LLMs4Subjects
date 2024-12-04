@@ -1,0 +1,2 @@
+Windows security internals : a deep dive into Windows authentication, authorization, and auditing
+"In this hands-on guidebook, Windows security expert and bug hunter Forshaw distills his knowledge and describes the system in great depth. Readers learn the core components and features of the Microsoft Windows threat-mitigation system with in-depth technical discussions and real-world examples"--

@@ -1,0 +1,2 @@
+Parameterized Complexity Theory
+Parameterized complexity theory is a branch of computational complexity theory that provides a framework for a refined analysis of hard algorithmic problems. This book provides an introduction to both algorithmic techniques for fixed-parameter tractability and the structural theory of parameterized complexity classes

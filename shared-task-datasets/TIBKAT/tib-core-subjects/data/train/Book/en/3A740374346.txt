@@ -1,0 +1,2 @@
+Fast NMR data acquisition : beyond the Fourier transformation
+Providing a definitive reference source on novel methods in NMR acquisition and processing, this book will highlight similarities and differences between emerging approaches and focus on identifying which methods are best suited for different applications

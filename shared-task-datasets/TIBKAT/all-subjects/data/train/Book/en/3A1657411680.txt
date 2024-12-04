@@ -1,0 +1,2 @@
+Intelligent multidimensional data clustering and analysis
+"This book is a reference source for the latest scholarly research on the advantages and challenges presented by the use of cluster analysis techniques by highlighting theoretical foundations, computing paradigms, and real-world applications"--Provided by publisher.

@@ -1,0 +1,2 @@
+EMC of analog integrated circuits
+Presents the results of research to improve the electromagnetic immunity of considered analog integrated circuits so that they start to fail at relevantly higher conduction levels.--

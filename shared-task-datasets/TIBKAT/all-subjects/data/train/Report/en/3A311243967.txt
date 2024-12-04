@@ -1,0 +1,2 @@
+HOLT 3 - Nutzung hochauflösender Satellitendaten für Aufgaben der Landwirtschaftsverwaltung Thüringens : Abschlussbericht ; [Laufzeit: 01.03.1996 - 31.12.1998]
+Remote sensing, location/navigation, satellite image, satellite scanner data, GPS/DGPS, decoding, satellite image-added mapping, erosion appcarances, meadow and pasture land heterogeneities, field heterogeneities, field records/control, MOMS, IRS-1C, landsat TM, SPOT XS

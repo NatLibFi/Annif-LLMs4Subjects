@@ -1,0 +1,2 @@
+Advanced sensing in image processing and IoT
+"This book presents the advances and applications in the area of image processing with IoT and medical image processing and analysis techniques. It spotlights image processing and analysis techniques for IoT applications in CT images of COVID-19, remote sensing and medical engineering fields"--

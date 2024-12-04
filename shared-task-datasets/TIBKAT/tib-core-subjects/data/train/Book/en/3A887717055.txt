@@ -1,0 +1,2 @@
+Python in a nutshell
+This book provides a quick reference to the language, including Python 3.5, 2.7 and highlights of 3.6. It covers a wide range of application areas, including web and network programming, XML handling, database interactions, and high-speed numeric computing

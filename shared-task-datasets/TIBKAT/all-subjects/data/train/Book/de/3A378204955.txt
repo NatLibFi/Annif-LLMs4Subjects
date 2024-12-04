@@ -1,0 +1,2 @@
+AIX 5L : [konfigurieren, administrieren, anwenden]
+Das Buch für den Anwender und Administrator des Unix-Systems der IBM für RS/6000 und pSeries. Installation, Konfiguration und Wartung werden beschrieben. Auch der Systemsicherheit ist ein umfangreiches Kapitel gewidmet

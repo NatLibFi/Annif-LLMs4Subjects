@@ -1,0 +1,2 @@
+Exploiting online games : cheating massively distributed systems
+Why games -- Game hacking 101 -- Money -- Enter the lawyers -- Infested with bugs -- Hacking game clients -- Building a bots -- Reversing -- Advanced game hacking fu -- Software security uber alles -- Index

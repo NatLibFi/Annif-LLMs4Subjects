@@ -1,0 +1,2 @@
+Structural and functional aspects of biocomputing systems for data processing
+"The overall aim of the book is to extend recent concepts, methodologies, and empirical research advances of various biological data mining systems through machine learning approaches. Covering a diverse set of research in these areas, this publication is ideally designed for use by technology development, academicians, data scientists, industrial professionals (inspection specialist), researchers and students interested in uncovering the latest innovations in the field"--

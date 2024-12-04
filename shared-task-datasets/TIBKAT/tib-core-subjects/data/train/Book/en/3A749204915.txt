@@ -1,0 +1,2 @@
+Infinite Dimensional Linear Systems Theory
+Semigroup theory -- Controllability, observability and stability -- Quadratic cost control problem -- Stochastic processes and stochastic differential equations -- The state estimation problem -- The separation principle for stochastic optimal control -- Unbounded control and sensing in distributed systems -- Time dependent systems.

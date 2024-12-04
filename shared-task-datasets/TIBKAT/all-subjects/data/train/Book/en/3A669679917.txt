@@ -1,0 +1,2 @@
+Extraction of metabolites from plant tissues
+Extraction of one or more components from a complex mixture is a requirement for many operations in the food engineering and biotechnology industries. This book reviews the extraction methods such as conventional solvent extraction, supercritical fluid extraction (SFE), aqueous two-phase extraction (ATPE), and reverse micelle extraction

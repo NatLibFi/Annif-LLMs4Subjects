@@ -1,0 +1,2 @@
+PET in oncology
+A comprehensive compilation of the accumulated knowledge on positron emission tomography (PET) and PET/computed tomography (CT) in oncology. It covers the documented indications, such as staging and monitoring of lung and colorectal cancer, and the application of PET/CT in head and neck surgery, gynecology, and radiation therapy

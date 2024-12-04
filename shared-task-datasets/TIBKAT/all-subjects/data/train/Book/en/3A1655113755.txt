@@ -1,0 +1,2 @@
+Conjugacy Classes in Algebraic Groups
+Affine algebraic varieties, affine algebraic groups and their orbits -- First Part: Jordan decompositions, unipotent and diagonalizable groups -- Second Part: Quotients and solvable groups -- Reductive and semisimple algebraic groups, regular and subregular elements.

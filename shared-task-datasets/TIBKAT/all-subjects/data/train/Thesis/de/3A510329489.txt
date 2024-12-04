@@ -1,0 +1,2 @@
+Segmentierung und strukturbasierte adaptive Erkennung von Gebrauchsschrift in historischen Dokumenten
+Handschrifterkennung, Wortsegmentierung, strukturelle Ziffernerkennung, strukturelle Worterkennung, Anpassung, Anpassbarkeit, historische Dokumente, Kirchenbücher, robuste Worterkennung

@@ -1,0 +1,2 @@
+Datenbankprogrammierung mit MySQL 4 & PHP : [der methodische und ausführliche Einstieg ; über 350 Seiten Einsteiger-Know-how]
+SQL ist eine standardisierte Datenbanksprache, die in unterschiedlicher Vollständigkeit in Datenbankprogrammen implementiert worden ist. MySQL ist ein kostenfrei erhältliches Datenbankprogramm, das durch eine recht spartanische Oberfläche nur wenig Systemressourcen verbraucht und sehr schnell ist. MySQL wird zusammen mit der Skriptsprache PHP und dem Webserver Apache bei interaktiven Webauftritten eingesetzt.

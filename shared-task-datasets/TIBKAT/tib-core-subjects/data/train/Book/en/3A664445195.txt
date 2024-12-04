@@ -1,0 +1,2 @@
+Continuous authentication using biometrics : data, models, and metrics
+"This book presents chapters on continuous authentication using biometrics, covering the conceptual framework underlying continuous authentication and presenting detailed processing models for various types of practical continuous authentication applications"--

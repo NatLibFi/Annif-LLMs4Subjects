@@ -1,0 +1,3 @@
+Das Einsteigerseminar Batch-Dateien : [Grundlagen der Stapelverarbeitung]
+Vermittelt in knapper, aber gut verständlicher Darstellung umfangreiches Hintergrundwissen; mit zahlreichen Beispielen. (LK/PB: Barckow)
+Batch-Dateien geben beim Betriebssystem DOS die Möglichkeit, Befehlsabläufe zu automatisieren. Der Autor führt vom Einfacheren zum Komplexen fortschreitend in die Erstellung von Batch-Dateien anhand von 86 Beispielen ein. Auch die Einbindung von Assembler-Routinen in Batch-Dateien wird berücksichtigt. In den anspruchsvolleren Beispielen werden Probleme gelöst, die sonst den Einsatz spezieller Utilities erfordern. Vermittlung von umfangreichem Hintergrundwissen. Knappe, aber doch gut verständliche Darstellung. Mehrere nützliche Anhänge. (2) (LK/PB: Barckow)

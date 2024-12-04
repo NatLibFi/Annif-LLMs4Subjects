@@ -1,0 +1,2 @@
+Chapter 21 ACE Models of Endogenous Interactions
+Various approaches used in Agent-based Computational Economics (ACE) to model endogenously determined interactions between agents are discussed. This concerns models in which agents not only (learn how to) play some (market or other) game, but also (learn to) decide with whom to do that (or not).

@@ -1,0 +1,2 @@
+Advanced automated software testing : frameworks for refined practice
+"This book discusses the current state of test automation practices, as it includes chapters related to software test automation and its validity and applicability in different domains"--Provided by publisher

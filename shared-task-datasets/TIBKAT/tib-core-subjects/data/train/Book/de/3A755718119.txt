@@ -1,0 +1,2 @@
+2,4-GHz-Fernsteuerungen : Grundlagen und Praxis
+Neben den Grundlagen und Eigenschaften der 2,4 GHz-Funkwellen vermittelt unser Autor, Prof. Dr. Roland Büchi, auch die praktischen Aspekte: die optimale Ausrichtung von Antennen im Modellbau, die richtige Anordnung der Komponenten im Modell, die Programmierung und Konfigurierung von Fernsteuerungen sowie die Vermeidung und Behebung von Störungen

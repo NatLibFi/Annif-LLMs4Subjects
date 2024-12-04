@@ -1,0 +1,2 @@
+Internet of things : frameworks for enabling and emerging technologies
+"This book examines IoT as applied to real-life organizations and systems. It considers IoT as a disruptive technology that requires examination and consideration in multiple domains like CPS, ubiquitous distributed computing, sensor technologies, wireless sensor networks, data security and privacy, big data, machine learning, blockchain, and so on"--

@@ -1,0 +1,2 @@
+Ambient ionization mass spectrometry
+Ambient ionization has emerged as one of the hottest and fastest growing topics in mass spectrometry enabling sample analysis with minimal sample preparation. Introducing the subject and explaining the basic concepts and terminology, this book will provide a comprehensive, unique treatise devoted to the subject. Written by acknowledged experts, there are full descriptions on how new ionization techniques work, with an overview of their strengths, weaknesses and applications

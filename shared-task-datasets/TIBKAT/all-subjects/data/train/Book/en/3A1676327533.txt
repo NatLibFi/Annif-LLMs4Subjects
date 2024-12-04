@@ -1,0 +1,2 @@
+A concise introduction to machine learning
+Introduction -- Probability theory -- Sampling -- Linear classification -- Non-linear classification -- Dimensionality reduction -- Regression -- Feature learning.

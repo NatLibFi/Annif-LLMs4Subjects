@@ -1,0 +1,2 @@
+Spatial regression models for the social sciences
+Introduction -- Exploratory spatial data analysis -- Models dealing with spatial dependence -- Advanced models dealing with spatial dependence -- Models dealing with spatial heterogeneity -- Models dealing with both spatial dependence and spatial heterogeneity -- Advanced spatial regression models -- Practical considerations for spatial data analysis.

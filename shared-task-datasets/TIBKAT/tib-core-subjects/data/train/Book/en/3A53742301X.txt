@@ -1,0 +1,2 @@
+Pipeline system automation and control
+SCADA systems -- Measurement system -- Station automation -- Gas management system -- Liquid pipeline management system -- Application for operation -- Pipeline leak detection system -- Geographic information systems

@@ -1,0 +1,2 @@
+Angewandte empirische Methoden in Finance & Accounting : Umsetzung mit R
+Die wichtigsten empirischen Verfahren im Bereich Finance und Accounting/Risk Management werden anhand von Anwendungsbeispiele mit der frei verfügbaren Statistiksoftware R dargestellt. Leser werden schrittweise an die einzelnen Fragestellungen herangeführt. Die Neuauflage wurde erweitert um die Themen Modellierung kausaler Zusammenhänge, Endogenität der unabhängigen Variablen, Instrumentvariablenschätzung sowie logistische Panelregression.

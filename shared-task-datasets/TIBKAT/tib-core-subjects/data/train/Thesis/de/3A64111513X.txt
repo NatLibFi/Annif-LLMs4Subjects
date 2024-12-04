@@ -1,0 +1,2 @@
+Zur Baugrundsteifigkeit bei der gesamtdynamischen Berechnung von Windenergieanlagen
+Windenergieanlagen, Baugrundsteifigkeit, Drehfedersteifigkeit. - Wind turbines, subsoil stiffness, rotational stiffness

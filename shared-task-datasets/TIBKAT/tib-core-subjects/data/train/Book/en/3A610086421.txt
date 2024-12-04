@@ -1,0 +1,2 @@
+Building extensible composite applications with SAP : [explains how to develop extensible composite applications in Java, describes Web services and Java EE 5 (EJB 3.0) in SAP NetWeaver: includes numerous screenshots and code examples to support quick learning]
+Design principles of modern Java applications -- Fundamentals of extensibility concepts -- Extensibility based on Java class loading -- Extensibility based on Java enterprise beans -- Extensibility based on web services -- Introducing an extensibility framework

@@ -1,0 +1,2 @@
+Stability Problems
+P. Habets: Stabilite asymptotique pour des problemes de perturbations singulieres.- J.K. Hale: Stability of linear systems with delays.- V. Lakshmikantham: Stability and asymptotic behaviour of solutions of differential equations in a Banach space.- P. Negrini: On a definition of total stability for continuous or discrete dynamical systems.-N. Rouche: Theorie de la stabilite dans les equations differentielles ordinaires.- E.O. Roxin: Stability and differential games

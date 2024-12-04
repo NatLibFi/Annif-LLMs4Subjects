@@ -1,0 +1,2 @@
+EMBASSI: Elektronische Multimediale Bedien- und Service-Assistenz : Vorhaben EMBASSI im BMBF-Leitprojekt MTI 1999 - 2003 ; Schlussbericht ; Laufzeit des Vorhabens: 01.07.1999 bis 30.06.2003
+Human computer interaction, generic multimodal architecture, goal-oriented interaction, secure agents, personal adaptive assistant, generic interface description

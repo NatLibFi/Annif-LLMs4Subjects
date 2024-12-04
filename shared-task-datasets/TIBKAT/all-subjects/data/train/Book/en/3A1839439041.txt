@@ -1,0 +1,2 @@
+Light scattering and absorption by particles : the Q-space approach
+This book provides a thorough overview of how particles of any size or shape scatter and absorb light.

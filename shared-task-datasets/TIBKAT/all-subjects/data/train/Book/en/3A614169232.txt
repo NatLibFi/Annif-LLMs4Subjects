@@ -1,0 +1,2 @@
+iPhone app development : the missing manual ; [the book that should have been in the box]
+Covers the entire process of application development for the iPhone, with information on such topics as Xcode, classes, Cocoa Touch, NIB files, beta testing, and tracking sales

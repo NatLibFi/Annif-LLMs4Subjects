@@ -1,0 +1,2 @@
+Understanding and conducting information systems auditing
+A comprehensive guide to understanding and auditing modern information systems The increased dependence on information system resources for performing key activities within organizations has made system audits essential for ensuring the confidentiality, integrity, and availability of information system resources

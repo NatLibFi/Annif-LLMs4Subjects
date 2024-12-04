@@ -1,0 +1,2 @@
+Computer simulation of aerial target radar scattering, recognition, detection, and tracking
+Here's a ground-breaking new book that provides you with the knowledge you need to perform effective computer simulation of scattering for the real targets and conditions of radio wave propagation. By replacing field tests with the computer simulation methods presented in this unique resource, you save time and money in the early stages of research and development

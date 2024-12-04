@@ -1,0 +1,2 @@
+Mobile Agents : 5th International Conference, MA 2001 Atlanta, GA, USA, December 2–4, 2001 Proceedings
+This book constitutes the refereed proceedings of the 5th International Conference on Mobile Agents, MA 2001, held in Atlanta, GA, USA in December 2001. The 18 revised full papers presented were carefully reviewed and selected from 75 submissions. The papers are organized in topical sections on security, models and architectures, applications, communication, run-time support, and quantitative evaluation and benchmarking

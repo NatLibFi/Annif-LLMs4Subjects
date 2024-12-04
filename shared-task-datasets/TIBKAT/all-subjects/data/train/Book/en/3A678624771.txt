@@ -1,0 +1,2 @@
+Prototyping of robotic systems : applications of design and implementation
+"This book provides a framework for conceptual, theoretical, and applied research in robotic prototyping and its applications, covering the prototyping of various robotic systems including the complicated industrial robots, the tiny and delicate nanorobots, medical robots for disease diagnosis and treatment and simple robots for educational purposes"--Provided by publisher

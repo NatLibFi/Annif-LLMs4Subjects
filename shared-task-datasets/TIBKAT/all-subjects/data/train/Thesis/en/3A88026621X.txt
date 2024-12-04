@@ -1,0 +1,2 @@
+Funktionelle Magnetresonanztomographie mit stark unterabgetasteten Trajektorien
+Zusammenfassung: Aim of this work is the development of methods and trajectories for ultra fast functional MRI. The acquisition time is restricted to 100ms for a single 3D whole brain image. This can be achieved by strong undersampling of k-space in combination with localized receiver coil sensitivities and regularized image reconstruction. The method is applied to various functional imaging experiments

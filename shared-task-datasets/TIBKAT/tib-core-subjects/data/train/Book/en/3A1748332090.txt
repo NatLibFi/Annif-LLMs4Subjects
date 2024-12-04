@@ -1,0 +1,2 @@
+Advanced phase-lock techniques
+From cellphones to micrprocessors, to GPS navigation, phase-lock techniques are utilized in most all modern electronic devices. This high-level book takes a systems-level perspective, rather than circuit-level, which differentiates it from other books in the field

@@ -1,0 +1,2 @@
+Three-space Problems in Banach Space Theory
+This book on Banach space theory focuses on what have been called three-space problems. It contains a fairly complete description of ideas, methods, results and counterexamples. It can be considered self-contained, beyond a course in functional analysis and some familiarity with modern Banach space methods. It will be of interest to researchers for its methods and open problems, and to students for the exposition of techniques and examples

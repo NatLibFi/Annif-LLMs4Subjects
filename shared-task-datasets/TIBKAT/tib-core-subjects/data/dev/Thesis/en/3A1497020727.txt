@@ -1,0 +1,2 @@
+Automatic verification of road databases using multiple road models
+Geo-spatial databases, verification, image analysis, data fusion. - Räumliche Datenbank, Verifikation, Bildanalyse, Datenfusion

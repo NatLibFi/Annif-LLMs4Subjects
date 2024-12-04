@@ -1,0 +1,2 @@
+Computing science, communication and security : 4th International Conference, COMS2 2023, Mehsana, Gujarat, India, February 6-7, 2023, revised selected papers
+This book constitutes the refereed proceedings of the 4th International Conference on Computing Science, Communication and Security, COMS2 2023, held in Gandhinagar, India, during February 6-7, 2023. The 20 full papers included in this book were carefully reviewed and selected from 190 submissions. They were organized in topical sections on artificial intelligence and machine learning; networking and communications

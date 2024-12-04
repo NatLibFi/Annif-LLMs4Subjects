@@ -1,0 +1,2 @@
+Getaktete Stromversorgung : Grundlagen u. Applikationen
+Grundlagen, Steuerbausteine mit Schaltbild und PIN-Belegung, Funkentstörung, dimensionierte Schaltbeispiele; Auswahl- und Entwurfhinweise für Praktiker.

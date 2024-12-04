@@ -1,0 +1,2 @@
+Computational simulation of piezo-electrically stimulated bone adaption surrounding activated teeth implants
+Osseointegration, electromechanical stimulation, micromotion, dental implants, finite element simulation. - Finite-Elemente-Methode, Knochenumbau, Zahnimplantate, elektromechanische Stimulation, Knochen-Implantat-Interface

@@ -1,0 +1,2 @@
+Chapter 14. Investment Performance: A Review and Synthesis
+This chapter provides a perspective on the rapidly developing literature on investment performance evaluation. I use the stochastic discount factor approach to present and critique current performance measurement techniques in a unified setting. I offer a number of suggestions to improve performance measurement in future research. I also review recent research on the performance of mutual funds, hedge funds, pension funds, and other investment vehicles.

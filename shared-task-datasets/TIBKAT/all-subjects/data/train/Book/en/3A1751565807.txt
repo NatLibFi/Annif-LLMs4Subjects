@@ -1,0 +1,2 @@
+Sparse solutions of underdetermined linear systems and their applications
+Basic concepts and properties -- Various greedy algorithms -- Hard thresholding and other approaches -- Unconstrained minimization for sparse recovery -- Constrained minimization approaches -- Recoverability of sparse solutions -- RIP matrices -- Matrix completion and recovery -- Graph clustering -- Sparse phase retrieval.

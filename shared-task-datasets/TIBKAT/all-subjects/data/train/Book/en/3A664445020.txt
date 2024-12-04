@@ -1,0 +1,2 @@
+Service life cycle tools and technologies : methods, trends, and advances
+"This book compiles the latest research on service-oriented applications life cycles, detailing methodologies and applications in this emerging field, addressing issues in the SOC domain, including service discovery, service composition, and service management"--Provided by publisher

@@ -1,0 +1,2 @@
+Diagnostics and prognostics of engineering systems : methods and techniques
+"This book provides widespread coverage and discussions on the methods and techniques of diagnosis and prognosis systems, including practical examples to display the method's effectiveness in real-world applications as well as the latest trends and research pertaining to engineering systems"--

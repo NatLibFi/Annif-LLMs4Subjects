@@ -1,0 +1,2 @@
+Matrix mathematics : theory, facts, and formulas
+Preliminaries -- Basic matrix properties -- Matrix classes and transformations -- Polynomial matrices and rational transfer functions -- Matrix decompositions -- Generalized inverses -- Kronecker and Schur algebra -- Positive-semidefinite matrices -- Norms -- Functions of matrices and their derivatives -- The matrix exponential and stability theory -- Linear systems and control theory

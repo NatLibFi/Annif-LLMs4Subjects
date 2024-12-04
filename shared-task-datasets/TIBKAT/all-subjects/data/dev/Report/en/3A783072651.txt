@@ -1,0 +1,2 @@
+Game theory applications in network design
+"This book provides the basic idea of game theory and the fundamental understanding of game theoretic interactions among network entities"--

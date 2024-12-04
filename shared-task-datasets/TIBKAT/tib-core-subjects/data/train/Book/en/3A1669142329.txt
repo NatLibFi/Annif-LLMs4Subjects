@@ -1,0 +1,2 @@
+Industrial applications of machine learning
+"This book shows how machine learning can be applied to address real-world problems in the fourth industrial revolution and provides the required knowledge and tools to empower readers to build their own solutions based on theory and practice. The book introduces the fourth industrial revolution and its current impact on organizations and society"--

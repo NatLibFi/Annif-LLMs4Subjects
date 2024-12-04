@@ -1,0 +1,2 @@
+Experimentelle Bestimmung der Grenzschichtparameter von spanabhebend gefertigten Oberflächen und numerische Modellierung : AG-Turbo Verbundprojekt "GuD-Kraftwerk, 500 MW auf einer Welle" (Phase 2); Vorhaben 2.3.1 F ; Schlussbericht
+Boundary layer profiles, structured surfaces, industrial manufacturing, Pitot measurements, hot wire measurements, reynolds number variation

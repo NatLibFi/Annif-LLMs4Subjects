@@ -1,0 +1,2 @@
+Innovative applications of big data in the railway industry
+"This book explores how big data technologies can address the operational challenges in the railway industry. It assists academics working in the big data domain to gain an understanding of the problems faced by the rail industry, enabling them to start developing their existing tools and technologies to meet the needs of this dynamic new application domain"--

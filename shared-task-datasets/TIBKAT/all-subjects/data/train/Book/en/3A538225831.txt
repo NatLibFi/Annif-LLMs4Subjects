@@ -1,0 +1,2 @@
+C# 3.0 in a Nutshell : [a desktop quick reference ; covers LINQ and .NET 3.5 CLR and Core Classes]
+Offers a reference to key C# programming concepts covering language elements, syntax, datatypes, and tasks

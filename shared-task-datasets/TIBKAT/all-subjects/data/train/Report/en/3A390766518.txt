@@ -1,0 +1,2 @@
+Erstellung eines semantischen Netzwerkservice (SNS) für das Umweltinformationsnetz Deutschland - German Environmental Information Netzwork (gein R) : Forschungsbericht ... ; im Auftrag des Umweltbundesamtes
+Environmental information, search methods, indexing, thesaurus, geographic names, temporal extent, topic map, web services, XML, internet

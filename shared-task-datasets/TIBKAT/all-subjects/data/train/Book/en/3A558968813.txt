@@ -1,0 +1,2 @@
+Pro PHP : patterns, frameworks, testing and more
+Offers coverage of PHP's advanced object-oriented features and their application to patterns and pattern-driven development, discussing software development patterns, the Standard PHP Library, and MVC software architecture and PHP applications

@@ -1,0 +1,2 @@
+State preparation for quantum information science and metrology
+Bipartite entaglement, bound entanglement, non-degenerate optical parametric oscillation, quantum frequency conversion. - Gebundene Verschränkung, nicht-entarteter optischer parametrischer Oszillator, Quantenfrequenzkonversion, Zweiparteien-Verschränkung

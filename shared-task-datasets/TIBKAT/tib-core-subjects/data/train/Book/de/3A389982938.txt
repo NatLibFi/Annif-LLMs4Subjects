@@ -1,0 +1,2 @@
+Fundamente der Informatik : Ablaufmodellierung, Algorithmen und Datenstrukturen
+An Gymnasien zählt der Informatik-Unterricht zu den wesentlichen Bausteinen, die die Kinder auf das spätere Studium und Berufsleben vorbereiten sollen. Dieses Buch dient Lehrern, die sich für diesen Unterricht zusätzlich qualifizieren wollen, und Studenten der Didaktik der Informatik als Lern- und Übungsbuch für die Unterrichts- und Prüfungsvorbereitung. Zahlreiche Übungen helfen, das Gelesene zu vertiefen. Die Lösungen stehen im Internet zur Verfügung

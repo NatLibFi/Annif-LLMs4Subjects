@@ -1,0 +1,2 @@
+IT-gestützte projekt- und zeitbezogene Erfassung und Entscheidungsunterstützung in der frühen Phase der Planung im Bestand (Initiierungsphase) auf Grundlage eines IFC-basierten CMS
+Enth. außerdem: Technical Report Stiftbasierte Benutzungsoberfläche für die Eingabe von Skizzen / Bearb.: Helga Tauscher

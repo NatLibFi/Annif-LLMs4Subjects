@@ -1,0 +1,2 @@
+Einstieg in die Visualisierung : wie man aus Daten Informationen macht
+"Dieses Buch richtet sich an Manager, Journalisten, Grafiker, Studenten, Wissenschaftler und jeden anderen, der Daten verständlich und überzeugend präsentieren muss. Sie lernen von Grund auf, wie Sie die für Ihre Zwecke geeignete Visualisierungsform (Karte, Blasendiagramm, Heatmap etc.) finden und welche Gestaltungsregeln Sie dabei jeweils beachten sollten."

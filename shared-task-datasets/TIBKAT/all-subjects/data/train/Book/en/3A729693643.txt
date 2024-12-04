@@ -1,0 +1,2 @@
+Theory and design of terabit optical fiber transmission systems
+"This comprehensive, modular treatment of the challenging issues involved in very high-speed optical transmission systems contains all the theory and practical design criteria required to optimize transmission system design"--

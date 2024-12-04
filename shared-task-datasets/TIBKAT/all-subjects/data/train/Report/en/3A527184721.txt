@@ -1,0 +1,2 @@
+Applied biofluid mechanics
+Review of basic fluid mechanics concepts -- Cardiovascular structure and function -- Pulmonary anatomy, pulmonary physiology, and respiration -- Hematology and blood rheology -- Anatomy and physiology of blood vessels -- Mechanics of heart valves -- Pulsatile flow in large arteries -- Flow and pressure measurement -- Modeling -- Lumped parameter mathematical models

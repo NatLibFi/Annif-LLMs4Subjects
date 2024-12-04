@@ -1,0 +1,2 @@
+Strömungsmechanik : Grundlagen, Grundgleichungen, Lösungsmethoden, Softwarebeispiele
+Grundkurs der Strömungslehre für Ingenieure und Naturwissenschaftler in Studium und Praxis mit (zum Teil computergestützten) Übungsaufgaben. Wurde gegenüber der 1. Auflage 1999 (BA 6/00) im Bereich der Software überarbeitet und im Trainingskurs neu gestaltet. Ein Kauf dieser Ausgabe ist wünschenswert, aber nicht zwingend notwendig. Das Lehrbuch wird ergänzt durch ein Übungsbuch (vgl. Oertel, ID 45/02). (2)

@@ -1,0 +1,2 @@
+Data source handbook : [a guide to public data]
+If  you're a developer looking to supplement your own data tools and services, this concise covers the most useful sources of public data available today. You'll find useful information on APIs that offer broad coverage, tie their data to the outside world, and are either accessible online or feature downloadable bulk data. You'll also find code and helpful links

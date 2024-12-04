@@ -1,0 +1,2 @@
+Practical AutoCad 2011
+Introduction to autoCAD -- Graphical user interface (GUI) -- Command entry and autoCAD help -- Drawing setup -- Coordinate input -- Drawing commands -- Layers -- Display commands and drawing aids -- Object snap and tracking -- Modify commands -- Object properties and inquiry commands -- Annotating text -- Templates and title blocks -- Annotating dimensions -- Annotations and annotation scaling -- Hatching -- Plotting model space -- Plotting paper space

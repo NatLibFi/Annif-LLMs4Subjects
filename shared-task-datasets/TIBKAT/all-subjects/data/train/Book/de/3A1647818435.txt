@@ -1,0 +1,3 @@
+Fahrzeugreifen und Fahrwerkentwicklung : Strategie, Methoden, Tools
+Ausgehend von den geometrischen Grundlagen und dem Reifenlastenheft wird gezeigt, welche Rolle die Mobilitätsstrategien bei der Fahrwerk- und Reifenentwicklung spielen. Es schließen sich das moderne Projektmanagement des Reifenentwicklungsprozesses und die Reifenprüfungen an. Komfortfragen wie Reifengeräusche und Schwingungen, Reifendruck und der Reifendruckmessung, sowie systematische Subjektivbeurteilung runden den Inhalt ab.
+Der Reifen -- Geometrie und Tragfähigkeit -- Reifenlastenheft -- Mobilitätsstrategie -- Projektmanagement -- Reifenprüfungen -- Kräfte und Momente -- Geräusche und Schwingungen -- Reifendruck -- Reifenbeurteilung -- Simulation -- Ausblick.

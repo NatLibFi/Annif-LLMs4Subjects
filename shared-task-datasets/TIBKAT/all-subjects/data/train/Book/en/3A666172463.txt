@@ -1,0 +1,2 @@
+Dynamic surface control of uncertain nonlinear systems : an LMI approach
+This rigorous and practical introduction to nonlinear control design was written by the creators of the dynamic surface control algorithm. It discusses a range of problems including DSC design, output feedback, input saturation and fault-tolerant control

@@ -1,0 +1,2 @@
+Algebraic Geometry : Proceedings of the Midwest Algebraic Geometry Conference, University of Illinois at Chicago Circle, May 2 – 3, 1980
+On the fundamental group of the complement to a discriminant variety -- Connectivity and its applications in algebraic geometry -- The dimension of an intersection in an ambient hypersurface -- Stable branch curves and braid monodromies -- Complexes for reflection groups -- The monoid of effective divisor classes on a complex torus -- Hyperplane sections -- Schubert's enumerative geometry of triangles from a modern viewpoint.

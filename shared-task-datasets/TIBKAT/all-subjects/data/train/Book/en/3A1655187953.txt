@@ -1,0 +1,2 @@
+Bifurcation of Extremals in Optimal Control
+Overview -- Branching points in linear control problems -- Branching pairs in linear control problems -- The nonlinear case -- Linear systems with vector valued performance index -- Nonlinear control systems with vector cost -- Optimal control problems with constraints.

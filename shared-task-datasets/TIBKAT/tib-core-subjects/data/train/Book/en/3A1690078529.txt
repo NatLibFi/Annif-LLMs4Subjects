@@ -1,0 +1,3 @@
+Robot memetics : a space exploration perspective
+Introduction -- Spectrum of Robots -- Memes -- Robot Memetics -- Mars Settlement Scenario -- Conclusion.
+This book provides a novel perspective on the concept of memetics as applied to the development and evolution of intelligent robots and robotic communities/cultures. It provides a framework for the emergence of a hybrid community of people and intelligent robots collaborating to realize mutual benefits and scientific objectives. It aims to show that as the hybrid community emerges, so does its culture. Once this foundational work is done, the book illustrates the robot memetic ideas in the context of a space exploration scenario based on the development and operation of a human/robot settlement on Mars.

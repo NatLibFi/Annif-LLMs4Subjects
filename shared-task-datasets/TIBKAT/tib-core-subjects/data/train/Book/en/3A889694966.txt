@@ -1,0 +1,2 @@
+Big data processing with Hadoop
+"This book outlines the overview of the Big data. It presents the big data components organized as four layers such as: big data sources, data massaging and store layer, analysis layer, and consumption layer. It also gives a detailed knowledge of Hadoop platform"--

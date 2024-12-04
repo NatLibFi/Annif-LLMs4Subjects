@@ -1,0 +1,2 @@
+Mac OS X UNIX toolbox : 1000+ commands for Mac OS X power users
+A guide to Mac OS X provides more than one thousand commands covering such topics as using the shell, manipulating text, administering file systems, checking and running processes, locking down security, and accessing network resources

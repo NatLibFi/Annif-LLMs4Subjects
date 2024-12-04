@@ -1,0 +1,2 @@
+Java web services: up and running : [covers JAX-WS 2.1; a quick, practical, and thorough introduction]
+Introduction to Java's APIs for both XML Web Services (JAX-WS and RESTful Web Services (JAX-RS) provides a pragmatic approach, architectural overview, working code examples, and instructions for compiling, deploying, and executing an application.  -- from cover, p.4

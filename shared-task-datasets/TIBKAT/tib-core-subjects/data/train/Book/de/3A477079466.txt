@@ -1,0 +1,2 @@
+Operations Research : Methoden und Modelle ; für Wirtschaftsingenieure, Betriebswirte, Informatiker
+Geschichte des Operations Research - Entscheidungs- und Spieltheorie - Lineare und nichtlineare Programmierung - Entscheidungsbaumverfahren - Theorie der Warteschlangen - Heuristische Verfahren - Graphen, Bäume, Netze, Netzpläne

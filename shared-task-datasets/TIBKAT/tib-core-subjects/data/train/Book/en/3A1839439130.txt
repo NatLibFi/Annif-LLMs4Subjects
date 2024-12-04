@@ -1,0 +1,2 @@
+Microbial fuel cells : emerging trends in electrochemical applications
+Microbial fuel cells (MFCs) are widely recognized as a viable technology for producing energy and removing toxic pollutants from wastewater. This reference text covers the electrochemical performance of MFCs, the basic mechanisms, operating factors, step-by-step synthesis, materials required for high electrochemical performance and a comparison with other bioelectrochemical approaches in terms of energy generation.

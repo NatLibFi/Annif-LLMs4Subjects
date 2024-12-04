@@ -1,0 +1,2 @@
+Einführung in die angewandte Wirtschaftsmathematik : Das praxisnahe Lehrbuch - bewährt durch seine brillante Darstellung
+Grundlagen und Hilfsmittel - Funktionen einer unabhängigen Variablen - Funktionen mit mehreren unabhängigen Variablen - Grenzwerte und Stetigkeit - Differentialrechnung für Funktionen mit einer unabhängigen Variablen - Anwendungen der Differentialrechnung - Differentialrechnung bei Funktionen mit mehreren unabhängigen Variablen - Einführung in die Integralrechnung - Einführung in die Lineare Algebra - Lineare Optimierung

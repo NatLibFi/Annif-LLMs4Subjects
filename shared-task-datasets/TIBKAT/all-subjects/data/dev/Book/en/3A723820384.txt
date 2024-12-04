@@ -1,0 +1,2 @@
+Spectral theory and its applications
+"Bernard Helffer's graduate-level introduction to the basic tools in spectral analysis is illustrated by numerous examples from the Schrödinger operator theory and various branches of physics: statistical mechanics, superconductivity, fluid mechanics and kinetic theory. The later chapters also introduce non self-adjoint operator theory with an emphasis on the role of the pseudospectra"--

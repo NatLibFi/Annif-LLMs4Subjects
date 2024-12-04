@@ -1,0 +1,2 @@
+Abstract Linear Algebra
+Beginning from scratch and developing the standard topics of Linear Algebra, this book is intended as a text for a first course on the subject. The goal to which this work leads is the Theorem of Hurwitz - that the only normed algebras over the real numbers are the real numbers, the complex numbers, the quaternions, and the octonions. Unique in presenting this material at an elementary level, the book stresses the complete logical development of the subject and will provide a bavuable reference for mathematicians in general

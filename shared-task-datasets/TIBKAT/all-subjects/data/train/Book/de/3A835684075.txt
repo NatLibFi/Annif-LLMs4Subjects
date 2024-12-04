@@ -1,0 +1,2 @@
+Grundlagen der Robotik
+4207 Dieses Buch behandelt alle wesentlichen Grundlagen der Robotik: geschichtliche Entwicklungen, Roboterarten, Autonomie bei mobilen Robotern, Robotergesetze, mechanische Komponenten und Kinematik, Lageregelung und Wegmessung, Koordinatensysteme, Industrieroboter, Effektoren und Greifer, Sicherheit und Schutzeinrichtungen in der Robotik, Programmierung und Programmiersprachen, Sensoren, humanoide Roboter, künstliche Intelligenz sowie zukünftige Entwicklungen.

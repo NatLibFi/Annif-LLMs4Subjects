@@ -1,0 +1,2 @@
+C++ IT-Tutorial : [C++ didaktisch und praxisgerecht lernen ; objektorientierte Programmierung mit C++ ; Vererbung, das I/O-System und Ausnahmen]
+Aus dem Inhalt: C++ - Grundlagen; Einführung in Datentypen und Operatoren; Programmsteueranweisungen; Arrays, Strings und Zeiger; Eine Einführung in Funktionen; Ein näherer Blick auf Funktionen; Weitere Datentypen und Operatoren; Klassen und Objekte; Ein näherer Blick auf Klassen; Vererbung, virtuelle Funktionen und Polymorphie; Das I/O-System von C++; Ausnahmen, Templates und andere fortgeschrittene Themen.

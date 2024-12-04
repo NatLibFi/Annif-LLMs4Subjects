@@ -1,0 +1,2 @@
+General and statistical thermodynamics
+Tailored to advanced undergraduates, this textbook provides a thorough explanation of general and statistical thermodynamics. It begins with an introduction to statistical mechanics, deriving all the important formulae meticulously and explicitly, without mathematical short cuts

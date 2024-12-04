@@ -1,0 +1,2 @@
+Microwave component mechanics
+Here's a first-of-its-kind resource that offers you detailed guidance in the mechanical aspects of designing and manufacturing microwave components. The book takes an interdisciplinary approach that combines design and manufacturing, mechanical and electrical design, and microwave component performance and productivity. By exploring the immediate connection between electrical and mechanical quality, you more easily arrive at cost-effective solutions and reduce the unnecessary use of "double-tolerancing"

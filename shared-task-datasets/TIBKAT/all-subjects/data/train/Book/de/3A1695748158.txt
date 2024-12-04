@@ -1,0 +1,2 @@
+Penetration Tester werden für Dummies®
+Pentests sind für Unternehmen unverzichtbar geworden, denn nur wer die Schwachstellen kennt, kann auch dagegen vorgehen. Robert Shimonski erklärt Ihnen in diesem Buch alles, was Sie brauchen, um selbst Pentests durchzuführen. Von den nötigen Vorbereitungen über Risikoanalyse und rechtliche Belange bis hin zur eigentlichen Durchführung und späteren Auswertung ist alles dabei. Versetzen Sie sich in Hacker hinein und lernen Sie, wo Unternehmen angreifbar sind. Werden Sie selbst zum Penetration Tester

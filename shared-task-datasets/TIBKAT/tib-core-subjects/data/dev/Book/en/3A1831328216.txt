@@ -1,0 +1,2 @@
+Artificial intelligence and big data : the birth of a new intelligence
+What is Intelligence? -- Digital Learning -- The Reign of Algorithms -- Uses for Artificial Intelligence -- Conclusion -- Big Data -- Smart Data -- Data Lakes -- Some Vocabulary Relevant to Artificial Intelligence -- Comparison Between Machine Learning and Traditional Business Intelligence -- Conceptual Outline of the Steps Required to Implement a Customization Solution based on Machine Learning

@@ -1,0 +1,2 @@
+PERFAG 4B - Spezifikation für flexible und starr-flexible Leiterplatten
+Die Hauptkapitel PERFAG 4B im Überblick:  Basismaterial  Leiterbild  Durchmetallisierte Löcher  Nicht-metallisierte Bohrungen  Vergoldung von Kontakten  Lötstoppmasken  Decklagen  Komponentendruck  Kohleleitpastendruck (Carbondruck)  Abziehmasken  Oberflächenschutz  Oberflächenreinheit  Löten  Mechanische Bearbeitung  Abkürzungen  Vokabular

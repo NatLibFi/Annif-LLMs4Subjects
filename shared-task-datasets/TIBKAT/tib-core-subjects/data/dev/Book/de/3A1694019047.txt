@@ -1,0 +1,2 @@
+Statistik mit SPSS : Fallbeispiele und Methoden
+Die neuste Auflage des Lehr- und Übungsbuches Statistik mit SPSS von Reinhold Hatzinger und Herbert Nagel ist mit seinen Inhalten auf die neuste SPSS Version abgestimmt. Auf praxisorientierte Weise werden Datentypen und die dazugehörigen Fragestellungen sowie typische Methoden der Datenbeschreibung und Auswertung in SPSS dargestellt. Für das Selbststudium können die Übungsdaten aus dem Buch von der begleitenden Website auf www.pearson-studium.de heruntergeladen werden

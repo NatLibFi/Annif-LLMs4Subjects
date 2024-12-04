@@ -1,0 +1,2 @@
+Entwicklung von Expertensystemen zur Prozeßüberwachung mit der Entwicklungsumgebung G2 unter besonderer Berücksichtigung der Wissensakquisition und -implementierung
+Bioprocess, expert system shell G2, on line process supervision, fault diagnosis, knowledge akquisition and implementation, cluster analysis

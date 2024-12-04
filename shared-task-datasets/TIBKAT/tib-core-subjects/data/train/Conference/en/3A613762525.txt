@@ -1,0 +1,2 @@
+Text mining : applications and theory ; [workshop on text mining was held on May 2, 2009 in conjunction with the SIAM Ninth International Conference on Data Mining ...]
+'Text Mining' addresses best practices in both the art and science of text mining. It covers the theory and application of algorithms and related software that facilitate the extraction and tracking of concepts in textual media

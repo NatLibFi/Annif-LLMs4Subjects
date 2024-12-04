@@ -1,0 +1,2 @@
+Integrated interconnect technologies for 3D nanoelectronic systems
+This cutting-edge book on off-chip technologies puts the hottest breakthroughs in high-density compliant electrical interconnects, nanophotonics, and microfluidics at your fingertips, integrating the full range of mathematics, physics, and technology issues together in a single comprehensive source

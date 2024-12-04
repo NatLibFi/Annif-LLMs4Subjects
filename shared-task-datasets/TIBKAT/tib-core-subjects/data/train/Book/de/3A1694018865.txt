@@ -1,0 +1,2 @@
+Rechnerarchitektur : von der digitalen Logik zum Parallelrechner
+Dieses erfolgreiche Grundlagenwerk bietet in der aktuellen 6. Auflageeine detaillierte Einführung in die Computerarchitektur. Klar und verständlich in Aufbau und Inhalt wendet sich dieses Buch an alle, die in Selbststudium oder Vorlesung detailliertes Wissen über alle wichtigen Bereiche der Computerarchitektur erwerben möchten

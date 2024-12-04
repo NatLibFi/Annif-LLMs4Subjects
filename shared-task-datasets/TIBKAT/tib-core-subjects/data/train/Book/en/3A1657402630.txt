@@ -1,0 +1,2 @@
+Biometrics : concepts, methodologies, tools, and applications
+"This book is a multi-volume publication highlighting critical topics related to access control, user identification, and surveillance technologies and featuring emergent research on the issues and challenges in security and privacy, various forms of user authentication, biometric applications to image processing and computer vision, and security applications within the field"--Provided by publisher.

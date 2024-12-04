@@ -1,0 +1,2 @@
+Fractional order crowd dynamics : cyber-human system modeling and control
+"This book illustrates the application of fractional calculus in crowd dynamics via modeling groups of pedestrians. Decision-making processes, conservation laws of mass/momentum, and micro-macro models are employed to describe system dynamics and cooperative movements, and reaction-advection-diffusion models are studied to control the group. With practical issues considered, this book is of interests to mathematicians, physicists, and engineers"--

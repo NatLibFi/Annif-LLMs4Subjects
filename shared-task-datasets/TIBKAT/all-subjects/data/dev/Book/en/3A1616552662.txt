@@ -1,0 +1,2 @@
+Statistical DNA forensics : theory, methods and computation
+Probability and statistics -- Population genetics -- Parentage testing -- Testing for kinship -- Interpreting mixtures -- Interpreting mixtures in the presence of relatives -- Other issues

@@ -1,0 +1,2 @@
+Agile estimation techniques and innovative approaches to software process improvement
+"This book reviews current SPI techniques and applications through discussions on current and future trends as well as the presentation of case studies on SPI implementation"--

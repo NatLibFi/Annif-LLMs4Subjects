@@ -1,0 +1,2 @@
+Architecture of reliable Web applications software
+"This book presents new concepts regarding reliability, availability, manageability, performance, scalability, and secured-ability of applications, particularly those that run over the Web. It examines causes of failure in Web-based information system development projects, and indicates that to exploit the unprecedented opportunities offered by e-service applications, businesses and users alike need a highly available, reliable, and efficient telecommunication infrastructure"--Provided by publisher

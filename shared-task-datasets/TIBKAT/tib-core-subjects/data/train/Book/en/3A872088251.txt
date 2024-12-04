@@ -1,0 +1,2 @@
+Comparative approaches to using R and Python for statistical data analysis
+"This book is a comprehensive source of emerging research and perspectives on the latest computer software and available languages for the visualization of statistical data. By providing insights on relevant topics, such as inference, factor analysis, and linear regression"--

@@ -1,0 +1,2 @@
+97 things every programmer should know : collective wisdom from the experts
+97 short and extremely useful programming tips from some of the most experienced and respected practitioners in the industry, including Uncle Bob Martin, Scott Meyers, Dan North, Linda Rising, Udi Dahan, Neal Ford, and many more. They encourage you to stretch yourself by learning new languages, looking at problems in new ways, following specific practices, taking responsibility for your work, and becoming as good at the entire craft of programming as you possibly can

@@ -1,0 +1,3 @@
+Von der Laserbeschriftung bis zum Lasermaterialabtrag : wie Sie sich mit den Grundlagen vertraut machen und Fehlinvestitionen vermeiden
+Entwicklungsgeschichte LASER - Physikalische Grundlagen - Lasersicherheit - Was jeder Anwender über Lasersicherheit wissen muss - Arten der Oberflächenbearbeitung mit Laser - Maschinenformen - Die fünf "wichtigsten Dinge" bei der Beschaffung
+Dieses Buch begleitet Entscheider in allen Phasen der Beschaffung von Lasermaschinen. Es bietet entsprechendes Fachwissen für den Prozess von der Entscheidung bis zum Kauf einer Laser-Bearbeitungsanlage. Neben den Grundlagen der Lasertechnik betrifft das auch die Themenfelder Lasersicherheit, Anwendungsmöglichkeiten, Software sowie die Möglichkeiten einer Automatisierung des Bearbeitungsprozesses.

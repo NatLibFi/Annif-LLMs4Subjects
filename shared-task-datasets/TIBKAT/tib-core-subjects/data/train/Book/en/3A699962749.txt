@@ -1,0 +1,2 @@
+Explanatory supplement to the Astronomical almanac
+The Explanatory Supplement to the Astronomical Almanac offers explanatory material, supplemental information, and detailed descriptions of the computational models and algorithms used to produce The Astronomical Almanac, which is an annual publication prepared jointly by the US Naval Observatory and Her Majesty's Nautical Almanac Office in the UK

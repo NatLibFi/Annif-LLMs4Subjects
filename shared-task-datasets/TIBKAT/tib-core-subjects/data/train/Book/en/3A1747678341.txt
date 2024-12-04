@@ -1,0 +1,2 @@
+Hands-On Image Generation with TensorFlow : A Practical Guide to Generating Images and Videos Using Deep Learning
+This book is a step-by-step guide to show you how to implement generative models in TensorFlow 2.x from scratch. You'll get to grips with the image generative technology by covering autoencoders, style transfer, and GANs as well as fundamental and state-of-the-art models.

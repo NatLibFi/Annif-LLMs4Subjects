@@ -1,0 +1,2 @@
+Radio receiver technology : principles, architectures, and applications
+"The purpose of this book is to provide the users of radio receivers with the required knowledge of the basic mechanisms and principles of present-day receiver technology"--

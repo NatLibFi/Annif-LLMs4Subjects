@@ -1,0 +1,2 @@
+Einstieg in das Programmieren mit MATLAB
+Verlagstext: Dieses Lehrbuch wendet sich an Studentinnen und Studenten der Ingenieurwissenschaften in den ersten Semestern und orientiert sich in der Stoffauswahl an einer zweisemestrigen Vorlesung über angewandte Informatik

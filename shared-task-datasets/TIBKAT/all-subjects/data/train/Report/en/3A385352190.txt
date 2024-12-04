@@ -1,0 +1,2 @@
+Elektronische Multimediale Bedien- und Service-Assistenz (EMBASSI) : Abschlussbericht des Teilprojekts: Dialogmanagement für spontansprachliche Kommunikation
+Speech recognition, speech processing, natural language understanding, dialogue system, text generation, domain modelling, signal preprocessing, robust featuring

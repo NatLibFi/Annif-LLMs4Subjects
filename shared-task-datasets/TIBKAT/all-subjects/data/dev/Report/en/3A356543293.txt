@@ -1,0 +1,2 @@
+AUTOBENCH : integrierte Entwicklungsumgebung für virtuelle Automobil-Prototypen ; [Berichtsteitraum: 01.05.1998 - 30.04.2001]
+Parallel computing, numerical simulation, computer aided engineering, virtual reality, integration of process chains

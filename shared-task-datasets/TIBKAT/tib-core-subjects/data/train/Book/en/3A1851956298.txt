@@ -1,0 +1,2 @@
+Lectures on linear algebra and its applications
+Publisher’s description: Suitable for introductory and advanced courses, Lectures on Linear Algebra presents the topic in a clear and concise manner. Chapters include exercises, non-trivial and practical applications. In-depth explorations pertaining to differential equations, calculus, and differential geometry are provided. A solution manual available to instructors covers discussion of additional topics, including Perron-Frobenius theorem, and Gram determinants.

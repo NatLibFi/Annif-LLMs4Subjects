@@ -1,0 +1,2 @@
+Prime Spectra in Non-Commutative Algebra
+Symmetric localization and sheaves -- Generalities on localization -- Symmetric kernel functors -- Sheaves -- Primes in algebras over fields -- Application: The symmetric part of the brauer group.

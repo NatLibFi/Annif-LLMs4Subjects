@@ -1,0 +1,2 @@
+Microarray quality control
+Quality of biological samples -- Microarray production: quality of DNA and printing -- Quality of microarray hybridization -- Scanners and data acquisition -- Image analysis -- Quality control in data analysis

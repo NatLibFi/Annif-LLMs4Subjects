@@ -1,0 +1,2 @@
+Nano-structured diffraction gratings as polarizing beam splitters under vertical incidence
+Polarizing beam splitters have numerous applications in optical systems, e.g. for the measurement of freeform surfaces. We present a design and manufacturing process for a nanostructured diffraction grating with optimized diffraction efficiencies for TE- and TM-polarization, which acts as a beam splitter over a long range of incidence angles. First measurements confirm a strong difference in diffraction efficiencies.

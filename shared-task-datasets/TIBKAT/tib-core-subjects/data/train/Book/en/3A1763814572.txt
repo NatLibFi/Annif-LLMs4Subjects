@@ -1,0 +1,2 @@
+Bootstrapping microservices with Docker, Kubernetes, and Terraform : a project-based guide
+"In Bootstrapping Microservices with Docker, Kubernetes, and Terraform, author Ashley Davis lays out a comprehensive approach to building microservices. You'll start with a simple design and work layer-by-layer until you've created your own video streaming application. As you go, you'll learn to configure cloud infrastructure with Terraform, package microservices using Docker, and deploy your finished project to a Kubernetes cluster." --

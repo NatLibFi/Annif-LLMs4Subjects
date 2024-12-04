@@ -1,0 +1,2 @@
+Learning Systems: Decision, Simulation, and Control
+Cybernetics of learning -- Decision - pattern recognition -- Simulation-models of collective behavior -- Control-finite Markov chains -- Epilogue.

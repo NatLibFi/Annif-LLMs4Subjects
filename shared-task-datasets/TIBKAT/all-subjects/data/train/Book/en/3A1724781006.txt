@@ -1,0 +1,2 @@
+The mother body phase transition in the normal matrix model
+Statement of main results -- Limiting boundary of eigenvalues. Proofs of propositions 2.1 and 2.7 and theorems 2.2, 2.5 and 2.8 -- Geometry of the spectral curve. Proof of theorem 2.6 -- Meromorphic quadratic differential on R -- Proofs of theorems 2.3, 2.4, 2.9 and 2.10 -- Riemann-Hilbert analysis in the three-cut case -- Riemann-Hilbert analysis in the one-cut case -- Construction of the global parametrix -- Proofs of theorems 2.14 and 2.15.

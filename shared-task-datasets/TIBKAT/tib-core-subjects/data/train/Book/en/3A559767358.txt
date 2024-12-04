@@ -1,0 +1,2 @@
+Elements of automata theory
+Preface to the English edition -- Preface -- Fundamental structures -- The simplest possible machine -- The power of algebra -- The pertinence of enumeration -- The richness of transducers -- The simplicity of functional transducers

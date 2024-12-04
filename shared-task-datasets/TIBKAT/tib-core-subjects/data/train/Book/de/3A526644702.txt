@@ -1,0 +1,2 @@
+Kombinatorische Optimierung erleben : in Studium und Unterricht
+Einleitung (Hußmann/Lutz-Westphal) - Von der Praxis in die Schule (Gritzmann) - Minimale aufspannende Bäume (Lutz-Westphal) - Kürzeste Wege (Lutz-Westphal) - Das chinesische Postbotenproblem (Lutz-Westphal) - Das Traveling-Salesman-Problem (Schuster) - Matchings und Flüsse in Netzwerken (Hußmann) - Mit Mathematik spielend gewinnen - Trianguli, Hex, ... (Hußmann) - Färbungen (Leuders) - Von der Schule in die Praxis (Grötschel) - Anhang: wichtige Sätze der Graphentheorie

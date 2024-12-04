@@ -1,0 +1,2 @@
+Smart cities : concepts, practices, and applications
+"This reference text discusses the various aspects of smart cities and their architecture along with the application of the latest technologies including the Internet of Things (IoT) and artificial intelligence. The concept of smart cities, their development, technological advancements, and issue related to them will be discussed in detail"--

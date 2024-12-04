@@ -1,0 +1,2 @@
+Computer vision and image processing in intelligent systems and multimedia technologies
+"This book features timely and informative research on the design and development of computer vision and image processing applications in intelligent agents as well as in multimedia technologies"--

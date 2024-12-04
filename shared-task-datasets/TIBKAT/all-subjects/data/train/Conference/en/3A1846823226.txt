@@ -1,0 +1,2 @@
+Optimization and learning : 6th International Conference, OLA 2023, Malaga, Spain, May 3-5, 2023, proceedings
+This book constitutes the refereed proceedings of the 6th International Conference on Optimization and Learning, OLA 2023, held in Malaga, Spain, during May 3-5, 2023. The 32 full papers included in this book were carefully reviewed and selected from 78 submissions. They were organized in topical sections as follows: advanced optimization; learning; learning methods to enhance optimization tools; optimization applied to learning methods; and real-world applications

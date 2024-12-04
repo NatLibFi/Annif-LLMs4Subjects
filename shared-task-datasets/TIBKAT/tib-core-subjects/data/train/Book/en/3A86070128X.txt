@@ -1,0 +1,2 @@
+Seismic inversion : theory and applications
+Basics of seismic inversion -- Linear systems for inversion -- Least-squares solutions -- Singular value analysis -- Gradient-based methods -- Regularisation -- Localised average solutions -- Seismic wavelet estimation -- Seismic reflectivity inversion -- Seismic ray-impedance inversion -- Seismic tomography based on ray theory -- Waveform tomography for the velocity model -- Waveform tomography with irregular topography -- Waveform tomography for seismic impedance -- Appendices

@@ -1,0 +1,2 @@
+The modal multifield approach in multibody dynamics
+Modal multifield representation, extended flexible body description, piezoelectricity, smart structures, thermoelasticity, thermally induced displacements

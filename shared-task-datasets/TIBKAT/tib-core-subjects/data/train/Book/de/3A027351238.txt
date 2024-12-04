@@ -1,0 +1,2 @@
+Keine Angst vor UNIX : ein Lehrbuch für Einsteiger
+Dieses Buch bietet einen leichten Einstieg in UNIX. Aus der Vielfalt der Kommandos und den fast "unendlichen" Variationsmöglichkeiten ist das Wesentliche für den Anwender herausgefiltert.

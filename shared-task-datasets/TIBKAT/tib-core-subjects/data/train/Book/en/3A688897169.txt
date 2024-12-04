@@ -1,0 +1,2 @@
+Machine learning algorithms for problem solving in computational applications : intelligent techniques
+"This book addresses the complex realm of machine learning and its applications for solving various real-world problems in a variety of disciplines, such as manufacturing, business, information retrieval, and security"--

@@ -1,0 +1,2 @@
+Software engineering reviews and audits
+Written to answer questions regarding the setup and performance of specific software engineering reviews and audits, this book explains how to conduct reviews and audits properly and in compliance with mandatory software requirements

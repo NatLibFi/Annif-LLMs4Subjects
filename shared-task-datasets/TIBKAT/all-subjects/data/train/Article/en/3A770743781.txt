@@ -1,0 +1,2 @@
+Numerical modeling of piezoelectric energy harvesting devices
+Energy harvesting, space-time finite elements, harvesting circuit, coupled system and monolithic framework

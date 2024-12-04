@@ -1,0 +1,3 @@
+Lower Central and Dimension Series of Groups
+A fundamental object of study in group theory is the lower central series of groups. Understanding its relationship with the dimension series, which consists of the subgroups determined by the augmentation powers, is a challenging task. This monograph presents an exposition of different methods for investigating this relationship. In addition to group theorists, the results are also of interest to topologists and number theorists. The approach is mainly combinatorial and homological. A novel feature is an exposition of simplicial methods for the study of problems in group theory
+Lower Central Series -- Dimension Subgroups -- Derived Series -- Augmentation Powers -- Homotopical Aspects -- Miscellanea

@@ -1,0 +1,2 @@
+Grundlagen der technischen Thermodynamik : Lehrbuch für Studierende der Ingenieurwissenschaften
+Thermodynamische Grundbegriffe -- Der erste Hauptsatz der Thermodynamik -- Der zweite Hauptsatz der Thermodynamik -- Ideale Gase -- Reale Gase und Dämpfe -- Thermische Maschinen -- Kreisprozesse -- Exergie -- Wärmeübertragung -- Feuchte Luft -- Verbrennung.

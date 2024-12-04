@@ -1,0 +1,2 @@
+Lectures on contact 3-manifolds, holomorphic curves and intersection theory
+Motivation -- Closed holomorphic curves in symplectic 4-manifolds -- Intersections, ruled surfaces, and contact boundaries -- Asymptotics of punctured holomorphic curves -- Intersection theory for punctured holomorphic curves -- Symplectic fillings of planar contact 3-manifolds.

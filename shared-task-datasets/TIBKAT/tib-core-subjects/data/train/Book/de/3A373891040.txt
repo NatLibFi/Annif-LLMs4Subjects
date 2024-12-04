@@ -1,0 +1,2 @@
+Bemessung im konstruktiven Betonbau : nach DIN 1045-1 und DIN EN 1992-1-1
+Tragverhalten eines Einfeldbalkens (Biegung, Längskraft, Querkraft).- Grundlagen der Bemessung im Grenzzustand der Tragfähigkeit.- Bemessung für Biegung mit Längskraft (GZT).- Bemessung für Querkraft (GZT).- Bemessung für Torsion (GZT).- Verformungsverhalten von Stahlbetontragwerken.- Grenzzustand der Gebrauchstauglichkeit.- Besonderheiten bei statisch unbestimmten Balken.- Grundlagen des Bewehrens von Stahlbetonbauteilen.-

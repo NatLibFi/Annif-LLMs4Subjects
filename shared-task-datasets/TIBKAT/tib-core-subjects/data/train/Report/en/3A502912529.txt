@@ -1,0 +1,2 @@
+Biometric image discrimination technologies
+"The book gives an introduction to basic biometric image discrimination technologies including theories that are the foundations of those technologies and new algorithms for biometrics authentication"--Provided by publisher

@@ -1,0 +1,2 @@
+Advanced operating systems and kernel applications : techniques and technologies
+"This book discusses non-distributed operating systems that benefit researchers, academicians, and practitioners"--Provided by publisher

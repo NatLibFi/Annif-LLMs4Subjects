@@ -1,0 +1,2 @@
+Number theory through inquiry
+Introduction -- Divide and conquer -- Prime time -- A modular world -- Fermat's Little Theorem and Euler's Theorem -- Public key cryptography -- Polynomial congruences and primitive roots -- The golden rule : quadratic reciprocity -- Pythagorean triples, sums of squares, and Fermat's Last Theorem -- Rationals close to irrationals and the Pell equation -- The search for primes -- Mathematical induction : the domino effect

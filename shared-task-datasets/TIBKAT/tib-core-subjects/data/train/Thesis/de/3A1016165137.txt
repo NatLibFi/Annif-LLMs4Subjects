@@ -1,0 +1,2 @@
+Austauschbarkeit in Diskreten Strukturen : Simplizes und Filtrationen
+Diskrete Strukturen, Austauschbarkeit, Equipped Graded Graphs, Rückwärtsübergangswahrscheinlichkeiten, Doob-Martin Theorie, Markovketten, Simplizes, Isomorphie, ergodische Verteilungen, Homöomorphie, Darstellungsresultate, Filtrationen, Standardness. - Discrete structures, exchangeability, cotransition probabilities, Doob-Martin boundary theory, Markov chains, simplices, isomorphism, ergodic laws, homeomorphism, representation results, filtrations

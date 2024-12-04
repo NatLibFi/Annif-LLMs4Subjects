@@ -1,0 +1,2 @@
+Recent algorithms and applications in swarm intelligence research
+"This book highlights the current research on swarm intelligence algorithms and their applications, including research, survey and application chapters"--

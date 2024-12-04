@@ -1,0 +1,2 @@
+Schweißen mit Laser : Grundlagen
+Das Buch liefert eine anschauliche Beschreibung der Vorgänge beim Schweißen mit Hochleistungs-Lasern und damit die Basis für die Dimensionierung und Optimierung eines Laserstrahl-Schweißprozesses. Einzelne Effekte werden soweit als möglich separiert und vvon den Grundlagen bis hin zur Beschreibung durch Näherungsformeln betrachtet. Wo dies nicht möglich ist, werden Untersuchungsmethoden erläutert, welche die Vorgänge veranschaulichen und so ein tieferes Verständnis vermitteln

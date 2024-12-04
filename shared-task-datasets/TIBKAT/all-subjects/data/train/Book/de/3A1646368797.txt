@@ -1,0 +1,3 @@
+Hydraulik und Pneumatik : Grundlagen und Übungen—Anwendungen und Simulation
+Einführung -- Fluide und Fluideigenschaften -- Grundlagen der Fluidmechanik -- Komponenten und Bauteile -- Steuern, Regeln, Simulieren.
+Dieses Lehr- und Übungsbuch gibt eine anwendungs- und praxisorientierte Darstellung zu hydraulischen und pneumatischen Systemen. Wichtige Konstruktionselemente und deren Regelung sowie die Darstellung von Simulationsberechnungen ermöglichen einen schnellen Überblick über die behandelte Thematik. Durch zahlreiche Berechnungs- und Übungsbeispiele mit Lösungen und ergänzenden Hinweisen ist das Buch sehr gut für das Selbststudium geeignet.

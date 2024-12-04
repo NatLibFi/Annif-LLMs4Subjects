@@ -1,0 +1,2 @@
+Kernel smoothing : principles, methods and applications
+Density estimation -- Nonparametric regression -- Trend estimation -- Semiparametric regression -- Surface estimation

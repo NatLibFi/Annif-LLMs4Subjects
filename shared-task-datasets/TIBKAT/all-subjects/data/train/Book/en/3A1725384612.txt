@@ -1,0 +1,2 @@
+Deep neural networks for multimodal imaging and biomedical applications
+"This book provides research exploring the theoretical and practical aspects of emerging data computing methods and imaging techniques within healthcare and biomedicine. The publication provides a complete set of information in a single module starting from developing deep neural networks to predicting disease by employing multi-modal imaging"--

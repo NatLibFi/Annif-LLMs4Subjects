@@ -1,0 +1,2 @@
+Biomedical signal processing for healthcare applications
+"This book examines biomedical signal processing in which biomedical signals such as EEG, EMG, ECG are used to analyze and diagnosis various medical conditions. In combination with machine learning tools and other optimization methods, the analysis of biomedical signals will subsequently benefit the healthcare sector"--

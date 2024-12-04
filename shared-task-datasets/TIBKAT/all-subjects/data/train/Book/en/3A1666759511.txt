@@ -1,0 +1,2 @@
+PHP and MySQL for dynamic web sites
+Introduction to PHP -- Programming with PHP -- Creating dynamic web sites -- Introduction to MySQL -- Introduction to SQL -- Database design -- Advanced SQL and MySQL -- Error handling and debugging -- Using PHP with MySQL -- Common programming techniques -- Web application development -- Cookies and sessions -- Security methods -- Perl-compatible regular expressions -- Introducing jQuery-- An OOP primer -- Example: message board -- Example: user registration -- Installation.

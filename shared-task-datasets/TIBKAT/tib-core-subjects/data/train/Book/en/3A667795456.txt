@@ -1,0 +1,2 @@
+Agile software engineering with Visual Studio : from concept to continuous feedback
+The agile consensus -- Scrum, agile practices, and Visual studio -- Product ownership -- Running the sprint -- Architecture -- Development -- Build and lab -- Testing -- Lessons learned at Microsoft Developer Division -- Continuous feedback

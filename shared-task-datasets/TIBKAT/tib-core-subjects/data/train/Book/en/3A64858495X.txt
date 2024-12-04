@@ -1,0 +1,2 @@
+The web designer's guide to iOS Apps: create iPhone, iPod touch, and iPad Apps with Web Standards : HTML5, CSS3, and JavaScript
+Provides information on creating a variety of applications for the iPhone, iPod touch, and iPad using standard iOS elements

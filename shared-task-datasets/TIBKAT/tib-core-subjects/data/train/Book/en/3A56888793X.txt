@@ -1,0 +1,2 @@
+Stochastic processes, estimation, and control
+Probability theory -- Random variables and stochastic processes -- Conditional expectations and discrete-time Kalman filtering -- Least squares, the orthogonal projection Lemma, and discrete-time Kalman filtering -- Stochastic processes and stochastic calculus -- Continuous-time Guass-Markov systems -- The extended Kalman filter -- A selection of results from estimation theory -- Stochastic control and linear quadratic Guassian control problem -- Linear exponential Guassian control and estimation

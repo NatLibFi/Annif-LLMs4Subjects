@@ -1,0 +1,2 @@
+Waves in metamaterials
+Metamaterials is a subject born in the 21st century. It is concerned with artificial materials which can have electrical & magnetic properties difficult to find in nature. The mathematics of the book is within the power of final year undergraduates: the aim is to explain the physics in simple terms & enumerate the major advances

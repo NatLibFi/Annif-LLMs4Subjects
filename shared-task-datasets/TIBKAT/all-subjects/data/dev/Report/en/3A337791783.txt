@@ -1,0 +1,2 @@
+Evaluierung der Fertigungs-Technologie 300 mm : Teilprojekt CIM System ; Projekt Periode : 01.04.1998 - 31.03.2000
+Semiconductor, 300mm, CIM-System, equipment model; single wafer logistic, process-flow-model, integration transport system, integration ID-System, CIM architecture, automated process job execution

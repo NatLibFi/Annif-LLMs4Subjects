@@ -1,0 +1,2 @@
+Next-generation video coding and streaming
+"This book describes next-generation video coding and streaming technologies with a comparative assessment of the strengths and weaknesses. Specific emphasis is placed on the H.265/HEVC video coding standard and adaptive bit rate video streaming"--

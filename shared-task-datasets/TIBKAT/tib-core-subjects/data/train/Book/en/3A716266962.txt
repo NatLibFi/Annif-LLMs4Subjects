@@ -1,0 +1,2 @@
+Quantum gases : finite temperature and non-equilibrium dynamics
+A broad overview of the principal theoretical techniques applied to non-equilibrium and finite temperature quantum gases. Covering Bose-Einstein condensates, degenerate Fermi gases, and the more recently realised exciton-polariton condensates, it fills a gap by linking between different methods with origins in condensed matter physics, quantum field theory, quantum optics, atomic physics and statistical mechanics --

@@ -1,0 +1,2 @@
+Deep learning with R
+Introduces deep learning systems using the powerful Keras library and its R language interface. The book builds your understanding of deep learning through intuitive explanations and practical examples

@@ -1,0 +1,2 @@
+Java-Grundkurs für Wirtschaftsinformatiker : die Grundlagen verstehen - objektorientierte Programmierung - fortgeschrittene Konzepte kennenlernen - betriebswirtschaftlich orientierte Beispiele
+Grundlagen der Programmerstellung und Java-Architektur - Datentypen, Operatoren, Kontrollstrukturen - Objektorientierung: Klassen und Objekte - Vererbung und Polymorphie - Algorithmen und Datenstrukturen - Java und Relationale Datenbanken - Betriebswirtschaftliche Entwurfsmuster - Verteilte Anwendungsszenarien

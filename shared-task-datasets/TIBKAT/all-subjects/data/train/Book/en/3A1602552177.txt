@@ -1,0 +1,2 @@
+Blender master class : a hands-on guide to modeling, sculpting, materials, and rendering
+Introduction to blender -- Introduction to gimp -- Preparation -- Blocking in -- Modeling the details -- Sculpting -- Retopology -- Uv unwrapping -- Hair and particle systems -- Texture baking -- Texture painting -- Materials -- Lighting -- Rendering and compositing -- Going further

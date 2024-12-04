@@ -1,0 +1,2 @@
+Visual data analysis in air traffic management
+Visual data mining, multi-dimensional scaling, POLARMAP, Sammon's mapping, clustering, outlier detection

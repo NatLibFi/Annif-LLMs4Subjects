@@ -1,0 +1,2 @@
+Software engineering for modern Web applications : methodologies and technologies
+"This book presents current, effective software engineering methods for the design and development of modern Web-based applications"--Provided by publisher

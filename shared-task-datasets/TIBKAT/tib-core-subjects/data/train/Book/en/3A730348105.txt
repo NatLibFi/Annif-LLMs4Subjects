@@ -1,0 +1,2 @@
+Spatial statistics & geostatistics : theory and applications for geographic information science & technology
+Its focus is on spatial statistics as a distinct form of statistical analysis and it includes computer components for ArcGIS, R, SAS, and WinBUGS. The teaching and learning objective of the text is to illustrate the use of basic spatial statistics, geostatistics and the spatial filtering techniques used in all the relevant programs and software

@@ -1,0 +1,2 @@
+Einführung in die Ökonometrie
+Anhand realer Fragestellungen wird der Leser in die Methoden der Ökonometrie eingeführt. Das Besondere an diesem Buch: Da in der Praxis mit unterschiedlichen Softwarelösungen (kostenpflichtig und frei) gearbeitet wird, stehen beide Datensätze jeweils in Eviews, R und Gretl zur Verfügung. Zusätzlich wurde die neue Auflage um eine große Anzahl an Rechenbeispielen ergänzt

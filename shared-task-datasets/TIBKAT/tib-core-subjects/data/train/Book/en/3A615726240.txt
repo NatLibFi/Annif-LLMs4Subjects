@@ -1,0 +1,2 @@
+Mechatronics : a foundation course
+"This book explains the fundamentals of integrating different types of components and functions, both mechanical and electrical, to achieve optimal operation that meets a desired set of performance specifications. This integration will benefit performance, efficiency, reliability, cost, and environmental impact."--Publisher description

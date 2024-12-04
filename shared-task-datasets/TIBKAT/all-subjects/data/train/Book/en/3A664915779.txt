@@ -1,0 +1,2 @@
+Toward a minor architecture
+What is minor architecture? -- The myth of the interior -- The myth of the object -- The myth of the subject -- The myth of nature

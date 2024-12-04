@@ -1,0 +1,2 @@
+Multi-agent-based simulations applied to biological and environmental systems
+"This book is a pivotal reference source for the latest research on the implementation of autonomous agents in computer simulation paradigms. Featuring extensive coverage on relevant applications, such as biodiversity conservation, pollution reduction, and environmental risk assessment"--Provided by publisher.

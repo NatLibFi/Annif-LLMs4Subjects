@@ -1,0 +1,2 @@
+Languages, Compilers, and Tools for Embedded Systems : ACM SIGPLAN Workshop LCTES 2000 Vancouver, Canada, June 18, 2000 Proceedings
+This book constitutes the thoroughly refereed post-proceedings of the ACM SIGPLAN Workshop on Languages, Compilers, and Tools for Embedded Systems, LCTES 2000, held in Vancouver, Canada, in June 2000. The 12 revised full papers presented together with five posters were carefully reviewed and selected from a total of 43 submissions. The book presents topical sections on formal methods and databases, compilers, tools, hardware, and work in process

@@ -1,0 +1,2 @@
+Text mining techniques for healthcare provider quality determination : methods for rank comparisons
+"This book discusses defining a patient severity index for risk adjustments and comparison of patient outcomes to assess quality factors"--Provided by publisher

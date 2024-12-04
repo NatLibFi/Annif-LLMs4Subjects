@@ -1,0 +1,2 @@
+Social, legal, and ethical implications of IoT, cloud, and edge computing technologies
+"This book provides vital research on the non-technical repercussions of IoT technology adoption. While highlighting topics such as smart cities, environmental monitoring, and data privacy, this publication explores the regulatory and ethical risks that stem from computing technologies"--

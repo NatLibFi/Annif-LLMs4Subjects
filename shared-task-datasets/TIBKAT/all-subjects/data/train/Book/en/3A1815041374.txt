@@ -1,0 +1,2 @@
+Software engineering : basic principles and best practices
+"To meet user needs, software is developed/evolved by eliciting requirements, adopting agile methods, designing modular systems, verifying implementations, and using metrics and data to track progress. This book addresses the main challenges that arise. For courses with a significant team project, an appendix offers tips and templates"--

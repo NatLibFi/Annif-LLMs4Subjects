@@ -1,0 +1,2 @@
+Practical IoT hacking : the definitive guide to attacking the internet of things
+"A guide to hacking internet of things (IoT) systems, such as medical devices, home assistants, and smart objects. Explores vulnerabilities and security flaws found in these devices and explains the protocols they use to communicate over networks. Includes practical exercises and hands-on examples"--Provided by publisher--

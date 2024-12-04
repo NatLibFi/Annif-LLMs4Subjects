@@ -1,0 +1,2 @@
+Electronic devices
+Introduction to electronics -- Diodes and applications -- Special-purpose diodes -- Bipolar junction transistors -- Transistor bias circuits -- BJT amplifiers -- Power amplifiers -- Field-effect transistors (FETS) -- FET amplifiers and switching circuits -- Amplifier frequency response -- Thyristors -- The operational amplifier -- Basic op-amp circuits -- Special-purpose op-amp circuits -- Active filters -- Oscillators -- Voltage regulators -- Basic programming concepts

@@ -1,0 +1,2 @@
+Modern control systems
+"The role of control systems in green engineering will continue to expand as the global issues facing us require ever increasing levels of automation and precision. In the book, we present key examples from green engineering such as wind turbine control and modeling of a photovoltaic generator for feedback control to achieve maximum power delivery as the sunlight varies over time"--

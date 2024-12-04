@@ -1,0 +1,2 @@
+Introduction to Étale Cohomology
+Étale Cohomology is one of the most important methods in modern Algebraic Geometry and Number Theory. It has, in the last decades, brought fundamental new insights in arithmetic and algebraic geometric problems with many applications and many important results. The book gives a short and easy introduction into the world of Abelian Categories, Derived Functors, Grothendieck Topologies, Sheaves, General Étale Cohomology, and Étale Cohomology of Curves

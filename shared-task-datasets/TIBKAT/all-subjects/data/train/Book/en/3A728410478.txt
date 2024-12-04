@@ -1,0 +1,2 @@
+Computational fluid-structure interaction : methods and applications
+"Computational Fluid-Structure Interaction is a complete, self-contained reference that takes the reader from the fundamentals of computational fluid and solid mechanics all the way to the state-of-the-art in CFSI research"--

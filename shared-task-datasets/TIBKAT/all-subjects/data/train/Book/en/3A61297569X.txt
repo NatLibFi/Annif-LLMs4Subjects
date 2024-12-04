@@ -1,0 +1,2 @@
+Trust modeling and management in digital environments : from social concept to system development
+"This book investigates various definitions of trust and their characteristics in distributed systems and digital computing, and details how to model and implement trust in a digital system"--Provided by publisher

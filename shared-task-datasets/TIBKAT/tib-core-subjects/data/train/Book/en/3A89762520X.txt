@@ -1,0 +1,2 @@
+Probability and statistics for economists
+Preface -- Introduction to probability and statistics -- Foundation of probability theory -- Random variables and univariate probability distributions -- Important probability distributions -- Multivariate probability distributions -- Introduction to sampling theory -- Convergences and limit theorems -- Parameter estimation and evaluation -- Hypothesis testing -- Classical linea -- Conclusion -- Bibliography

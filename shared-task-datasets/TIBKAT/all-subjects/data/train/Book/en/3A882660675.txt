@@ -1,0 +1,2 @@
+Handbook of research on modeling, analysis, and application of nature-inspired metaheuristic algorithms
+"This book provides the reader with a broad coverage of the concepts, themes and instrumentalities of this important and evolving area of optimization. In doing so, the editors hope to encourage an even wider adoption of metaheuristic methods for assisting in problem solving, and to stimulate research that may lead to additional innovations in metaheuristic procedures"--

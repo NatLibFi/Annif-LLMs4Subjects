@@ -1,0 +1,3 @@
+Analytical and numerical methods for vibration analyses
+"A book to introduce the theories or methods presented in some of the author's publications appearing in the international journals"--
+"This book illustrates theories and associated mathematical expressions with numerical examples using various methods, leading to exact solutions, more accurate results, and more computationally efficient techniques. It presents the derivations of the equations of motion for all structure foundations using either the continuous model or the discrete model. It discusses applications for students taking courses including vibration mechanics, dynamics of structures, and finite element analyses of structures, the transfer matrix method, and Jacobi method"--

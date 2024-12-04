@@ -1,0 +1,2 @@
+Applied Probability and Queues
+Simple Markovian Models -- Markov Chains -- Markov Jump Processes -- Queueing Theory at the Markovian Level -- Queueing Networks and Insensitivity -- Some General Tools and Methods -- Renewal Theory -- Regenerative Processes -- Further Topics in Renewal Theory and Regenerative Processes -- Random Walks -- Lévy Processes, Reflection and Duality -- Special Models and Methods -- Steady-State Properties of of GI/G/1 -- Markov Additive Models -- Many-Server Queues -- Exponential Change of Measure -- Dams, Inventories and Insurance Risk.

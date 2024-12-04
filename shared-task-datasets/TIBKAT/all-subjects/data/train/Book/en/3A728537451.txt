@@ -1,0 +1,2 @@
+Cylindric-like Algebras and Algebraic Logic
+Algebraic notions applied to cylindric-like algebras -- Representation theory -- Notions of logic related to cylindric-like algebras -- Applications of cylindric-like algrebras -- Other algebraic versions of logic -- Connections with abstract algebraic logic and universal logic

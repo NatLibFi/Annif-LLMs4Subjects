@@ -1,0 +1,2 @@
+Regelungstechnik für Dummies : [auf einen Blick: Prozesse, Reglertypen, Regelkreise und die mathematischen Gleichungen verstehen ...]
+Erwin Hasenjäger erklärt Schritt für Schritt und mit zahlreichen Beispielen, was Sie über Regelungstechnik unbedingt wissen sollten. Sie erfahren, welche Reglertypen es gibt, wieso Simulationen so wichtig sind, was es mit Schwingungen sowie Dynamik auf sich hat und vieles mehr. Natürlich kommen dabei auch die mathematischen Grundlagen und die passende Software nicht zu kurz

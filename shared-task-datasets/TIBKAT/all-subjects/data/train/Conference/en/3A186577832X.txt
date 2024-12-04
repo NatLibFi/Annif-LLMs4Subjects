@@ -1,0 +1,2 @@
+Service-oriented computing : 17th Symposium and Summer School, SummerSOC 2023, Heraklion, Crete, Greece, June 25-July 1, 2023 : revised selected papers
+This book constitutes the refereed proceedings of the 17th Symposium and Summer School, SummerSOC 2023, held in Heraklion, Crete, Greece, in June 25-July 1, 2023. The 6 full papers and 3 short papers presented in this book were carefully reviewed and selected from 27 submissions. They are organized in the following sections as follows: Distributed Systems; Smart; and Mixed Technologies

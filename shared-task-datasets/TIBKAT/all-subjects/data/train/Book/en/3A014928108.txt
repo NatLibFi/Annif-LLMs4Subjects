@@ -1,0 +1,3 @@
+Exciton dynamics in molecular crystals and aggregates
+Kenkre, V.M.; The master equation approach : coherence, energy transfer, annihilation, and relaxation
+Reineker, P.; Stochastic Liouville equation approach : coupled coherent and incoherent motion, optical line shapes, magnetic resonance phenomena

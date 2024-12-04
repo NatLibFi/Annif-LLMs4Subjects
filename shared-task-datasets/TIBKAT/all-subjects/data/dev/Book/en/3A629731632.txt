@@ -1,0 +1,3 @@
+Cluster analysis
+"This edition provides a thorough revision of the fourth edition which focuses on the practical aspects of cluster analysis and covers new methodology in terms of longitudinal data and provides examples from bioinformatics"--
+"This edition provides a thorough revision of the fourth edition which focuses on the practical aspects of cluster analysis and covers new methodology in terms of longitudinal data and provides examples from bioinformatics. Real life examples are used throughout to demonstrate the application of the theory, and figures are used extensively to illustrate graphical techniques. This book includes an appendix of getting started on cluster analysis using R, as well as a comprehensive and up-to-date bibliography."--

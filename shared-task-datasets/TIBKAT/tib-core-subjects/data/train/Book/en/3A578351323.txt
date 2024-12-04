@@ -1,0 +1,2 @@
+Programming and problem solving with C++
+Overview of programming and problem solving -- C++ syntax and semantics and the program development process -- Numeric types, expressions, and output -- Program input and the software design process -- Conditions, logical expressions and selection control structures -- Looping -- Additional control structures -- Functions -- Scope, lifetimes, and more on functions -- User defined data types -- Arrays -- Classes and object-oriented software engineering -- Recursion -- Glossary

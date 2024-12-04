@@ -1,0 +1,3 @@
+High-Fidelity Quantum Logic in Ca+
+Introduction -- Trapped-Ion Qubits -- Raman Interactions -- Two-Qubit Gate Theory -- Apparatus -- Experiment Characterization -- Single-Qubit Gates -- Experimental Implementations of Two-Qubit Gates -- Conclusion.
+This thesis describes experimental work in the field of trapped-ion quantum computation. It outlines the theory of Raman interactions, examines the various sources of error in two-qubit gates, and describes in detail experimental explorations of the sources of infidelity in implementations of single- and two-qubit gates. Lastly, it presents an experimental demonstration of a mixed-species entangling gate.

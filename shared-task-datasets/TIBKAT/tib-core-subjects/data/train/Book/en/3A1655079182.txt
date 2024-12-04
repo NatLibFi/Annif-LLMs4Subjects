@@ -1,0 +1,2 @@
+Analytic and Algebraic Dependence of Meromorphic Functions
+Preface -- German letters -- The rank of a holomorphic map -- Product representations -- Meromorphic functions -- Dependence -- Proper, light, holomorphic maps -- The field -- Semi-proper maps -- Quasi-proper maps -- as a finite algebraic extension of -- Quasi-proper maps of codimension k -- Full holomorphic maps -- Globalization -- The schwarz Lemma -- Sections in meromorphic line bundles -- Preparations -- Pseudoconcave maps -- A counter example by Kas.

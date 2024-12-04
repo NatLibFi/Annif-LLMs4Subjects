@@ -1,0 +1,2 @@
+Error control for network-on-chip links
+"This book focuses on the use of error control codes (ECCs) to improve on-chip interconnect reliability. Coverage includes detailed description of key issues in NOC error control faced by circuit and system designers, as well as practical error control techniques to minimize the impact of these errors on system performance." --

@@ -1,0 +1,2 @@
+Non-Semisimple Topological Quantum Field Theories for 3-Manifolds with Corners
+and Summary of Results -- The Double Category of Framed, Relative 3-Cobordisms -- Tangle-Categories and Presentation of Cobordisms -- Isomorphism between Tangle and Cobordism Double Categories -- Monoidal categories and monoidal 2-categories -- Coends and construction of Hopf algebras -- Construction of TQFT-Double Functors -- Generalization of a modular functor -- From Quantum Field Theory to Axiomatics -- Double Categories and Double Functors -- Thick tangles.

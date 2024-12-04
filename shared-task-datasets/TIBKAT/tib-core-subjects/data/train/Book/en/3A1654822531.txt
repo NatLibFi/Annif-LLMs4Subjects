@@ -1,0 +1,2 @@
+R for Data Science
+If you are a data analyst who has a firm grip on some advanced data analysis techniques and wants to learn how to leverage the features of R, this is the book for you. You should have some basic knowledge of the R language and should know about some data science topics

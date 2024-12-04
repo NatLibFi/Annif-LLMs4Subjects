@@ -1,0 +1,2 @@
+Ventilatoren : aerodynamischer Entwurf, Schallvorhersage, Konstruktion ; mit 42 Tabellen und 7 Übungsbeispielen
+Verlagstext: Dieses Lehrbuch verbindet in einem besonderen Konzept Entwurf und Konstruktion radialer und axialer Ventilatoren mit dem Problem der Geräuschentwicklung und dessen Berechnung und Lösung im Stadium der Ventilatorenentwicklung.

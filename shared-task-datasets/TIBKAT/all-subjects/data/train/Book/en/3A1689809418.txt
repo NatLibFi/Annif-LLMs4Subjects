@@ -1,0 +1,2 @@
+Geometric regular polytopes
+Euclidean space -- Abstract regular polytopes -- Realizations of symmetric sets -- Realizations of polytopes -- Operations and constructions -- Rigidity -- Classical regular polytopes -- Non-classical polytopes -- General families -- Three-dimensional apeirohedra -- Four-dimensional polyhedra -- Four-dimensional apeirotopes -- Higher-dimensional cases -- Gosset-Elte polytopes -- Locally toroidal polytopes -- A family of 4-polytopes -- Two families of 5-polytopes.
