@@ -1,2 +1,0 @@
-Neural networks for natural language processing
-"This book examines natural language processing models and algorithms using traditional symbolic and more recent statistical approaches"--

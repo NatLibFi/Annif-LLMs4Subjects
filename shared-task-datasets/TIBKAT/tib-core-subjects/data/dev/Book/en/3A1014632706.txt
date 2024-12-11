@@ -1,2 +1,0 @@
-Speicherprogrammierbare Steuerung - SPS : praktisches Programmieren mit STEP5 und STEP7 nach IEC 61131
-The book provides basic and advanced knowledge in the area of programmable logic controllers. Each specific theme is first explained technically and then made understandable through application and programming examples. For the programming, the authors introduce and use STEP 7, which meets the current EN 61131-3 standard--

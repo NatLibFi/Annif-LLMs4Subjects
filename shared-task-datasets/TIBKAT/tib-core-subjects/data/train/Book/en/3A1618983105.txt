@@ -1,2 +1,0 @@
-System level ESD co-design
-"Demystifies the concept of system-level ESD and details its difference from the conventional component level ESD design and testing. Describes the protection elements and designs and focuses on the "co-design", an optimization methodology to address both issues in the same design space"--

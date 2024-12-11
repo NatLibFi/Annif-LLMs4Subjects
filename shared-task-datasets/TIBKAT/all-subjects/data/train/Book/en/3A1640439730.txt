@@ -1,2 +1,0 @@
-Principles and practices of molecular properties : theory, modeling, and simulations
-Quantum mechanics -- Particles and fields -- Symmetry -- Exact-state response theory -- Electronic and nuclear contributions to molecular properties -- Approximate electronic state response theory -- Response functions and spectroscopies

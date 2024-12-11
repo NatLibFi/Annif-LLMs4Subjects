@@ -1,2 +1,0 @@
-Advances in computational biology
-Bioinformatics databases, data mining, and pattern discovery -- Microarray, gene expression analysis, and gene regulatory networks -- Protein classification & structure prediction, and computational structural biology -- Comparative sequence, genome analysis, genome assembly, and genome scale computational methods -- Drug design, drug screening, and related topics -- Computational methods and diagnostic tools in biomedical -- General topics in bioinformatics

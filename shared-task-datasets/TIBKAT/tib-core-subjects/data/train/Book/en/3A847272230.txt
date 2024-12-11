@@ -1,2 +1,0 @@
-Discrete event simulation for health technology assessment
-1. Introduction -- 2. Central concepts -- 3. Implementation -- 4. A simple example -- 5. Analyses -- 6. Formulating the required equations -- 7. Efficiency and variance reduction -- 8. Validation -- 9. Special topics -- 10. Case study : breast cancer surveillance

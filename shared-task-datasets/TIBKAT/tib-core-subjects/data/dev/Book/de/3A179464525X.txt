@@ -1,2 +1,0 @@
-Grundlagen der Theoretischen Informatik
-Dieses Lehrbuch liefert eine verständliche, aber dennoch kompakte Einführung in die Theoretische Informatik. Die behandelten Themen bilden das Fundament für weiterführende Themen in der Theoretischen Informatik und sind zudem grundlegend für das formale Arbeiten in der gesamten Informatik. Durch eine Vielzahl von Aufgaben mit Lösungen eignet sich dieses Buch sehr gut zum Selbststudium

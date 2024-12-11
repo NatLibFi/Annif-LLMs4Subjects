@@ -1,2 +1,0 @@
-Handbook of research on intrusion detection systems
-"This book explores recent developments and applications in intrusion detection systems and intrusion detection security"--

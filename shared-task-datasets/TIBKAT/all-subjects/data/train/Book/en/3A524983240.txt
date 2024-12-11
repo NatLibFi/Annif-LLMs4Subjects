@@ -1,2 +1,0 @@
-Visual Perception and Robotic Manipulation : 3D Object Recognition, Tracking and Hand-Eye Coordination
-Accompanying CD-ROM contains ... "video clips, VRML data, C++ code with data sets and lecture slides."--P. [4] of cover

@@ -1,2 +1,0 @@
-Die flächenverteilte Modellierung von Wasserhaushalt und Abflußbildung im Einzugsgebiet der Ammer : mit 21 Tabellen
-Aus der Einleitung: Im Rahmen dieser Arbeit soll der Wasserhaushalt des Einzugsgebietes der Ammer unter besonderer Betrachtung der bislang nur unzureichend geklärten, flächenverteilten Abflußbildung modelliert werden. Im Vordergrund steht dabei die physikalische Beschreibung der am Wasserhaushalt beteiligten Prozesse.

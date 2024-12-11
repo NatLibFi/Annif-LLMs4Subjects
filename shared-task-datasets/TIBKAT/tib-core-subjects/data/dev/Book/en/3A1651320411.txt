@@ -1,2 +1,0 @@
-GPU computing gems
-"Since the introduction of CUDA in 2007, more than 100 million computers with CUDA capable GPUs have been shipped to end users. GPU computing application developers can now expect their application to have a mass market. With the introduction of OpenCL in 2010, researchers can now expect to develop GPU applications that can run on hardware from multiple vendors"--

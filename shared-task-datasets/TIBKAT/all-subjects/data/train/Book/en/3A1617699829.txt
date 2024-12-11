@@ -1,2 +1,0 @@
-Building the Web of Things : with examples in Node.js and Raspberry Pi
-"A guide to using cutting-edge web technologies to build the IoT. This step-by-step book teaches you how to use web protocols to connect real-world devices to the web, including the Semantic and Social Webs. Along the way you'll gain vital concepts as you follow instructions for making Web of Things devices. By the end, you'll have the practical skills you need to implement your own web-connected products and services"--amazon.com website

@@ -1,3 +1,0 @@
-Energiemanagement-Tools : Anwendung im Industrieunternehmen
-Technische Tools im Industriellen Energiemanagement -- Tools zur Wirtschaftlichkeit im Industriellen Energiemanagement -- Tools, die den Zusammenhang von Technik und Wirtschaftlichkeit nutzbar machen — Integration energiewirtschaftlicher Aspekte in Systeme der Produktionsplanung und -steuerung.
-Das Fachbuch befasst sich mit der konkreten Anwendung des betrieblichen Energiemanagements in der industriellen Praxis. Effiziente Methoden für den Einstieg als auch die umfassende Anwendung werden dargestellt und durch Beispiele erläutert. Das Buch wendet sich insbesondere an Praktiker der betrieblichen Energetik/Energiewirtschaft und Anbieter von Energiemanagement und -controlling für die Industrie.

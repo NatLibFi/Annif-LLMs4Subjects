@@ -1,2 +1,0 @@
-Singular Perturbation Analysis of Discrete Control Systems
-Singular perturbation analysis of difference equations in classical form -- Modelling and analysis of singularly perturbed difference equations in state space form -- Three-time-scale difference equations with application to open-loop optimal control problem -- Singularly perturbed nonlinear difference equations and closed-loop discrete optimal control problem.

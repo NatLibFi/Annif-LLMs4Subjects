@@ -1,2 +1,0 @@
-Basic molecular quantum mechanics
-"This book covers the fundamentals of quantum mechanics and some of its most important chemical applications: vibrational and rotational spectroscopy and electronic structure of atoms and molecules. The book is organized systematically with each chapter preparing the student for the more advanced chapters and complex applications"--

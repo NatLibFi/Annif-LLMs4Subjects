@@ -1,2 +1,0 @@
-Generalized characteristics and the uniqueness of entropy solutions to zero-pressure gas dynamics
-Zero-pressure gas dynamics, uniqueness, entropy condition, cohesion condition, generalized characteristics

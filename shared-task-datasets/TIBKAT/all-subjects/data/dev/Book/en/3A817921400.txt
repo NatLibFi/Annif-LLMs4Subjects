@@ -1,2 +1,0 @@
-Introduction to digital mobile communication
-"This book emphasizes digital transmission methods. Beginning with an introduction to what digital mobile communication is, it presents mathematical analyses of signals, mobile radio channels,and digital modulation methods"--

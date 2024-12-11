@@ -1,2 +1,0 @@
-PHP, MySQL, JavaScript & HTML5 all-in-one for Dummies ; [7 books in 1 ; web technologies, HTML and CSS, JavaScript, PHP, MySQL, web applications, PHP and templates]
-In charge of a website? Here's what you need to know about key web technologies! Learn how the four essential web technologies work together to create web services, validate web forms, and set up a members-only site! --

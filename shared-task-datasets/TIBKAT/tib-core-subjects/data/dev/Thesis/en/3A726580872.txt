@@ -1,2 +1,0 @@
-Development of on-line coupled capillary electrophoresis to portable microcoil NMR detection
-Portable NMR, custom-built CE, microcoils, hyphenated CE-NMR-system. - Eigenbau CE, Mikrospulen, gekoppeltes CE-NMR System

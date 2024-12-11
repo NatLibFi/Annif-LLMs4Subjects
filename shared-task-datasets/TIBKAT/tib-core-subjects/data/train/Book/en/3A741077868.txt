@@ -1,2 +1,0 @@
-Intelligent technologies and techniques for pervasive computing
-"This book provides an extensive discussion of such technologies, theories and practices in an attempt to shed light on current trends and issues in the adaption of pervasive system"--

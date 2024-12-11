@@ -1,2 +1,0 @@
-Schlussbericht KOMPAS I : Forschungsvorhaben Komponenten Automatisierter Schienenverkehr (KOMPAS), Phase 1 ; Arbeitspakete 320, 330: Hinderniserkennung und Bahnsteigsicherung entwickeln
-Automation, rail traffic, obstacle detection, platform supervision, sensors, image processing, safety, prototype development, system test, danger area supervision

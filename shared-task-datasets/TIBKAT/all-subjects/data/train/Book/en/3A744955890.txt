@@ -1,2 +1,0 @@
-Qualitative Aspects of Large Scale Systems : Developing Design Rules Using APL
-Background and scope -- The Cartesian tensor formulation -- The Boolean tensor formulation -- The reachability criterion -- The term rank criterion -- On partitioning of A digraph -- Towards a total systems description -- Some general remarks.

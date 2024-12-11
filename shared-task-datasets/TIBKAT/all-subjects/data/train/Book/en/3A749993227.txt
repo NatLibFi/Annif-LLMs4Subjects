@@ -1,2 +1,0 @@
-Microsoft Access 2013 plain & simple : [your easy, colorful, see-how guide!]
-Here's WHAT you'll learn:  --Build and manage your own database  --Apply professional designs across your databases  --Create presentations and publish reports online  --Secure your database with passwords and encryption  --Exchange data with other databases and documents  --Interact with your data easier using macros

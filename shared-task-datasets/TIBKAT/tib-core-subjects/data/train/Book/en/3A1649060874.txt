@@ -1,2 +1,0 @@
-Disordered Materials : An Introduction
-Introduces the physics of structurally disordered condensed systems at the level of advanced undergraduate and graduate students. Some of the topics are: the geometry and symmetries of highly regular structures, the various kinds of disorder, the phenomenology and the main theories of the glass transition

@@ -1,2 +1,0 @@
-Understanding complex urban systems : integrating multidisciplinary data in urban models
-"This second volume of Understanding Complex Urban Systems focuses on the challenges of the modeling tools, concerning, e.g., the quality and quantity of data and the selection of an appropriate modeling approach. It is meant to support urban decision-makers - including municipal politicians, spatial planners, and citizen groups - in choosing an appropriate modeling approach for their particular modeling requirements."--

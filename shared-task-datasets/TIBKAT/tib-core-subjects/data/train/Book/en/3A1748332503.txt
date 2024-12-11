@@ -1,2 +1,0 @@
-Advanced methods and tools for ECG data analysis
-Here's a cutting-edge, practical book that offers you a thorough understanding of state-of-the-art techniques for electrocardiogram (ECG) data analysis. Placing emphasis on the selection, modeling, classification, and interpretation of data based on advanced signal processing and artificial intelligence techniques, the book helps you design, implement, and evaluate software systems used for the analysis of ECG and related data

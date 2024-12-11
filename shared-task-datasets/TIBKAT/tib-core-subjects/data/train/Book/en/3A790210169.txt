@@ -1,2 +1,0 @@
-Concrete structures for wind turbines
-Actions on wind turbines -- Non-linear material behaviour -- Loadbearing structures and detailed design -- Construction of prestressed concrete towers

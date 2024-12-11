@@ -1,2 +1,0 @@
-Getting started with SAP Lumira : [get up to speed on the next generation of SAP business intelligence ; learn how to model and visualize data to tell a story ; explore the options for desktop, server, and cloud deployment]
-Introduction to SAP Lumira desktop -- Installing and configuration with SAP Lumira desktop -- Data acquisition -- Visualizing your data -- Sharing SAP Lumira resources -- SAP Lumira cloud

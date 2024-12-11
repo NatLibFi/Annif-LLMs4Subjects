@@ -1,2 +1,0 @@
-Nanophotonics in biomedical engineering
-This book summarizes the latest advances in nanophotonics for biomedical applications, including biomolecular sensing and imaging, additive fabrications, and biophotonics. The engineering of nanophotonics will have significant impacts on the life sciences and medicine alike. Given its scope, the book offers a valuable asset for researchers, scientists, engineers, and graduate students in the fields of biomedical engineering, electrical engineering, materials sciences, optics, biology, and medicine.

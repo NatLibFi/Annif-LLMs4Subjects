@@ -1,2 +1,0 @@
-Maximizing the output power of a piezoelectric generator from the admittance measurement by selecting the rectification technique
-Energy harvesting, rectifiers, piezoelectric transducer, impedance matching, synchronized switch harvesting on inductor

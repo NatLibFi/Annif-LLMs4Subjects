@@ -1,2 +1,0 @@
-Fast Software Encryption : 7th International Workshop, FSE 2000 New York, NY, USA, April 10–12, 2000 Proceedings
-This book constitutes the thoroughly refereed post-proceedings of the 7th International Workshop on Fast Software Encryption, FSE 2000, held in New York City, USA in April 2000.The 21 revised full papers presented were carefully reviewed and selected from a total of 53 submissions. The volume presents topical sections on stream-cipher cryptanalysis, new ciphers, AES cryptanalysis, block-cipher cryptanalysis, and theoretical work

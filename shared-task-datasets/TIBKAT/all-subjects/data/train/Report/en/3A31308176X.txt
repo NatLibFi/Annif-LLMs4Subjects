@@ -1,2 +1,0 @@
-Entwicklung und Bau eines Festsitzforschungscockpits im Rahmen des Verbundvorhabens Cockpit : Abschlussbericht TUD - Forschungscockpit ; Berichtszeitraum: 01.09.96 - 30.06.99
-Cockpit, flight simulation, cockpit anthropometry, flight guidance displays, interactive displays, active controls, active sidestick, human-machine-interface, flight safety, distributed simulation

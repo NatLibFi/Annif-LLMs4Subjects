@@ -1,2 +1,0 @@
-ADO.NET and System.XML v. 2.0 - the Beta version
-New concepts in data access -- ADO.NET data management enhancements -- Provider factories, schema discovery, and security -- The DataSet and DataTable classes -- ADO.NET and SQL Server 2005 -- SQL Server 2005 CLR hosting -- XML in SQL Server 2005 -- XML in the .NET framework -- Reading and writing XML -- XML serialization enhancements -- XML document stores -- Transforming XML documents

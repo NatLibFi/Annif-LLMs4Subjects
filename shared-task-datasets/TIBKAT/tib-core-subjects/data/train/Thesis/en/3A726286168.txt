@@ -1,2 +1,0 @@
-Mathematical modelling and numerical simulations in physical geodesy
-Nonlinear Molodensky problem, boundary element method, heat kernel smoothing, spherical radial basis functions. - Nichtlineares Molodensky Problem, Randelementmethode, Glättung mit Wärmeleitungskern, sphärische radiale Basisfunktionen

@@ -1,2 +1,0 @@
-An introduction to convexity, optimization, and algorithms
-"Provides a comprehensive and accessible exploration of modern topics in convex analysis and optimization algorithms, with an emphasis on bridging the two areas"--

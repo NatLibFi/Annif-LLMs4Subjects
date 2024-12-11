@@ -1,2 +1,0 @@
-Wissensbasis für ein allgemeines Arzneimittelinformationssystem mit Schwerpunkt Intensivmedizin : Schlußbericht
-Drug information system, semi-automatic knowledge acquisition, user interface, pharmacology markup language

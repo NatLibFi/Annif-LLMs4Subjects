@@ -1,2 +1,0 @@
-Hadoop: the definitive guide ; [MapReduce for the cloud]
-Organizations large and small are adopting Apache Hadoop to deal with huge application datasets. This guide provides you with the key for unlocking the wealth this data holds. It demonstrates how to use Hadoop to build reliable, scalable, distributed systems

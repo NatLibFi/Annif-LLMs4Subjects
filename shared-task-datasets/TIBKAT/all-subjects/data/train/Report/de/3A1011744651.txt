@@ -1,2 +1,0 @@
-C++, das Übungsbuch : Testfragen und Aufgaben mit Lösungen
-Übungsbuch zum Lehrbuch von Kirch: "C++ lernen und professionell anwenden" mit Tests, Aufgaben und Lösungen auch zu den Verständnisfragen. Wichtige Ergänzung des Lehrbuchs, aber auch unabhängig von diesem als Trainingsbuch brauchbar. Die Gliederung richtet sich nach der 8. Auflage, die jedoch noch nicht erschienen ist, und nutzt den neuesten C++ Standard von 2017. Die Musterlösungen stehen auch auf der Verlagsseite im Internet zum Download bereit. Austausch empfohlen

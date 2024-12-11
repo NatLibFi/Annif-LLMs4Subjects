@@ -1,2 +1,0 @@
-Vergleich von statistischen Tests im verbundenen und unabhängigen Stichprobenfall
-Vergleich von Experimenten, Hypothesentests, Effizienz. - Comparison of experiments, testing hypotheses, efficiency

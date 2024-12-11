@@ -1,2 +1,0 @@
-Designing effective web surveys
-The importance of design for Web surveys -- The basic building blocks -- Going beyond the basics : visual and interactive enhancements to Web survey instruments -- General layout and design -- Putting the questions together to make an instrument -- Implementing the design

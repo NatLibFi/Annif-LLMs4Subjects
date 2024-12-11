@@ -1,2 +1,0 @@
-Asymptotic time decay in quantum physics
-Time decays form the basis of a multitude of important and interesting phenomena in quantum physics that range from spectral properties, resonances, return and approach to equilibrium, to quantum mixing, dynamical stability properties and irreversibility and the "arrow of time".This monograph is devoted to a clear and precise, yet pedagogical account of the associated concepts and methods --

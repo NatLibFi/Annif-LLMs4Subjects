@@ -1,2 +1,0 @@
-Computational Complexity of Bilinear Forms : Algebraic Coding Theory and Applications to Digital Communication Systems
-Bilinear forms and linear codes -- Efficient algorithms for the aperiodic convolution of sequences -- A new class of linear codes -- Error-detection and error-correction -- Automatic repeat request systems -- A generalized type-II hybrid ARQ scheme -- Conclusions.

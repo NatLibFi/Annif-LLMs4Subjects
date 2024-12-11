@@ -1,2 +1,0 @@
-Nonequilibrium Electrons and Phonons in Superconductors : Selected Topics in Superconductivity
-Basic Equilibrium Properties -- Dynamics of Gapless Superconductors -- Nonequilibrium General Equations -- Electron and Phonon Collision Integrals -- Microwave-Enhanced Order Parameter -- Phonon-Deficit Effect -- Time-Dependent Ginzburg-Landau Equations -- A Longitudinal Electric Field and Collective Modes -- Phase-Slip Centers -- Josephson Junctions -- Influence of Laser Radiation -- Inverse Population Instabilities -- Thermoelectric Phenomena -- Vortices and Thermoelectric Flux.

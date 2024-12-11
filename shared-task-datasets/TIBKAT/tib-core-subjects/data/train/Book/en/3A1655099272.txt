@@ -1,2 +1,0 @@
-Computational Problems, Methods, and Results in Algebraic Number Theory
-Finite fields -- Factorization of polynomials -- Galois groups -- Continued fractions -- Field extensions -- Modules and orders -- Products of linear forms -- Units in algebraic number fields -- Class numbers of algebraic number fields -- Class groups and class fields of algebraic number fields -- Diophantine equations -- The hasse principle for cubic surfaces.

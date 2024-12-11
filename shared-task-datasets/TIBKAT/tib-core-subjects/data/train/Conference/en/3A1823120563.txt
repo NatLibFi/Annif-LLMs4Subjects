@@ -1,2 +1,0 @@
-Engineering software for modern challenges : First International Conference, ESMoC 2021, Johor, Malaysia, October 20-21, 2021, revised selected papers
-This volume constitutes selected papers presented at the First International Conference on Engineering Software for Modern Challenges, ESMoC 2021, held in Johor, Malaysia, in October 20-21, 2021.The 17 papers presented were thoroughly reviewed and selected from the 167 submissions. They are organized in the topical sections on software engineering; intelligent systems; software quality

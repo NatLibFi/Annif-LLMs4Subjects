@@ -1,2 +1,0 @@
-Partial differential equations : analytical methods and applications
-First-order equations -- Second-order equations -- The Sturm-Liouville problem -- One-dimensional hyperbolic equations -- One-dimensional parabolic equations -- Elliptic equations -- Two dimensional hyperbolic equations -- Two-dimensional parabolic equations -- Nonlinear equations.

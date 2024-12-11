@@ -1,2 +1,0 @@
-Further advances in unmanned marine vehicles
-The following topics are dealt with: unmanned marine vehicles; ROV LATIS; next generation smart underwater vehicle; neural network-based switching adaptive control; dynamic positioning system; dynamic tracking system; port-Hamiltonian control; sonar-based simultaneous localization and mapping; vehicle-following; fault-tolerant multi-sensor navigation system design; multiple autonomous marine vehicles; hybrid glider; biomimetic underwater vehicle design concept; and robotic fish

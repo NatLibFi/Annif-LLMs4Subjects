@@ -1,2 +1,0 @@
-Social simulation : technologies, advances and new discoveries
-"This book, a reference survey of social simulation work comprehensively collects the most exciting developments in the field. Drawing research contributions from a vibrant community of experts on social simulation, it provides a set of unique and innovative approaches, ranging from agent-based modeling to empirically based simulations, as well as applications in business, governmental, scientific, and other contexts"--Provided by publisher

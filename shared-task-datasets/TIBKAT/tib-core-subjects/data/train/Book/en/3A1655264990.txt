@@ -1,2 +1,0 @@
-Factorizable Sheaves and Quantum Groups
-The book is devoted to the geometrical construction of the representations of Lusztig's small quantum groups at roots of unity. These representations are realized as some spaces of vanishing cycles of perverse sheaves over configuration spaces. As an application, the bundles of conformal blocks over the moduli spaces of curves are studied. The book is intended for specialists in group representations and algebraic geometry

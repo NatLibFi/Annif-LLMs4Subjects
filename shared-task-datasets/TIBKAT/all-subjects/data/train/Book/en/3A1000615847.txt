@@ -1,2 +1,0 @@
-The cosmological singularity
-"The Cosmological Singularity written for researchers focusing on general relativity, supergravity, and cosmology, this is a self-contained exposition of the structure of the cosmological singularity in generic solutions of the Einstein equations, and an up-to-date mathematical derivation of the theory underlying the Belinski-Khalatnikov-Lifshitz (BKL) conjecture on this field"--

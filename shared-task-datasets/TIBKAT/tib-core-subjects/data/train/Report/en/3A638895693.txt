@@ -1,2 +1,0 @@
-Interactive multi-modal question-answering
-This text asks the question: what does it take to develop a computer interface that listens, talks, and can answer questions in a domain? First it takes specialized modules for speech recognition and synthesis, human interaction management, basic question understanding, and answer finding

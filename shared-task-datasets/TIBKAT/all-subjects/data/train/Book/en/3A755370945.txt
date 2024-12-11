@@ -1,2 +1,0 @@
-Learn Unity 4 for iOS game development : [create amazing 3D games for iPhone and iPad]
-This book shows how to create three-dimensional games for the iPhone, iPad, and iPod touch.  With the help of step-by-step project examples, discover how to use Unity with Xcode, how to optimize the game for both speed and quality, how to test and profile the game, and how to get the most out of iOS device features

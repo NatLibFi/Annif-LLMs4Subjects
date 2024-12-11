@@ -1,2 +1,0 @@
-Evolution of wireless communication ecosystems
-"The input of a communication system is a sound, image, or text file to be transmitted to the other end. The output is naturally this original information signal, which goes through many processes (modulation, coding, multiplexing, etc.) until it reaches the end. This section explains the layers through which the information passes from where it enters the system to where it leaves"--

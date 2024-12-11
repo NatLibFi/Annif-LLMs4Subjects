@@ -1,2 +1,0 @@
-Propulsion Systems for Hybrid Vehicles
-The following topics are dealt with: hybrid vehicles; hybrid power plant specifications; electric drive system; power electronics; AC drives; drive system control; hybrid vehicle characterization; energy storage technologies; and automated electrified transportation

@@ -1,2 +1,0 @@
-CCNA security : course booklet
-Modern network security threats -- Securing network devices -- Authentication, authorization, and accounting -- Implementing firewall technologies -- Implementing intrusion prevention -- Securing the local area network -- Cryptographic systems -- Implementing virtual private networks -- Managing a secure network

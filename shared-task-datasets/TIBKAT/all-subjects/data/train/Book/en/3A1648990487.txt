@@ -1,2 +1,0 @@
-Clinical Decision Support Systems : Theory and Practice
-Designed to be a resource book on clinical decision support systems for informatics specialists. This is a textbook for teachers or students in health informatics. It offers an introduction for clinicians, whether or not expert in the application of computers in medicine, who wish to learn about developments in computer-based diagnostic systems

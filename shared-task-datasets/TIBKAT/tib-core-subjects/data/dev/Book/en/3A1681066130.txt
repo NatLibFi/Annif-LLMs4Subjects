@@ -1,3 +1,0 @@
-GNSS : Global Navigation Satellite Systems - GPS, Glonass, Galileo, and More
-This book is an extension to the acclaimed scientific bestseller "GPS - Theory and Practice". It covers Global Navigation Satellite Systems (GNSS) and includes the Russian GLONASS, the European system Galileo, and additional systems.
-Preliminary -- Introduction -- Reference systems -- Satellite orbits -- Satellite signals -- Observables -- Mathematical models for positioning -- Data processing -- Data transformation -- GPS -- Glonass -- Galileo -- More on GNSS -- Applications -- Conclusion and outlook -- Back matter.

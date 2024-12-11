@@ -1,2 +1,0 @@
-The book of Kubernetes : a complete guide to container orchestration
-"A hands-on guidebook to the inner workings of containers and how containerization changes the way programs run. Teaches how to create containers; how to deploy, administer, and debug Kubernetes clusters down to the operating system; and how container networking works at the packet level across multiple nodes in a cluster"--

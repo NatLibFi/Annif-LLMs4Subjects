@@ -1,3 +1,0 @@
-99 Schnittpunkte : Beispiele, Bilder, Beweise
-Der Autor gibt hier 99 Beispiele für Kurven (einschließlich Geraden), die jeweils durch ein und denselben Punkt verlaufen, z.B. Schwerpunkt im Dreieck.
-Der Autor gibt hier 99 Beispiele für Kurven (einschliesslich Geraden), die jeweils durch ein und denselben Punkt verlaufen, z.B. Schwerpunkt im Dreieck

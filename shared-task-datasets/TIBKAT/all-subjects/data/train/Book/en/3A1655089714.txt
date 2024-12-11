@@ -1,2 +1,0 @@
-M-Structure and the Banach-Stone Theorem
-Preliminaries -- L-projections and M-projections -- M-Ideals -- The centralizer -- Function modules -- M-Structure of some classes of Banach spaces -- Remarks -- The Banach-Stone theorem -- The Banach-Stone property and the strong Banach-Stone property -- Centralizer-norming systems -- M-structure of Co(M,X) -- Generalizations of the Banach-Stone theorem -- Remarks.

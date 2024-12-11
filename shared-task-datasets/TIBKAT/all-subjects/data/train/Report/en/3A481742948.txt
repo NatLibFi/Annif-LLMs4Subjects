@@ -1,2 +1,0 @@
-Leitprojekt: Modulare Diodenlaser-Strahlwerkzeuge, Teilvorhaben: Grundsätzliche Untersuchungen zur Integration von (HLDL) in Werkzeugmaschinen für die Oberflächenveredelung : Abschlussbericht zu Nr. 9.1. als Aneinanderreihung der Zwischenberichte ; [Laufzeit des Vorhabens: 01.07.1998 bis 31.12.2003]
-Diode laser, hardening, hardening process, multi-beam assembly, multi-beam strategy, minimise distortion, temperature control, parameter data base

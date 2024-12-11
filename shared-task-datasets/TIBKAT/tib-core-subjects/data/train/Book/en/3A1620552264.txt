@@ -1,3 +1,0 @@
-High-energy molecular lasers : self-controlled volume-discharge lasers and applications
-This book displays the physics and design of high-power molecular lasers. The lasers described are self-controlled volume-discharge lasers. The book explains self-sustained discharge lasers, self-initiated discharge lasers and technical approaches to laser design. Important topics discussed are laser efficiency, laser beam quality and electric field homogeneity. The book contains many new innovative applications
-Introduction -- Traditional approaches for molecular lasers realization -- Self-sustained discharge lasers (dynamic profiling by slow electrons) -- Self-initiated discharge lasers (HF/DF based on SF6-methain mixture) -- Different technical approaches -- Applications

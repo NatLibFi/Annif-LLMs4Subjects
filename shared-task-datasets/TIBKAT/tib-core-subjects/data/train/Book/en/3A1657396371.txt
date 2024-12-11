@@ -1,2 +1,0 @@
-Web usage mining techniques and applications across industries
-"This book addresses the systems and methodologies that enable organizations to predict web user behavior as a way to support website design and personalization of web-based services and commerce"--Provided by publisher.

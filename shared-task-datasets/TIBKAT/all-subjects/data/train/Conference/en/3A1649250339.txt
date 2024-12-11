@@ -1,2 +1,0 @@
-Public Key Cryptography : 4th International Workshop on Practice and Theory in Public Key Cryptosystems, PKC 2001 Cheju Island, Korea, February 13–15, 2001 Proceedings
-This book constitutes the refereed proceedings of the 4th International Workshop on Practice and Theory in Public Key Cryptography, PKC 2001, held in Cheju Island, Korea in February 2001. The 30 revised full papers presented were carefully reviewed and selected from 67 submissions. The papers address all current issues in public key cryptography, ranging from mathematical foundations to implementation issues

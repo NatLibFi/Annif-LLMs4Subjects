@@ -1,2 +1,0 @@
-Foundation HTML5 animation with JavaScript
-Enter the new era of web programming creativity with Foundation HTML5 Animation with JavaScript. This book details how you can use the HTML5 canvas element to create advanced web graphics and dynamic scripted animation. It covers everything that you'll need to know to complete a wide range of animated projects--from games to navigational systems, advertisements to educational applications --

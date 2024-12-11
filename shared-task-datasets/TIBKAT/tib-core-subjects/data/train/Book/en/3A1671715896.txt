@@ -1,2 +1,0 @@
-Risk-based structural evaluation methods : best practices and development of standards
-"This report examines the application of Risk-Based Structural Evaluation Methods and provides best practice recomendations on their implementation in engineering practice"--

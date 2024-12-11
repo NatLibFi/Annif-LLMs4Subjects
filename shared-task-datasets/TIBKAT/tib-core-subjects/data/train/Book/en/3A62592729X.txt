@@ -1,2 +1,0 @@
-Exponential distribution : theory and methods
-Order statistics -- Record values -- Generalized order statistics -- Characterizations of exponential distribution based on order statistics -- Characterizations of exponential distribution based on record values

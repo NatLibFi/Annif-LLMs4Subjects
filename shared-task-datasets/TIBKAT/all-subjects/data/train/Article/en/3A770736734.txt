@@ -1,2 +1,0 @@
-An explicit multi-grid algorithm to the air intake annulus of the airflow resonant piezo-electric generator
-Explicit multi-grid algorithm, airflow resonant piezoelectric generator, turbulence model, Navier-Stokers equation, pipe wall pressure

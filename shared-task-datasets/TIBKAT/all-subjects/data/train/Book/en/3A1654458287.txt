@@ -1,2 +1,0 @@
-Deep learning innovations and their convergence with big data
-"This book capture the state of the art trends and advancements in big data analytics, its technologies, and applications. The book also aims to identify potential research directions and technologies that will facilitate insight generation in various domains of science, industry, business, and consumer applications"--

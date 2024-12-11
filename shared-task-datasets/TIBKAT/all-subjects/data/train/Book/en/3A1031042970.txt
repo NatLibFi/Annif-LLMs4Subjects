@@ -1,3 +1,0 @@
-Field guide to colorimetry and fundamental color modeling
-Color matching experiments -- 1931 CIE color matching functions -- Color terminology -- Display color gamuts -- Color order systems -- Uniform color spaces -- Basic chromatic adaptation -- Color equivalency mapping -- Color measurement -- Color modeling -- Printing models -- Color management
-"This Field Guide provides a basic understanding of how we measure, identify, communicate, specify, and render color. It addresses color order systems, color spaces, color measurement, color difference, additive and subtractive color, and color modeling"--

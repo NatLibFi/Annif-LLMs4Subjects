@@ -1,2 +1,0 @@
-Aktive Beeinflussung der thermodynamischen und kinematischen Relaxationsprozesse in Niederdruck-Dampfturbinen durch Intensivierung des Keimbildungsprozesses (4.2.2 b) : Abschlussbericht zum Verbundprojekt "GuD-Kraftwerk - 500 MW auf einer Welle" (AG Turbo II)
-Turbine, multi-stage, nucleation, condensation, steam turbine, unsteady, experiment, numerical simulation, 2-phase flow, wet steam, relaxation, wetness loss, droplet, light-scattering, probe, wetness assement

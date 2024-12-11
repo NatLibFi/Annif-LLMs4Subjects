@@ -1,2 +1,0 @@
-The Design Guidelines Collaborative Framework : a design for multi-x method for product development
-State of the art in the field -- The DGLs-CF : introduction and background -- Detailed description of the DGLs-CF -- Adopting the DGLs-CF in the field -- Discussion and hints for future work

@@ -1,2 +1,0 @@
-Nonlinear Operators and the Calculus of Variations : Summer School Held in Bruxelles 8–19 September 1975
-Nonlinear operators in ordered Banach spaces and some applications to nonlinear boundary value problems -- Quelques proprietes des operateurs monotones et des semi-groupes non lineaires -- Implicit variational problems and quasi variational inequalities -- Integral functionals, normal integrands and measurable selections -- Applications de l'analyse convexe au calcul des variations.

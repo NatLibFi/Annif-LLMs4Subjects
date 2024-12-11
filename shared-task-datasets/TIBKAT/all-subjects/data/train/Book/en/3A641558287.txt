@@ -1,2 +1,0 @@
-IT architecture for dummies : [learn to create an enterprise IT strategy that meets business objectives, work with each layer of the technology stack, support organizational structure and processes, develop an action plan for implementation]
-Get a handle on enterprise architecture and develop a strategy for success. This book helps you understand the parts, what they mean to your company, how to make technology match your business goals, and how to create an enterprise culture

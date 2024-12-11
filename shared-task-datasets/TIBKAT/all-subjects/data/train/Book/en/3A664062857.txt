@@ -1,2 +1,0 @@
-Introduction to nanomaterials and devices
-"This book introduces the basic concepts of nanomaterials and devices fabricated from these nanomaterials. Explicates cutting-edge topics and concepts in the field, such as plasmon-photon interaction and coupling of photonic crystals to devices with the purpose of enhancing the device performance. Provides a thorough background in quantum mechanics/physics. Successfully details the interrelationship between quantum mechanics and nanomaterials"--

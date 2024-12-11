@@ -1,2 +1,0 @@
-SysML for Systems Engineering
-The book reviews developments in the following fields: introduction to systems engineering; modelling requirements; SysML diagrams; physical systems; interfaces and constraints; process modelling with SysML; and using SysML concepts in UML

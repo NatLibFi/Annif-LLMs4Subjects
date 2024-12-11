@@ -1,2 +1,0 @@
-A Matlab companion to complex variables
-This supplemental text allows instructors and students to add a MatLab content to a complex variables course. This book seeks to create a bridge between functions of a complex variable and MatLab. --

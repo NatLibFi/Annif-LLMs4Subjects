@@ -1,2 +1,0 @@
-Vom Gatter zu VHDL : eine Einführung in die Digitaltechnik
-Verlagstext: Das Buch bietet eine gut verständliche Einführung in die Digitaltechnik und wird seit Jahren erfolgreich im Unterricht eingesetzt. Für das Verständnis werden praktisch keine Vorkenntnisse in Elektronik vorausgesetzt.

@@ -1,2 +1,0 @@
-Data mining with ontologies : implementations, findings and frameworks
-"Prior knowledge in data mining is helpful for selecting suitable data and mining techniques, pruning the space of hypothesis, representing the output in a comprehensible way, and improving the overall method. This book examines methodologies and research for the development of ontological foundations for data mining to enhance the ability of ontology utilization and design"--Provided by publisher

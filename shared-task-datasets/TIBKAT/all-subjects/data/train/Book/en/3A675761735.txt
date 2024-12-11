@@ -1,2 +1,0 @@
-Open source cloud computing systems : practices and paradigms
-"This book bridges the gap between solutions and users' needs pertaining to the most relevant open source cloud technologies available today from a practical perspective"--

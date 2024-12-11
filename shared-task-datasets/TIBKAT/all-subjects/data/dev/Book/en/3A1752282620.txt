@@ -1,2 +1,0 @@
-Clinical nuclear medicine physics with MATLAB : a problem solving approach
-"Focusing on the areas of diagnostic Nuclear Medicine and Radiation Oncology Imaging, this book provides a comprehensive treatment of the use of MATLAB® in clinical Medical Physics. It is an invaluable guide for medical physicists and researchers, in addition to postgraduates in medical physics or biomedical engineering preparing for a career in the field"--

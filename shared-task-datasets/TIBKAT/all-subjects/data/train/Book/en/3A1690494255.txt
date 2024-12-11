@@ -1,2 +1,0 @@
-Handbook of manufacturing
-Handbook of Manufacturing provides a comprehensive overview of fundamental knowledge on manufacturing, covering various processes, manufacturing-related metrology and quality assessment and control, and manufacturing systems. Many modern processes such as additive manufacturing, micro- and nano-manufacturing, and biomedical manufacturing are also covered in this handbook. The handbook will help prepare readers for future exploration of manufacturing research as well as practical engineering applications.

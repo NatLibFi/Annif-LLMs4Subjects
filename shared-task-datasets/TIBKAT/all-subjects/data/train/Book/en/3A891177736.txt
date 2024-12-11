@@ -1,2 +1,0 @@
-Real-time embedded systems
-"This book offers comprehensive coverage of the convergence of real-time embedded systems scheduling, resource access control, software design and development, and high-level system modeling, analysis and verification"--

@@ -1,2 +1,0 @@
-Intelligent data analysis : developing new methodologies through pattern discovery and recovery
-"This book tackles those data sets and covers a variety of issues in relation to intelligent data analysis so that patterns from frequent or rare events in spatial or temporal spaces can be revealed. This book brings together current research, results, problems, and applications from both theoretical and practical approaches"--Provided by publisher

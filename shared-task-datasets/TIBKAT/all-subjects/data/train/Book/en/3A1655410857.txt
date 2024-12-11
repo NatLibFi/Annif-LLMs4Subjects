@@ -1,2 +1,0 @@
-Foliations on Riemannian Manifolds
-This book introduces the reader to the theory of foliations, and explores some of the interactions of foliations with the Riemannian geometry of the ambient manifold. The author begins with motivations for the study of the subject and proceeds to discuss the instructive special case of transversally oriented foliations of codimension one. The second part of the book covers such topics as foliations by level hypersurfaces, infinitesimal automorphisms and basic forms, flows, Lie foliations, and twisted duality

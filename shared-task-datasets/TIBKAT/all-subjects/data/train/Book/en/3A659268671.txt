@@ -1,2 +1,0 @@
-Defense against the black arts : how hackers do what they do and how to protect against it
-Hacking Windows OS -- Obtaining Windows passwords -- Imaging and extraction -- Bypassing web filters -- Manipulating the Web -- Finding it all on the net -- Research time -- Capturing network traffic -- Research time: finding the vulnerabilities -- Metasploit -- Other attack tools -- Social engineering with Web 2.0 -- Hack the Macs -- Wireless hacking

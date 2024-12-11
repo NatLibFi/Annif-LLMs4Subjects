@@ -1,2 +1,0 @@
-How to hack like a ghost
-"This book is about hacking modern cloud technologies. The reader adopts the role of the hacker-narrator, whose target is a fictional political consultancy firm. The reader shadows the hacker through the journey from setting up a stealthy hacking system on their machine to infiltrating and exploiting the target"--

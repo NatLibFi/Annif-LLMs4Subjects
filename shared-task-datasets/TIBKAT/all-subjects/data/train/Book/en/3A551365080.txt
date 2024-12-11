@@ -1,2 +1,0 @@
-Nanomagnetism and spintronics
-Spintronics is a newly developing area in the field of magnetism, where the interplay of magnetism and transport phenomena is studied experimentally and theoretically. This book introduces the recent progresses in the researches relating to spintronics--

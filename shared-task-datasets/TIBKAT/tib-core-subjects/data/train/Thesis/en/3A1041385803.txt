@@ -1,3 +1,0 @@
-Dynamics of laser-induced cluster Coulomb explosion studied by charge-state and energy resolving ion spectroscopy
-When a cluster is exposed to intense optical radiation, the particle transforms into a hot expanding plasma. The present work focuses on the ionization, expansion, cooling and relaxation dynamics of laser-induced nanoplasmas.<eng>
-Werden Cluster intensiver, optischer Strahlung ausgesetzt, kommt es zur Entstehung eines heißen expandierenden Plasmas. Die vorgelegte Arbeit konzentriert sich auf die Ionisations-, Expansions-, Kühlungs- und Relaxationsdynamik laserinduzierter Nanoplasmen.<ger>

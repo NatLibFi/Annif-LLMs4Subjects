@@ -1,2 +1,0 @@
-Disappearing cryptography : information hiding: steganography & watermarking
-Framing information -- Encryption -- Error correction -- Secret sharing -- Compression -- Basic mimicry -- Grammars and mimicry -- Turing and reverse -- Life in the noise -- Anonymous remailers -- Secret broadcasts -- Keys -- Ordering and reordering -- Spreading -- Synthetic worlds -- Watermarks -- Steganalysis -- Obfuscation -- Synchronization -- Translucent databases -- Plain sight -- Coda

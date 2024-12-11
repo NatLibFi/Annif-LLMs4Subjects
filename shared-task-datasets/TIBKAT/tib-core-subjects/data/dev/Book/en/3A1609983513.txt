@@ -1,2 +1,0 @@
-Monitoring, control and protection of interconnected power systems
-Part I Introduction -- Part II System Model & Dynamic Phenomena -- Part III Monitoring of Interconnected Power Systems -- Part IV Control of Interconnected Power Systems -- Part V Stability and Protection Techniques in Interconnected Power Systems

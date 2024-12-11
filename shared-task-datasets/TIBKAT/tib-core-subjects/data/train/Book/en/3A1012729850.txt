@@ -1,2 +1,0 @@
-Mathematical modeling and simulation in chemical engineering
-"Discusses the analytical and numerical techniques for solving various mathematical model equations, including nonlinear algebraic equations, initial value ordinary differential equations (ODEs) and boundary value ODEs"--

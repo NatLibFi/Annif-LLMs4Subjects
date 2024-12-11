@@ -1,2 +1,0 @@
-ABAP : an introduction
-"Step into ABAP with this beginner's guide. First understand ABAP syntax and find out how to add data and logic to your applications. Then delve into backend programming: learn to work with the ABAP data dictionary, create database objects, and process and store data. Round out your skill set by practicing error handling, modularization, and string manipulation, and more. With guided examples, step-by-step instructions, and detailed code you'll become an ABAP developer in no time!"--

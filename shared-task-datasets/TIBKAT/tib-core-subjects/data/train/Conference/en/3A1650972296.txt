@@ -1,3 +1,0 @@
-Finite Geometric Structures and their Applications
-R.C. Bose: Graphs and designs.- R.H. Bruck: Construction problems in finite projective spaces.- R.H.F. Denniston: Packings of PG(3,q).- J. Doyen: Recent results on Steiner triple systems.- H. Lüneburg: Gruppen und endliche projektive Ebenen.- J.A. Thas: 4-gonal configurations.- H.P. Young: Affine triple systems.
-R.C. Bose: Graphs and designs -- R.H. Bruck: Construction problems in finite projective spaces -- R.H.F. Denniston: Packings of PG(3,q) -- J. Doyen: Recent results on Steiner triple systems -- H. Lüneburg: Gruppen und endliche projektive Ebenen -- J.A. Thas: 4-gonal configurations -- H.P. Young: Affine triple systems.

@@ -1,2 +1,0 @@
-Kausalmodellierung mit Partial Least Squares : Eine anwendungsorientierte Einführung
-Kausalmodellierung mit Partial Least Squares stellt mit der gängigen Software die Anwendung des Verfahrens anhand von Screenshots an einem konkreten Beispiel vor und gewährleistet so den Einstieg aber auch eine Vertiefung in den PLS-Ansatz. Dabei werden alle notwendigen Prüfmaße präsentiert.

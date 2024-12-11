@@ -1,2 +1,0 @@
-Quantifizierung optischer Systeme für die optische Tomographie
-Optische Projektionstomographie, scannende laseroptische Tomographie, Punktspreizfunktion, numerische Wellenoptik, Rekonstruktion, Interpolation. - Optical projection tomography, scanning laser optical tomography, point spread function, numerical wave optics, reconstruction, interpolation

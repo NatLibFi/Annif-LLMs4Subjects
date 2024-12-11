@@ -1,3 +1,0 @@
-Introduction to engineering heat transfer
-One-dimensional, steady state conduction -- Extended surface problems -- Two-dimensional, steady-state conduction -- Lumped transient problems -- Transient conduction -- Convection -- External forced convection -- Internal forced convection -- Free convection -- Boiling and condensation -- Heat exchangers -- Mass transfer -- Radiation.
-"This new text integrates fundamental theory with modern computational tools such as EES, MATLAB, and FEHT to equip students with the essential tools for designing and optimizing real-world systems and the skills needed to become effective practicing engineers"--

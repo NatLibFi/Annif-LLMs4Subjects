@@ -1,2 +1,0 @@
-Database design using entity-relationship diagrams
-"Thoroughly revised and updated, this third edition covers, in an intuitive, way, the database design process, from the inception of a database to effectively mapping the design to a relational model, which can then be implemented in any relational software. Students also learn how to reverse engineer a database from relational mappings"--

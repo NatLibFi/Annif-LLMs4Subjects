@@ -1,2 +1,0 @@
-Tunable low-power low-noise amplifier for healthcare applications
-This book consists of the research, design and implementation, from sizing to layout with parasitic extraction and yield estimation, of a low-power, low-noise amplifier for biomedical and healthcare applications of bio-potential signals, particularly focusing on the electromyography and electrooculography. These signals usually operate in different broadbands, yet follow an impulse-shape transmission, hence being suitable to be applied and detected by the same receiver.

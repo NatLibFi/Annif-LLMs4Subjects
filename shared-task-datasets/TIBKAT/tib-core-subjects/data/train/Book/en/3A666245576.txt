@@ -1,2 +1,0 @@
-Autonomous ground vehicles
-Ch. 1. Introduction -- Ch. 2. The role of control in autonomous systems -- Ch. 3. System architecture and hybrid system modeling -- Ch. 4. Sensors, estimation, and sensor fusion -- Ch. 5. Examples of autonomy -- Ch. 6. Maps and path planning -- Ch. 7. Vehicle-to-vehicle and vehicle-to-infrastructure communication -- Ch. 8. Conclusions

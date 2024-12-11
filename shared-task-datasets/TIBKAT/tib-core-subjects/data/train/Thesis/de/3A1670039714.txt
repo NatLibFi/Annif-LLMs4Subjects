@@ -1,2 +1,0 @@
-Wirt-Gast- und Gast-Gast-Wechselwirkungen in Methan-, Kohlenstoffdioxid- und Wasserstoff-Gashydraten
-Der Fokus dieser Arbeit richtet sich auf das Wechselwirkungsverhalten von Gastmolekülen in Gashydratstrukturen und deren Konsequenzen für thermodynamische und spektroskopische Eigenschaften. Die Wechselwirkungen wurden mittels quantenschemischer DFT-Methoden ermittelt und durch einfache statistische Modelle weiter ausgewertet. Es wurden die Gastmoleküle Methan, Kohlenstoffdioxid und Wasserstoff untersucht.<ger>

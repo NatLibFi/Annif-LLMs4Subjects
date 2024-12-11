@@ -1,2 +1,0 @@
-A Handbook for EMC Testing and Measurement
-The book reviews developments in the following fields: electromagnetic compatibility; EMC standards; EMC testing; radiated emission testing; antennas; radiated susceptibility testing; measurement equipment; electromagnetic transient testing; and uncertainty analysis

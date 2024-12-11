@@ -1,2 +1,0 @@
-Optics of diffractive and gradient-index elements and systems
-The use of diffractive and gradient-index (GRIN) lenses as components of imaging optical systems has been investigated for several decades. The elements have proved competitive in their unique focusing and aberration properties and in terms of their additional degrees of freedom for optical design. This book systematically examines the physical principles of diffractive and GRIN elements

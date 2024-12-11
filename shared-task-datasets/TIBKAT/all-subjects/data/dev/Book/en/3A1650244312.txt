@@ -1,2 +1,0 @@
-Morrey and Campanato Meet Besov, Lizorkin and Triebel
-During the last 60 years the theory of function spaces has been a subject of growing interest and increasing diversity. Based on three formally different developments, namely, the theory of Besov and Triebel-Lizorkin spaces, the theory of Morrey and Campanato spaces and the theory of Q spaces, the authors develop a unified framework for all of these spaces. As a byproduct, the authors provide a completion of the theory of Triebel-Lizorkin spaces when p = ∞

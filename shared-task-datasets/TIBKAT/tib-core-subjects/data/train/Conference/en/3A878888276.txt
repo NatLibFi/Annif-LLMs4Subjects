@@ -1,2 +1,0 @@
-Generalized recursion theory : Proceedings of the 1972 Oslo symposium
-pt. 1. Recursion in objects of finite type -- pt. 2. Sets and ordinals -- pt. 3. Inductive definability -- pt. 4. Axiomatic approaches and general discussion -- pt. 5. A bibliography of generalized recursion theory

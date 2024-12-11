@@ -1,2 +1,0 @@
-Advanced computational techniques for heat and mass transfer in food processing
-"This book provides, in a single source, information on the use of methods based on the numerical/computational analysis in food technology. It covers the whole spectrum and applications from food preservation to food analysis and describes specific methods for baking, crystallization, and drying of cereals, fruits, and vegetables"--

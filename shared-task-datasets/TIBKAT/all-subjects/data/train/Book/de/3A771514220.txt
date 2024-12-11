@@ -1,2 +1,0 @@
-SIP und Telekommunikationsnetze : Next Generation Networks und Multimedia over IP - konkret
-"Moderne Telekommunikationsnetze sind IP-basiert und integrieren alle Dienste und Zugangsnetztechniken. Aktuelle Stichworte in diesem Zusammenhang sind Voice und Multimedia over IP, das Session Initiation Protocol (SIP), das Konzept der Next Generation Networks (NGN), IMS (IP Multimedia Subsystem), Software Defined Networking (SDN) und Netzwerkvirtualisierung."--

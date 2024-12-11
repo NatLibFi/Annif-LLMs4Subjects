@@ -1,2 +1,0 @@
-Theoretical and computational aeroelasticity
-"This book is intended as a text for advanced students and as a reference for practicing aerospace engineers. The emphasis is on the problems of fixed wing aircraft."--Back cover

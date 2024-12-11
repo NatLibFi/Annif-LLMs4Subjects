@@ -1,2 +1,0 @@
-Handbook of research on methodologies and applications of supercomputing
-"This book offers a variety of perspectives and summarize the advances of control flow and data flow super computing, shedding light on selected emerging big data applications needing high acceleration and/or low power"--

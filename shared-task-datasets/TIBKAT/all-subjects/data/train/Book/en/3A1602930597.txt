@@ -1,2 +1,0 @@
-Nonlinear ocean waves and the inverse scattering transform
-Nonlinear Ocean Waves and the Inverse Scattering Transform presents the development of the nonlinear Fourier analysis of measured space and time series, which can be found in a wide variety of physical settings including surface water waves, internal waves, and equatorial Rossby waves.

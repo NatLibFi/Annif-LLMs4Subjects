@@ -1,2 +1,0 @@
-Differential forms : with applications to the physical sciences
-Introduces the use of exterior differential forms as a powerful took in the analysis of a variety of mathematical problems in the physical and engineering sciences

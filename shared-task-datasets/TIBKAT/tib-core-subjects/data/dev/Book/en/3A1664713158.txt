@@ -1,2 +1,0 @@
-Difference equations for scientists and engineering : interdisciplinary difference equations
-First order linear difference equations -- First order nonlinear difference equations -- Second order linear difference equations -- Second order nonlinear difference equations -- Advanced periodic characteristics and new research questions.

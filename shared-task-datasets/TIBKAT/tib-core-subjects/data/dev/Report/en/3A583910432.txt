@@ -1,2 +1,0 @@
-Complex-valued neural networks : utilizing high-dimensional parameters
-"This book covers the current state-of-the-art theories and applications of neural networks with high-dimensional parameters"--Provided by publisher

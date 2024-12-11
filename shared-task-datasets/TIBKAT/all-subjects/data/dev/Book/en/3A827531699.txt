@@ -1,2 +1,0 @@
-A student's guide to Python for physical modeling
-Getting started with Python -- Structure and control -- Data in, results out -- First computer lab -- More Python constructions -- Second computer lab -- Still more techniques -- Third computer lab

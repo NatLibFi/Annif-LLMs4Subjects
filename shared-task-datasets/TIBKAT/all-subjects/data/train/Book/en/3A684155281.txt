@@ -1,2 +1,0 @@
-Introducing HTML5 game development
-Step-by-step guide to creating a 2D game using Impact, the JavaScript game framework that works with HTML5's Canvas element --

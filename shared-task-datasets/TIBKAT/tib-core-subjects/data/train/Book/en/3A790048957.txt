@@ -1,2 +1,0 @@
-Beginning Python visualization : crafting visual transformation scripts
-Navigating the world of data visualization -- The environment -- Python for programmers -- Data organization -- Processing text files -- Graphs and plots -- Math games -- Science and visualization -- Image processing -- Advanced file processing -- Appendix : additional source listing

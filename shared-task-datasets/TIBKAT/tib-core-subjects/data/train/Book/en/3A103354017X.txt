@@ -1,2 +1,0 @@
-Fractalize that! : a visual essay on statistical geometry
-Introduction : space-filling patterns -- Squares and rectangles -- Triangles and diamonds -- Discs and circular arcs -- Mixed and irregular shapes -- Mixed and irregular shapes -- Examples -- The statistical geometry algorithm -- The area-perimeter algorithm -- Statistical geometry in one dimension -- Do it yourself

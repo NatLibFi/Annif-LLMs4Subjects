@@ -1,2 +1,0 @@
-JavaScript : das umfassende Handbuch ; [Grundlagen, Programmierung, Praxis ; für Einsteiger, Fortgeschrittene und Profis ; browserübergreifende Lösungen ; DOM, CSS, Ajax, XML, WebSockets ; inkl. HTML5 und jQuery]
-Einführung in die clientseitige Programmiersprache JavaScript. Vermittelt werden Grundlagen und fortgeschrittene Techniken, angereichert mit zahlreichen praxisnahen Beispielen. HTML5 und dessen Auswirkungen auf JavaScript werden besonders berücksichtigt

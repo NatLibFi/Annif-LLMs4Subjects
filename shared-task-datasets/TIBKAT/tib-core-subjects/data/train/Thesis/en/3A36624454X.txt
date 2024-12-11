@@ -1,2 +1,0 @@
-Analyse und Optimierung eines industriellen Biotransformationsprozesses zur Herstellung von Tryptophan
-2D-fluorescence spectroscopy, multivariate analysis, bioprocess modelling, parameter identification, online prediction, optimization, biotransformation, Tryptophan

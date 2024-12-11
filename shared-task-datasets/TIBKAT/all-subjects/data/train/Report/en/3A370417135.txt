@@ -1,2 +1,0 @@
-Applied econometric time series
-This new edition reflects recent advances in time-series econometrics, such as out-of-sample forecasting techniques, non-linear time-series models, Monte Carlo analysis, and bootstrapping. Numerous examples from fields ranging from agricultural economics to transnational terrorism illustrate various techniques.

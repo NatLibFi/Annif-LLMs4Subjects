@@ -1,2 +1,0 @@
-Boundary element acoustics : fundamentals and computer codes
-Inhalt: Chapter 1: Fundamentals of linear acoustics; Chapter 2: The Helmholtz integral equation; Chapter 3: Two-dimensional problems; Chapter 4: Three- dimensional problems; Chapter 5: The normal-derivative integral equation; Chapter 6: Indirect variational boundary element method in acoustics; Chapter 7: Acoustic eigenvalue analysis by boundary element methods

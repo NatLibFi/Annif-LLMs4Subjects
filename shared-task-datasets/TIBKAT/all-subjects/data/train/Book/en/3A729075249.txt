@@ -1,2 +1,0 @@
-Krylov subspace methods: principles and analysis
-1. Introduction -- 2. Krylov subspace methods -- 3. Matching moments and model reduction view -- 4. Short recurrences for generating orthogonal Krylov subspace bases -- 5. Cost of computations using Krylov subspace methods

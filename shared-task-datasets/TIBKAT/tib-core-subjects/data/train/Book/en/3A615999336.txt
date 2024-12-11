@@ -1,2 +1,0 @@
-Ubuntu: up and running : [covers Ubuntu 9.10 & 10.04, includes DVD]
-Ubuntu for everyone! This popular Linux-based operating system is perfect for people with little technical background. It's simple to install, and easy to use -- with a strong focus on security. Ubuntu: Up and Running shows you the ins and outs of this system with a complete hands-on tour. You'll learn how Ubuntu works, how to quickly configure and maintain Ubuntu 10.04, and how to use this unique operating system for networking, business, and home entertainment

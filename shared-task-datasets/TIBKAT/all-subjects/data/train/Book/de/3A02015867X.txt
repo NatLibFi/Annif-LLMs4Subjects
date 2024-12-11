@@ -1,2 +1,0 @@
-Mehrsprachenwörterbuch mathematischer Begriffe
-Das Buch bringt die Übersetzung der Begriffe des BI-Taschenbuches 99/99a (Begriffswörterbuch) ins Englische, Französische, Russische, Italienische.

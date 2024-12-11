@@ -1,2 +1,0 @@
-Maximizing information system availability through bayesian belief network approaches : emerging research and opportunities
-"This book provides a foundation and a brief literature review on the system availability and other related concepts, as well as methods for measuring and modeling system availability, presents the factors that affect information system availability, and provides adequate model based on the probability that can help with optimization of investments in information security in financial institutions"--

@@ -1,2 +1,0 @@
-Categories of Boolean Sheaves of Simple Algebras
-Categories of boolean sheaves of algebras -- Categories of boolean sheaves of simple algebras -- Categories of locally boolean sheaves of simple algebras.

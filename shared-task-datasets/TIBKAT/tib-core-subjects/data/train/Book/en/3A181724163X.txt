@@ -1,2 +1,0 @@
-AI for physics
-"Written in accessible language without mathematical formulas, the book covers important machine learning algorithms and their respective applications in physics and across a number of important sub-fields in more detail, ranging from particle, molecular and condensed matter physics, to astrophysics, cosmology and the theory of everything"--

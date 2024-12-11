@@ -1,2 +1,0 @@
-Extreme Eigen Values of Toeplitz Operators
-Hilbert space background — Small eigen values -- The fourier transform theorem -- The fourier series theorem -- Hilbert space theory — Large eigen values -- The fourier series and fourier transform theorems.

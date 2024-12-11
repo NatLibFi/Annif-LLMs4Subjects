@@ -1,2 +1,0 @@
-Finite Elemente : Theorie, schnelle Löser und Anwendungen in der Elastizitätstheorie
-Bei der numerischen Behandlung partieller Differentialgleichungen treten häufig unerwartete Phänomene auf. Der Autor legt deshalb viel Wert auf die Darstellung von Beispielen und Gegenbeispielen. Die klassische Theorie behandelt er dagegen zügig. Sein Buch ist eines der Standardwerke zu Finiten Elementen. Zahlreiche Abbildungen, Beispiele und Aufgaben sorgen für eine leicht verständliche Darstellung.

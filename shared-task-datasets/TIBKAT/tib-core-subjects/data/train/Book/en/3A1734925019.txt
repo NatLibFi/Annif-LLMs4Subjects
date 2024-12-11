@@ -1,2 +1,0 @@
-Formal and adaptive methods for automation of parallel programs construction : emerging research and opportunities
-"This book examines the improvement of productivity and efficiency in modern parallel computing systems and the development of methods and software tools for automated program design"--

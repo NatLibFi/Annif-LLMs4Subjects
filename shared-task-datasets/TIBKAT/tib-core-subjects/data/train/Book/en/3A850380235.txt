@@ -1,2 +1,0 @@
-Classification and clustering in biomedical signal processing
-"This book focuses on existing and proposed methods for medical imaging, signal processing, and analysis for the purposes of diagnosing and monitoring patient conditions, featuring the most recent empirical research findings in the areas of signal processing for biomedical applications with an emphasis on classification and clustering techniques"--

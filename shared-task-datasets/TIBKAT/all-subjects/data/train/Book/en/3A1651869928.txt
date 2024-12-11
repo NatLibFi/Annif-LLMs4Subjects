@@ -1,2 +1,0 @@
-How does MRI work? : an introduction to the physics and function of magnetic resonance imaging ; with 9 tables
-Introduces the physics and function of Magnetic Resonance Imaging. This book presents the important aspects of MRI, placing emphasis on information including the trends and developments that are relevant for MRI in clinical settings. It is aimed at readers looking for an introduction to this imaging modality at the beginning of their MRI training

@@ -1,2 +1,0 @@
-Head-driven phrase structure grammar : eine Einführung
-Die Grammix-CD ist eine bootfähige CD, die ein komplettes Grammatikentwicklungssystem (das TRALE-System) und Beispiel-Grammatiken enthält, die den jeweiligen Kapiteln aus dem Buch Einführung in die Head-Driven Phrase Structure Grammar entsprechen. Außerdem enthält sie das Babel-System.

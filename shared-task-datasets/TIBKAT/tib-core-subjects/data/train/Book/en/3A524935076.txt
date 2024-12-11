@@ -1,2 +1,0 @@
-The Hamilton-Type Principle in Fluid Dynamics : Fundamentals and Applications to Magnetohydrodynamics, Thermodynamics, and Astrophysics
-Describes Fluid Dynamics, Magnetohydrodynamics, and Classical Thermodynamics as branches of Lagrange's Analytical Mechanics. This book formulates a Hamilton-Type Variational Principle as the proper mathematical technique for the theoretical description of the dynamic state of any fluid

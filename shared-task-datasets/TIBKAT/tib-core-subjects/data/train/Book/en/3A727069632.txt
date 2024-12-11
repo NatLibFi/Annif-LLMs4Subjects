@@ -1,2 +1,0 @@
-Combinatorics of set partitions
-Basic tools of the book -- Preliminary results on set partitions -- Subword statistics on set partitions -- Nonsubword statistics on set partitions -- Avoidance of patterns in set partitions -- Multi restrictions on set partitions -- Asymptotics and random set partitions -- Gray codes, loopless algorithms and set partitions -- Set partitions and normal ordering

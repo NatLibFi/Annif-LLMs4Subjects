@@ -1,2 +1,0 @@
-Illustrated C# 2010 [C# illustrated clearly, concisely, and visually]
-A guide to the C# programming language covers such topics as syntax, classes and objects, exception handling, strings, arrays, delegates, threading, and generics

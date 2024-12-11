@@ -1,2 +1,0 @@
-Geometry of Homogeneous Bounded Domains
-This title includes: S.G. Gindikin, I.I. Pjateckii-Sapiro, E.B. Vinberg: Homogeneous Kahler manifolds; S.G. Greenfield: Extendibility properties of real submanifolds of Cn; W. Kaup: Holomorphische Abbildungen in Hyperbolische Raume; A. Koranyi: Holomorphic and harmonic functions on bounded symmetric domains; J.L. Koszul: Formes harmoniques vectorielles sur les espaces localement symetriques; S. Murakami: Plongements holomorphes de domaines symetriques; and E.M. Stein: The analogues of Fatous' theorem and estimates for maximal functions

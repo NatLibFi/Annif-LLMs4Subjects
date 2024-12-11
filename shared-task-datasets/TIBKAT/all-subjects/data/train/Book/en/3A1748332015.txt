@@ -1,2 +1,0 @@
-Role engineering for enterprise security management
-Whether you are a manager, engineer, or IT security specialist, this authoritative resource shows you how to define and deploy roles for securing enterprise systems

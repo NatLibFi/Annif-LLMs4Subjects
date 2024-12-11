@@ -1,2 +1,0 @@
-Design of CMOS operational amplifiers
-Chapter 1. Basic specifications of op amps -- Chapter 2. CMOS technology and physics -- Chapter 3. CMOS differential amplifiers -- Chapter 4. CMOS sngle-ended output op amps -- Chapter 5. CMOS fully differential op amps -- Chapter 6. CMOS output stages -- Chapter 7. CMOS reference generators

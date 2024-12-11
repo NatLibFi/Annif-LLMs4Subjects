@@ -1,3 +1,0 @@
-Agglomeration in metallurgy
-This book gives details on the processes of agglomeration and its role in modern metal production processes. It starts with a chapter on sinter production, also discussing the quality of sinter and environmental aspects involved on the process. The following chapters focus on pellet production and briquetting of natural and anthropogenic raw materials. It also highlights the best available technologies for briquetting by stiff extrusion
-Introduction -- Sinter Production -- Pellets production -- Briquetting -- Best Available Technologies for Agglomeration of the Raw Materials for Blast Furnaces

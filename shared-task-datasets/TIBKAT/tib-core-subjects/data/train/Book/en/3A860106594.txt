@@ -1,2 +1,0 @@
-Innovative research and applications in next-generation high performance computing
-"This book addresses the future challenges, advances, and applications of high-performance computing and related technologies, demonstrating new ways to optimize the performance of these supercomputers"--

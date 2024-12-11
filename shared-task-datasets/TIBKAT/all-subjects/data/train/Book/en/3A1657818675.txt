@@ -1,2 +1,0 @@
-Mathematical elasticity : Volume I. Three-dimensional elasticity
-This volume is a thorough introduction to contemporary research in elasticity, and may be used as a working textbook at the graduate level for courses in pure or applied mathematics or in continuum mechanics. It provides a thorough description (with emphasis on the nonlinear aspects) of the two competing mathematical models of three-dimensional elasticity, together with a mathematical analysis of these models. The book is as self-contained as possible

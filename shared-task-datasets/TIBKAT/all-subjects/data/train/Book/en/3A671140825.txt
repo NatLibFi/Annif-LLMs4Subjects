@@ -1,2 +1,0 @@
-Design structure matrix methods and applications
-Introduction to design structure matrix methods -- Product architecture DSM models -- Product architecture DSM examples -- Organization architecture DSM models -- Organization architecture DSM examples -- Process architecture DSM models -- Process architecture DSM examples -- Multidomain architecture MDM models -- Multidomain architecture MDM examples -- The future of DSM

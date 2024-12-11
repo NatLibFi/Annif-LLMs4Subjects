@@ -1,2 +1,0 @@
-Tools and methods of program analysis : 6th international conference, TMPA 2021, Tomsk, Russia, November 25-27, 2021 : revised selected papers
-This book constitutes the refereed proceedings of the 6th International Conference on Tools and Methods of Program Analysis, TMPA 2021, held in Tomsk, Russia, during November 25-27, 2021. The 15 full papers and 3 short papers included in this book were carefully reviewed and selected from 45 submissions. They focus on various aspects of application of modern methods of data science to the analysis of software quality

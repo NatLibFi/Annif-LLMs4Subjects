@@ -1,2 +1,0 @@
-Projekt Texturanalyse : Abschlußbericht : Abschlußbericht, Laufzeit des Projektes: 01.10.1993 - 30.06.1997
-Image processing, texture analysis, anisotropic diffusion, Mumford-Shah, multiscale methods, generalized Hough-transform, radon transform, Markov-fields, color classification

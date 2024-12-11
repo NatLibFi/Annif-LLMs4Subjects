@@ -1,2 +1,0 @@
-Across space and time : papers from the 41st Conference on Computer Applications and Quantitative Methods in Archaeology, Perth, 25-28 March 2013 : CAA 2013 Perth
-This volume presents a selection of the best papers presented at the forty-first annual Conference on Computer Applications and Quantitative Methods in Archaeology. The theme for the conference was "Across Space and Time", and the papers explore a multitude of topics related to that concept, including databases, the semantic Web, geographical information systems, data collection and management, and more

@@ -1,2 +1,0 @@
-Visual speech recognition: lip segmentation and mapping
-"This book introduces the readers to the various aspects of visual speech recognitions, including lip segmentation from video sequence, lip feature extraction and modeling, feature fusion and classifier design for visual speech recognition and speaker verification"--Provided by publisher

@@ -1,2 +1,0 @@
-Motion in games : 5th international conference, MIG 2012, Rennes, France, November 15 - 17, 2012 ; proceedings
-This book constitutes the refereed proceedings of the 5th International Workshop on Motion in Games, held in Rennes, France, in November 2012. The 23 revised full papers presented together with 9 posters and 5 extended abstracts were carefully reviewed and selected from numerous submissions. The papers are organized in topical sections on planning, interaction, physics, perception, behavior, virtual humans, locomotion, and motion capture.--

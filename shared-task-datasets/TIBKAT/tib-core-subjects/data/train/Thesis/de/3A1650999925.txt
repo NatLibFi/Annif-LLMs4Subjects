@@ -1,2 +1,0 @@
-Nutzenkonsistente Risikopriorisierung : Die Risk-Map im Kontext rationaler Entscheidungen
-Die Risk-Map dient zur Klassifizierung und Priorisierung von bewerteten Unternehmensrisiken. Christian Brünger untersucht, wie die Risikoschwelle, welche in der Risk-Map als Klassifizierungsgrenze verwendet wird, auf der Grundlage von entscheidungstheoretischen Kriterien bestimmt werden kann. Der Autor zeigt erstmalig auf, dass mit der bisherigen klassischen Priorisierungsmethode ein „blinder Fleck“ in der Risk-Map entsteht, in dem wichtige Risiken nicht erkannt werden.

@@ -1,2 +1,0 @@
-UNICORE Plus final report : Uniform Interface to Computing Resources ; joint project report for the BMBF project Unicore Plus, duration: January 2000 to December 2002
-Grid-computing, distributed computing, seamless access, high performance computing, virtual organisations

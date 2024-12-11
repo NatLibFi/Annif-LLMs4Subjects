@@ -1,2 +1,0 @@
-On the effects of minor changes in model formulations
-Starting with the description of the Traveling Salesmen Problem formulation as given by van Vyve and Wolsey in the article Approximate extended formulations, we investigate the effects of small variations onto the performance of contemporary mixed integer programming solvers. We will show that even minor changes in the formulation of the model can result in performance difference of more than a factor of 1000. As the results show it is not obvious which changes will result in performance improvements and which not.

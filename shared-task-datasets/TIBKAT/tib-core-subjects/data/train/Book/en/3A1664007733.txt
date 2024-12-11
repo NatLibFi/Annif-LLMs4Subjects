@@ -1,2 +1,0 @@
-Structure for architects : a case study in steel, wood, and reinforced concrete design
-Introduction to structural design -- Structural design metholodgies -- Stress, strain, and material behavior -- Case study introduction -- Understanding steel -- Understanding wood -- Understanding reinforced concrete.

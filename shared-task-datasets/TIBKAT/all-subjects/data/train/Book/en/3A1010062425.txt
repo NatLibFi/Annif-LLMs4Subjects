@@ -1,2 +1,0 @@
-Essential fluid dynamics : for scientists
-The book is an introduction to the subject of fluid mechanics, essential for students and researchers in many branches of science. It illustrates its fundamental principles with a variety of examples drawn mainly from astrophysics and geophysics as well as from everyday experience. Prior familiarity with basic thermodynamics and vector calculus is assumed.

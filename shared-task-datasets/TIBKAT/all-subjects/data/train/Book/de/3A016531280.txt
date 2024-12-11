@@ -1,2 +1,0 @@
-Programmieren mit FORTRAN 77 für Ingenieure : mit 56 Beispielen und 50 Aufgaben mit Lösungen
-Beinhaltet: Hardware und Software, Entwicklung eines Programms, Programmablaufplan, Elemente von FORTRAN, Bereiche, Textverarbeitung, Unterprogramme, Dateiverarbeitung, Testen von Programmen, Beispiele und Aufgaben.

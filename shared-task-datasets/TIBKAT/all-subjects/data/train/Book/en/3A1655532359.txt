@@ -1,2 +1,0 @@
-Image operators : image processing in Python
-This book will provide a unified theoretical foundation of image analysis procedures with accompanied Python computer scripts to precisely describe the steps in image processing applications. Linkage between required scripts and theory through operators will be presented. Readers will be able to quickly write computer code to correctly implement the algorithms. Chapters will contain theories, operator equivalents, examples, Python codes, and exercises. Python downloads will be available--

@@ -1,2 +1,0 @@
-The android malware handbook : detection and analysis by human and machine
-"Explores the history of Android attacks and covers static and dynamic approaches to analyzing real malware specimens, machine-learning techniques to detect malicious apps, and how to identify banking trojans, ransomware, and SMS fraud"--

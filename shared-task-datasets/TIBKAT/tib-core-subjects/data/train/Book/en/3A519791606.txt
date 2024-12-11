@@ -1,2 +1,0 @@
-Lessons in play : an introduction to combinatorial game theory
-Combinatorial games -- Basic techniques -- Outcome classes -- Motivational interlude -- The Algebra of games -- Values of games -- Structure -- Impartial games -- Hot games -- All-small games -- Omega

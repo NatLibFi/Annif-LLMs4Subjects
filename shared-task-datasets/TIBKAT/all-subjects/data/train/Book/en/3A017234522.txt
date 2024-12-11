@@ -1,2 +1,0 @@
-Dynamic fracture mechanics
-Aus dem Inhalt: 1) Background and overview 2) Basic elastodynamic solutions for a stationary crack 3) Further results for a stationary crack 4) Asymptotic fields near a moving crack tip 5) Energy concepts in dynamic fracture 6) Elastic crack growth at constant speed 7) Elastic crack growth at nonuniform speed 8) Plasticity and rate effects during crack growth.

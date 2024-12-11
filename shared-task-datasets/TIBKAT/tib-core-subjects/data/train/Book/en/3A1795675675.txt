@@ -1,2 +1,0 @@
-Nanogenerators : basic concepts, design strategies and applications
-"Provides an in-depth review of the history, fundamental theory, design strategies, and applications of nanogenerators. Working principles, device mechanisms, material characteristics, types of nanogenerators, as well as their different uses are fully explored"--

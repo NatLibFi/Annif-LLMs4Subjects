@@ -1,2 +1,0 @@
-Formal techniques for safety-critical systems : 6th International Workshop, FTSCS 2018, Gold Coast, Australia, November 16, 2018 : revised selected papers
-Analysis and verification of safety-critical systems -- Analysis of timed systems -- Semantics and analysis methods -- Model transformation.

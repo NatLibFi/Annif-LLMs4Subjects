@@ -1,2 +1,0 @@
-Fuzzy hybrid computing in construction engineering and management : theory and applications
-This book is a guide for students, researchers, and practitioners to the latest developments in fuzzy hybrid computing in construction engineering and management. It discusses basic theory related to fuzzy logic and fuzzy hybrid computing, their application in a range of practical construction problems, and emerging and future research trends.

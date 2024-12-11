@@ -1,2 +1,0 @@
-Finite element and boundary element coupling for fluid-structure interaction
-Fluid structure interaction problem, FE/BE coupling method, Galerkin method, a posteriori error estimator, residual error estimator, two-level hierarchical error estimator, adaptive algorithm. - FE/BE-Kopplung, Galerkin-Verfahren, a posteriori Fehlerschätzer, residualer Fehlerschätzer, hierarchischer Fehlerschätzer, adaptive Verfahren

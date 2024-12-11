@@ -1,2 +1,0 @@
-The semantic web : 20th international conference, ESWC 2023, Hersonissos, Crete, Greece, May 28-June 1, 2023 : proceedings
-This book constitutes the refereed proceedings of the 20th International Conference on The Semantic Web, ESWC 2023, held in Hersonissos, Crete, Greece, during May 28-June 1, 2023. The 41 full papers included in this book were carefully reviewed and selected from 167 submissions. They are organized in topical sections as follows: research, resource and in-use

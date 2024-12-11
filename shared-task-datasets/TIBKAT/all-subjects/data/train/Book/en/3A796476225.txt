@@ -1,2 +1,0 @@
-Unix and shell programming
-Unix : an introduction -- Unix file system -- Basic Unix commands -- Advanced Unix commands -- File management and compression techniques -- Manipulating processes and signals -- System calls -- Editors in Unix -- AWK script -- Bourne shell programming -- Korn shell programming -- C shell programming -- Different tools and debuggers -- Interprocess communication -- Unix system administration and networking

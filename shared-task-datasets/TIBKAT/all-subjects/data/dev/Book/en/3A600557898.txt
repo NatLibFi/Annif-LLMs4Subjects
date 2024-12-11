@@ -1,2 +1,0 @@
-Handbook of research on discrete event simulation environments : technologies and applications
-"This book provides a comprehensive overview of theory and practice in simulation systems focusing on major breakthroughs within the technological arena, with particular concentration on the accelerating principles, concepts and applications"--Provided by publisher

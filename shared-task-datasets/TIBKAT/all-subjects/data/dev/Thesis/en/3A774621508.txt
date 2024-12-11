@@ -1,2 +1,0 @@
-High-resolution large-eddy simulation studies of the turbulent structure of the convective boundary layer over homogeneous and heterogeneous terrain and implications for the interpretation of scintillometer data
-Atmospheric boundary layer, large-eddy simulation, structure parameter. - Atmosphärische Grenzschicht, Grobstruktursimulation, Strukturparameter

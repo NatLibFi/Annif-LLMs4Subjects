@@ -1,2 +1,0 @@
-Facility location planning for distribution networks and infrastructure locations
-Die Standortplanung in Distributionsnetzwerken und von Infrastruktureinrichtungen ist für viele Unternehmen und öffentliche Einrichtungen von hoher strategischer Bedeutung. Die Arbeit behandelt zwei Anwendungsfälle im Themenfeld der Facility Location Probleme (FLP): Distributionsnetzwerkplanung und Planung einer Ladeinfrastruktur für Elektrofahrzeuge.

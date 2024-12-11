@@ -1,2 +1,0 @@
-Abschlußbericht zum Projekt: "Entwicklung einer Stirling-Kältemaschine mit verbesserter Leistungszahl" ; [Abschlußdatum des Vorhabens: 30.06.1997]
-Stirling, stirling refrigeration plant, refrigeration, coefficient of performance, carnot efficiency, simulation, simulation program, atomization

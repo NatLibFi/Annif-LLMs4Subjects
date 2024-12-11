@@ -1,2 +1,0 @@
-Artificial neural networks in real life applications
-"This book offers an outlook of the most recent works at the field of the Artificial Neural Networks (ANN), including theoretical developments and applications of systems using intelligent characteristics for adaptability"--Provided by publisher.

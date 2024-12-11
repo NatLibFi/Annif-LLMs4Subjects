@@ -1,3 +1,0 @@
-SPSS 16 für Dummies : [statistische Analyse statt Datenchaos ; grafische Darstellung der Ergebnisse optimieren ; leichtes Exportieren in Excel, Word und Co. ; Daten aufbereiten und erfolgreich analysieren]
-Verlagstext: SPSS ist das Analysetool für statistische Auswertungen. Wer anhand seiner Daten Entscheidungen treffen möchte, tut gut daran, es einzusetzen. Dieses Buch vom SPSS-Profi Felix Brosius bietet eine ideale Einführung in das komplexe Programm.
-Verlagstext: SPSS ist das Analysetool für statistische Auswertungen. Wer anhand seiner Daten Entscheidungen treffen möchte, tut gut daran, es einzusetzen. Dieses Buch vom SPSS-Profi Felix Brosius bietet eine ideale Einführung in das komplexe Programm

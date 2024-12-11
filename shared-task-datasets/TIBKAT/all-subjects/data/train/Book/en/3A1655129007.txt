@@ -1,2 +1,0 @@
-Shape Theory : An Introduction
-Preliminaries -- The shape category -- General properties of the shape category and the shape functor -- Shape invariants -- Algebraic properties associated with shape theory -- Pointed 1-movability -- Whitehead and hurewicz theorems in shape theory -- Characterizations and properties of pointed ANSR’s -- Cell-like maps -- Some open problems.

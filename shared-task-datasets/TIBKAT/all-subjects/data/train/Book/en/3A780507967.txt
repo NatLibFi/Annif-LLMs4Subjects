@@ -1,2 +1,0 @@
-Big data application architecture Q & A : a problem-solution approach ; [select the best end-to-end architecture to solve your big data problem]
-"Provides an insight into heterogeneous infrastructures, databases, and visualization and analytics tools used for realizing the architectures of big data solutions."--Back cover

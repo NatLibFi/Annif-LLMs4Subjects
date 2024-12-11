@@ -1,2 +1,0 @@
-Hybrid systems based on solid oxide fuel cells : modelling and design
-SOFC technology -- Micro gas turbine technology -- SOFC/MGT coupling -- Computational models for hybrid systems -- Experimental emulation facilities -- Problems and solutions for future hybrid systems

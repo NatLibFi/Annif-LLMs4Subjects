@@ -1,2 +1,0 @@
-Discrete Integrable Systems
-This volume consists of a set of ten lectures conceived as both introduction and up-to-date survey on discrete integrable systems. It constitutes a companion book to "Integrability of Nonlinear Systems" (Springer-Verlag, 2004, LNP 638, ISBN 3-540-20630-2). Both volumes address primarily graduate students and nonspecialist researchers but will also benefit lecturers looking for suitable material for advanced courses and researchers interested in specific topics

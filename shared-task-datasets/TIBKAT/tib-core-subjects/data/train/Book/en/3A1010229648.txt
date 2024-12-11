@@ -1,2 +1,0 @@
-Signal processing and data analysis
-This book presents digital signal processing theories and methods and their applications in data analysis, error analysis and statistical signal processing. Algorithms and Matlab programming are included to guide readers step by step in dealing with practical difficulties. Designed in a self-contained way, the book is suitable for graduate students in electrical engineering, information science and engineering in general--

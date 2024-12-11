@@ -1,2 +1,0 @@
-Learning Perl : [covers Perl 5.14]
-This 6th edition covers recent changes to the Perl language up to version 5.14.  It teaches you the basics and shows you how to write programs up to 128 lines long -- roughly the size of 90% of the Perl programs in use today. Each chapter includes exercises to help you practice what you've just learned

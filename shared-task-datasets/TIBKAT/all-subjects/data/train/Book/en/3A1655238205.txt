@@ -1,2 +1,0 @@
-Group Theoretic Methods in Bifurcation Theory
-Physical examples of bifurcation -- Mathematical preliminaries -- Stability and bifurcation -- Bifurcation at multiple eigenvalues -- Elements of group representation theory -- Applications -- Appendix: How to find the symmetry group of a differential equation.

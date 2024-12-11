@@ -1,2 +1,0 @@
-Fracture and damage mechanics for structural engineering of frames : state-of-the-art industrial applications
-"This book outlines the latest computational tools, models, and methodologies surrounding the analysis of wall and frame load support and resilience, emphasizing best practices in computational simulation for civil engineering applications"--

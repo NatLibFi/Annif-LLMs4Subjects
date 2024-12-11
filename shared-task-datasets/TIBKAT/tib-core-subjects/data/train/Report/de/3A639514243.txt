@@ -1,2 +1,0 @@
-Fortgeschrittene multivariate Analysemethoden : eine anwendungsorientierte Einführung
-Während das Grundlagenwerk "Multivariate Analysemethoden" des gleichen Verfassers in den Grundzügen eher auf das Bachelor-Studium gerichtet ist, zielt das Buch "Fortgeschrittene multivariate Analysemethoden" auf die Verwendung in Master- und PhD-Programmen ab. Darüber hinaus wird auf der Internetplattform www.multivariate.de den Leserinnen und Lesern jeweils eine Darstellung der komplexen Verfahren der Multivariaten Analyse offeriert.

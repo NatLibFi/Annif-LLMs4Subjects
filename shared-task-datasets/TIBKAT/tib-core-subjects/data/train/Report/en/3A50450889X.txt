@@ -1,2 +1,0 @@
-Descriptive metadata for television : an end-to-end introduction
-What is metadata? -- Types of metadata -- Metadata schemes, structures, and encoding -- The impact of technology change on people and metadata processes -- Identifiers and identification -- Metadata for the consumer -- Metadata in public collections

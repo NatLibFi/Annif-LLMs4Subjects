@@ -1,2 +1,0 @@
-Hadamard Matrices and Their Applications
-Construction of classic Hadamard matrices -- Construction of generalized Hadamard matrices -- Application of Hadamard matrices.

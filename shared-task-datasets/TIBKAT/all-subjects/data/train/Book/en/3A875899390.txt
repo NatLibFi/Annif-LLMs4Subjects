@@ -1,2 +1,0 @@
-The physics of cancer
-Introduction to the cell -- The biology of cancer -- A modeling toolbox for cancer growth -- Vascular hydrodynamics and tumor angiogenesis -- Cancer stem cells and the population dynamics of tumors -- Biomechanics of cancer -- Cancer cell migration -- Chromosome and chromatin dynamics in cancer -- Control of tumor growth by the immune system -- Pharmacological approaches : old and new -- Outlook on the physics of cancer : a new interdisciplinary area

@@ -1,2 +1,0 @@
-Spectral analysis of musical sounds with emphasis on the piano
-This book addresses the analysis of musical sounds from the viewpoint of someone at the intersection among physicists, engineers, piano technicians, and musicians

@@ -1,2 +1,0 @@
-Dynamic treatment regimes : statistical methods for precision medicine
-"Precision medicine seeks to use data to construct principled, i.e., evidence-based, treatment strategies that dictate where, when, and to whom treatment should be applied. This book provides an accessible yet comprehensive introduction to statistical methodology for dynamic treatment regimes"--

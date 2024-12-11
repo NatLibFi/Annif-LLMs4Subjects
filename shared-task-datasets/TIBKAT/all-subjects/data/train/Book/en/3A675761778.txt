@@ -1,2 +1,0 @@
-Computational aeroacoustics : a wave number approach
-"This is both a textbook for graduate students with exercises and a reference with code for researchers in Computational Aeroacoustics [CAA.]"--

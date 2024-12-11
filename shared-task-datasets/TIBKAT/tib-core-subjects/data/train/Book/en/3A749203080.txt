@@ -1,2 +1,0 @@
-The Rigged Hilbert Space and Quantum Mechanics : Lectures in Mathematical Physics at the University of Texas at Austin
-The algebraic structure of the space of states -- The topological structure of the space of states -- Conjugate space of ? -- Generalized Eigenvectors and nuclear

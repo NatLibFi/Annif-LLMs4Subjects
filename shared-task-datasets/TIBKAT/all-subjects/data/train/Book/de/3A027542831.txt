@@ -1,2 +1,0 @@
-Schwingungslehre
-Aus dem Inhalt: 1) Schwingungen: Zeitfunktionen und Spektren 2) Einfache lineare Schwingungssysteme 3) Elektromechanische Wandler 4) Gekoppelte Schwingungssysteme 5) Nichtlineare und rheolineare Schwingungssysteme.

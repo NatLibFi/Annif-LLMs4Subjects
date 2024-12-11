@@ -1,2 +1,0 @@
-Introduction to computational materials science : fundamentals to applications
-"Emphasising essential methods and universal principles, this textbook provides everything students need to understand the basics of simulating materials behaviour. All the key topics are covered from electronic structure methods to microstructural evolution, appendices provide crucial background material, and a wealth of practical resources are available online to complete the teaching package

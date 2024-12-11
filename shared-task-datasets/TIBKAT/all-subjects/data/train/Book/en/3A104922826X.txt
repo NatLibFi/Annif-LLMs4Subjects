@@ -1,2 +1,0 @@
-Turbulent fluid flow
-Describing turbulence -- Overview of turbulent flow physics and equations -- Turbulence at small scales -- Energy decay in isotropic turbulence -- Turbulent transport and its modeling -- Channel and pipe flows -- Boundary layers -- Turbulence modeling -- Large eddy simulations -- Properties of turbulent free shear flows -- Calculation of ground vehicle flows

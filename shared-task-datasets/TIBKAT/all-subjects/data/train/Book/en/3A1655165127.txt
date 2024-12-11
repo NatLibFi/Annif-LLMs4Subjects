@@ -1,2 +1,0 @@
-Minimal Surfaces in ℝ3
-A preliminary discussion -- The weierstrass representation and the classical examples -- Complete minimal surfaces with finite total curvature -- Recent examples of complete minimal surfaces -- Nonexistence of certain minimal surfaces.

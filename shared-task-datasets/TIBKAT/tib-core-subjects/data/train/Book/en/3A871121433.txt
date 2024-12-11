@@ -1,2 +1,0 @@
-Simulation physikalischer Systeme : computational physics mit MATLAB
-"The textbook explains the simple application of MATLAB and Simulink to simulate and better understand physical systems. It combines models from the fields of theoretical mechanics, relativity theory, electrodynamics, and quantum mechanics."--

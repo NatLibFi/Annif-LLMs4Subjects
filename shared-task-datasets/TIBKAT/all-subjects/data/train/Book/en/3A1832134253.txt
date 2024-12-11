@@ -1,2 +1,0 @@
-Solid geometry with MATLAB programming
-"This book is designed especially for students of all levels, and can serve as a fundamental resource for advanced level studies not only in mathematics but also in various fields like engineering, interior design, architecture, etc. It includes numerical problems and problems of construction as well as practical problems"--

@@ -1,2 +1,0 @@
-Stochastic learning and optimization : a sensitivity-based approach ; with 27 tables and 212 problems
-Introduction -- Perturbation analysis -- Learning and optimization with perturbation analysis -- Markov decision processes -- Sample-path-based policy iteration -- Reinforcement learning -- Adaptive control problems as MDPs -- Event-based optimization of Markov systems -- Constructing sensitivity formulas -- Probablility and Markov processes -- Stochastic matrices -- Queueing theory

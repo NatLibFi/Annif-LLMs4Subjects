@@ -1,2 +1,0 @@
-Switching to ArcGIS Pro from ArcMap
-"This book will be an invaluable resource for those looking to migrate from ArcMap to ArcGIS Pro. Rather than teach Pro from the start, this book focuses on the difference between Pro and ArcMap for a more rapid adjustment to common workflows"--

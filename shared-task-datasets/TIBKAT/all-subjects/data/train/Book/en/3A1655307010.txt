@@ -1,2 +1,0 @@
-Analytic and geometric study of stratified spaces
-Intoduction -- Notation -- Stratified Spaces and Functional Structures -- Differential Geometric Objects on Singular Spaces -- Control Theory -- Orbit Spaces -- DeRham-Cohomology -- Homology of Algebras of Smooth Functions.

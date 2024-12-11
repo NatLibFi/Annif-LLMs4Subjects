@@ -1,2 +1,0 @@
-Chemometrics with R : multivariate data analysis in the natural sciences and life sciences
-Data -- Preproceesing -- Principal component analysis -- Self-organizing maps -- Clustering -- Classification -- Multivariate regression -- Validation -- Variable selection -- Chemometric applications

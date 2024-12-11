@@ -1,2 +1,0 @@
-Reliability, maintainability, and supportability : best practices for systems engineers
-"Provides exercises in each chapter, allowing the reader to try out some of the ideas and procedures presented in the chapter"--

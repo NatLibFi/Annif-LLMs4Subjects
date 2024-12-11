@@ -1,2 +1,0 @@
-Visual usability : principles and practices for designing digital applications
-Creating web and mobile applications . Application design. UI . Meta-Principles: Consistency, Hierarchy, Personality. Visual usability tools: Layout, Type, Color, Imagery, Controls and Affordances

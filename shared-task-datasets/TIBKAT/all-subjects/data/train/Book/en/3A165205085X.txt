@@ -1,2 +1,0 @@
-Neural network applications in control
-The book comprises 12 chapters dealing with the following subjects: digital neural networks; neurocontrol; approximation theory; electric power and chemical process applications; dynamic artificial neural network; nonlinear process control; speech, vision and colour applications; real-time drive control; fuzzy-neural control in intensive-care blood pressure management; system identification; neurofuzzy adaptive modelling; and nonlinear dynamical process

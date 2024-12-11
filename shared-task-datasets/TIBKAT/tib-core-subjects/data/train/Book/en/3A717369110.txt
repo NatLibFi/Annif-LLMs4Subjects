@@ -1,2 +1,0 @@
-Hadoop operations : [a guide for developers and administrators]
-Annotation, For system administrators tasked with the job of maintaining large and complex Hadoop clusters, this book explains the particulars of Hadoop operations, from planning, installing, and configuring the system to providing ongoing maintenance --

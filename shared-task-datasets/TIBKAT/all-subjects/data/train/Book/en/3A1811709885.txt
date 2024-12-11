@@ -1,2 +1,0 @@
-Livestock ration formulation for dairy cattle and buffalo
-1. Introduction to Animal Nutrition2. Review of Literature3. Tools and Techniques4. Binary Coded Genetic Algorithm to Solve Ration Formulation Problem 5. Least Cost Feed Formulation for Dairy Cattle During Pregnancy By Using Real Coded Genetic Algorithm (RGA): An Application 6. Study of Real Coded Hybrid Genetic Algorithm (RHGA) to Find Least Cost Ration for Non-Pregnant Dairy Buffaloes7. Conclusion

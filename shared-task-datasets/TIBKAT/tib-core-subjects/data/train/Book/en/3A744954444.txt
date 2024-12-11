@@ -1,2 +1,0 @@
-New Topics in Learning Automata Theory and Applications
-Learning behaviors of stochastic automata under multi-teacher environment -- Learning behaviors of stochastic automata under nonstationary multi-teacher environment -- Application to noise-corrupted, multi-objective problem -- An application of the hierarchical structure automata to the cooperative game with incomplete information.

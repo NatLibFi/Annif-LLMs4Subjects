@@ -1,2 +1,0 @@
-Your code as a crime scene : use forensic techniques to arrest defects, bottlenecks, and bad design in your programs
-Inspired by forensic psychology methods, this book teaches strategies to predict the future of your codebase, assess refactoring direction, and understand how your team influences the design. With its unique blend of forensic psychology and code analysis, it arms you with the strategies you need, no matter what programming language you use

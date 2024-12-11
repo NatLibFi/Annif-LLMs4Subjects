@@ -1,2 +1,0 @@
-The P=NP question and Gödel's lost letter
-The P=NP question is one of the greatest problems of science, which has intrigued computer scientists and mathematicians for decades. Despite the abundant research in theoretical computer science regarding the P=NP question, it has not been solved. This book covers historical developments (including the Gödel's lost letter), the importance of P=NP and the future of P=NP. This guide is also based on a new blog by the author, located at: http://rjlipton.wordpress.com -- Back cover

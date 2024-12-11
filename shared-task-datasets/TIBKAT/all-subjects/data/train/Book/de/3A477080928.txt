@@ -1,2 +1,0 @@
-Grundkurs Computernetze : eine kompakte Einführung in die Rechnerkommunikation - anschaulich, verständlich, praxisnah ; [mit Online-Service zum Buch]
-Netzwerke im praktischen Einsatz - Kommunikationsarchitektur von Computernetzen - Nachrichtenübertragung - Netzwerkmechanismen - LAN- und WAN-Technologien - Campusnetzwerke - Internet und Intranets

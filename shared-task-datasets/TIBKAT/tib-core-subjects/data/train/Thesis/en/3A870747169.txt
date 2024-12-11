@@ -1,2 +1,0 @@
-On Monte Carlo time-dependent variational principles
-Monte Carlo method, dissipative dynamics, Landblad equation. - Monte-Carlo-Simulation, dissipative Dynamik, Lindblad-Gleichung

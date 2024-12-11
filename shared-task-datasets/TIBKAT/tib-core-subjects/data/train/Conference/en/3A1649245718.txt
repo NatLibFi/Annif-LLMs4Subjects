@@ -1,2 +1,0 @@
-Text, Speech and Dialogue : Third International Workshop, TSD 2000 Brno, Czech Republic, September 13–16, 2000 Proceedings
-This book constitutes the refereed proceedings of the Third International Workshop on Text, Speech and Dialogue, TSD 2000, held in Brno, Czech Republic in September 2000. The 75 papers presented were carefully reviewed and selected from 131 submissions. The book presents a wealth of state-of-the-art research and development results from the field of natural language processing with emphasis on text, speech and spoken language

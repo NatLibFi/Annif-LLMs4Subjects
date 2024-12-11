@@ -1,2 +1,0 @@
-Conceptual design of crystallization processes
-The book presents, in a unified manner, various crystallization design methods. It discusses in detail the geometric framework for representing complex phase behavior involving multiple solutes, enantiomers, hydrates, compounds, polymorphs, and solid solutions through visualization of high-dimensional phase diagrams. It also describes how the impact of transport processes is accounted for using kinetically controlled process paths

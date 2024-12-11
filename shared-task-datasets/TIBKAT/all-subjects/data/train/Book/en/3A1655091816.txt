@@ -1,2 +1,0 @@
-Group Extensions, Representations, and the Schur Multiplicator
-Group extensions with Abelian kernel -- Schur’s theory of projective representations -- Isoclinism -- Other group-theoretic applications of the Schur multiplicator.

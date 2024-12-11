@@ -1,2 +1,0 @@
-First Order Categorical Logic : Model-Theoretical Methods in the Theory of Topoi and Related Categories
-Grothendieck topoi -- Interpretation of the logic in categories -- Axioms and rules of inference valid in categories -- Boolean and heyting valued models -- Completeness -- Existence theorems on geometric morphisms of topoi -- Conceptual completeness -- Theories as categories -- Classifying topoi -- Corrections to “first order categorical logic”.

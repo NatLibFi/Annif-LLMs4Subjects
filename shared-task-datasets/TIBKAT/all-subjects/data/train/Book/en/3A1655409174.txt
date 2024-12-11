@@ -1,2 +1,0 @@
-Algebras of Linear Transformations
-This book studies algebras and linear transformations acting on finite -dimensional vector spaces over arbitrary fields. It is written for students who have prior knowledge of algebra and linear algebra. The goal is to present a balance of theory and example in order for students to gain a firm understanding of the basic theory of finite- dimensional algebras and to provide a foundation for subsequent advanced study in a number of areas of mathematics. As such, the level of exposition is suitable for senior undergraduate students

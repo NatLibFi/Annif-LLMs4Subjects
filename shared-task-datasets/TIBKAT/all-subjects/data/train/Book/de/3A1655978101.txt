@@ -1,2 +1,0 @@
-Theoretische Informatik : — eine algorithmenorientierte Einführung
-Das Neue an dieser Einführung in die Theoretische Informatik ist die konsequent algorithmenorientierte Sichtweise, d.h. eine Umsetzung in praktisch und theoretisch effiziente Algorithmen wird angestrebt. Auf diese Weise bietet das Buch eine Einführung in die zentralen Gebiete der Theoretischen Informatik, wie sie in einer Einführungsvorlesung an deutschen Universitäten vorgesehen ist

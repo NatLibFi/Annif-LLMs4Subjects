@@ -1,2 +1,0 @@
-Soft computing : techniques in engineering sciences
-Soft computing is used where a complex problem is not adequately specified for the use of conventional math and computer techniques. Soft computing has numerous real-world applications in domestic, commercial and industrial situations. This book elaborates on the most recent applications in various fields of engineering.

@@ -1,2 +1,0 @@
-Learning classifier systems : 5th international workshop, Granada, Spain, September 7 - 8, 2002 ; revised papers
-This book constitutes the refereed proceedings of the 5th International Workshop on Learning Classifier Systems, IWLCS 2003, held in Granada, Spain in September 2003 in conjunction with PPSN VII. The 10 revised full papers presented together with a comprehensive bibliography on learning classifier systems were carefully reviewed and selected during two rounds of refereeing and improvement. All relevant issues in the area are addressed

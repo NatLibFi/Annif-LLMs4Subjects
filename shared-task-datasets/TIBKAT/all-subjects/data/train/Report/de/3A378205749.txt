@@ -1,2 +1,0 @@
-Business-Software : ERP, CRM, EAI, E-Business ; eine Einführung
-Wo Informationstechnik (IT) zur Unterstützung betriebswirtschaftlicher Aufgaben zum Einsatz kommt, da ist Software ihr wesentliches Gestaltungselement. Wurde betriebswirtschaftliche Software zunächst nur verwendet, um bestehende Abläufe zu verbessern, so hat sie sich in den letzten Jahren zunehmend zum organisatorischen Gestaltungsmittel gemausert. Dieses Buch gibt eine Einführung in betriebswirtschaftliche Software, insbesondere in ERP-, CRM-, EAI- und E-Business-Systeme

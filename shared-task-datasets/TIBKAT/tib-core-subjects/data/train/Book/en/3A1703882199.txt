@@ -1,2 +1,0 @@
-Dive into algorithms : a pythonic adventure for the intrepid beginner
-"An introduction to algorithms for beginning coders that teaches readers a variety of common computer science algorithms, such as searching and sorting and optimization, as well as newer algorithms like those used in machine learning"--

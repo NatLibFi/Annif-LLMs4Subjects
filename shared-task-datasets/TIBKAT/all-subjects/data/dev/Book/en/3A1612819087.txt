@@ -1,2 +1,0 @@
-Big data made easy : a working guide to the complete Hadoop toolset
-The problem with data -- Storing and configuring data with Hadoop, YARN, and ZooKeeper -- Collecting data with Nutch and Solr -- Processing data with Map Reduce -- Scheduling and workflow -- Moving data -- Monitoring data -- Cluster management -- Analysis with Hadoop -- ETL with Hadoop -- Reporting with Hadoop

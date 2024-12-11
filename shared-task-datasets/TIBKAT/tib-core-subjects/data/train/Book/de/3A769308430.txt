@@ -1,2 +1,0 @@
-Funkempfängerkompendium : [Funktionsweise verstehen, Kenngrößen ermitteln, Empfangssysteme optimieren, Einsatzgebiete und internationale Frequenzzuweisungen]
-Gut zum Selbststudium geeigneter Überblick zum Stand der Technik und Lehrmittel für einen breiten Fachnutzerkreis in Ausbildung und Berufspraxis im Bereich Funktechnik. Erläutert nach einer kurzen Einführung zur historischen Entwicklung gegenwärtige technische Konzeptionen in der Funkempfangstechnik von Einfachsuperhet bis Digitalempfänger, Einsatzbereiche und praktische Anwendungen

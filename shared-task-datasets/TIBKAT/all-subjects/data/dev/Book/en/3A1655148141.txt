@@ -1,2 +1,0 @@
-Group Rings of Finite Groups Over p-adic Integers
-Graduated and graduable orders -- The conductor formula for graduated hulls of selfdual orders -- Selfdual orders with decomposition numbers 0 and 1 -- Blocks of multiplicity 1 -- Examples of group rings -- The principal 2-block of SL2(q) for odd prime powers q -- Blocks with cyclic defect groups.

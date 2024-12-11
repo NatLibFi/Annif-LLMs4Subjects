@@ -1,2 +1,0 @@
-Convection heat transfer
-Frontmatter -- Fundamental principles -- Laminar boundary layer flow -- Laminar duct flow -- External natural convection -- Internal natural convection -- Transition to turbulence -- Turbulent boundary layer flow -- Turbulent duct flow -- Free turbulent flows -- Convection with change of phase -- Mass transfer -- Convection in porous media -- Appendixes. A: Constants and conversion factors -- B: Properties of solids -- C: Properties of liquids -- D: Properties of gases -- E: Mathematical formulas -- Author index -- Subject index

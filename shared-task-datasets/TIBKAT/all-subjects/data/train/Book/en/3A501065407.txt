@@ -1,2 +1,0 @@
-PGP & GPG : email for the practical paranoid
-Cryptography for kindergarteners -- Understanding OpenPGP -- Installing PGP -- Installing GnuPG -- The web of trust -- PGP key management -- Managing GnuPG keys -- OpenPGP and email -- PGP and email -- GnuPG and email -- Other OpenPGP considerations -- The GnuPG command line -- The PGP command line.

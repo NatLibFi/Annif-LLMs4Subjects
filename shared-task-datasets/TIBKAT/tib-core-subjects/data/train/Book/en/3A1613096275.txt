@@ -1,3 +1,0 @@
-Designing with objects : object-oriented design patterns explained with stories from Harry Potter
-"Designing with Objects is the only book that explains object-oriented design patterns through examples that are based on Harry Potter stories"--
-" All code examples in the book are available for download on a companion site with resources for readers and instructors.  A refreshing alternative to the rather abstract and dry explanations of the  object-oriented design patterns in much of the existing literature on the subject  In 24 chapters, Designing with Objects explains well-known design patterns by relating them to stories from the Harry Potter series"--

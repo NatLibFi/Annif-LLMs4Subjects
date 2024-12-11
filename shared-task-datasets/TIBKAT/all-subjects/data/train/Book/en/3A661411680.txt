@@ -1,2 +1,0 @@
-Facebook application development for dummies : [learn to: install the Facebook toolkit and use the Graph API ; use Facebook markup language and Facebook query language ; create applications for marketing and making money ; boost your brand with a Facebook page]
-Learn to choose your platform, plan your strategy, and spread your message with Facebook! Ready to build the next knockout Facebook app? If you know just a bit about HTML and basic scripting, you're ready to go!

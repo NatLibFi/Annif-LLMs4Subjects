@@ -1,2 +1,0 @@
-Market beta and factor risk premia in financial markets
-Market beta estimation, high-frequency data, aggregate economic uncertainty. - Marktbeta-Schätzung, Hochfrequenzdaten, gesamtwirtschaftliche ökonomische Unsicherheit

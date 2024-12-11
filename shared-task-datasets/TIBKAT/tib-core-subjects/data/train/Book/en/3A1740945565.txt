@@ -1,2 +1,0 @@
-Band-notch characteristics in ultra-wideband antennas
-"This book comprehensively reviews ultra-wideband and ultra-wideband MIMO antennas with band notched characteristics with a focus on interference cancellation"--

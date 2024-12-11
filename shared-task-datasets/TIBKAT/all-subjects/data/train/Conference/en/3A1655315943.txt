@@ -1,2 +1,0 @@
-Differential Equations and Nonlinear Mechanics
-The book includes chapters written by well-known mathematicians and engineers. The topics include nonlinear differential equations, nonlinear dynamics, neural networks, modeling and dissipative processes, nonlinear ODE, nonlinear PDE, nonlinear mechanics, and fuzzy differential equations. The chapters are self-contained and contain new results. The book is suitable for anyone interested in pursuing research in the fields mentioned above

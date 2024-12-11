@@ -1,2 +1,0 @@
-Smart technologies in data science and communication : proceedings of SMART-DSC 2021
-This book features high-quality, peer-reviewed research papers presented at the Fourth International Conference on Smart Technologies in Data Science and Communication (SMART-DSC 2021), held in Koneru Lakshmaiah Education Foundation, Guntur, Andhra Pradesh, India, on 18–19 February 2021. It includes innovative and novel contributions in the areas of data analytics, communication, and soft computing.

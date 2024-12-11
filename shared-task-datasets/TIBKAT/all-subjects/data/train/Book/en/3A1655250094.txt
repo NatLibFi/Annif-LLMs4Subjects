@@ -1,2 +1,0 @@
-Representations of Finite Classical Groups : A Hopf Algebra Approach
-Structural theory of PSH-algebras -- First applications -- Representations of general linear and affine groups over finite fields.

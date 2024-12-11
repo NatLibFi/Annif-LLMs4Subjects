@@ -1,2 +1,0 @@
-SAP database administration with IBM DB2 : [concepts and specifics of DB2/SAP operations; lifecycle, parameterization, monitoring, and backup/restore; SAP and DB2 administration tools in action ; includes information for IBM DB2 10.5 for LUW]
-SAP system landscapes -- Lifecycle -- Administration tools in and outside the SAP system -- Monitoring DB2 with SAP solution manager

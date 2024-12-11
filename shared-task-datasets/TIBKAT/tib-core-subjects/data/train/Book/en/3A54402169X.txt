@@ -1,2 +1,0 @@
-Beginning Linux programming
-Describes the concepts of programming with Linux, covering such topics as shell programming, file structure, managing memory, using MySQL, debugging, processes and signals, and GNOME

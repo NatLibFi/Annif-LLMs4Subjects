@@ -1,2 +1,0 @@
-Space-time adaptive processing for radar
-Based on a time-tested course taught in industry, government and academia, this book addresses the needs of radar engineers who are seeking to apply effective STAP techniques to their systems, and serves as an excellent reference for non-radar specialists with an interest in the signal processing applications of STAP. --

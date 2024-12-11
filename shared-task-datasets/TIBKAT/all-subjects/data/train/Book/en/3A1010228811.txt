@@ -1,2 +1,0 @@
-Topological optimization of buckling
-Introduction -- Topological optimization for continuous structure with bulking constrain -- Topological optimization for continuous structure with bulking and displacement constrain -- Topological optimization for continuous structure with buckling and stress constrain -- Topological optimization for continuous structure with static constrain -- Software and user instruction -- Engineering applications -- Prospect

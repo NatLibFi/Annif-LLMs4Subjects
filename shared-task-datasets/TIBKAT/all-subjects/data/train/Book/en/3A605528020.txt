@@ -1,2 +1,0 @@
-Scalable fuzzy algorithms for data management and analysis : methods and design
-"This book presents up-to-date techniques for addressing data management problems with logic and memory use"--Provided by publisher

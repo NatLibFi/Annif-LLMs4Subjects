@@ -1,3 +1,0 @@
-Augmented Reality : Einblicke in die Erweiterte Realität
-Dieses Buch befasst sich mit der Überlagerung der realen Welt durch computergenerierte virtuelle Objekte. Die drei grundlegenden Bausteine dieser Erweiterten Realität, Darstellung, Tracking und Benutzerinteraktion, werden Schritt für Schritt eingeführt und miteinander in Zusammenhang gebracht. Übungen vertiefen den Stoff. Ein Überblick über existierende Anwendungen aus Forschung und Industrie rundet das Thema ab und gibt Anregungen für eigene Systeme. Ein Ausblick auf mögliche weitere Entwicklungen und Probleme schließt das Buch.
-Einführung in die Augmented Reality -- Darstellung virtueller Objekte -- Tracking -- Eingabe und Interaktion -- Anwendungen und Erfahrungen -- Ausblicke -- Fazit.

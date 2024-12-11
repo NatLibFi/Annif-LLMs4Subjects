@@ -1,2 +1,0 @@
-Solid-state fermentation bioreactors : fundamentals of design and operation
-Provides a fundamental framework for the design and operation of solid-state fermentation bioreactors. This book focuses on the mathematical modeling of bioreactors. It shows how to plan a research program in order to characterize the growth kinetics in a manner appropriate for incorporation into bioreactor models

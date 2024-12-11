@@ -1,2 +1,0 @@
-Universal access in health telematics : a design code of practice
-"This book reports the most representative findings of the IS4ALL project towards establishing a validated code of universal access in health informatics"--P. [4] of cover

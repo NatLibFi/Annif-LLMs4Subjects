@@ -1,2 +1,0 @@
-Natural computing for simulation and knowledge discovery
-"This book investigates the latest developments in nature-influenced technologies, offering an in-depth analysis of such advances as cryptographic solutions based on cell division, the creation and manipulation of biological computers, and particle swarm optimization techniques"--

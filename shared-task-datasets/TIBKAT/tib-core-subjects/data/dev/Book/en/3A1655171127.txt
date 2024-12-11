@@ -1,2 +1,0 @@
-The Hamiltonian Hopf Bifurcation
-Preliminaries -- Normal forms for Hamiltonian functions -- Fibration preserving normal forms for energy-momentum maps -- The Hamiltonian Hopf bifurcation -- Nonintegrable systems at resonance -- The restricted problem of three bodies.

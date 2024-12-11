@@ -1,2 +1,0 @@
-Software design for six sigma : a roadmap for excellence
-"This proposal constitutes an algorithm of design applying the design for six sigma thinking, tools, and philosophy to software design. The algorithm will also include conceptual design frameworks, mathematical derivation for Six Sigma capability upfront to enable design teams to disregard concepts that are not capable upfront, learning the software development cycle and saving development costs"--

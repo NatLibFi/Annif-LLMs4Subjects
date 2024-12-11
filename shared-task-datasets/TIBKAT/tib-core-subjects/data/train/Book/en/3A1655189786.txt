@@ -1,2 +1,0 @@
-Substitution Dynamical Systems-Spectral Analysis
-The algebra M(T) -- Spectral theory of unitary operators -- Spectral theory of dynamical systems -- Dynamical systems associated to sequences -- Dynamical systems aristing from substitutions -- Eigenvalues of substitution dynamical system -- Matrices of measures -- Matrix riesz products -- Bijective automata or substitutions -- Maximal spectral type of general automata -- Spectral multiplicity of general automata.

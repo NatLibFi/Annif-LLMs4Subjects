@@ -1,2 +1,0 @@
-Modellierung betrieblicher Informationssysteme : Modelle, Methoden und Werkzeuge
-Modeling is the precursor to software development. The book covers practical models used in the development of operational information systems. In the business environment, models of organizations, IT infrastructures, and system landscapes also play an important role. Typical use cases and their modeling using graphical software tools are used for illustration.

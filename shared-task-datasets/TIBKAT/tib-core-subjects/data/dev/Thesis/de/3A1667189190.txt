@@ -1,2 +1,0 @@
-Abstrakte Periodenräume, Projektoren und Spuren von Heckeoperatoren
-Gegenstand der Dissertation ist die rein algebraische Konstruktion eines Projektors auf abstrakte Periodenräume. Die abstrakten Periodenräume können als Verallgemeinerung der Periodenräume aus dem Kontext der klassischen elliptischen Modulformen aufgefasst werden (Manin-Relationen). Mit Hilfe des Projektors wird anschließend eine abstrakte Spurformel der Heckeoperatoren hergeleitet und als Anwendung dieser die Spurformel von Zagier zur Stufe 1 (1990) rekonstruiert.

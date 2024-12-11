@@ -1,2 +1,0 @@
-A concise treatise on quantum mechanics in phase space
-"This is a text on quantum mechanics formulated simultaneously in terms of position and momentum, i.e. in phase space. It is written at an introductory level, drawing on the remarkable history of the subject for inspiration and motivation. Wigner functions, density matrices in a special Weyl representation, and star products are the cornerstones of the formalism"--

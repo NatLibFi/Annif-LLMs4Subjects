@@ -1,2 +1,0 @@
-Computer vision : applications of visual AI and image processing
-This book focuses on the latest developments in the fields of visual AI, image processing and computer vision. It shows research in basic techniques like image pre-processing, feature extraction, and enhancement, along with applications in biometrics, healthcare, neuroscience and forensics. The book highlights algorithms, processes, novel architectures and results underlying machine intelligence with detailed execution flow of models

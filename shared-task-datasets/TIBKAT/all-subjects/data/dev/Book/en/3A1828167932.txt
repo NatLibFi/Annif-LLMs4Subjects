@@ -1,2 +1,0 @@
-Modern information optics with MATLAB
-"An essential guide based on the authentic lectures and research on information optics, holography and MATLAB. The first to outline the incoherent optical system, novel digital holography techniques, and MATLAB codes. Introducing the basics of Fourier optics, an excellent reference for graduates and researchers in engineering and applied physics"--

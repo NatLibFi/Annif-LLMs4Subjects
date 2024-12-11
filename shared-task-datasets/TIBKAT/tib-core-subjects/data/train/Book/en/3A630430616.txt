@@ -1,2 +1,0 @@
-Modern Fluid Dynamics : Basic Theory and Selected Applications in Macro- and Micro-Fluidics
-Features pedagogical elements that include consistent 50/50 physics-mathematics approach when introducing material, illustrating concepts, showing flow visualizations, and solving problems. This title intends to help serious undergraduate student solve basic fluid dynamics problems independently, and suggest system design improvements

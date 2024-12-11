@@ -1,2 +1,0 @@
-Semantics-oriented natural language processing : mathematical models and algorithms
-This is an examination of key issues in designing semantics-oriented natural language processing systems. Readers will gain knowledge of the new class of formal languages called standard knowledge languages (SK-languages)

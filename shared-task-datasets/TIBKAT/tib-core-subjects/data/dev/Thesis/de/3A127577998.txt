@@ -1,2 +1,0 @@
-Instationäre Grenzschichteffekte an Tragflügelprofilen
-Zusammenfassung: Es wird ein Verfahren zur Berechnung von laminarer Ablösung sowie Stabilität und Transition von instationären zweidimensionalen Grenzschichten angegeben.

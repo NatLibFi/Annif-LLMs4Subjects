@@ -1,2 +1,0 @@
-Python projects
-Provides information on real-world Python programming, including a review of Python data types, using control structures, managing data, creating modules and packages, and debugging code

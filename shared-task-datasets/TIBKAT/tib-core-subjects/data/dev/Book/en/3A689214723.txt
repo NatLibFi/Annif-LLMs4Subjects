@@ -1,2 +1,0 @@
-Arduino projects to save the world
-Provides information for building a variety of home-based Arduino projects such as temperature sensors and motion sensors--

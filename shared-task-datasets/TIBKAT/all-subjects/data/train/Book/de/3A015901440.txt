@@ -1,2 +1,0 @@
-Elektroakustik
-Inhalt: 1) Grundlagen 2) Schallwellen un Schallfelder 3) Elektromechanische Entsprechungen 4) Ideale Wandler 5) Reale Wandler 6) Betriebsverhalten von realen Wandlern 7) Raumakustik 8) Beschallungstechnik und Aufnahmetechnik 9) Hörbarkeit von Übertragungsfehlern 10) Stereophonie 11) Schallspeicher 12) Lärmbekämpfung

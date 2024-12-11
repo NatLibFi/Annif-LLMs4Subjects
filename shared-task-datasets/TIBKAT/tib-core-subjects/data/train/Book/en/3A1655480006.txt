@@ -1,2 +1,0 @@
-Introduction to Coding Theory and Algebraic Geometry
-I: Coding Theory -- 1. Finite fields -- 2. Error-correcting codes -- 3. Linear codes -- 4. Cyclic codes -- 5. Classical Goppa codes -- 6. Bounds on codes -- 7. Self-dual codes -- 8. Codes from curves -- References -- II: Algebraic Geometry -- I. Elementary concepts from algebraic geometry -- II. Divisors on algebraic curves -- III. Goppa Codes -- IV. Couting points on curves over finite fields -- V. Shimura curves and codes -- Index of notations.

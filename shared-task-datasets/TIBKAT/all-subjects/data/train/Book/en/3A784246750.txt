@@ -1,2 +1,0 @@
-Case studies in operations research : applications of optimal decision making
-This textbook is comprised of detailed case studies covering challenging real world applications of OR techniques. Among the overall goals of the book is to provide readers with descriptions of the history and other background information on a variety of industries, service or other organizations in which decision making is an important component of their daily operations

@@ -1,2 +1,0 @@
-Deep learning techniques and optimization strategies in big data analytics
-"This book examines the application of artificial intelligence in machine learning, data mining in unstructured data sets or databases, web mining, and information retrieval"--

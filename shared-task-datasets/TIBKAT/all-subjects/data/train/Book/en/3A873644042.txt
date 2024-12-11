@@ -1,2 +1,0 @@
-MVVM in Delphi : architecting and building model view ViewModel applications
-Showing you how to build modern Windows applications, and prepare for cross-platform development, this book introduces you to the right mindset and demonstrates suitable methodologies that allow for quick understanding of the MVVM paradigm. --

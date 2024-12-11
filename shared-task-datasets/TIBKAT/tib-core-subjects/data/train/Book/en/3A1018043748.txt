@@ -1,2 +1,0 @@
-Control system analysis and identification with MATLAB : block pulse and related orthogonal functions
-This book covers block pulse and related functions for the analysis and identification of continuous and discrete-time systems. It covers functions related to block pulse functions' and pulse-width modulated generalized block pulse functions including their applications--

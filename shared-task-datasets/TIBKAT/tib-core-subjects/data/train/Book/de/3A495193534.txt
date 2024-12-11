@@ -1,2 +1,0 @@
-Digitale Kommunikationssysteme / Rudolf Nocker ; 2: Grundlagen der Vermittlungstechnik
-OSI-Referenzmodell - Grundbegriffe der Vermittlungstechnik - Durchschalte-Vermittlungen - Schmalband-ISDN - Bedienungssysteme - Verlustsysteme

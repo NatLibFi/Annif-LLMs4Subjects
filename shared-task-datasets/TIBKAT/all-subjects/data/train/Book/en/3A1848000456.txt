@@ -1,2 +1,0 @@
-Green communication with field-programmable gate array for sustainable development
-"The text discusses the designing of field-programmable gate array based green computing circuits for efficient green communication. It will help senior undergraduate, graduate students, and academic researchers from diverse engineering domains such as electrical, electronics and communication, and computer"--

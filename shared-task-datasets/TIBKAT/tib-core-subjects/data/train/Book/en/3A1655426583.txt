@@ -1,2 +1,0 @@
-Decomposition and Invariance of Measures, and Statistical Transformation Models
-1. Introduction -- 2. Topological groups and actions -- 3. Matrix Lie groups -- 4. Invariant, relatively invariant, and quasi-invariant measures -- 5. Decomposition and factorization of measures -- 6. Construction of invariant measures -- 7. Exterior calculus -- 8. Statistical transformation models -- Further results and exercises -- References, with author index -- Notation index.

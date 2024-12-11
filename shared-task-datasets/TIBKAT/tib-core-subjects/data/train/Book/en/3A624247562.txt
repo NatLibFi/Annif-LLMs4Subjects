@@ -1,2 +1,0 @@
-Android in action ; [covers Android 2]
-Android runs on mobile devices ranging from smart phones to tablets to countless special purpose gadgets. It's the broadest mobile platform available. Includes: SDK and web development; drive a robot via Bluetooth and Sensors; integrate with Social Media Contacts; image processing with native C code. A background in Java is helpful; no prior experience with Android is assumed--P. [4] of cover

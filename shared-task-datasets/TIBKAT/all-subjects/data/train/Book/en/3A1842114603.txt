@@ -1,2 +1,0 @@
-Digital twins : internet of things, machine learning, and smart manufacturing
-This book explores the significance, challenges and benefits of digital twin technologies; it focuses in particular on various architectures, applications and challenges in the implementation of digital twins to Machine Learning and Internet of Things capabilities. Through the analysis of smart city and smart manufacturing case studies, the book explores the benefits of digital technologies in the Industry 4.0 Era

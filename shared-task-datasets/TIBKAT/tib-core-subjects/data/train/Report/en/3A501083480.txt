@@ -1,2 +1,0 @@
-PHP Hacks
-Installation and basics -- Web design -- DHTML -- Graphics -- Databases and XML -- Application design -- Patterns -- Testing -- Alternative UIs -- Fun stuff

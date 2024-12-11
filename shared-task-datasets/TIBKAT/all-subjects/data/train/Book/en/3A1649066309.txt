@@ -1,2 +1,0 @@
-Metal-to-Nonmetal Transitions
-Deals with nonmetal-to-metal transitions. Based on the ideas of Mott, Hubbard, Anderson as well as Landau and Zeldovich, this book features scientists who present the scientific challenges and highlight the enormous progress which has been achieved over the years. It is aimed to specialists in these fields as well as to young scientists

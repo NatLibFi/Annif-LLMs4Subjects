@@ -1,2 +1,0 @@
-Flash advertising : Flash platform development of microsites, advergames, and branded applications
-Flash advertising overview -- Designing banner ads -- Preparing and building ads -- Forms and data -- File optimization -- Third-party rich-media technologies -- Trafficking and tracking your ads -- Designing microsites -- Preparing and building microsites -- Driving traffic to your microsite -- Advergaming and applications -- Classes -- The memory game -- Case studies

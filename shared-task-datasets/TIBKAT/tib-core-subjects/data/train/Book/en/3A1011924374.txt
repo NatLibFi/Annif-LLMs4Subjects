@@ -1,2 +1,0 @@
-Steel structures design for lateral and vertical forces
-Presenting the fundamental theory associated with the design of steel structures, this text introduces the theoretical and fundamental basics of steel design and covers the detailed design of members and their connections

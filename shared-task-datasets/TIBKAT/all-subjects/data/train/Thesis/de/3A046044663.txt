@@ -1,2 +1,0 @@
-Messung des Nachstroms an Hochleistungsschaltern
-In dieser Arbeit wird die Entwicklung einer zuverlässigen Anordnung zur Messung des Nachstroms von Hochleistungsschaltern beschrieben.

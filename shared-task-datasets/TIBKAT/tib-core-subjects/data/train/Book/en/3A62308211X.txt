@@ -1,2 +1,0 @@
-Microsoft Access 2010 step by step
-Offers hints and troubleshooting guidelines to help users navigate the user interface, create a database, produce forms and queries, filter data, customize a database, and use VBA to create Web pages based on data

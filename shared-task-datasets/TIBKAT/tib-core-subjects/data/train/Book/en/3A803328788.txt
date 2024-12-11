@@ -1,2 +1,0 @@
-Excel VBA programming for dummies
-" ... Open the book and find : how to work in the Visual Basic Editor ; tips for error-handling and bug extermination ; ways to build automatic procedures and events ; how to use Excel macro recorder ; UserForm technique and tricks ; instructions for designing VBA macros ; steps for accessing your macros through the user interface ; secrets for creating Excel add-ins ..."--P. [4] of cover

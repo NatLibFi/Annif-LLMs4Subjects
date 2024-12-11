@@ -1,2 +1,0 @@
-Infinity in logic and computation : International Conference, ILC 2007, Cape Town, South Africa, November 3 - 5, 2007; revised selected papers
-'The topics of the conference included automata on infinite objects; combinatorics, cryptography and complexity; computability and complexity on the real numbers; infinite games and their connections to logic; logic, computability, and complexity in finitely presentable infinite structures; randomness and computability; transfinite computation; and verification of infinite sate systems."--Preface

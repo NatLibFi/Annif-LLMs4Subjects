@@ -1,2 +1,0 @@
-Learning R : [a step-by-step function guide to data analysis]
-Introduction -- A scientific calculator -- Inspecting variables and your workspace -- Vectors, matrices, and arrays -- Lists and data frames -- Environments and functions -- Strings and factors -- Flow control and loops -- Advanced looping -- Packages -- Dates and times -- Getting data -- Cleaning and transforming -- Exploring and visualizing -- Distributions and modeling -- Programming -- Making packages

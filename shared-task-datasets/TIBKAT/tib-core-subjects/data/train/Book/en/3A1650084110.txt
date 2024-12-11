@@ -1,3 +1,0 @@
-Modeling and Diagnostics of Polymer Electrolyte Fuel Cells
-This volume of &quot;Modern Aspects in Electrochemistry&quot; covers the latest advances in diagnostics and modeling of polymer electrolyte fuel cells, presented by leading experts in the field. The volume is divided into two parts: part I reviews the state of the art in diagnostics of low temperature fuel cells, while part II covers the relevant modeling efforts
-This volume of Modern Aspects in Electrochemistry covers the latest advances in diagnostics and modeling of polymer electrolyte fuel cells, presented by leading experts in the field. The volume is divided into two parts: part I reviews the state of the art in diagnostics of low temperature fuel cells, while part II covers the relevant modeling efforts.

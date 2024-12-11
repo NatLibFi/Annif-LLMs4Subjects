@@ -1,2 +1,0 @@
-Experiments and demonstrations in physics : Bar-Ilan Physics Laboratory
-This book is a laboratory manual for high schools, colleges, and universities. It contains more than 80 experiments and lecture demonstrations. The coverage includes the essentials of general physics: mechanics and molecular physics, electricity and magnetism, optics and atomic physics, and condensed matter physics. All the experiments are illustrated through the results of real measurements and include many novel experiments developed by the author --

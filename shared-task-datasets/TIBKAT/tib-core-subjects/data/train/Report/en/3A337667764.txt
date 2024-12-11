@@ -1,2 +1,0 @@
-Scramjet - Leistungsanalyse und Modell - Brennkammerspezifikationen : Abschlußbericht zum AP 100 der Scramjet-Studie im Rahmen des Hyperschall-Technologieprogramms, Phase 1c ; Laufzeit: 1.5.93 bis 31.12.1995
-Supersonic combustion, Scramjet, connected-pipe experiments, semi-freejet-experiments, dual-mode-combustion, spezifications for Scramjet-combustors, analysis of Scramjet-processes

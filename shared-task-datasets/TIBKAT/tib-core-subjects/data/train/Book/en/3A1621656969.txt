@@ -1,2 +1,0 @@
-Python data science handbook : essential tools for working with data
-IPython: beyond normal Python -- Introduction to NumPy -- Data manipulation with Pandas -- Visualization with Matplotlib -- Machine learning

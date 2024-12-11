@@ -1,2 +1,0 @@
-Algebraic K-theory
-From the Introduction: "These notes are taken from a course on algebraic K-theory [given] at the University of Chicago in 1967. They also include some material from an earlier course on abelian categories, elaborating certain parts of Gabriel's thesis. The results on K-theory are mostly of a very general nature

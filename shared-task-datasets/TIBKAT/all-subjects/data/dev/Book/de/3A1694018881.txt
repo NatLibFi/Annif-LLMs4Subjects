@@ -1,2 +1,0 @@
-Computernetzwerke : der Top-Down-Ansatz
-Das Lehrbuch Computernetzwerke vermittelt in der vorliegenden Bachelorausgabe das Grundwissen von den traditionellen bis hin zu den modernen Datenbankanwendungen. MitErweiterungen im Bereich der Multimedianetzwerke und aktualisierten Materialen zu drahtlosen Netzwerktechnologien bietet dieses Lehrbuch in der 6. Auflage die aktuellste Beschreibung von Technologien und Modellen im Bereich von Telekommunikationssystemen, Computernetzen und Internet

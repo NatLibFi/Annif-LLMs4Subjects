@@ -1,2 +1,0 @@
-Digital image processing
-"The book augurs to be a mix of theoretical and practical perceptions of the related concepts pertaining to image processing. The primary objectives orient to offer an overview to the elementary concepts and practices appropriate to DIP as well as to provide theoretical exposition. It starts with an expanded coverage of the fundamentals to provide a more comprehensive and cohesive coverage of the topics"

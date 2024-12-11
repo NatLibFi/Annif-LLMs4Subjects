@@ -1,2 +1,0 @@
-Übungsbuch Regelungstechnik : klassische, modell- und wissensbasierte Verfahren : mit 105 Aufgaben mit Lösungen und 41 MATLAB-Simulationen
-"Das Übungsbuch Regelungstechnik beinhaltet klausurrelevante Musteraufgaben für Bachelor- und Masterstudiengänge mit Lösungen. Zu jedem Kapitel ist eine kurze theoretische Einführung vorhanden. Alle Lösungen sind detailliert beschrieben, einige davon sind zum besseren Verständnis mit MATLAB/Simulink simuliert."--

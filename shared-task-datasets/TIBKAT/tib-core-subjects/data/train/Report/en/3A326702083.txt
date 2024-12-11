@@ -1,2 +1,0 @@
-Thema: Spray/Wand-Wechselwirkung bei der motorischen Einspritzung : Abschlußbericht ; Laser 2000, laserdiagnostische und plasmatechnologische Grundlagen zur Verminderung von Emissionen und Kraftstoffverbrauch von DI-Verbrennungsmotoren
-Diesel injection, PDA, visualisation, wall heat flux, spray/wall numerical modelling, CFD, wall film, LIF

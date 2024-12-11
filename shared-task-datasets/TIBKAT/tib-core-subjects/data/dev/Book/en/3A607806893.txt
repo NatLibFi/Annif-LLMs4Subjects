@@ -1,2 +1,0 @@
-Adobe Captivate 4 : the definitive guide
-Installing and configuring Adobe Captivate software -- Getting ready to make movies -- Creating your first movie (just the basics!) -- Recording a movie -- Creating movies without recording -- Working with slides -- Editing a single slide -- Defining what the user hears: adding audio -- Defining what the user does: adding interactivity -- Creating e-learning content -- Working with the branching view -- Using Adobe Captivate tools -- Refining the movie -- Generating Adobe Captivate output

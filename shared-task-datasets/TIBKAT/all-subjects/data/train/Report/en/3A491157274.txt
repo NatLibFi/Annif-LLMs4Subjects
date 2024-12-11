@@ -1,2 +1,0 @@
-Aerodynamic optimisation of highly loaded turbine cascade blades for heavy duty gas turbine applications : AG Turbo II, Vorhabengruppe 2.3: Strömungen in Turbinen, Vorhaben 2.3.8A: Optimierung von hochbelasteten Turbinenbeschaufelungen für den hohen Reynoldszahlbereich - Schaufelgittermessungen, Analyse ; Abschlussbericht
-Compressor cascade, controlled diffusion airfoil, rotor-stator-interaction, wake, transition, boundary layer, hot-film array, unsteady computation, pressure distribution, loss

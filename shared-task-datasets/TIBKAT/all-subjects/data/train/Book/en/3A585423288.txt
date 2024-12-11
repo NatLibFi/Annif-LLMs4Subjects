@@ -1,2 +1,0 @@
-Practical programming : an introduction to computer science using Python
-Computers are used in every part of science from ecology to particle physics. This introduction to computer science continually reinforces those ties by using real-world science problems as examples

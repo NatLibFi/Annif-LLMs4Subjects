@@ -1,2 +1,0 @@
-Critical Point Theory and Submanifold Geometry
-Preliminaries -- Local geometry of submanifolds -- Weingarten Surfaces in three dimensional space forms -- Focal points -- Transformation groups -- Isoparametric submanifolds -- Proper Fredholm submanifolds in Hilbert spaces -- Topology of isoparametric submanifolds -- Elementary critical point theory -- Advanced critical point theory -- The calculus of variations.

@@ -1,2 +1,0 @@
-Models for a quantum atomic chain coupled to a substrate
-Nanowires, strongly correlated systems, lattice models in condensed matter. - Nanodrähte, stark korrelierte Systeme, Gittermodelle in der kondensierten Materie

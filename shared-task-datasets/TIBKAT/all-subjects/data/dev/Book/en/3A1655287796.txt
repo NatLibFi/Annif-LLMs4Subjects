@@ -1,2 +1,0 @@
-Padé Approximants for Operators: Theory and Applications
-Abstract pade approximants in operator theory -- Multivariate pade approximants -- The solution of nonlinear operator equations.

@@ -1,2 +1,0 @@
-Schutz gegen Berührungsspannungen : Schutzmaßnahmen gegen elektrische Unfälle durch Berührungsspannungen in Niederspannungsanlagen
-Das Buch ist sowohl für planende und ausführende Ingenieure als auch für den Annahme- und Revisionsbeamten elektrischer Niederspannungsanlagen gedacht. Es beinhaltet allgemeine Grundlagen des Berührungsspannungsschutzes und Schutzmaßnahmen. Es ist bewußt auf exakte mathematische Ableitungen verzichtet und auf einfachste Darstellungen Wert gelegt worden.

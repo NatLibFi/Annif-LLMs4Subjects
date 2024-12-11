@@ -1,2 +1,0 @@
-An introduction to beam physics
-"The book begins with a historical overview of methods for generating and accelerating beams, highlighting important advances through the eyes of their developers using their original drawings. The book then presents concepts of linear beam optics, transfer matrices, the general equations of motion and the main techniques used for single- and multi-pass systems. Some advanced nonlinear topics, including the computation of aberrations and a study of resonances, round out the presentation."--

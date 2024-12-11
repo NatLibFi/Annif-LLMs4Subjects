@@ -1,2 +1,0 @@
-Multidimensional scaling
-"Multidimensional Scaling, Second Edition extends the popular first edition, bringing it up to date with current material and references. It concisely but comprehensively covers the area, including chapters on classical scaling, nonmetric scaling, Procrustes analysis, biplots, unfolding, correspondence analysis, individual differences models, and other m-mode, n-way models. The authors summarise the mathematical ideas behind the various techniques and illustrate the techniques with real-life examples."--Jacket

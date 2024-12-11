@@ -1,3 +1,0 @@
-Lehrbuch Digitaltechnik : eine Einführung mit VHDL
-Dieses Lehrbuch führtdie wesentlichen Sprachelemente von VHDL Schritt für Schritt parallel zu den Grundkenntnissen zum digitalen Schaltungsentwurf ein und versetzt den Leser in die Lage, einfache digitale Systeme zu verstehen und zu entwerfen
-Dieses Lehrbuch führtdie wesentlichen Sprachelemente von VHDL Schritt für Schritt parallel zu den Grundkenntnissen zum digitalen Schaltungsentwurf ein und versetzt den Leser in die Lage, einfache digitale Systeme zu verstehen und zu entwerfen.  Jürgen Reichardt, Hamburg

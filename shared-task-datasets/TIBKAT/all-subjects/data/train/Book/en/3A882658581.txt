@@ -1,2 +1,0 @@
-The virtual mind : designing the logic to approximate human thinking
-The theory of the mind -- There is reality and then there is (social) reality -- How does the unconscious part of the mind operate? -- The mind--the meta model -- An object oriented architecture perspective in designing a virtual mind

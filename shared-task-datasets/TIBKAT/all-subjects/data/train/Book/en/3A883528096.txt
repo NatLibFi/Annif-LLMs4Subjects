@@ -1,3 +1,0 @@
-Nanotechnology and functional materials for engineers
-This book focuses on key essentials and examples across the spectrum of nanomaterials as applied by engineers, including nanosensors, smart nanomaterials, nanopolymers, and nanotubes. Chapters cover their synthesis and characteristics, production methods, and applications, with specific sections exploring nanoelectronics and electro-optic nanotechnology, nanostructures, and nanodevices
-An introduction to nanotechnology -- Generic methodologies for characterization -- Smart nanomaterials -- Nanosensors -- Nanoparticiples -- Nanopolymers -- Nanotubes -- Nanoshells -- Electronic and electro-optic nanotechnology -- Self-assembling nanostructures -- Nanomedicine

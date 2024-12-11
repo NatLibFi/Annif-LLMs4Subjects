@@ -1,2 +1,0 @@
-A long optical cavity for sub-Hertz laser spectroscopy
-Optical cavities, frequency stabilization, thermal noise, optical clock, vibration sensivity. - Optischer Resonator, Frequenzstabilisierung, thermisches Rauschen, optische Uhr, Vibrationsempfindlichkeit

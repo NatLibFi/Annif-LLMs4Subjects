@@ -1,2 +1,0 @@
-Digital Earth Moving : First International Symposium, DEM 2001 Manno, Switzerland, September 5–7, 2001 Proceedings
-This book constitutes the refereed proceedings of the First International Symposium on Digital Earth Moving, DEM 2001, held in Manno, Switzerland, in September 2001.The twelve revised technical papers presented were carefully reviewed and selected from 36 submissions. Among the topics addressed are automated and computer-aided constructions, topographic form parameterization, off-the-shelf software, digital terrain data, and real-time graphical representation

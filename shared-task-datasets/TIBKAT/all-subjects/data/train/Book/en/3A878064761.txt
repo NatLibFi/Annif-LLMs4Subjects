@@ -1,2 +1,0 @@
-Swift 3 for absolute beginners
-Becoming a great iOS developer -- Programming basics -- It's all about the data -- Making decisions, program flow, and app design -- Object-oriented programming with Swift -- Learning Swift and Xcode -- Swift classes, objects, and methods -- Programming basics in Swift -- Comparing data -- Creating user interfaces -- Storing information -- Protocols and delegates -- Introducing the Xcode debugger -- A Swift iPhone app -- Apple Watch and WatchKit -- A Swift HealthKit iPhone app

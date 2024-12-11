@@ -1,2 +1,0 @@
-Chemoinformatics and bioinformatics in the pharmaceutical sciences
-"Provides practical information on how to choose and use appropriate computational tools Presents the wide, intersecting fields of chemo-bio-informatics in an easily-accessible format Explores the fundamentals of the emerging field of chemoinformatics and bioinformatics"--

@@ -1,2 +1,0 @@
-Macromedia Flash MX 2004 : a beginner's guide
-Understanding Flash MX 2004 -- Learning the Flash tools panel -- Learning the Flash panels -- Using the timeline and layers -- Drawing objects -- Creating animations -- Using guides and masks -- Creating symbols and using the library -- Using imported graphics -- Adding sounds to your movies -- Publishing Flash movies -- Learning basic ActionScript concepts -- Learning basic ActionScript programming -- Learning more ActionScript programming

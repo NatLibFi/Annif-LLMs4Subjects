@@ -1,2 +1,0 @@
-R projects for dummies
-"Why spend weeks learning a complex, costly statistical software package? With the help of this book, you can quickly master R, the free data science toolkit that some of the world's top companies use. These projects give you hands-on experience in using R to create interactive applications, use machine learning methods, and process images. You'll learn the skills you'll need to work with R's extensive toolset and understand exactly how to apply R in projects you'll encounter on the job."--Page 4 of cover

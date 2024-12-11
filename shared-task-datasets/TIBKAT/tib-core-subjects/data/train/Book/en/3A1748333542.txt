@@ -1,2 +1,0 @@
-Digital content annotation and transcoding
-Annotation Digital content has revolutionized the way broadcasters and Web sites deliver images, sound, video, and multimedia. This book provides the technical details of transcoding and annotation that engineers need to know to create accessible and reusable digital content capable of being tailored and personalized for a particular audience

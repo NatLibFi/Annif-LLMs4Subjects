@@ -1,2 +1,0 @@
-Auralization : Fundamentals of Acoustics, Modelling, Simulation, Algorithms and Acoustic Virtual Reality
-In acoustics, auralization, which means being analogue to the technique of &quot;visualization&quot;, takes place when acoustic effects, primary sound signals or means of sound reinforcement, are processed to be presented by using electro-acoustic equipment. This book presents the basics, methodology and strategies of acoustic simulation and auralization

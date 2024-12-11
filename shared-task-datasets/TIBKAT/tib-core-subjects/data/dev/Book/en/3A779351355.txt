@@ -1,2 +1,0 @@
-High performance programming for soft computing
-"This book examines the present and future of soft computer techniques. It explains how to use the latest technological tools, such as multicore processors and graphics processing units, to implement highly efficient intelligent system methods using a general purpose computer. "--

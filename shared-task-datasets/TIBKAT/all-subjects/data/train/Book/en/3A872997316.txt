@@ -1,2 +1,0 @@
-Classification of actions of discrete Kac algebras on injective factors
-Preliminary -- Canonical extension of irreducible endomorphisms -- Kac alebras -- Classification of modular kernels -- Classification of actions with non-trivial modular parts -- Classification of centrally free actions -- Related problems

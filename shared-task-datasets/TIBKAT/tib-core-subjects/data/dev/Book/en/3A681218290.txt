@@ -1,2 +1,0 @@
-The complete idiot's guide to SQL : [provides the syntax for all of the major DBMSes, including MySQL, Oracle, Microsoft SQL Server, and PostgreSQL ; master the language of database management]
-This helpful guide give you practical information you can apply to your specific relational database management system

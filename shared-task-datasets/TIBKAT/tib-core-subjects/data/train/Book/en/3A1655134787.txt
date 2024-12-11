@@ -1,2 +1,0 @@
-Diophantine Approximation and Transcendence Theory : Seminar, Bonn (FRG) May – June 1985
-Arithmétique des Surfaces Cubiques Diagonales -- Small values of heights on families of abelian varieties -- Large transcendence degree revisited -- Large transcendence degree revisited -- A new approach to Baker's theorem on linear forms in logarithms I -- A new approach to Baker's theorem on linear forms in logarithms II -- On the thue-mahler equation.

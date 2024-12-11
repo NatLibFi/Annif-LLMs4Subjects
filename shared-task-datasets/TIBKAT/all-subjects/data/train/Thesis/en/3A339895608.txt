@@ -1,2 +1,0 @@
-Theoretische Untersuchungen der mikroskopischen Synchronisation von molekularen Enzymzyklen
-Allosteric regulation, automaton-model, enzymes, kinetics, fluctuations, hopf-bifurcation, reaction coordinate, selforganization, synchronization

@@ -1,2 +1,0 @@
-Local networks and the Internet : from protocols to interconnection
-"This title covers the most frequently used elements of the Internet and Intranet and their development. It details the latest developments in research and covers new themes such as IP6, MPLS, and IS-IS routing, as well as explaining the function of standardization committees such as IETF, IEEE, and UIT. The book is punctuated with numerous examples and applications which will help the reader to place protocols in their proper context"--

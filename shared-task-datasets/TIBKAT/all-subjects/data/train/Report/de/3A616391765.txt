@@ -1,2 +1,0 @@
-Einführung in die technische Mechanik : Statik
-Verlagstext: Das dreibändige Lehrwerk zur Technischen Mechanik vermittelt einen einfachen Zugang zu den Grundgesetzen der Mechanik. Der Band ?Statik" liegt nun in der 3., durchgesehenen Auflage vor. Er behandelt ebene einfache und zusammengesetzte Tragwerke einschliesslich der Schnittreaktionen sowie räumliche Tragwerke. Es werden Reibungsphänomene beschrieben und die Berechnungsmethoden für den Schwerpunkt sowie für die Flächenmomente zweiter Ordnung erläutert

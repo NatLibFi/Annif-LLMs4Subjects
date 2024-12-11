@@ -1,2 +1,0 @@
-A Primer on Spectral Theory
-This textbook provides an introduction to the new techniques of subharmonic functions and analytic multifunctions in spectral theory. Topics include the basic results of functional analysis, bounded operations on Banach and Hilbert spaces, Banach algebras, and applications of spectral subharmonicity. Each chapter is followed by exercises of varying difficulty. Much of the subject matter, particularly in spectral theory, operator theory and Banach algebras, contains new results

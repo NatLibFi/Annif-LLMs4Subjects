@@ -1,2 +1,0 @@
-Notes on geoplasticity
-"This book is about geoplasticity, solid mechanics of rock, jointed rock and soil beyond the domain of a purely elastic deformation. It will be of interest to civil, geological and mining engineers, particularly those involved in reliable design of excavations and foundations beyond elasticity, especially in jointed rock"--

@@ -1,2 +1,0 @@
-WordPress bible : [install, secure, and maintain WordPress ; extend WordPress with plugins and themes ; enhance your blog with WordPressMU]
-Whether you're a casual blogger or programming pro, this comprehensive guide covers WordPress from the basics through advanced application development. Learn how to use custom plugins and themes, retrieve data, maintain security, use social media, and modify your blog without changing any core code

@@ -1,2 +1,0 @@
-Computational image quality
-Images are a powerful, efficient means for communicating information. This book looks at metrics and methods for predicting image quality based on human visual and cognitive information-processing capabilities

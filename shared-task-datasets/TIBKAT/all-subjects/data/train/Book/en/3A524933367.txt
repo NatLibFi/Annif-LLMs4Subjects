@@ -1,2 +1,0 @@
-Introduction to focused ion beams : instrumentation, theory, techniques and practice
-Introduction to Focused Ion Beams is geared towards techniques and applications. This is the only text that discusses and presents the theory directly related to applications and the only one that discusses the vast applications and techniques used in FIBs and dual platform instruments

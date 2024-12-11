@@ -1,2 +1,0 @@
-Harmonic Maps of Manifolds with Boundary
-Harmonic maps -- Function spaces -- Semi-elliptic and parabolic equations -- The heat equation for manifolds -- Growth estimates and convergence.

@@ -1,2 +1,0 @@
-Beginning Android application development : in full color
-Provides information on creating Android applications for mobile devices, covering such topics as activities and intents, views, data persistence, content providers, location-based services, and developing Android services --

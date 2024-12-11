@@ -1,2 +1,0 @@
-Electron Kinetics and Applications of Glow Discharges
-Contains 33 contributions from the May 1997 workshop, in sections covering analytical and semi-analytical modeling approaches, basics of numerical plasma modeling, DC charges, stochastic electron heating, inductively coupled plasmas, discharge kinetics in molecular mass, magnetized and surface wave

@@ -1,2 +1,0 @@
-Generalized Analytic Functions on Riemann Surfaces
-The dolbeault and Riemann-roch theorems -- Linear integral equations connected with generalized analytic functions -- The Riemann boundary problem -- Nonlinear aspects of generalized analytic function theory -- Some generalizations and applications.

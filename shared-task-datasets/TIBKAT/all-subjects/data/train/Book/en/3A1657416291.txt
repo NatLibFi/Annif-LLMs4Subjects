@@ -1,2 +1,0 @@
-Web semantics for textual and visual information retrieval
-"[This book] is a pivotal reference source for the latest academic research on embedding and associating semantics with multimedia information to improve data retrieval techniques. Highlighting a range of pertinent topics such as automation, knowledge discovery, and social networking, this book is ideally designed for researchers, practitioners, students, and professionals interested in emerging trends in information retrieval"--Provided by publisher.

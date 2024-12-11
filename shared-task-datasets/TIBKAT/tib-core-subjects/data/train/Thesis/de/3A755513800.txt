@@ -1,2 +1,0 @@
-Realization of finite-size quantum key distribution based on Einstein-Podolsky-Rosen entangled light
-Quantum key distribution, continuous variables, Einstein-Podolsky-Rosen entanglement, two-mode squeezed states, coherent attacks, collective attacks. - Quantenschlüsselverteilung, kontinuierliche Variablen, Einstein-Podolsky-Rosen Verschränkung, zwei-moden gequetschte Zustände, kohärente Attacken, kollektive Attacken

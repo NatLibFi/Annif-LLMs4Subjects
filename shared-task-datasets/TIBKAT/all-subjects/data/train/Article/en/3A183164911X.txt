@@ -1,2 +1,0 @@
-Chapter Twenty-Six. Probabilistic and Spatial Models of Voting
-This chapter discusses results about committees that use majority rule, some related results about majority rule as a social choice rule (that is, without referring to a specific context where majority rule is used), and results about electoral competitions where the winner is selected by majority rule.

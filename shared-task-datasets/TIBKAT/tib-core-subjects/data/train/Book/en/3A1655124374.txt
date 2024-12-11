@@ -1,2 +1,0 @@
-Equational Compactness in Rings : With Applications to the Theory of Topological Rings
-The model theoretic framework -- Minimum conditions and compactifications -- Rings with the ascending chain condition -- Discriminator varieties and m-rings -- The Mycielski question.

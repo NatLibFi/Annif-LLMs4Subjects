@@ -1,2 +1,0 @@
-Technologies and innovation : 9th International Conference, CITI 2023, Guayaquil, Ecuador, November 13-16, 2023, proceedings
-This book constitutes the refereed proceedings of the 9th International Conference on Technologies and Innovation, CITI 2023, held in Guayaquil, Ecuador, during November 13-16, 2023. The 20 full papers included in this book were carefully reviewed and selected from 51 submissions. They were organized in topical sections as follows: Machine Learning; Natural Language Processing and Semantic Web; Computer vision; and Knowledge-based systems

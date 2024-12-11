@@ -1,2 +1,0 @@
-Applied computer vision and soft computing with interpretable AI
-"This reference text presents the knowledge base of computer vision and soft computing techniques with their applications for sustainable developments"--

@@ -1,2 +1,0 @@
-The Modelling of Systems with Small Observation Sets
-1. Introduction -- 2. Survey of related work -- 3. A characterisation of modelling -- 4. Incorporation of a priori knowledge -- 5. Fragments of programming languages -- 6 ? - Comparability -- 7. Table look-up codings -- 8 Discussion and conclusion.

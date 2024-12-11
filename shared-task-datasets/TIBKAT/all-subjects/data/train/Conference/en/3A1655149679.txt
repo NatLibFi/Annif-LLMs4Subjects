@@ -1,2 +1,0 @@
-Fluid Dynamics : Lectures given at the 3rd 1982 Session of the Centro Internazionale Matematico Estivo (C.I.M.E.) held at Varenna, Italy, August 22 – September 1, 1982
-§ 1. Introduction and motivation -- Smooth solutions for the equations of compressible and incompressible fluid flow -- The linear transport operator of fluid dynamics -- Limites des equations d’un fluide compressible lorsque la compressibilite tend vers zero -- Vortex theory and euler and navier-stokes evolution in two dimensions -- Free boundary problems for compressible viscous fluids.

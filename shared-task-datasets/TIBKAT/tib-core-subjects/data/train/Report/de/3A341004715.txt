@@ -1,2 +1,0 @@
-Leistungs- Drehmoment- Mess- und Analysesystem : Schlussbericht ; Beginn des Vorhabens: 01.11.1999 - Abschluss des Vorhabens: 30.04.2001
-Asynchronmaschine, Asynchronmotor, Asynchrongenerator, Drehmoment, Drehstromasynchronmaschine, Normmotor, Kurzschlussläufermotor, Energiesparmotor, Drehstrom, P-T-MAS

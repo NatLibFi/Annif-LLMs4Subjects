@@ -1,2 +1,0 @@
-Rechnerarchitektur : Einführung in den Aufbau moderner Computer
-Schritt für Schritt führt der Autor in den grundlegenden Aufbau moderner Rechner ein. Anschaulichkeit und Nachvollziehbarkeit stehen dabei im Vordergrund. Das Buch deckt den typischen Stoff einer einführenden Vorlesung zur Rechnerarchitektur an Hochschulen ab. Mit über 120 Aufgaben incl. Lösungen eignet sich das Buch hervorragend für das Selbststudium. Die neue Auflage enthält ein zusätzliches Kapitel über Mikrocontroller

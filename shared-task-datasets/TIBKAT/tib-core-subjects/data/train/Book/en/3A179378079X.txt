@@ -1,2 +1,0 @@
-Fourier meets Hilbert and Riesz : an introduction to the corresponding transforms
-This book provides an introduction into the modern theory of classical harmonic analysis, dealing with Fourier analysis and the most elementary singular integral operators, the Hilbert transform and Riesz transforms. Ideal for self-study or a one semester course in Fourier analysis, included are detailed examples and exercises

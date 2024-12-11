@@ -1,2 +1,0 @@
-Verifikation von Ackerland- und Grünlandobjekten eines topographischen Datensatzes mit monotemporalen Bildern
-Verifikation, 2D-Vektordaten, monotemporal, Bildanalyse, Ackerland, Grünland. - Verification, 2D vector data, mono-temporal, image analysis, cropland, grassland

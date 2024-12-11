@@ -1,2 +1,0 @@
-Modeling and simulations for metamaterials : emerging research and opportunities
-"This book investigates the properties of metamaterials at terahertz frequencies. Though the fundamental of this book is based on the mathematical modelling, numerical simulations are also developed to realize the physical structures and validate the measured results"--

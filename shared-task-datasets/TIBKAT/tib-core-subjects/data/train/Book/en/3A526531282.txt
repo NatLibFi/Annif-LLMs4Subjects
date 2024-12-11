@@ -1,2 +1,0 @@
-MAC OS X Leopard : beyond the manual ; [the manual's not missing ; you're beyond it]
-Designed for sophisticated computer users, an overview of the latest version of Leopard examines the all new features, as well as those that, although previously available in earlier versions of OS X, had not been easily accessible, covering such areas as changes to the user interface, iCal, Boot Camp, Dashboard, Spotlight, Mail, and Time Machine

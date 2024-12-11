@@ -1,2 +1,0 @@
-A modern theory of random variation : with applications in stochastic calculus, financial mathematics, and Feynman integration
-"This book presents a self-contained study of the Riemann approach to the theory of random variation and assumes only some familiarity with probability or statistical analysis, basic Riemann integration, and mathematical proofs. The author focuses on non-absolute convergence in conjunction with random variation"--

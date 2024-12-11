@@ -1,2 +1,0 @@
-Fundamentals of many-body physics : principles and methods
-"This textbook addresses the special physics of many-particle systems, especially those dominated by correlation effects. It develops modern methods to treat such systems and demonstrates their application through numerous appropriate exercises, mainly from the field of solid state physics"--P. [4] of cover

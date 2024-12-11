@@ -1,2 +1,0 @@
-Arbeitsbuch Stochastik
-Arbeitsbuch Stochastik (Einführung und Grundzüge der Masstheorie). Dieses Arbeitsbuch enthält die Aufgaben, Hinweise, Lösungen und Lösungswege der Kapitel 2 bis 8 des Lehrbuchs Stochastik: Eine Einführung mit Grundzügen der Masstheorie. Durch die Offenlegung der Lösungen ist das Werk bestens geeignet zum Selbststudium, zur Vorlesungsbegleitung und als Prüfungsvorbereitung. Das Werk umfasst 332 Übungsaufgaben, die grob in Verständnisfragen, Beweisaufgaben und Rechenaufgaben gegliedert sind

@@ -1,2 +1,0 @@
-Role engineering for enterprise security management
-The business case for role-based access control -- Role engineering in the phases of the system development life cycle -- Role engineering and why we need it -- Defining good roles -- The role engineering process -- Designing the roles -- Engineering the permissions -- Tools that can be used to assist the role engineering process -- Putting it all together : the role formation process -- What others have been doing -- Planning a role engineering effort -- Staffing for role engineering -- What can go wrong and why?

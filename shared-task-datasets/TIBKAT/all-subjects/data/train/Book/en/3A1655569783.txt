@@ -1,3 +1,0 @@
-Introducing Web Development
-1. Protocols of the Web -- 2. Dynamic Websites -- 3. HTML-Hypertext Markup Language -- 4. CSS-Cascading Style Sheets.
-This brief book is an easy-to-digest introduction to the key concepts of web development. Understand the concepts of the web and how they apply to static and dynamic websites. See how HTML and CSS are used to create the bones of the web. Concisely presented through four key concept chapters, Introducing Web Development is for anyone who wants to understand the basics of web development.

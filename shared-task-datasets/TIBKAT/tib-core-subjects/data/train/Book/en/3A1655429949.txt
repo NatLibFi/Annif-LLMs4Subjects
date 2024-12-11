@@ -1,2 +1,0 @@
-Topologies and Uniformities
-This book is a substantially revised edition of the UTM book: ISBN 0 387 96466-5, which is rewritten with a view to making the book far more accessible for undergraduates, particularly in the UK and Ireland. It contains more detailed explanations and ex ercises, together with fully worked solutions to the essential problems and a new chapter on the historical aspects

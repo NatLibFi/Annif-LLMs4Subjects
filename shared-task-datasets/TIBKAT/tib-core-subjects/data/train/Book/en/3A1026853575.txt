@@ -1,2 +1,0 @@
-Theory of electromagnetic pulses
-This book presents the theory of electromagnetic pulses in a simple and physical way. All pulses discussed are exact solutions of the Maxwell equations, and have finite energy, momentum and angular momentum. The subject matter is restricted to free-space classical electrodynamics, but contact is made with quantum theory in proofs that causal pulses are equivalent to superpositions of photons.

@@ -1,2 +1,0 @@
-3G CDMA2000 : wireless system engineering
-Breaking down complex technology into easy-to-understand concepts, this hands-on, system-level resource offers you expert guidance in designing, optimizing, and operating a CDMA2000 wireless network. The book focuses on the development and understanding of practical engineering knowledge that can be readily and immediately applied to your work in the field, but also provides you with the theory you need to understand to effectively engineer 3G spread-spectrum digital networks

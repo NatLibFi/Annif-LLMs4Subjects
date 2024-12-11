@@ -1,2 +1,0 @@
-Synthesis of sterically encumbered biaryls by [3+3] cyclocondensation reactions and synthesis of arylated pyrazoles, bis(diaryl)sulfones, and bis(alkenyl)pyridines by Pd(0)-catalysed cross-coupling reactions
-Sterically encumbered biaryls were prepared [3+3] cyclocondensation. Arylatde pyrazoles, and bis(diaryl)sulfones were prepared by Suzuki-Miyuara reaction in very good yield.Di(alkenyl)pyridines and bipyridyls were prepared by Heck reaction.Bipyridyls were the unexpected products.

@@ -1,2 +1,0 @@
-Domain of attraction : analysis and control via SOS programming
-Pt. I. SOS polynomials. 1. SOS polynomials -- 2. Optimization with SOS polynomials -- Pt. II. Domain of attraction. 3. Dynamical systems background -- 4. DA in polynomial systems -- 5. RDA in uncertain polynomial systems -- 6. DA and RDA in non-polynomial systems -- 7. Miscellaneous

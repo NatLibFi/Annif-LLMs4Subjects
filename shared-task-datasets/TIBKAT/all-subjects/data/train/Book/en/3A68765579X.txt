@@ -1,2 +1,0 @@
-Innovations and developments of swarm intelligence applications
-"This book explores the emerging realm of swarm intelligence, which finds its basis in the natural social behavior of animals, and applies to apply this behavior to independent intelligent agents, creating complex solutions for real world applications"--

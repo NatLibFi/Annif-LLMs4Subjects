@@ -1,2 +1,0 @@
-Theoretical Numerical Analysis : A Functional Analysis Framework
-Overall, the book is clearly written, quite pleasant to read, and contains a lot of important material; and the authors have done an excellent job at balancing theoretical developments, interesting examples and exercises, numerical experiments, and bibliographical references. - R. Glowinski, SIAM Review

@@ -1,2 +1,0 @@
-Life Cycle Design C1, Formzahlermittlung für komplexe schiffbauliche Strukturdetails : Abschlussbericht zum Vorhaben MTK 0579 ; [Abschluss des Vorhabens: 2000-06-30]
-Stress concentration factors, fatique, hot-spot-stress, longitudinal cut-out, corrugated bulkheads, knuckled flanges, scallops

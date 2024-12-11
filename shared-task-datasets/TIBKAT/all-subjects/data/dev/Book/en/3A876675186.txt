@@ -1,2 +1,0 @@
-Signal analysis : time, frequency, scale, and structure
-Offers a well-rounded, mathematical approach to problems in signal interpretation using the latest time, frequency, and mixed-domain methods. Equally useful as a reference, an up-to-date review, a learning tool, and a resource for signal analysis techniques. Provides a gradual introduction to the mathematics so that the less mathematically adept reader will not be overwhelmed with instant hard analysis. Covers Hilbert spaces, complex analysis, distributions, random signals, analog Fourier transforms, and more

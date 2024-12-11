@@ -1,2 +1,0 @@
-LED packaging for lighting applications : design, manufacturing and testing
-"This book provides quantitative methods for optical, thermal, reliability modelling and simulation so that predictive quantitative modelling can be achieved"--

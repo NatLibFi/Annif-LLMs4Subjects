@@ -1,2 +1,0 @@
-Time and Petri nets
-This book derives from advanced lectures, and the text is supported throughout with examples and exercises. It is suitable for graduate courses in computer science, mathematics, engineering, and related disciplines, and as a reference for researchers

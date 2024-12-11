@@ -1,2 +1,0 @@
-Modelliermethoden für Berechnungsmodelle der Stahlstruktur entsprechend der Softwareumgebung der Werft
-Structural design, NAPA, relational and objectoriented database, SDAI, PDM, STEP-Interfaces, AP216, finite element model, POSEIDON, calculation model

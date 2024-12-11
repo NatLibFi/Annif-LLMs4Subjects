@@ -1,2 +1,0 @@
-Optik, Licht und Laser
-Diese Einführung stellt die Konzepte der klassischen Optik für Physiker, andere Naturwissenschaftler und Ingenieure vor, behandelt die Eigenschaften von Laser-Lichtquellen im Detail und schreitet bis zu optischen Detektoren und der nichtlinearen Optik voran. Sie bietet die Verknüpfung traditioneller Themen mit ausgewählten Fällen moderner Forschungsarbeiten, um Begeisterung für neuere wissenschaftliche und technische Herausforderungen der Optik zu wecken

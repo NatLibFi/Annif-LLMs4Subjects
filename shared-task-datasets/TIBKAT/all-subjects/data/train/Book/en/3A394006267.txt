@@ -1,2 +1,0 @@
-Flow of industrial fluids - therory and equations
-Flow of incompressible fluids -- incompressible fluid flow - losses of mechanical energy -- Pumps theory and equations -- Compressible fluid flow -- Compressible fluid flow - complex systems -- Equations of incompressible fluid flow and their derivations -- Losses in incompressible fluid flow -- Computations involving pumps for liquids -- Equations of compressible flow, derivations and applications -- Compressible fluid flow - complex systems.

@@ -1,3 +1,0 @@
-The mathematics and mechanics of biological growth
-Basic aspects of growth -- Mechanics and growth -- Discrete computational models -- Growing on a line -- Elastic rods -- Morphoelastic rods -- Accretive growth -- Membranes and shells -- Growing membranes -- Morphoelastic plates -- Nonlinear elasticity -- The kinematics of growth -- Balance laws -- Evolution laws and stability -- Growing spheres -- Growing cylinders -- Ten challenges -- References -- Index
-Emphasizing kinematics and mechanics of growth, this book presents the state of knowledge in morpho-elasticity, providing a rigorous foundation and offering a set of mathematical tools for the analysis of specific problems arising in biology.--

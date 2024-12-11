@@ -1,2 +1,0 @@
-Beginning PHP and Oracle : from novice to professional ; [learn how to build dynamic, database-driven web sites with the popular PHP language and powerful Oracle database]
-Provides instructions on building applications and Web sites using the PHP language along with the Oracle database

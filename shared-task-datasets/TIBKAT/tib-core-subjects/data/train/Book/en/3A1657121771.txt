@@ -1,2 +1,0 @@
-Microcontroller system design using PIC18F processors
-"This book provides comprehensive discussions on strategies and techniques for optimizing microprocessor-based electronic system development and examines methods for acquiring improved software and hardware skills. Highlighting innovative concepts across a range of topics, such as serial peripheral interfaces, addressing kodes, and asynchronous communications"--

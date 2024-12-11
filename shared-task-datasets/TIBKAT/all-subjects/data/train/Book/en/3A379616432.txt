@@ -1,2 +1,0 @@
-Classification and modeling with linguistic information granules : advanced approaches to lingusitic data mining
-This book clearly describes how soft computing techniques like fuzzy logic, evolutionary computation and neural networks can be used for extracting interpretable knowledge in the form of linguistic if-then rules from numerical data for classification and modeling. While emphasis is placed on the interpretability of linguistic knowledge, this book covers almost all soft computing techniques for linguistic data mining

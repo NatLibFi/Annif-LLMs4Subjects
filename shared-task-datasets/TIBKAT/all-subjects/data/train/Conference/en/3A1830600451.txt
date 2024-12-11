@@ -1,2 +1,0 @@
-Computing, communication and learning : First International Conference, CoCoLe 2022, Warangal, India, October 27-29, 2022 : proceedings
-This volume constitutes the refereed proceedings of the First International Conference on Computing, Communication and Learning, CoCoLe 2022, held in Warangal, India, in October 2022.The 25 full papers and 1 short paper presented were carefully reviewed and selected from 117 submissions. The CoCoLe conference focuses on three broad areas of computer science and other allied branches, namely computing, communication, and learning

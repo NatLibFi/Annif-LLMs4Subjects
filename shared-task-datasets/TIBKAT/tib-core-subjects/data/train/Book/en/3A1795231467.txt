@@ -1,2 +1,0 @@
-Artificial intelligence of things in smart environments : applications in transportation and logistics
-This book focuses on the use of AI/ML-based techniques to solve issues related to IoT-based environments, as well as their applications. It addresses, among others, signal detection, channel modeling, resource optimization, routing protocol design, transport layer optimization, user/application behavior prediction, software-defi ned networking, congestion control, communication network optimization, security, and anomaly detection

@@ -1,2 +1,0 @@
-Realization Theory of Continuous-Time Dynamical Systems
-A. Introduction -- B. Realization theory of (general) dynamical systems -- C. Realization theory of linear representation systems -- D. Realization theory of (algebraic) linear (time-constant) systems.

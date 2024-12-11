@@ -1,2 +1,0 @@
-Strömungsmechanik nichtnewtonscher Fluide
-Ein einführendes, grundlagenorientiertes Lehrbuch für Studenten der Ingenieurwissenschaften und der angewandten Mathematik sowie für theoretisch interessierte Ingenieure Einleitung mit nichtnewtonschen Strömungsphänomenen Kinematik fluider Kontinua Kontinumsmechanische Grundlagen Bei Scherung und Dehnung hervortretender Stoffeigenschaften Strönungen, die durch die Fließfunktion kontrolliert werden Auswirkungen der Normalspannungsdifferenzen Gedächtniseinflüsse bei inststationären Strömungen Numerische Strömungssimulation Formelanhang

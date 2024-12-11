@@ -1,2 +1,0 @@
-Euclidean Harmonic Analysis : Proceedings of Seminars Held at the University of Maryland, 1979
-Some analytic problems related to statistical mechanics -- On spectral synthesis in ?n, n ? 2 -- Spectral synthesis and stability in Sobolev spaces -- Fourier analysis of multilinear convolutions, Calderón's theorem, and analysis on Lipschitz curves -- The complex method for interpolation of operators acting on families of Banach spaces -- Maximal functions: A problem of A. Zygmund -- Multipliers of F(LP).

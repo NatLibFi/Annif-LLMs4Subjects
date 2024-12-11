@@ -1,2 +1,0 @@
-Using R for item response theory model applications
-Introduction -- Unidimensional IRT with dichotomous item responses -- Unidimensional IRT with polytomous item responses -- Unidimensional IRT for other applications -- Multidimensional IRT for simple structure -- Multidimensional IRT for bifactor structure -- Limitations and caveat.

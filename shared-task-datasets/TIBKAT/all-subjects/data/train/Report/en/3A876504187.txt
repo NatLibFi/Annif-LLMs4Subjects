@@ -1,2 +1,0 @@
-Decentralized computing using blockchain technologies and smart contracts: emerging research and opportunities
-"This book explores how blockchain technology is a decentralized immutable data storage technology built on the concept of distributed consensus ledger. This book discusses how the distributed consensus ledger of block chain technology will have a major role in governance with its upcoming innovations in Public Notary Services, Voting Systems, Citizen Identity Services, Passport Registration, Migration Services"--

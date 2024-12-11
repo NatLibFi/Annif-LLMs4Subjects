@@ -1,2 +1,0 @@
-Web portal design, implementation, integration, and optimization
-"This book discusses the challenges faced in building web services and integrating applications in order to reach the successful benefits web portals bring to an organization"--

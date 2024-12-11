@@ -1,2 +1,0 @@
-Introduction to statistics through resampling methods and R
-"Intended for class use or self-study, the second addition of this text aspires like the first to introduce statistical methodology to a wide audience, simply and intuitively, through resampling from the data at hand. The methodology proceeds from chapter to chapter from the simple to the complex"--

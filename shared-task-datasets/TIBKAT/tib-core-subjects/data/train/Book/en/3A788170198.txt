@@ -1,2 +1,0 @@
-Multi-terminal direct-current grids : modeling, analysis, and control
-"Presents a comprehensive modeling framework for MTDC grids which is compatible with the standard AC system modeling for stability studies"--

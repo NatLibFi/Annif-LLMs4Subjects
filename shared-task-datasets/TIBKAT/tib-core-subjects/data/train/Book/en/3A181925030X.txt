@@ -1,2 +1,0 @@
-Computational intelligence in image and video processing
-"Computational Intelligence in Image and Video Processing presents introduction, state-of-the-art and adaptations of computational intelligence techniques and their usefulness in image and video enhancement, classification, retrieval, forensics and captioning. It covers an amalgamation of such techniques in diverse applications of image and video processing"--

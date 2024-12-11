@@ -1,2 +1,0 @@
-Emerging technologies and applications for cloud-based gaming
-"This book explores the opportunities for the gaming industry through the integration of cloud computing by focusing on design methodologies, fundamental architectures, and the end-user experience"--

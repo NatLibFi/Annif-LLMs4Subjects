@@ -1,2 +1,0 @@
-Numerische Verfahren für nichtlineare gemischt-ganzzahlige Optimierungsprobleme im Wassermanagement
-Abwassermanagement, optimale Steuerung, nichtlineare Optimierung, gemischt-ganzzahliges Modell, nichtlineares Modell. - Wastewater management, optimal control, nonlinear programming, mixed-integer model, nonlinear model

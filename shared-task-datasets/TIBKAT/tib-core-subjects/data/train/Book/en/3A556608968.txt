@@ -1,2 +1,0 @@
-Spatial management of risks
-Spatial analysis is an increasingly important tool for detecting and preventing numerous risk and crisis phenomena such as floods in a geographical area. This book concentrates on examples of prevention but also gives crisis control advice and practical case studies. Some chapters address urban applications in which vulnerabilities are concentrated in area; others address more rural areas with more scattered phenomena

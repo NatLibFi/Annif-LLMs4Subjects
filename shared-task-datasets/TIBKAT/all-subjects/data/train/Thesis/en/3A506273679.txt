@@ -1,2 +1,0 @@
-Variations and application conditions of the data type "Image" : the foundation of computational visualistics
-Visualistics, computer science, picture syntax, picture semantics, picture pragmatics, interactive pictures

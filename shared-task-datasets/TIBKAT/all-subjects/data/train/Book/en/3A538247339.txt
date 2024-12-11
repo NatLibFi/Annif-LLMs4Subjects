@@ -1,2 +1,0 @@
-Learning Python : [covers Python 2.5 ; powerful object-oriented programming]
-Describes the features of the Python 2.5 programming language, covering such topics as types and operations, statements and syntax, functions, modules, classes and OOP, and exceptions and tools

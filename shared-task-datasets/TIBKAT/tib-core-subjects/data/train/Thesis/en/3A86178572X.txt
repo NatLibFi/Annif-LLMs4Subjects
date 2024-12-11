@@ -1,3 +1,0 @@
-Semidefinite relaxation approaches for the quadratic assignment problem
-This thesis deals with known and new relaxation techniques for the quadratic assignment problem; a fundamental combinatorial optimization problem which is often considered as one of the hardest of NP-hard problems. The focus of this thesis is on techniques for the construction of semidefinite programming relaxations.
-Diese Doktorarbeit behandelt bekannte und neue Relaxationstechniken für das quadratische Zuordnungsproblem, eines der schwierigsten zu lösenden NP-schweren Probleme der Kombinatorik. Der Schwerpunkt der Arbeit liegt auf neuen Ansätzen zur Approximation durch Semidefinite Optimierungsprobleme.

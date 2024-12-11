@@ -1,2 +1,0 @@
-Chapter Seventeen. Arrovian Social Choice Theory on Economic Domains
-This article surveys the literature that investigates the consistency of Arrow's social choice axioms when his unrestricted domain assumptions are replaced by domain conditions that incorporate the restrictions on agendas and preferences encountered in economic environments. Both social welfare functions and social choice correspondences are considered.

@@ -1,2 +1,0 @@
-Developing secure distributed systems with CORBA
-This is a clearly written, well-structured hands-on guide for the professional software developer and engineer who needs to build secure applications with CORBA

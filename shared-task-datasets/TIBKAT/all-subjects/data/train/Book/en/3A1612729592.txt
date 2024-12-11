@@ -1,2 +1,0 @@
-An introduction to R for spatial analysis and mapping
-"R is a powerful open-source computing tool that supports geographical analysis and mapping. For geographers and 'non-geographers' alike, this text provides an introduction to the use of R for spatial statistical analysis, geocomputation, and the analysis of geographical information. ... A core resource for anyone collecting and using spatially referenced data, this is the definitive 'how to' that takes students--from any discipline--from coding to actual applications and uses of R."--Page [4] of cover

@@ -1,2 +1,0 @@
-Unconventional computation and natural computation : 20th International Conference, UCNC 2023, Jacksonville, FL, USA, March 13-17, 2023, proceedings
-This book constitutes the proceedings of the 20th International Conference on Unconventional Computation and Natural Computation, UCNC 2023, held in Jacksonville, FL, USA, in March 13-17, 2023. The UCNC conference series covers fundamental research on computation beyond the standard Turing model, including computational models and methods inspired by nature, and the computational properties of natural processes

@@ -1,2 +1,0 @@
-Performance analysis and synthesis for discrete-time stochastic systems with network-enhanced complexities
-This book aims to provide a unified treatment on the analysis and synthesis for discrete-time stochastic systems with guarantee of certain performances against network-enhanced complexities with applications in sensor networks and mobile robotics--

@@ -1,2 +1,0 @@
-Finite element simulations using ANSYS
-Introduction to finite element method and ANSYS -- Bar and beam structures -- Solid mechanics -- Vibration -- Heat transfer -- Fluid mechanics -- Multiphysics -- Meshing guide

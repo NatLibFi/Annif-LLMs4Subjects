@@ -1,2 +1,0 @@
-Advanced robotics & intelligent machines
-The following topics are dealt with: robotics; machine intelligence; robotic arms; intelligent gripping systems; force feedback control; tele-presence control; sensor management; nuclear industry; surgery; intelligent autonomous systems; cars; walking machine; six-legged machine; control system; flexible materials handling; food manufacturing; robotic milking; intelligent sensing; semiconductor wafer handling; micro robotics; mobile robots; manipulators; neural networks; parallel processing; genetic algorithms; and robot control

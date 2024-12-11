@@ -1,2 +1,0 @@
-Schlussbericht zum Teilprojekt TUB-KENSTSE Computergesteuerte Kenterversuche in hohen Wellengruppen im BMBF-F&E-Verbundvorhaben ROLL-S
-Analysis of rolling and capsizing, deterministic model test procedure, calculation of high wave groups, rogue waves, wave generation

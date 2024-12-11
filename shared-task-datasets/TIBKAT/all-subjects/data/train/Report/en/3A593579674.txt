@@ -1,2 +1,0 @@
-A beginner's guide to R
-Based on their extensive experience with teaching R and statistics to applied scientists, the authors provide a beginner's guide to R. The text covers how to download and install R, import and manage data, elementary plotting, an introduction to functions, advanced plotting, and common beginner mistakes.--[book cover]

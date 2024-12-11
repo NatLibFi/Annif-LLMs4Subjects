@@ -1,2 +1,0 @@
-Kinetics of chemical reactions : decoding complexity
-Introduction -- Chemical reactions and complexity -- Kinetic experiments : concepts and realizations -- Chemical book-keeping : linear algebra in chemical kinetics -- Steady-state chemical kinetics : a primer -- Steady-state chemical kinetics : machinery -- Linear and nonlinear relaxation : stability -- Nonlinear mechanisms : steady state and dynamics -- Kinetic polynomials -- Temporal analysis of products : principles, applications and theory -- Decoding the past -- Decoding the future

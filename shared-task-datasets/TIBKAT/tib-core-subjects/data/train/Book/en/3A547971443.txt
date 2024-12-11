@@ -1,2 +1,0 @@
-Beginning VB 2008 : from novice to professional
-A guide to VB 2008 explains how to use the new Visual Studio interface efficiently, with coverage of such areas as .NET fundamentals, .NET numbers and value types, VB exception handling, string manipulation, properties and indexers, file operations and object serialization, and XML processing and configuration files

@@ -1,2 +1,0 @@
-Maximal temperature of safe combustion in case of an autocatalytic reaction
-We consider the problem of thermal explosion of a gas mixture in the case of an autocatalytic combustion reaction in a homogeneous medium. We determine the maximal temperature on the trajectories located in the transition region between the slow combustion regime and the explosive one.

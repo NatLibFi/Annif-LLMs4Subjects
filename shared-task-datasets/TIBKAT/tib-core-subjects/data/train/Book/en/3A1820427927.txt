@@ -1,2 +1,0 @@
-Coxeter bialgebras
-"This monograph is aimed at graduate students and researchers in diverse areas of mathematics. It offers a new geometric perspective on the classical theory of connected graded Hopf algebras by extending it to the setting of real reflection arrangements. Discrete geometry, algebra, and combinatorics meet fruitfully at these crossroads"--

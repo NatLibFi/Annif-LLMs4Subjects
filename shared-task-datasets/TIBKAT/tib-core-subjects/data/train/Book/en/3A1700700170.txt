@@ -1,3 +1,0 @@
-Artificial intelligence trends for data analytics using machine learning and deep learning approaches
-"This book focuses on the implementation of various elementary and advanced approaches in AI that can be used in various domains to solve real-time decision-making problems"--
-An artificial intelligence system based based power estimation method for CMOS VLSI circuit / Dr. Govindaraj Vellingiri -- Awareness alert and information analysis in social media networking using usage analysis negotiable approach / Dr. M. Alamelu -- Object detection and tracking in video using deep learning techniques : A review / Dhivya Praba R, Kavitha K.

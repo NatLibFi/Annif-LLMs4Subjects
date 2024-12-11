@@ -1,2 +1,0 @@
-Gray hat Python : Python programming for hackers and reverse engineers
-Setting up your development environment -- Debuggers and debugger design -- Building a Windows debugger -- PyDbg : a pure Python Windows debugger -- Immunity debugger : the best of both worlds -- Hooking -- DLL and code injection -- Fuzzing -- Sulley -- Fuzzing Windows drivers -- DAPython---Scripting IDA Pro -- PyEmu---The scriptable emulator

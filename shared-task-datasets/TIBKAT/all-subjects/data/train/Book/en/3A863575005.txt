@@ -1,2 +1,0 @@
-ESD testing : from components to systems
-Human body model -- Machine model -- Charged device model -- Transmission line pulse (TLP) -- Very fast transmission line pulse (VF-TLP) -- IEC 61000-4-2 -- Human metal model (HMM) -- IEC 61000-4-5 -- Cable discharge event (CDE) -- Latchup -- Electrical overstress (EOS) -- Electromagnetic compatibility (EMC) testing

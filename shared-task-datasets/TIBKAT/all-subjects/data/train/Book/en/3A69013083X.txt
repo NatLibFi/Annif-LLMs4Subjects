@@ -1,2 +1,0 @@
-Grid and cloud computing : concepts, methodologies, tools and applications / Information Resources Management Association. Managing Director: Lindsay Johnston ,,, ; Vol. 4
-"This reference presents a vital compendium of research detailing the latest case studies, architectures, frameworks, methodologies, and research on Grid and Cloud Computing"--

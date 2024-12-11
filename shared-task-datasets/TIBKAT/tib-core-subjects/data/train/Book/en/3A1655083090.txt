@@ -1,2 +1,0 @@
-Value Distribution on Parabolic Spaces
-Preparations -- The first main theorem -- The first main theorem on parabolic spaces -- The second main theorem -- The defect relation.

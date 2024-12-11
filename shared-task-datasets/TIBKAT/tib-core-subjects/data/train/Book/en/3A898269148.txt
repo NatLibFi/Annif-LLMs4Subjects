@@ -1,2 +1,0 @@
-MEMS cost analysis : from laboratory to industry
-1. The world of MEMS -- 2. Basic fabrication processes -- 3. Surface micromachining -- 4. High-aspect-ratio micromachining -- 5. MEMS testing -- 6. MEMS packaging -- 7. Clean rooms, buildings and plant -- 8. The MEMSCOST spreadsheet -- 9. Product costs : accelerometers -- 10. Product costs : microphones -- 11. MEMS foundries -- 12. Financial reporting and analysis -- 13. Conclusions

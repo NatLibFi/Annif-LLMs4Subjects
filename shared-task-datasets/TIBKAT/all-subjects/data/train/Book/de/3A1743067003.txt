@@ -1,2 +1,0 @@
-Technische Thermodynamik : theoretische Grundlagen und praktische Anwendungen
-Dieses Lehrbuch fasst das Grundwissen der technischen Thermodynamik kompakt in nur einem Band zusammen, der neben den grundlegenden thermodynamischen Fragen auch die Grundlagen der Gemische, der Strömungsvorgänge, der Wärmeübertragung, der chemischen Reaktionen, der Brennstoffzelle und der Verbrennung enthält. Es wurde durch regelmäi︣ge Neuauflagen fortlaufend aktualisiert, technische Entwicklungen, Normen, Regeln, Rechenverfahren und technische Daten sind in ihrem aktuellen Stand wiedergegeben

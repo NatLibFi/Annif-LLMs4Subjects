@@ -1,2 +1,0 @@
-Economic Forecasting
-Economic Forecasting provides a comprehensive overview of macroeconomic forecasting. The focus is first on a wide range of theories as well as empirical methods: business cycle analysis, time series methods, macroeconomic models, medium and long-run projections, fiscal and financial forecasts, and sectoral forecasting. In addition, the book addresses the main issues surrounding the use of forecasts (accuracy, communication challenges) and their policy implications. A tour of the economic data and forecasting institutions is also provided

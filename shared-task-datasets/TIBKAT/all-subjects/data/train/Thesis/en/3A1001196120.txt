@@ -1,2 +1,0 @@
-DNA microarray experimental design and software based data normalization and analysis
-Microarrays, cyanine-dyes, photobleaching, FRET, ROXS, analysis software. - Cyanin-Farbstoff, Analysesoftware

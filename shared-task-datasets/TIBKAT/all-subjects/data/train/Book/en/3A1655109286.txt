@@ -1,2 +1,0 @@
-Harmonic Analysis on Totally Disconnected Sets
-Preliminaries from fourier analysis and integration theory -- Pseudo-measures supported by totally disconnected sets -- A characterization of uniqueness sets -- Independent sets and arithmetic progressions -- Kronecker's theorem and Kronecker sets -- Independent sets of multiplicity -- Helson sets -- Concluding remarks -- The Wiener process -- Malliavin's theorem.

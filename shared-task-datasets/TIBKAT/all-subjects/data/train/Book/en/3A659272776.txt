@@ -1,2 +1,0 @@
-Performance and dependability in service computing : concepts, techniques and research directions
-"This book focuses on performance and dependability issues associated with service computing and these two complementary aspects, which include concerns of quality of service (QoS), real-time constraints, security, reliability and other important requirements when it comes to integrating services into real-world business processes and critical applications"--Provided by publisher

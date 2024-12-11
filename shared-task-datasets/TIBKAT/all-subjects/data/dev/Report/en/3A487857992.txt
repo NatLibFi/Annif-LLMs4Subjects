@@ -1,2 +1,0 @@
-Modulare Mikrosystemtechnik in der Sensorik : Abschlussbericht ; Berichtszeitraum: 1.01.2001 - 30.06.2004 ; modulare mikrosensorik
-Microsensors, modularization of measuring systems, primsens interface, buskoppel interface, IEEE 1451

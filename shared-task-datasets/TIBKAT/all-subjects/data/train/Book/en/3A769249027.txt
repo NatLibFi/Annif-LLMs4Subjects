@@ -1,2 +1,0 @@
-Advances in secure computing, internet services, and applications
-"This book presents current research on the applications of computational intelligence in order to focus on the challenge humans face when securing knowledge and data"--

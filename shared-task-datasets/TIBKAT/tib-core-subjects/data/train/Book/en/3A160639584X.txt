@@ -1,2 +1,0 @@
-Formal methods in manufacturing systems : recent advances
-"This book explores formal methods and the shifting paradigm through an investigation of contemporary manufacturing techniques and formal methodologies that strive to solve a variety of issues arising from a market environment that increasingly favors flexible systems over traditional ones"--

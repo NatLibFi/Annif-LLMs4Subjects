@@ -1,2 +1,0 @@
-System-on-a-chip : design and test
-Starting with a basic overview of system-on-a-chip (SoC), including definitions of related terms, this new book helps you understand SoC design challenges, and the latest design and test methodologies. You see how ASIC technology evolved to an embedded cores-based concept that includes pre-designed, reusable Intellectual Property (IP) cores that act as microprocessors, data storage devices, DSP, bus control, and interfaces -- all "stitched" together by a User's Defined Logic (UDL)

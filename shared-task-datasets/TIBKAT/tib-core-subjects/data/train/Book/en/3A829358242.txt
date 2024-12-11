@@ -1,2 +1,0 @@
-Python and Matplotlib essentials for scientists and engineers
-This book provides an introduction to the core features of the Python programming language and Matplotlib plotting routings for scientists and engineers (or students of either discipline) who want to use Python to analyse data, simulate physical processes, and render publication-quality plots. No previous programming experience is needed before reading the first page.

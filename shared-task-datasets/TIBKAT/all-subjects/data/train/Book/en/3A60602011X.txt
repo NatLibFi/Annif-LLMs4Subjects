@@ -1,2 +1,0 @@
-Beginning Silverlight 3 : from novice to professional ; [learn to build state-of-the art Silverlight applications quickly and easily]
-Provides information on ways to create interactive Web applications using Silverlight 3, "a Microsoft cross-browser, cross-platform plug-in that allows you to created rich interactive (or Internet) applications (RIAs) for the Web"-- P.1

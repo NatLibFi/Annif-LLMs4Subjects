@@ -1,2 +1,0 @@
-E∞ Ring Spaces and E∞ Ring Spectra : with contributions by Frank Quinn, Nigel Ray, and Jørgen Tornehave
-? functors -- Coordinate-free spectra -- Orientation theory -- E? ring spectra -- On kO-oriented bundle theories -- E? ring spaces and bipermutative categories -- The recognition principle for E? ring spaces -- Algebraic and topological K-theory -- Pairings in infinite loop space theory.

@@ -1,2 +1,0 @@
-Learning serverless : design, develop, and deploy with confidence
-Whether your company is considering serverless computing or has already made the decision to adopt this model, this practical book is for you. Author Jason Katzer shows early- and mid-career developers what's required to build and ship maintainable and scalable services using this model.

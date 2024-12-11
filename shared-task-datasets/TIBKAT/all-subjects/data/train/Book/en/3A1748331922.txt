@@ -1,2 +1,0 @@
-Biomolecular computation for bionanotechnology
-Computers built with moleware? The drive toward non-silicon computing is underway, and this first-of-its-kind guide to molecular computation gives researchers a firm grasp of the technologies, biochemical details, and theoretical models at the cutting edge. It explores advances in molecular biology and nanotechnology and illuminates how the convergence of various technologies is propelling computational capacity beyond the limitations of traditional hardware technology and into the realm of moleware

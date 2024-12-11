@@ -1,2 +1,0 @@
-Protocols for Multislice CT
-Provides information on routine protocols used for multislice (multidetector row) CT. This illustrated book also contains a technical section and covers the investigations of the brain, neck, lungs and chest, abdomen with parenchymal organs and gastrointestinal tract, the musculoskeletal system and CTA as well as dedicated protocols for the heart

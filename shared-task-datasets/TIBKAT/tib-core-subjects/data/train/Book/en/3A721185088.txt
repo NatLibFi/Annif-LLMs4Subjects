@@ -1,2 +1,0 @@
-Development of distributed systems from design to application and maintenance
-"This book is a collection of research on the strategies used in the design and development of distributed systems applications"--Provided by publisher

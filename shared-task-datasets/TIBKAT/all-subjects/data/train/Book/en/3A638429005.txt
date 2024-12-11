@@ -1,2 +1,0 @@
-Fundamental aspects of plasma chemical physics : Kinetics
-This book examines non-equilibrium ""cold"" plasmas via a chemical physics approach, using state-to-state plasma kinetics, which views each internal state as a new species with its own cross-sections. Includes examples in microelectronics, fusion, and aerospace--

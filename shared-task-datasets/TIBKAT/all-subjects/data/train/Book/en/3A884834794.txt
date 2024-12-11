@@ -1,2 +1,0 @@
-Metaheuristics set / coordinated by Nicolas Monmarché and Patrick Siarry ; Volume 7: Evolutionary algorithms for food science and technology
-"This book addresses some questions related to optimization in the specific domain of food science, showing how evolutionary computation tools pave the way for new solutions, because of their versatility and robustness, and by offering new ways to better integrate the 'human factor'."--

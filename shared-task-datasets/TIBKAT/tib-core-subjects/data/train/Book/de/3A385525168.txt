@@ -1,2 +1,0 @@
-Statistik : der Weg zur Datenanalyse
-Das Buch bietet eine integrierte Darstellung der deskriptiven Statistik, moderner Methoden der explorativen Datenanalyse und der induktiven Statistik, einschließlich der Regressions- und Varianzanalyse. Die Darstellung ist auf inhaltliche Motivation, Interpretation und Verständnis der Methoden ausgerichtet. Zahlreiche Beispiele mit realen Daten und Graphiken veranschaulichen den Text. Texthervorhebungen zentraler Aspekte und Stichwörter am Rand erhöhen die Lesbarkeit und Übersichtlichkeit.

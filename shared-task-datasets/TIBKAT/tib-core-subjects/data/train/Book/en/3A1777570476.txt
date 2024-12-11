@@ -1,2 +1,0 @@
-Web performance optimization : a practical approach
-"Discover everything you need to know about web performance optimization in one handy volume. If you are in need of effective, easy-to-implement measures to boost your site's performance and improve speed and page load times but are unsure where to start or how to develop your strategy, this guide to web performance is the answer"--

@@ -1,2 +1,0 @@
-Seven deadliest network attacks
-Denial of service -- War dialing -- Penetration "testing" -- Protocol tunneling -- Spanning tree attacks -- Man-in-the-middle -- Password replay

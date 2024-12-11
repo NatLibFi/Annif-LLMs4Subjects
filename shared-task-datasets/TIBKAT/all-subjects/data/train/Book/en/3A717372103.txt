@@ -1,2 +1,0 @@
-iOS Hacker's handbook
-"The world loves iOS. Users love the convenience. Black hats love the vulnerability. This book arms you with the knowledge and tools to protect your organization's iOS devices. If you're a developer, it will also help you create hack-resistant applications."--P. [4] of cover--

@@ -1,2 +1,0 @@
-Numerical PDE analysis of the blood brain barrier : method of lines in R
-PDE model formulation -- PDE model computer implementation -- Three PDE models of blood -- Nonlinear PDE models -- Multicomponent blood brain -- Application of calibrated PDE models to the BBB.

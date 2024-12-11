@@ -1,2 +1,0 @@
-Küpfmüller Theoretische Elektrotechnik : elektromagnetische Felder, Schaltungen und elektronische Bauelemente
-Was ist theoretische Elektrotechnik? -- Theorie elektrischer Netzwerke -- Das elektrostatische Feld -- Das elektrische Strömungsfeld -- Das stationäre Magnetfeld -- Das quasistationäre elektromagnetische Feld -- Das instationäre elektromagnetische Feld -- Das elektromagnetische Feld in elektronischen Bauelementen -- Mathematische Felder -- Der Laplace-Operator

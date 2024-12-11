@@ -1,2 +1,0 @@
-Statistical mechanics of lattice systems : a concrete mathematical introduction
-"Statistical mechanics is the branch of physics which aims at bridging the gap between the microscopic and macroscopic descriptions of large systems of particles in interaction, by combining the information provided by the microscopic description with a probabilistic approach"--

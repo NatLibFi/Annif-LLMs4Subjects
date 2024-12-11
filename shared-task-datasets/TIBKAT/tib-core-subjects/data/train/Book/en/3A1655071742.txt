@@ -1,2 +1,0 @@
-On Dirichlet's Boundary Value Problem : An Lp-Theory Based on a Generalization of Gårding's Inequality
-Outline -- A priori estimates for solutions of linear elliptic functional equations with constant coefficients -- A representation for continuous linear functionals on W o m,p (G) (1<p<?) and its applications: A generalization of Gårding's inequality and existence theorems -- Regularity and existence theorems for uniformly elliptic functional equations.

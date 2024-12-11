@@ -1,2 +1,0 @@
-Numerical recipes in quantum information theory and quantum computing : an adventure in FORTRAN 90
-"This first of a kind textbook provides computational tools in Fortran 90 that are fundamental to quantum information, quantum computing, linear algebra and one dimensional spin half condensed matter systems. Over 160 subroutines are included, and the numerical recipes are aided by detailed flowcharts. Suitable for beginner and advanced readers alike, students and researchers will find this textbook to be a helpful guide and a compendium"--

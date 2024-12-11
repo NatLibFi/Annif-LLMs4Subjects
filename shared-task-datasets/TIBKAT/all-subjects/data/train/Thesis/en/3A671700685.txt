@@ -1,2 +1,0 @@
-Population-based runtime optimisation in static and dynamic environments
-Organic computing, population-based optimisation, static and dynamic fitness landscapes. - Populationsbasierte Optimierung, statische und dynamische Fitnesslandschaften

@@ -1,2 +1,0 @@
-The Axiom of Constructibility: A Guide for the Mathematician
-Four famous problems -- What is set theory? -- The axiom of constructibility -- Applications of V=L in mathematics -- A problem in measure theory.

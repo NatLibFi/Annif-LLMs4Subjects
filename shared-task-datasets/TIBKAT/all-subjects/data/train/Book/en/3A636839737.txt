@@ -1,2 +1,0 @@
-Smashing WordPress themes : making WordPress beautiful
-A guide to WorldPress themes provides information on such topics as using the default Twenty Ten themes, working with template tags, creating option pages, using child themes, building a newspaper or magazine theme, and integrating loop tricks into themes

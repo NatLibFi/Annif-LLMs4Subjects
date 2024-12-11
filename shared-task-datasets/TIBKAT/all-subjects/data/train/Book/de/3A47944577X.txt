@@ -1,2 +1,0 @@
-Management der Software-Entwicklung : Projektkompass für die Erstellung von leistungsfähigen IT-Systemen
-Leitfaden für IT-Projekte - Geschäftsanalyse und Projektidentifikation - Anforderungsanalyse und Systemkonzept - Systemdesign und Umsetzung - Systemabnahme und Einführung - Betrieb von IT-Systemen - Qualitätsmanagement und Testen - Projektmanagement und Erfolgsfaktoren von IT-Projekten

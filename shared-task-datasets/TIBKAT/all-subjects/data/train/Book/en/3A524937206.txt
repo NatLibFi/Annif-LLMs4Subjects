@@ -1,2 +1,0 @@
-Rigorous Quantum Field Theory : A Festschrift for Jacques Bros
-Presents understanding of rigorous quantum field theory through numerous fundamental contributions. This work features topics that include: analytic structures of QFT, renormalization group methods, gauge QFT, stability properties and extension of the axiomatic framework, and QFT on noncommutative Minkowski spacetime

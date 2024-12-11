@@ -1,2 +1,0 @@
-Multi-mode ground state cooling of trapped ions
-Clocks, laser stabilization, transfer-lock, ground state cooling, multimode ground state cooling, EIT cooling, double-bright EIT cooling. - Uhren, Laserstabilisierung, Transferstabilisierung, Grundzustandskühlen, Multimodenkühlen, EIT Kühlen, Doppel EIT Kühlen

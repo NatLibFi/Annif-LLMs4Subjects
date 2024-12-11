@@ -1,2 +1,0 @@
-Robust optimization
-Robust optimization is a fairly new approach to optimization problems affected by uncertainty, but it has already proved so useful in real applications that it is difficult to tackle such problems today without considering this powerful methodology. The authors are the principal developers of robust optimization

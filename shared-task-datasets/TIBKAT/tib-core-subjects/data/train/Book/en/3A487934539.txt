@@ -1,2 +1,0 @@
-Polymer particles
-1 K.A. Kennedy, G.W. Roberts, J.M. DeSimone: Heterogeneous Polymerization of Fluoroolefins in Supercritical Carbon Dioxide.- 2 F.J. Schork, Y. Luo, W. Smulders, J.P. Russum, A. Butté, K. Fontenot: Miniemulsion Polymerization.- 3 M. Nomura, H. Tobita, K. Suzuki: Emulsion Polymerization: Kinetic and Mechanistic Aspects.- 4 P.Y. Chow, L.M. Gan: Microemulsion Polymerizations and Reactions.- 5 S. Kawaguchi, K. Ito: Dispersion Polymerization

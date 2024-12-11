@@ -1,2 +1,0 @@
-Introduction to quantum graphs
-Operators on graphs : quantum graphs -- Quantum graph operators : special topics -- Spectra of quantum graphs -- Spectra of periodic graphs -- Spectra of quantum graphs : special topics -- Quantum chaos on graphs -- Some applications and generalizations -- Appendix A : some notions of graph theory -- Appendix B : linear operators and operator-functions -- Appendix C : structure of spectra -- Appendix D : symplectic geometry and extension theory

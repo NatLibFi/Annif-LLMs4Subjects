@@ -1,2 +1,0 @@
-Ein mechanisch basiertes Dehnungsmodell für ermüdungsbeanspruchten Beton
-Beton, Ermüdungsbeanspruchung, Dehnungsentwicklung, additives Dehnungsmodell, kriechaffines Spannungsniveau. - Concrete, fatigue loading, strain development, additive strain model, creep-relevant load level

@@ -1,2 +1,0 @@
-Statistische Auswertung von Microarray-Daten
-Microarray, Chip-Experiment, Auswertung, Within-Array-Normalisierung, multiple scans. - Analysis, within-array-normalisation

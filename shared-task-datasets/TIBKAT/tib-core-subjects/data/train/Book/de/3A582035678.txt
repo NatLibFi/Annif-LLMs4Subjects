@@ -1,2 +1,0 @@
-MATLAB 7 für Ingenieure : Grundlagen und Programmierbeispiele
-Einstiegskurs für Ingenieure in ein Softwaretool für mathematische Problemstellungen und deren Visualisierung. Enthält zahlreiche Beispiele und verzichtet bewusst auf dieDarstellung spezieller Aspekte. Ist inzwischen auf die verbesserte Version 7.6 ausgerichtet, wurde ausserdem von Fehlern bereinigt. Ein Ersatz der alten Ausgabe 2004 (ID 50/04) ist noch nicht notwendig, ein zusätzlicher Kauf der aktuellen Ausgabe wird empfohlen. (3)

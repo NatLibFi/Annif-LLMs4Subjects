@@ -1,2 +1,0 @@
-CakePHP 1.3 application development cookbook : over 60 great recipes for developing, maintaining, and deploying web applications
-Authentication -- Model bindings -- Pushing the search -- Validation behaviors -- Datasources -- Routing magic -- Creating and consuming web services -- Working with shells -- Internationalizing applications -- Testing -- Utility classes and tools. - "The recipes in this book give you instant results and will help you develop web applications, leveraging the CakePHP features that allow you to build robust and complex applications"--p. [1]

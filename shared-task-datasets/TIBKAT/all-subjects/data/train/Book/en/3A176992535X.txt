@@ -1,2 +1,0 @@
-Methods in computational science
-"This book provides an introduction to computational science through a set of methods and algorithms in the field, with the aim to give the reader both a familiarity with the theoretical foundations as well as practical skills to use and develop computational methods"--

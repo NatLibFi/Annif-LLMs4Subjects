@@ -1,2 +1,0 @@
-Interactive web-based virtual reality with Java 3D
-"This book provides both advanced and novice programmers with comprehensive, detailed coverage of all of the important issues in Java 3D"--Provided by publisher

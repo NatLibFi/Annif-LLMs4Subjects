@@ -1,2 +1,0 @@
-Big data transportation systems
-"This book is designed as a popular science book on Big Data Analytics in Intelligent Transportation Systems. It aims to provide an introduction to big-data transportation. Starting from an overview on the development of big data Transportation in various countries, followed by the Strategy Blueprint of Big-data Transportation, which include innovative models; planning, transportation logistics , and application case studies. Finally, the book discusses applications of big-data transportation platform"--

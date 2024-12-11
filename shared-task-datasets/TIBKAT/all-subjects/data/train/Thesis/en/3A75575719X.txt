@@ -1,2 +1,0 @@
-Herstellung und Charakterisierung von (Ba,Sr)O basierten MOS Dioden und ultradünnen Isolatorfilmen auf Si(001)
-BaO, SrO, Ba0.7Sr0.3O, Isolatorepitaxie, high-K Oxide, Temperaturstabilität, Silikate, MOS Dioden, I-V, C-V, XPS, EELS, Grenzflächenzustandsdichte. - Epitaxy of insulators, high-K oxides, temperature stability, silicates, MOS diodes, interface density of states

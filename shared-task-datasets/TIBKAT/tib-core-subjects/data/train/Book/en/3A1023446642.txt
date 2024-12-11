@@ -1,3 +1,0 @@
-The economic growth engine : how energy and work drive material prosperity
-1. Background -- ch. 2. Technical progress -- ch. 3. Industrial metabolism : mass/energy flows -- ch. 4. Exergy conversion to useful work -- ch. 5. Economic growth theories -- ch. 6. The production function approach. -- ch. 7. Numerical results for the US and Japan -- ch. 8. Growth forecasting -- ch. 9. Economic growth and development : towards a catch-up model (simplified REXSF model) -- ch. 10. Conclusions, implications and caveats
-The historic link between output (GDP) growth and employment has weakened. Since there is no quantitively verifiable economic theory to explain past growth, this unique book explores the fundamental relationship between thermodynamics (physical work) and economics

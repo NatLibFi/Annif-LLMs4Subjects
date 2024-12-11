@@ -1,2 +1,0 @@
-Oracle Database 12c SQL : [Master SQL and PL/SQL]
-"This Oracle Press guide shows you how to retrieve and modify database information, use SQL Plus and SQL Developer, work with database objects, write PL/SQL programs, and much more. In-depth coverage of the latest SQL features and tools, performance optimization techniques, advanced queries, Java support, and XML is included.  Carefully revised to cover SQL Plus, SQL Developer, and more "--

@@ -1,2 +1,0 @@
-Narrow-gap semiconductor photodiodes
-In this monograph, investigations of the performance of narrow-gap semiconductor photodiodes are presented, and recent progress in different IR photodiode technologies is discussed: HgCdTe photodiodes, InSb photodiodes, alternatives to HgCdTe III-V and II-VI ternary alloy photodiodes, lead chalcogenide photodiodes, and a new class of photodiodes based on two-dimensional solids. Investigations of the performance of photodiodes operated in different spectral regions are presented

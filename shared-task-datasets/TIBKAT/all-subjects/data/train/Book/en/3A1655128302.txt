@@ -1,2 +1,0 @@
-Maximum Probability Estimators and Related Topics
-Purpose of this monograph -- The maximum likelihood estimator -- The maximum probability estimator -- Maximum probability estimators with a general loss function -- Asymptotic behavior of the likelihood function. Asymptotically sufficient statistics -- Efficiency of maximum likelihood estimators -- Testing hypotheses.

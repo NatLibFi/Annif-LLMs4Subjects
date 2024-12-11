@@ -1,2 +1,0 @@
-Deploying and managing IP over WDM networks
-Annotation Although IP and WDM technologies are expected to become the dominant network technologies, they will be introduced gradually complementing and replacing current ATM and SDH network solutions. This book represents a comprehensive review and research results for the deployment and management of IP over WDM Networks with guaranteed service level agreements

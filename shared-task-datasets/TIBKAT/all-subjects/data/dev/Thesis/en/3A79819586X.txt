@@ -1,2 +1,0 @@
-Multiple object tracking with context awareness
-Multiple people tracking, linear programming, social force model. - Kamerabasierte Verfolgung, lineare Programmierung, Sozial- und Gruppenverhalten

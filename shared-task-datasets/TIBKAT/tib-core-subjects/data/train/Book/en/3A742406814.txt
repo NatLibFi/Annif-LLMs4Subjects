@@ -1,2 +1,0 @@
-The homology of Hopf spaces
-This exposition of the theory of finite Hopf spaces details the development of the subject over the last thirty years, with the homology of such spaces as its main theme. The three chief areas of study in the volume are: - The study of finite H-spaces with torsion free integral homology. - The study of finite H-spaces with homology torsion. - The construction of finite H-spaces

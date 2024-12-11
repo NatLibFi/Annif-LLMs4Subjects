@@ -1,2 +1,0 @@
-Generalized quantum mean-field systems and their application to ultracold atoms
-Ultracold atoms, quantum mean-field systems, dissipative quantum systems, finite size corrections. - Ultrakalte Atome, Quanten Mean-Field Systeme, dissipative Quantensysteme, Korrekturen aufgrund endlicher Systemgröße

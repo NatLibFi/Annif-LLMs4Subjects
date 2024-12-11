@@ -1,2 +1,0 @@
-Navigation signal processing for GNSS software receivers
-1. Radio navigation signals -- 2. Software-defined radio -- 3. GNSS receiver structure and dataflow -- 4. Signal estimation -- 5. Signal detection -- 6. Sample preprocessing -- 7. Correlators -- 8. Discriminators -- 9. Receiver core operations -- 10. GNSS SDR RTK system concept -- 11. Exemplary source code

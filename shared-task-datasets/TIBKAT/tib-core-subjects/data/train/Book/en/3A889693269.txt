@@ -1,2 +1,0 @@
-Advanced analysis of variance
-Introduction to design and analysis of experiments -- Estimation theory -- Basic test theory -- Multiple decision processes and accompanying confidence region -- Two-sample problem -- One-way layout, normal model -- Onw-way layout, binomial populations -- Poisson process -- Block experiments -- Two-way layout, normal model -- Analysis of two-way categorical data -- Mixed and random effects model -- Profile analysis of repeated measurements -- Analysis of three-way categorical data -- Design and analysis of experiments by orthogonal arrays

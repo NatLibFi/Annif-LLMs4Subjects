@@ -1,2 +1,0 @@
-Prototyping interfaces : interaktives Skizzieren mit vvvv
-Interaktionsgestaltung -- Interaktionsdesign -- Interaction Design -- Programmiersprache v4 -  Arduino -- Sensoren -- Tracking -- Multiscreen - Methode, Werkzeug, Kreativität

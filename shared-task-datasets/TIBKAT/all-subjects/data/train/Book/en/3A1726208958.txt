@@ -1,2 +1,0 @@
-Offshore semi-submersible platform engineering
-"Offshore Semi-Submersible Platform Engineering presents a primer to analysis and design of semi-submersibles in particular while covering general analysis and design guidelines of offshore compliant platforms. It introduces general geometric design of complaint offshore platforms, covering details of various environmental loads acting on them"--

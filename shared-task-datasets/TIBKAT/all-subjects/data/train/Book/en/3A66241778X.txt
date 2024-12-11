@@ -1,2 +1,0 @@
-An introduction to category theory
-"As it says on the front cover this book is an introduction to Category Theory. It gives the basic definitions, goes through the various associated gadgetry such as functors, natural transformations, limits and colimits, and then explains adjunctions. This material could be developed in 50 pages or so, but here it takes some 220 pages. That is because there are many examples illustrating the various notions, some rather straightforward, and others with more content. More importantly, there are also over 200 exercises"--

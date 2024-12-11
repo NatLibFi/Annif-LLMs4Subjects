@@ -1,2 +1,0 @@
-Privacy preserving content analysis, indexing and retrieval for social search applications
-Privacy preserving content indexing, scalable content diversity analysis, privacy oriented content analysis. - Datenschutz bei Indizierung und Suche, skalierbare Analyse der Themenvielfalt, automatische Unterstützung bei Datenschutzeinstellungen

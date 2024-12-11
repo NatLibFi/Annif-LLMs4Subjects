@@ -1,2 +1,0 @@
-Chaos: Concepts, Control and Constructive Use
-Takes the reader through the basics of chaos control by detailing relevant algorithms for both Hamiltonian and dissipative systems amongst others. This work focuses on the issue of synchronization in chaotic systems. It offers an introduction to stochastic resonance and a survey of ratchet models

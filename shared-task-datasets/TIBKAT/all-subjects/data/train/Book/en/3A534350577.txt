@@ -1,2 +1,0 @@
-Architecture solutions for e-learning systems
-"This book provides fundamental research on the architecture of learning technology systems, discussing such issues as the common structures in LTS and solutions for specific forms such as knowledge-based, distributed, or adaptive applications of e-learning. Researchers, and scholars in the fields of learning content software development, computing and educational technologies, and e-learning will find it an invaluable resource"--Provided by publisher

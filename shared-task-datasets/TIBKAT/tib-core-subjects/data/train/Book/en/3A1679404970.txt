@@ -1,3 +1,0 @@
-Complex variables and analytic functions : an illustrated introduction
-Complex numbers -- Functions of a complex variable -- Analytic continuation -- Introduction to complex integration -- Residue calculus -- Gamma, zeta, and related functions -- Elliptic functions -- Conformal mappings -- Transforms -- Wiener-Hopf and Riemann-Hilbert methods -- Special functions defined by ODEs -- Steepest descent for approximating integrals.
-"This book is the first primary introductory textbook on complex variables and analytic functions to use predominantly functional illustrations"--

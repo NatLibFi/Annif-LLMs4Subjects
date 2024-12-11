@@ -1,2 +1,0 @@
-Complete ABAP
-"Whether you're new to ABAP, or you've been developing for years, this is the resource for you. Build your foundation with basic programming concepts and tools, then take it to the next level with modifications and enhancements for your ABAP code. Design reports and screens, develop applications using dialog programming, create interfaces, and more. Your ultimate reference guide to the world of ABAP is here!"--

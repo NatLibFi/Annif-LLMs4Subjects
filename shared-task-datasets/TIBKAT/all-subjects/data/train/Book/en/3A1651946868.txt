@@ -1,2 +1,0 @@
-Practical database programming with Visual C# .NET
-Front Matter -- Introduction -- Introduction to Databases -- Introduction to ADO.NET -- Introduction to Language-Integrated Query (LINQ) -- Data Selection Query with Visual C#.NET -- Data Inserting with Visual C#.NET -- Data Updating and Deleting with Visual C#.NET -- Accessing Data in ASP.NET -- ASP.NET Web Services -- Index -- About the Author

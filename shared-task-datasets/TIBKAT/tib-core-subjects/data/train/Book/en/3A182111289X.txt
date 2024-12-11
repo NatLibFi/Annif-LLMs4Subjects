@@ -1,2 +1,0 @@
-Beyond the basic stuff with Python : best practices for writing clean code
-"A guide for programmers who already are familiar with the Python programming language that explains how to make code more understandable to other programmers, addresses Python conventions and best practices, and teaches how to use object-oriented programming strategies"--

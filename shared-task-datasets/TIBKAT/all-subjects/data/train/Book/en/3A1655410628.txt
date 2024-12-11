@@ -1,2 +1,0 @@
-Advanced Analysis : on the Real Line
-- < f is increasing. The latter part of the book deals with functions of bounded variation and approximately continuous functions. Finally there is an exhaustive chapter on the generalized Cantor sets and Cantor functions. The bibliography is extensive and a great variety of exercises serves to clarify and sometimes extend the results presented in the text

@@ -1,2 +1,0 @@
-Coal handbook
-Coal structure / Robert A. Meyers -- Coal sampling and analysis / Gregory Gould and Jan Visman -- Underground mining / Wilhelm J. Euler -- Surface mining of coal / Gerard C. Gambs and Myles A. Walsh -- Size reduction / Ronald R. Bevan -- Coal cleaning / D.G. Williams -- Coal utilization / Ronald F. Ayers -- Coal combustion / Arthur Levy ... [et al.] -- Coal carbonization / M.O. Holowaty ... [et al.] -- Coal gasification / Bodle and Huebler -- Liquid fuels from coal / J.B. O'Hara

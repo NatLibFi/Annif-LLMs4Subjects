@@ -1,2 +1,0 @@
-Lean for systems engineering with lean enablers for systems engineering
-"The book describes the cutting-edge field of Lean for Systems Engineering and the new intellectual product Lean Enablers for Systems Engineering, LEfSE, a comprehensive checklist of 194 practices of Systems Engineering, focused on creating value without waste in large technological programs."--

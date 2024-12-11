@@ -1,2 +1,0 @@
-Handbook of optomechanical engineering
-Design of low-cost, lightweight, and stiff mirrors, design of adjustable optical mounts, finite element methods for structure and thermal analysis of optical systems, and fabrication methods for rapid low-cost prototyping.

@@ -1,2 +1,0 @@
-Hacking web apps : detecting and preventing web application security problems
-HTML5 -- HTML injection & cross-site scripting (XSS) -- Cross-site request forgery (CSRF) -- SQL injection & data store manipulation -- Breaking authentication schemes -- Abusing design deficiencies -- Leveraging platform weaknesses -- Browser & privacy attacks

@@ -1,3 +1,0 @@
-Leiterplattendesign mit EAGLE : [von der Aufgabe bis zur fertigen Leiterplatte ; eigene Bauteilbibliotheken, Autorouter und ULPs ; mit Freewareversion auf CD]
-Verlagstext: Dieses Buch vermittelt Ihnen von Grund auf die Erstellung von Leiterplatten mit Eagle und berücksichtigt dabei die drei Haupt-Module: Layout-Editor, Schaltplan-Editor und Autorouter.
-Verlagstext: Dieses Buch vermittelt Ihnen von Grund auf die Erstellung von Leiterplatten mit Eagle und berücksichtigt dabei die drei Haupt-Module: Layout-Editor, Schaltplan-Editor und Autorouter

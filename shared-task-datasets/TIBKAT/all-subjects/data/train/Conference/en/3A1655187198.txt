@@ -1,2 +1,0 @@
-Toposes, Algebraic Geometry and Logic : Dalhousie University, Halifax, January 16–19, 1971
-Sheaf theory and the continuum hypothesis -- Classifying topos -- Deductive systems and categories III. Cartesian closed categories, intuitionist propositional calculus, and combinatory logic -- The formalization of Bishop's constructive mathematics -- Continuous lattices -- Some applications of the formalism of duality in algebraic geometry -- Cotangent complex and deformations of torsors and group schemes.

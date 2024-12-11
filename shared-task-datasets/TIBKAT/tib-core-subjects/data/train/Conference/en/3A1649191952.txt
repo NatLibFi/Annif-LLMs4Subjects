@@ -1,2 +1,0 @@
-Genetic Programming : 6th European Conference, EuroGP 2003 Essex, UK, April 14–16, 2003 Proceedings
-This book constitutes the refereed proceedings of the 6th European Conference on Genetic Programming, EuroGP 2003, held in Essex, UK in April 2003. The 45 revised papers presented were carefully reviewed and selected from 61 submissions. All current aspects of genetic programming and genetic algorithms are addressed, ranging from foundational, theoretical, and methodological issues to advanced applications in various fields

@@ -1,2 +1,0 @@
-Scanning probe microscopy : electrical and electromechanical phenomena at the nanoscale
-Focuses on electrical and electromechanical characterization at the nanoscale. This comprehensive, two-volume set presents practical and theoretical issues of advanced scanning probe microscopy (SPM) techniques ranging from fundamental physical studies to device characterization, failure analysis, and nanofabrication

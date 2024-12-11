@@ -1,2 +1,0 @@
-Visual C++ 6 in 21 Tagen : der optimale Weg - Schritt für Schritt zum Programmierprofi ; die neue IDE von MS Visual Studio 6 ; Profithemen: ADO, ODBC, Internetprogrammierung
-Einführung in die Programmierung mit C++ von der Gestaltung von Anwendungsfenstern über die Erstellung von Dialogfeldern und MDI-Zeichenprogrammen bis hin zur Datenbankanwendung mit ODBC.

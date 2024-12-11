@@ -1,2 +1,0 @@
-Supply chain optimization through segmentation and analytics
-Acknowledgements -- Preface -- Introduction -- Segmentation -- What is segmentation and how does it work? -- The supply chain -- Performance measures -- Analytics and SCS -- Segmentation applied -- An example of SCS : the analysis process -- An example of SCS : the build process -- SCS execution -- SCS in your organization -- SCS key concepts -- Segmentation effects -- Change management -- Scs is wonderful -- About the author -- Index

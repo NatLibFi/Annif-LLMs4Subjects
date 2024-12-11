@@ -1,2 +1,0 @@
-Mechatronische Systeme : Modellbildung und Simulation mit MATLAB/SIMULINK
-Das Buch zeigt, wie man mit dem Modellierungs- und Simulationsprogramm MATLAB/SIMULINK Modelle von mechatronischen Systemen erstellt und deren Verhalten simuliert. Exemplarisch werden Automotive Systeme sowie unter anderem ein Pedelec-Antrieb, eine Quadrocopter-Regelung und eine Kleinsatellitenausrichtung betrachtet. Ausserdem werden ereignisdiskrete Systeme mit Verknüpfungs- und Ablaufsteuerungen behandelt, wie zum Beispiel eine Robotersteuerung, eine Fahrstuhlsteuerung und eine Rolltreppensteuerung

@@ -1,2 +1,0 @@
-User interface design for virtual environments : challenges and advances
-"This book focuses on challenges that designers face in creating interfaces for users of various virtual environments, including coverage of various critical issues that have implications for user interface design from a number of different viewpoints"--Provided by publisher

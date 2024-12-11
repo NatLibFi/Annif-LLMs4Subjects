@@ -1,2 +1,0 @@
-Biochemical thermodynamics : applications of Mathematica
-Accompanying CD-ROM contains the full text, as well as macros that help scientists and engineers solve their particular problems

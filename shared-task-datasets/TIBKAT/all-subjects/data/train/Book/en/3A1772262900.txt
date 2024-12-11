@@ -1,2 +1,0 @@
-Grokking simplicity : taming complex software with functional thinking
-The book also teaches you to solve the complex timing bugs that inevitably creep into asynchronous and multithreaded code. In ad­vanced sections of the book you learn how composable abstractions help avoid repeating code and open up new levels of expressivity.

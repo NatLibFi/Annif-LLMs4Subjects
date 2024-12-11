@@ -1,2 +1,0 @@
-Entwicklung eines modularen Gestensteuerungssystems
-Gestensteuerung, Bewegungserfassung, Echtzeit, Modularität. - Gesture control, motion detection, real-time, modularity

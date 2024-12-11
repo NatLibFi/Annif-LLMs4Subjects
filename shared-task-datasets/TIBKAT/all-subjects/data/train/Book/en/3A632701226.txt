@@ -1,2 +1,0 @@
-Theory of rank links : modeling of recognition processes
-Introduction -- Realization location in feature space -- Rank links -- Clusterization by rank links -- Compactness -- Decision making by rank links -- Formation of standard descriptions -- Feature estimation-selection -- Estimation of recognition process reliability by clusterization results -- Experimental research

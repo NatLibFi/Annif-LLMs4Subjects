@@ -1,2 +1,0 @@
-Biological Evolution and Statistical Physics
-This set of lecture notes gives a first coherent account of a novel aspect of the living world that can be called biological information. The book presents both a pedagogical and state-of-the art roadmap of this rapidly evolving area and covers the whole field, from information which is encoded in the molecular genetic code to the description of large-scale evolution of complex species networks. The book will prove useful for all those who work at the interface of biology, physics and information science

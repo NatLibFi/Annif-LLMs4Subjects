@@ -1,2 +1,0 @@
-Handbook of research on multi-agent systems : semantics and dynamics of organizational models
-"This book provide a comprehensive view of current developments in agent organizations as a paradigm for both the modeling of human organizations, and for designing effective artificial organizations"--Provided by publisher

@@ -1,2 +1,0 @@
-Deploying next generation multicast-enabled applications : label switched multicast for MPLS VPNs, VPLS, and wholesale Ethernet
-"Provides detailed information on existing Multicast and MVPN standards, referred to as Next-Generation Multicast based standards, Multicast Applications, and case studies with detailed configurations"--Provided by publisher

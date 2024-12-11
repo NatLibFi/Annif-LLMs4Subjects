@@ -1,2 +1,0 @@
-Arbeitsbuch zu Tipler/Mosca Physik für Wissenschaftler und Ingenieure
-Dieses Arbeitsbuch zum physikalischen Problemlösen bietet anwendungsorientiert und nah an der experimentellen Praxis vielfältige Aufgaben zum Kennenlernen, Ausprobieren und Einüben des elementaren mathematischen und physikalischen Handwerkszeugs. Für alle Aufgaben werden schrittweise die Lösungen angeboten

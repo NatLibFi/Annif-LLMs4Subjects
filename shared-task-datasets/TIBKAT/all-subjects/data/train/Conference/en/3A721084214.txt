@@ -1,2 +1,0 @@
-Contributions to algebraic geometry : Impanga lecture notes
-The articles in this volume cover a broad range of topics in algebraic geometry: classical varieties, linear system, birational geometry, Minimal Model Program, moduli spaces, toric varieties, enumerative theory of singularities, equivariant cohomology and arithmetic questions

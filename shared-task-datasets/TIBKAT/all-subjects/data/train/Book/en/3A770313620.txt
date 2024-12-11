@@ -1,2 +1,0 @@
-A concise introduction to data structures using Java
-"Designed for a CS2 data structures course, this text provides a thorough but concise overview of data structures as well as a gradual introduction to Java. It uses a concise style and includes pseudocode and exercises throughout so that students learn how to write code, rather than just read it. The book covers all of the main areas taught in CS2 courses, including arrays, lists, stacks, queues, recursion, maps, and trees"--

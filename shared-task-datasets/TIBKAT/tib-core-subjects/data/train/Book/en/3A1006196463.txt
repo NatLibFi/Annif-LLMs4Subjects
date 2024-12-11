@@ -1,2 +1,0 @@
-An introduction to the atomic and radiation physics of plasmas
-Plasma and atomic physics -- The propagation of light -- Scattering -- Radiation emission in plasmas -- Radiation emission involving free electrons -- Opacity -- Discrete bound quantum states: hydrogen and hydrogen-like ions -- Discrete bound states: many-electron atoms and ions -- Discrete bound states: molecules -- Radiative transitions between discrete quantum states -- Collisions -- Collisional-radiative models -- High density plasmas

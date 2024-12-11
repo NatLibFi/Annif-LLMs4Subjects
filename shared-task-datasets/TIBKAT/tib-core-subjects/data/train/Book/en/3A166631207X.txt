@@ -1,2 +1,0 @@
-A beginner's guide to image preprocessing techniques
-Perspective of image preprocessing on image processing -- Pixel brightness transformation techniques -- Geometric transformation techniques -- Filtering techniques -- Segmentation techniques -- Mathematical morphology techniques -- Other applications of image preprocessing -- Index.

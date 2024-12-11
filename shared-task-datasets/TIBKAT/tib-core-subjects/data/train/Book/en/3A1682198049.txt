@@ -1,2 +1,0 @@
-Black Hat Go : Go programming for hackers and pentesters
-"A guide to Go that begins by introducing fundamentals like data types, control structures, and error handling. Provides instruction on how to use Go for tasks such as sniffing and processing packets, creating HTTP clients, and writing exploits."--

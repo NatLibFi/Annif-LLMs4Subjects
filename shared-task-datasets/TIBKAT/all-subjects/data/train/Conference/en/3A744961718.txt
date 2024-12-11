@@ -1,2 +1,0 @@
-Optimization and Stability Problems in Continuum Mechanics : Lectures Presented at the Symposium on Optimization and Stability Problems in Continuum Mechanics Los Angeles, California, August 24, 1971
-The method of Dubovitskii-Milyutin in mathematical programming -- Optimum design of structures through variational principles -- Optimization problems in hydrofoil propulsion -- Stability theory for general dynamical systems and some applications -- Stability of dissipative systems with applications to fluids and magnetofluids

@@ -1,2 +1,0 @@
-Introduction to instrumentation, sensors and process control
-This clear, easy-to-comprehend resource offers a state-of-art treatment of the instrumentation, sensors and process control used in modern manufacturing. The book covers a wide range of technologies and techniques, fully explaining important related terminology. You learn how to use microprocessors for both analog and digital process control, as well as signal conditioning. Additionally, you gain a thorough understanding of the various types of valves and actuators used for flow control

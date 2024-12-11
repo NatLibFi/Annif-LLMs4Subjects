@@ -1,2 +1,0 @@
-JavaScript : die universelle Sprache zur Web-Programmierung
-Das Einsteigerwerk zu JavaScript vermittelt Basiswissen für die clientseitige Webprogrammierung. Besonders berücksichtigt werden die neuen Spracheigenschaften und Aspekte von HTML5 und DOM5

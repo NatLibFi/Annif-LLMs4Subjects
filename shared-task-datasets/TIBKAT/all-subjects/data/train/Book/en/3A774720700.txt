@@ -1,2 +1,0 @@
-Innovative techniques and applications of entity resolution
-"This book draws upon interdisciplinary research on tools, techniques, and applications of entity resolution and provides a detailed analysis of entity resolution applied to various types of data as well as appropriate techniques and applications"--

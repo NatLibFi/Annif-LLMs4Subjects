@@ -1,2 +1,0 @@
-GitLab Cookbook : over 60 hands-on recipes to efficiently self-host your own Git repository using GitLab
-This book is aimed at developers and devops that have a GitLab server running, and want to be sure they use it to its full potential. This book will also be useful for people looking for a great Git platform, and learn how to set it up successfully. Some system administrating experience on a UNIX-based system would be useful, but is not required

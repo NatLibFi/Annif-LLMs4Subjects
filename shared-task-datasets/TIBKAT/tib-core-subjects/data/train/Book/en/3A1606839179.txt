@@ -1,2 +1,0 @@
-Microsoft Office Access 2010 : introductory
-This introductory textbook presents the use of Microsoft Office Access 2010. It covers databases, tables, the datasheet, sorting and manipulating tables, import/export, queries, reports, forms, and macros. Microsoft Access is a relational database management system that is able to create and maintain a digital system intended to organize, store, and retrieve large amounts of data easily

@@ -1,2 +1,0 @@
-Handbook of research on human-computer interfaces, developments, and applications
-"This book concentrates on Human Computer Interfaces, focusing mainly on the Interaction, and state of the art applications, research and trends, having in mind three major sub-areas--gesture interaction, augmented reality, and assistive technologies"--

@@ -1,2 +1,0 @@
-Nanoscale transistors : device physics, modeling and simulation
-Nanoscale MOSFET engineering is governed by techniques originally developed to treat microscale devices. This reference presents an understanding of device physics at the nano or molecular scale to push MOSFETs to their limits and to explore devices that may complement or even supplant them

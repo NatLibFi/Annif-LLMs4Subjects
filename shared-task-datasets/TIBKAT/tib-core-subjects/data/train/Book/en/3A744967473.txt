@@ -1,2 +1,0 @@
-Time Series and Linear Systems
-Time series and stochastic models -- Linear errors-in-variables models -- A new class of dynamic models for stationary time series -- Predictive and nonpredictive minimum description length principles -- Deterministic and stochastic linear periodic systems -- Numerical problems in linear system theory -- Some recent developments in econometrics.

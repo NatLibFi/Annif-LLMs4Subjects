@@ -1,2 +1,0 @@
-Hochfrequenztechnik : Elektronik und Signalverarbeitung
-Der nunmehr in der fünften Auflage vorliegende zweite Band dieses Standardwerks behandelt Elektronik und Signalverarbeitung in der Hochfrequenztechnik unter Berücksichtigung neuerer Transistorentwicklungen mit Verbindungshalbleitern sowie analoger und digitaler integrierter Schaltungen. Dieses Lehrbuch wendet sich an Studenten der Elektrotechnik Informatik und Physik an Technischen Universitäten und Fachhochschulen sowie an Ingenieure der Nachrichten- und Regelungstechnik in der Praxis

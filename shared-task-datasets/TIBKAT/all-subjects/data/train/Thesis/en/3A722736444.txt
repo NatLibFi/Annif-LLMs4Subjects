@@ -1,2 +1,0 @@
-Instruments and methods for the radio detection of high energy cosmic rays
-Cosmic Rays -- Radio Experiments for Air Shower Detection -- Time Calibration of LOPES -- A Reference Beacon for the Auger Engineering Radio Array -- Treatment of Noise -- Lateral Distribution -- Pulse Arrival Time Distributions

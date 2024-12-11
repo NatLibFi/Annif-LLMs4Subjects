@@ -1,2 +1,0 @@
-Inverse scattering theory and transmission eigenvalues
-Preface -- 1. Inverse scattering theory -- 2. The determination of the support of inhomogeneous media -- 3. The interior transmission problem -- 4. The existence of transmission eigenvalues -- 5. Inverse spectral problems for transmission eigenvalues

@@ -1,2 +1,0 @@
-First-order methods in optimization
-Vector spaces -- Extended real-value functions -- Subgradients -- Conjugate functions -- Smoothness and strong convexity -- The proximal operator -- Spectral functions -- Primal and dual projected subgradient methods -- Mirror descent -- The proximal gradient method -- The block proximal gradient method -- Dual-based proximal gradient methods -- The generalized Conditional gradient method -- Alternating minimization -- ADMM

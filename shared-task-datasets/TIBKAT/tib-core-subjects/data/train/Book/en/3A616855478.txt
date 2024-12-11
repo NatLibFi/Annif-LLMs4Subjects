@@ -1,2 +1,0 @@
-Web services research for emerging applications : discoveries and trends
-"This book provides a comprehensive assessment of the latest developments in Web services research, focusing on composing and coordinating Web services, XML security, and service oriented architecture, and presenting new and emerging research in the Web services discipline"--Provided by publisher

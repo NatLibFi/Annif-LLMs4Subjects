@@ -1,2 +1,0 @@
-Advances in biological solid-state NMR : proteins and membrane-active peptides
-The complexity and heterogeneity of biological systems has posed an immense challenge in recent years. An increasingly important tool for obtaining molecular and atomic scale information on a range of large biological molecules and cellular components is solid-state NMR. This technique can address fascinating problems in structural biology, including the arrangement of supramolecular complexes and fibril formation in relation to molecular folding, misfolding and aggregation

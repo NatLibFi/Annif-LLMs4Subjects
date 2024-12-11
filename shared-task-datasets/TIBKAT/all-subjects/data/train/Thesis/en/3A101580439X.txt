@@ -1,2 +1,0 @@
-Essays on robust long memory inference
-Long memory, robust statistics, locally stationary processes. - Langes Gedächtnis, robuste Statistik, lokal stationäre Prozesse

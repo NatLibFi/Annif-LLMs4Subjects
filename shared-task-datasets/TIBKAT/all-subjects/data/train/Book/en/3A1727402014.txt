@@ -1,2 +1,0 @@
-Introduction to computation and programming using Python : with application to computational modeling and understanding data
-"Introduces students with little or no programming experience to computational problem solving using Python and various Python libraries"--

@@ -1,2 +1,0 @@
-Oscillator Representation in Quantum Physics
-This book describes in detail the oscillator representation method and its application to an approximate solution of the Schrödinger equation with an appropriate interaction Hamiltonian. The method also works well in quantum field theory in the strong coupling regime in calculations of path integrals, as explained by the authors. Furthermore, spectral problems in quantum mechanics are treated. The book addresses students as well as researchers in quantum physics, quantum field theory, and nuclear and molecular physics

@@ -1,2 +1,0 @@
-Einführung in das Design multimedialer Webanwendungen
-Diese Publikation bietet einen fundierten Einstieg in die Themen multimediale Anwendungen, Webapplikationen, Web 2.0 und verwandte Bereiche. Die projektorientierte Vorgehensweise mit vielen Beispielen und ausführlichen Erläuterungen führt Sie Schritt für Schritt von der ersten Idee bis hin zur Fähigkeit, qualitativ hochwertige Produktionen zu entwerfen und den Entwicklungsprozess zu managen.

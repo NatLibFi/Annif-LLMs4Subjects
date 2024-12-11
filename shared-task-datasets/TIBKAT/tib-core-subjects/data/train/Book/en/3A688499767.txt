@@ -1,2 +1,0 @@
-Multidisciplinary computational intelligence techniques : applications in business, engineering, and medicine
-"This book explores the complex world of computational intelligence, which utilizes computational methodologies such as fuzzy logic systems, neural networks, and evolutionary computation for the purpose of managing and using data effectively to address complicated real-world problems"--

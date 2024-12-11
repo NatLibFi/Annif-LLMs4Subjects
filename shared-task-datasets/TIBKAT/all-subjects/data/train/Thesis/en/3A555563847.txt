@@ -1,2 +1,0 @@
-Simulationsbasierte Frühwarnsysteme zur Unterstützung der operativen Produktionssteuerung und -planung in der Automobilindustrie
-Material flow simulation, Simulation-based Early Warning System, Discrete Event Simulation, Production Planning and Control, Automotive Industry, Forecast of Future System States, Monitoring Systems

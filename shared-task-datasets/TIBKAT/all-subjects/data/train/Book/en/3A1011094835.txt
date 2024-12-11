@@ -1,2 +1,0 @@
-Functional analysis
-Introduction -- Foundations -- Principles of functional analysis -- The weak and weak* topologies -- Fredholm theory -- Spectral theory -- Unbounded operators -- Semigroups of operators

@@ -1,2 +1,0 @@
-3D modeling in Silo : the official guide
-Machine generated contents note: Introduction; Subdivision Surfaces; Modeling Techniques; Introducing Silo; Character Preproduction; Basic Kila; Fleshing Out Kila; Dressing Kila; Tecture Preparation; Texture Painting; Final Pose and Render; Appendix A: Sculpting in Silo; Appendix B: Reference

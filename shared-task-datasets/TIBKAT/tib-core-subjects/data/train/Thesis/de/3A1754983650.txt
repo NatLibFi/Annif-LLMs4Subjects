@@ -1,2 +1,0 @@
-Regelung von Offshore-Windparks mit Dioden-Gleichrichter-HGÜ in einem synthetischen Referenzsystem
-Die Arbeit beschreibt ein Regelungsverfahren für Windenergieanlagen in Offshore-Windparks mit Diodengleichrichter-HGÜ. Die konventionelle Synchronisation auf die lokale Netzspannung wird dabei durch die Vorgabe eines externen Synchronisationssignals ersetzt. Alle netzseitigen Umrichter des Offshore-Inselnetzes werden somit stromgeregelt in einem gemeinsamen synthetischen Referenzsystem betrieben.<ger>

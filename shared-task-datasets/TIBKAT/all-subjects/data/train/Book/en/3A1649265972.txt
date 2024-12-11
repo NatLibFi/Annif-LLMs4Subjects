@@ -1,2 +1,0 @@
-On-line Error Detection and Fast Recover Techniques for Dependable Embedded Processors
-This book presents a new approach to on-line observation and concurrent checking of processors by refining and improving known techniques and introducing new ideas. The proposed on-line error detection and fast recover techniques support and complement other established methods. In combination with other on-line observation priniciples and with a combined hardware-software test, these techniques are used to fulfill a complete self-check scheme for an embedded processor

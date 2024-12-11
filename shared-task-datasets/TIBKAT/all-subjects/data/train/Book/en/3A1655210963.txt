@@ -1,2 +1,0 @@
-Frobenius Distributions in GL2-Extensions : Distribution of Frobenius Automorphisms in GL2-Extensions of the Rational Numbers
-Supersingular and fixed trace distribution -- Imaginary quadratic distribution -- Special computations -- Numerical results.

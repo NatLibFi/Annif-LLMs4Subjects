@@ -1,2 +1,0 @@
-Moral machines : teaching robots right from wrong
-Why machine morality? -- Engineering morality -- Do we want computers making moral decisions? -- Can (ro)bots really be moral? -- Philosophers, engineers, and the design of artificial moral agents -- Top down morality -- Bottom-up and developmental approaches -- Merging top down and bottom up -- Beyond vaporware? -- Beyond reason -- A more human-like AMA -- Dangers, rights, and responsibilities

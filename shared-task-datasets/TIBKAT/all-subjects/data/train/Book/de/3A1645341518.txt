@@ -1,2 +1,0 @@
-Software-Entwurf mit UML 2 : Objektorientierte Modellierung mit Beispielen in Java
-Das Buch macht die UML 2 beherrschbar. Es führt in die objektorientierte Modellierung mit den wichtigsten UML 2-Diagrammen ein und liefert eine kompakte Darstellung des Sprachumfangs. Schwerpunkt ist die schrittweise Verfeinerung des Modells bis hin zur Implementierung als Java-Programm. Jede Entwurfsphase wird mit einem Anwendungsbeispiel veranschaulicht

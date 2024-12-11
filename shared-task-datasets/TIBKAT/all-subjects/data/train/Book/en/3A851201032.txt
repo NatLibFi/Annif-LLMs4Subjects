@@ -1,2 +1,0 @@
-Decentralized applications : harnessing Bitcoin's blockchain technology
-This book explains why dapps (decentralized applications) will become more widely used and profitable in the future and shows how to use existing tools to create a working dapp

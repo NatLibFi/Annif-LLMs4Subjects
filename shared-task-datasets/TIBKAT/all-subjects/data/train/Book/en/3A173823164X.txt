@@ -1,2 +1,0 @@
-Microgrids for Rural Areas : Research and Case Studies
-This book focuses on the challenges of rural electrification, particularly in poorer regions. It covers low voltage DC distribution system for various applications including charging of electric vehicles (EV)

@@ -1,2 +1,0 @@
-Wahrscheinlichkeitstheorie
-Aus dem Vorwort: Dieses Buch beginnt mit einer Einführung in die maßtheoretische Seite der Wahrscheinlichkeitsrechnung. Der Hauptteil behandelt kombinatorische Fragestellungen.

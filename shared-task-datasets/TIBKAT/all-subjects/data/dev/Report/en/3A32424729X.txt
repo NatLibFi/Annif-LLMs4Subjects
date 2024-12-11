@@ -1,2 +1,0 @@
-Forschungsvorhaben: Berliner U-Bahn, Überführung des laufenden in den automatischen Betrieb : Abschlußbericht
-Menless underground operation, data transfer train/wayside, automatic train control, station-danger area-supervision (VDV 399), diagnosis data in the control point

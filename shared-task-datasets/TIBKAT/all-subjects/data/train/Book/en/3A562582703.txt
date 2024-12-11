@@ -1,2 +1,0 @@
-Semantic knowledge management : an ontology-based framework
-"This book addresses the Semantic Web from an operative point of view using theoretical approaches, methodologies, and software applications as innovative solutions to true knowledge management"--Provided by publisher

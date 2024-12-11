@@ -1,2 +1,0 @@
-Handbook of mathematical logic
-The handbook is divided into four parts: model theory, set theory, recursion theory and proof theory. Each of the four parts begins with a short guide to the chapters that follow. Each chapter is written for non-specialists in the field in question. Mathematicians will find that this book provides them with a unique opportunity to apprise themselves of developments in areas other than their own

@@ -1,2 +1,0 @@
-Proceedings of the ASME Fluids Engineering Division : presented at the 1997 ASME International Mechanical Engineering Congress and Exposition, November 16 - 21, 1997, Dallas, Texas
-Gas liquid flows in fluid mechanics and heat transfer -- General papers in fluids engineering -- Dispersed flows in combustion, incineration and propulsion systems -- Spray systems technology -- Young engineer's papers -- Measurement techniques in multiphase flows -- Multiphase transport in porous media -- Industrial applications of parallel algorithms for CFD and heat transfer

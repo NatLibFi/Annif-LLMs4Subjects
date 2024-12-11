@@ -1,2 +1,0 @@
-Optimal Adaptive Control and Differential Games by Reinforcement Learning Principles
-The book reviews developments in the following fields: optimal adaptive control; online differential games; reinforcement learning principles; and dynamic feedback control systems

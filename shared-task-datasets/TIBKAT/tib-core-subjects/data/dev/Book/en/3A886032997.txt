@@ -1,2 +1,0 @@
-Infosec management fundamentals
-Infosec Management Fundamentals is a concise overview of the Information Security management concepts and techniques, providing a foundational template for both experienced professionals and those new to the industry. This brief volume will also appeal to business executives and managers outside of infosec who want to understand the fundamental concepts of Information Security and how it impacts their business decisions and daily activities.--

@@ -1,2 +1,0 @@
-Haag duality and Jones-Kosaki-Longo index in Kitaev's quantum double models for finite abelian groups
-Quantum double model, superselection sectors, index theory. - Quantum Double Modell, Superauswahlsektoren, Index Theorie

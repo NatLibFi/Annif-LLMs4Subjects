@@ -1,2 +1,0 @@
-Bilddatenkompression : Grundlagen, Codierung, JPEG, MPEG, Wavelets
-Dieses Buch befasst sich mit den allgemeinen Verfahren und Methoden der Datenkompression und geht speziell auf deren Einsatz in Systemen zur Bilddaten-kompression ein. Anhand vieler Beispiele werden die Algorithmen erläutert und mit Quelltexten in der Programmiersprache C unterlegt. Den modernen Verfah-ren der wavelet-basierten Kompression wird eine große Aufmerksamkeit ge-widmet. Das Buch ist als Lehrbuch und auch als Nachschlagewerk geeignet

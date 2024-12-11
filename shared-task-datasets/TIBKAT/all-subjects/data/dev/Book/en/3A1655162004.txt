@@ -1,2 +1,0 @@
-H∞ Ring Spectra and their Applications
-Extended powers and H? ring spectra -- Miscellaneous applications in stable homotopy theory -- Homology operations for H? and Hn ring spectra -- The homotopy theory of H? ring spectra -- The homotopy groups of H? ring spectra -- The adams spectral sequence of H? ring spectra -- H? ring spectra via space-level homotopy theory -- Power operations in H ? d ring theories -- The mod p k-theory of QX.

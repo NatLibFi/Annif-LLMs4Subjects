@@ -1,2 +1,0 @@
-Automated data collection with R : a practical guide to web scraping and text mining
-"This book provides a unified framework of web scraping and information extraction from text data with R for the social sciences."--

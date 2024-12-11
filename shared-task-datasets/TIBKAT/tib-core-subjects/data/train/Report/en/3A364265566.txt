@@ -1,2 +1,0 @@
-Technologien für zukünftige Raumtransportsysteme (TETRA) : Flugführung und -regelung, Aerothermodynamik, Missions- und Systemanalyse ; Endbericht TET-IRS-22-PR-5310 ; zur Zuwendung FKZ 300-3245.2-19/98 des Freistaates Bayern
-TETRA, Re-entry mission X-38, guidance and control, Monte-Carlo-flight simulation, aerothermodynamics, instationary derivativa, turbulence modeling, real gas effects, flight experiment PYREX, trajectory optimiziation, mission safety

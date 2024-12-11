@@ -1,2 +1,0 @@
-Zukunftsmarkt energieeffiziente Rechenzentren : Fallstudie im Auftrag des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit (BMU)
-Die Informations- und Kommunikationstechnik (IKT) und insbesondere Rechenzentren spielen sowohl unter wirtschaftlichen als auch unter ökologischen Gesichtspunkten eine zunehmende Bedeutung. Die durch den Stromverbrauch der IKT in Deutschland verursachten ⁠CO2⁠-Emissionen betrugen in 2004 bereits über 28 Mio. t CO2-Äquivalente und lagen damit bereits deutlich über den CO2-Emissionen des Luftverkehrs.

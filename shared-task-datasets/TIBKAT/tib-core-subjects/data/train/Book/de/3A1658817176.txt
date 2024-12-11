@@ -1,2 +1,0 @@
-Wärmeübertragung A-Z : Systematische und ausführliche Erläuterungen wichtiger Größen und Konzepte
-Die etwa 100 wichtigsten Begriffe der Wärmeübertragung werden erläutert und in Beispielen erklärt. Dazu werden für alle Begriffe die jeweiligen Definitionen gegeben sowie die wichtigsten Berechnungsformeln aufgeführt. Alles in allem ein Nachschlagewerk, das gerade in der Lehre seinen Stellenwert haben wird. Der lexikalische Aufbau erleichtert die Suche nach den Begriffen, die Beschränkung auf das Wesentliche ermöglicht das schnelle Verständnis der wichtigen Zusammenhänge

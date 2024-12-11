@@ -1,2 +1,0 @@
-Pervasive information security and privacy developments : trends and advancements
-"This book compiles research on topics such as technical, regulatory, organizational, managerial, cultural, ethical, and human aspects of information security and privacy, offering methodologies, research frameworks, theory development and validation, case studies, simulations, technological architectures, infrastructure issues in design, and implementation of secure and privacy preserving initiatives"--Provided by publisher

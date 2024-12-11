@@ -1,2 +1,0 @@
-E-Mail-Hacking : schützen Sie Ihr E-Mail-Postfach vor Trojanern, Viren und gefährlichen Anhängen ; [Sicherheit für alle E-Mail-Nutzer ohne technische Vorkenntnisse]
-Anhand von Beispielen lernt man, wie schädliche E-Mails zu erkennen sind. Mit technischem Hintergrundwissen kann eine E-Mail schnell kontrolliert und besser eingeschätzt werden, ob der Absender vertrauenswürdig ist

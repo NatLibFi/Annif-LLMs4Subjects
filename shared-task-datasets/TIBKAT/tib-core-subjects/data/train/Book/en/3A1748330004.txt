@@ -1,2 +1,0 @@
-GPS/GNSS antennas
-Introduction. GNSS System Description. Antenna Characteristics. GNSS Antenna Requirements. GNSS Antenna Designs. Multiband GNSS Antennas. Ground Plane, Aircraft Fuselage and Other Platform and Environmental Effects on GPS Antennas. Measurement of GNSS Antenna Characteristics. Antennas and Site Considerations for Precise Applications. Cosite Interference Issues for GPS Antennas on Aircraft and Mitigation Techniques. Adaptive Antenna Arrays and Anti-Jam Signal Processing Techniques--

@@ -1,2 +1,0 @@
-How structures work : design and behaviour from bridges to buildings
-Brackets and bridges -- Stiffening a beam : girder bridges -- Arches and suspension bridges -- Bringing the loads to the ground : the structural scheme -- Safe as houses? :  walls -- Frames : a problem of stability -- Floors and beams : deflections and bending moments -- Providing shelter : roofs -- Structures in a three-dimensional world -- Materials and workmanship

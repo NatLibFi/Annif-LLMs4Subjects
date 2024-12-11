@@ -1,2 +1,0 @@
-Handbook of design and analysis of experiments
-"Handbook of Design and Analysis of Experiments provides a detailed overview of the tools required for the optimal design of experiments and their analyses. The handbook gives a unified treatment of a wide range of topics, covering the latest developments."--

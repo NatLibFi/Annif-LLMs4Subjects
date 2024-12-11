@@ -1,2 +1,0 @@
-Symmetry theory in molecular physics with Mathematica : a new kind of tutorial book
-"There is a paper version of this book and a CD ... version. The paper version is a reference work, providing most of the material on the CD. But you can put the CD into a computer and read the unabridged version from the screen, letting Mathematica recalculate all the results in the book as you go. If you do this, the Mathematica program will always be prepared to carry out experiments that are suggested in the text, or (even better) that you may think of on your own."--P. 3

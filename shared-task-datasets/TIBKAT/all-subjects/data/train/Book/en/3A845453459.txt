@@ -1,2 +1,0 @@
-Design principles and analysis of thin concrete shells, domes and folders
-Preface -- Introduction -- 1. General concepts of differential geometry and surface theory -- 2. Structural principles in design of spatial concrete structures -- 3. Elements of elastic shells' theory -- 4. Convex translation shells -- 5. Long convex cylindrical shells -- 6. Hyperbolic paraboloid shells -- 7. Shells of revolution-domes -- 8. Investigations of a full-scale RC dome under vertical vibrations -- 9. Long reinforced concrete folders -- References -- Appendix. List of symbols

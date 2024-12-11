@@ -1,2 +1,0 @@
-On Global Univalence Theorems
-Preliminaries and statement of the problem -- P-matrices and N-matrices -- Fundamental global univalence results of Gale-Nikaido-Inada -- Global homeomorphisms between finite dimensional spaces -- Scarf's conjecture and its validity -- Global univalent results in R2 and R3 -- On the global stability of an autonomous system on the plane -- Univalence for mappings with Leontief type Jacobians -- Assorted applications of univalence mapping results -- Further generalizations and remarks.

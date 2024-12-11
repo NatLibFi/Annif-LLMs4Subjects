@@ -1,2 +1,0 @@
-Compound semiconductors : physics, technology, and device concepts
-chapter 1 Basics -- chapter 2 Introduction to Compound Semiconductors -- chapter 3 Bulk Crystal Growth -- chapter 4 Epitaxial Methods -- chapter 5 Electrical Properties of Semiconductors/Electrical Characterization -- chapter 6 Optical Processes in Semiconductors: Optical Spectroscopy -- chapter 7 X-Ray Diffraction -- chapter 8 QuantumWells -- chapter 9 Strain -- chapter 10 Low-Dimensional Systems -- chapter 11 Group III Nitrides -- chapter 12 Optoelectronic Devices -- chapter 13 Electronic Devices.

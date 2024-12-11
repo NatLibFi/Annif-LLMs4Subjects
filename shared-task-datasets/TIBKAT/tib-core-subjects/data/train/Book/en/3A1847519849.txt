@@ -1,2 +1,0 @@
-Hands-on data science for librarians
-Using RStudio's IDE -- Tidying data with dplyr -- Visualizing your project with ggplot2 -- Webscraping with rvest -- Mapping with tmap -- Textual analysis with tidytext -- Creating dynamic documents with rmarkdown -- Creating a flexdashboard -- Creating an interactive dashboard with shiny -- Using tidymodels to understand machine learning.

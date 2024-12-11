@@ -1,2 +1,0 @@
-Learning from Data : Artificial Intelligence and Statistics V
-This volume contains a revised collection of papers originally presented at the Fifth International Workshop on Artificial Intelligence and Statistics in 1995. The topics represented in this collection of 42 papers are diverse and include natural language applications, causality and graphical models, classification, learning, knowledge discovery, and exploratory data analysis. The papers illustrate the rich possibilities for interdisciplinary study at the interface of artificial intelligence and statistics

@@ -1,2 +1,0 @@
-Chapter 1. Axiomatic Foundations of Expected Utility and Subjective Probability
-This chapter provides a critical review of the theories of decision making under risk and under uncertainty and the notion of choice-based subjective probabilities. It includes formal statements and discussions of the various models, including their analytical frameworks, the corresponding axiomatic foundations, and the representations.

@@ -1,2 +1,0 @@
-Graphs and matrices
-This book illustrates the elegance and power of matrix techniques in the study of graphs by means of several results, both classical and recent. The emphasis on matrix techniques is greater than other standard references on algebraic graph theory, and the important matrices associated with graphs such as incidence, adjacency, and Laplacian matrices are treated in detail

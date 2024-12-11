@@ -1,2 +1,0 @@
-Analyzing security, trust, and crime in the digital world
-"This book explores techniques and technologies used to secure data and prevent intrusion in virtual environments, providing meaningful research on intrusion detection and authentication techniques in order to further defend their systems and protect the information therein"--

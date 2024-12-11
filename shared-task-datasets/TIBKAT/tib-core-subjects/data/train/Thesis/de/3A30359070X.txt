@@ -1,2 +1,0 @@
-The influence of phytoplankton aggregation on sedimentation : a model study
-Es wird ein Modell für Phytoplanktonaggregation präsentiert in dem die Aggregationsgleichungen und die Sedimentation auf einem kontinuierlichen Größenspektrum des Phytoplanktons gelöst und in 0-dimensionale und 1-dimensionale Modelle für die biogeochemischen Kreisläufe implementiert wurden. Das Modell wird mit anderen Modellen verglichen. Ferner wird das Modell für Simulationen des nördlichen Atlantiks und des Arabischen Meeres benutzt. Darstellung und Diskussion der Ergebnisse.

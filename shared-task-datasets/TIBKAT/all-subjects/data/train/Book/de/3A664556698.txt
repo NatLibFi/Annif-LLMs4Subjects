@@ -1,2 +1,0 @@
-Datenqualität für Entscheider in Unternehmen : Ein Dialog zwischen einem Unternehmenslenker und einem DQ-Experten
-In vielen Unternehmen steht aktuell die Entscheidung an, wie sie mit den neuen Anforderungen der Aufsichtsbehörden bezüglich der Datenqualität umgehen können. Hier werden zukünftig Aussagen zur Datenqualität von unternehmensrelevanten Kennzahlen und ihrer Herkunft verlangt. Diese Aussagen gelingen am besten mit den Methoden eines Datenqualitäts-Managements-Systems. Guilherme Morbey erläutert die Einführung eines solchen Systems in Dialogform.

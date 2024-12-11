@@ -1,2 +1,0 @@
-Multivariable Feedback: A Quasi-Classical Approach
-Singular-value, characteristic-value and polar decompositions -- Use of parameter group decomposition to generate nyquist-type loci -- Alignment, normality and quasi-nyquist loci -- A quasi-classical design technique -- Calculating a compensator numerator matrix by linear least-squares fitting -- Calculating a compensator by nonlinear least-squares fitting -- Examples of the design techniques.

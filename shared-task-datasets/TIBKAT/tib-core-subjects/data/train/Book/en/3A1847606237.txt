@@ -1,2 +1,0 @@
-Introduction to probability for computing
-"A rigorous, yet accessible, textbook for computer science students learning probability. It covers topics of interest to computer scientists, including randomized algorithms, simulation, statistical inference, and stochastic systems modeling. Replete with engaging real-world examples, exercises, and full-color illustrations"--

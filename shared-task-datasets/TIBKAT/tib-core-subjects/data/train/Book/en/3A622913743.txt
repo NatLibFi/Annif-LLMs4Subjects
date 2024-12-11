@@ -1,2 +1,0 @@
-Agile development & business goals : the six week solution
-Introduction: ask yourself these 10 key questions -- The problem: why software projects fail -- Expectations: what it means for software to succeed -- Overview of the six week solution -- The solution's critical pieces -- Managing the cost of change -- Assuring software quality -- Integrating automation into your development process -- Other software development approaches -- Risks with using this approach -- Transitioning to the six week solution -- Conclusions

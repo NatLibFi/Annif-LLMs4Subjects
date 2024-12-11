@@ -1,2 +1,0 @@
-Javascript for R
-1. Overview. 2. Prerequisites. 3. Introduction to Widgets. 4. Basics of Building Widgets. 5. Your First Widget. 6. A Realistic Widget. 7. The Full Monty. 8. Advanced Topics. 9. Linking Widgets. 10. Final Revisions. 11. Bidirectional Communication. 12. A Complete Integration. 13. Tips & Tricks. 14. Custom Outputs 15. Custom Inputs. 16. Cookies. 17. Widgets with Shiny. 18. The V8 Engine. 19. Machine Learning. 20. Managing JavaScript. 21. Discover Webpack and NPM. 22. Webpack with R. 23. Webpack Advanced. 24. Conclusion.

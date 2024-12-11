@@ -1,2 +1,0 @@
-Designing 2D and 3D network-on-chip architectures
-This book covers key concepts in the design of 2D and 3D Network-on-Chip interconnect. It highlights design challenges and discusses fundamentals of NoC technology, including architectures, algorithms and tools. Coverage focuses on topology exploration for both 2D and 3D NoCs, routing algorithms, NoC router design, NoC-based system integration, verification and testing, and NoC reliabilty. Case studies are used to illuminate new design methodologies

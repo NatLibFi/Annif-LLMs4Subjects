@@ -1,2 +1,0 @@
-Green's Functions in Quantum Physics
-Of interest to advanced students, this book focuses on Green's functions for obtaining simple and general solutions to basic problems in quantum physics. It demonstrates the unifying formalism of Green's functions across many applications, including transport properties, carbon nanotubes, and photonics and photonic crystals

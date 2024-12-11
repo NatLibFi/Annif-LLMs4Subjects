@@ -1,2 +1,0 @@
-Statistik II für Dummies
-Sie müssen komplexe wissenschaftliche Untersuchungen auswerten? Sie wollen oder müssen dafür Ihren Statistikwerkzeugkasten erweitern? In diesem Buch werden Sie Modelle aufbauen und testen. Sie werden Variablen schätzen, korrelieren und zusammenfassen. Die dabei verwendeten Techniken sind verschiedene Arten der Regression, Varianzanalyse, Chi-Quadrat-Tests und nichtparametrische Prozeduren. Sehr viele Beispiele, teilweise unter Einsatz von SPSS, decken all die verschiedenen Aufgabenstellungen ab, denen Sie begegnen könnten.

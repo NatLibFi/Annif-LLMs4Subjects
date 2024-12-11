@@ -1,2 +1,0 @@
-Microsoft Expression Blend 4 : step by step
-Provides information on creating rich user interfaces for Microsoft Silverlight-based applications with Microsoft Expression Blend 4 --

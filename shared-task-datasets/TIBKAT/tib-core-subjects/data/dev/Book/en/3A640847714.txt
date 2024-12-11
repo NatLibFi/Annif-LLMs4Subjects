@@ -1,2 +1,0 @@
-Fundamentals of fire phenomena
-Introduction to fire -- Thermochemistry -- Conservation laws for control volumes -- Premixed flames -- Spontaneous ignition -- Ignition of liquids -- Ignition of solids -- Fire spread on surfaces and through solid media -- Burning rate -- Fire plumes -- Compartment fires -- Scaling and dimensionless groups

@@ -1,2 +1,0 @@
-Rechnen mit verschlüsselten Programmen und Daten
-Computersicherheit, homomorphe Kryptografie, verschlüsseltes Rechnen. - Computer security, homomorphic cryptography, encrypted computing

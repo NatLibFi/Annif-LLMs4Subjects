@@ -1,2 +1,0 @@
-Applied machine learning for smart data analysis
-"The book focuses on how machine learning and Internet of Things (IoT) has empowered the advancement of information driven arrangements including key concepts and advancements. Divided into sections such as machine learning, security, IoT and data mining, the concepts are explained with practical implementation including results"--

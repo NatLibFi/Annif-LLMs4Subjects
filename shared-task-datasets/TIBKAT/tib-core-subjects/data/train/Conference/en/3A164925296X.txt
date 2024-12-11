@@ -1,2 +1,0 @@
-Programs as Data Objects : Second Symposium, PADO2001 Aarhus, Denmark, May 21–23, 2001 Proceedings
-This book constitutes the refereed proceedings of the Second Symposium on Programs as Data Objects, PADO 2001, held in Aarhus, Denmark, in May 2001.The 14 revised full papers presented were carefully reviewed and selected from 30 submissions. Various aspects of looking at programs as data objects are covered from the point of view of program analysis, program transformation, computational complexity, etc

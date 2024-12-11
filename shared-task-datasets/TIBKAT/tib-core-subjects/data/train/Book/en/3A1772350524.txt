@@ -1,2 +1,0 @@
-Blockchain for information security and privacy
-"The book presents an integrated view of blockchain for systems security and privacy. It identifies issues of utilizing blockchain in applications including smart contracts, healthcare, and finance. It then explains security and privacy techniques including representative consensus algorithms, hash chained storage, and mixing protocols"--

@@ -1,3 +1,0 @@
-Die Bilanzierung von Mehrkomponentengeschäften nach HGB, IFRS und US-GAAP
-Problemstellung -- Bilanzierung nach HGB -- Bilanzierung nach IFRS -- Bilanzierung nach US-GAAP -- Vereinbarkeit der US-amerikanischen Bilanzierungsregeln für Mehrkomponentengeschäfte mit den IFRS -- Die Bilanzierung von Mehrkomponentengeschäften im internationalen Vergleich.
-Oliver Wirth entwickelt für das deutsche Bilanzrecht ein umfassendes System von Bilanzierungsgrundsätzen speziell für Mehrkomponentengeschäfte. Die Anwendung dieser Grundsätze wird anhand von Beispielsachverhalten anschaulich und praxisorientiert erläutert. Ferner wird die Bilanzierung von Mehrkomponentengeschäften nach IFRS und US-GAAP analysiert und den entwickelten deutschen Bilanzierungsgrundsätzen gegenübergestellt.

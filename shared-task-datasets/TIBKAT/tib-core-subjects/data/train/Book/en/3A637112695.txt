@@ -1,2 +1,0 @@
-Ruby on Rails 3 tutorial : learn Rails by example
-From zero to deploy -- A demo app -- Mostly static pages -- Rails-flavored ruby -- Filling in the layout -- Modeling and viewing users, part I -- Modeling and viewing users, Part II -- Sign up -- Sign in, sign out -- Updating, showing, and deleting users -- User Microposts -- Following users

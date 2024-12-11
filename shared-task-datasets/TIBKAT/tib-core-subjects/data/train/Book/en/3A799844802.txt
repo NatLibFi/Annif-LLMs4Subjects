@@ -1,2 +1,0 @@
-The Tao of microelectronics
-Microelectronics covers various circuits with different kinds of electronic devices, and hundreds of equations are involved for these circuits. It is often considered a "black art" instead of an engineering field. The author believes that in order to understand microelectronics, one needs to pay more attention to the ideas or Tao behind various intricate circuits. This book is not intended to replace those classic textbooks on microelectronics, but it can play a supplementary role by highlighting the key ideas and techniques.

@@ -1,2 +1,0 @@
-Buoy engineering
-Aus dem Inhalt: Part I) Mechanics of floating bodies 1) Statics of free floating bodies 2) Dynamics of free floating bodies 3) Hydrodynamic forces on constrained floating bodies Part II) Mechanics of mooring lines 4) Statics of mooring lines 5) Dynamics of mooring lines.

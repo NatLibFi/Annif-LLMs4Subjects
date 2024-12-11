@@ -1,2 +1,0 @@
-Chapter 46 Non-cooperative games with many players
-In this survey article, we report results on the existence of pure-strategy Nash equilibria in games with an atomless continuum of players, each with an action set that is not necessarily finite. We also discuss purification and symmetrization of mixed-strategy Nash equilibria, and settings in which private information, anonymity and idiosyncratic shocks are given particular prominence.

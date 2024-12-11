@@ -1,2 +1,0 @@
-Aufgaben zur Ingenieurmathematik : Differenzialgleichungen, Numerik, Fourier- und Laplacetheorie ; mit Mathematica- und Maple-Beispielen
-Main description: Ein Übungsbuch mit dem Charakter eines Nachschlagewerks. Für die zentralen Gebiete der Ingenieurmathematik: Differenzialgleichungen, numerische und systemtheoretische Methoden - mit zahlreichen Übungsbeispielen und Klausuraufgaben und ausführlichen Lösungswegen. Zur leichten Orientierung werden die erforderlichen Definitionen und Sätze in Kurzform angegeben.

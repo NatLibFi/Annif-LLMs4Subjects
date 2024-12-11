@@ -1,2 +1,0 @@
-Artificial intelligence for the internet of health things
-"This book discusses research of Artificial Intelligence for the Internet of Health Things. It investigates and explores the possible applications of machine learning, deep learning, soft computing and evolutionary computing techniques in design, implementation, and optimization of challenging healthcare solutions"--

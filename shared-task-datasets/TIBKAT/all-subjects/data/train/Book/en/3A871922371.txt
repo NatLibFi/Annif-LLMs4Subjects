@@ -1,2 +1,0 @@
-Node.js for embedded systems : using web technologies to build connected devices
-Connecting worlds -- Blink with Arduino -- Espruino -- The Tessel 2 -- Particle photon -- Single-board computers -- Components for prototyping -- Node.js Libraries for hardware -- Exploring network protocols -- Web frontends for things -- Entering the Cloud -- Making robots with Node.js -- Wireless data with Bluetooth -- Toward the physical Internet -- From products to toolkits

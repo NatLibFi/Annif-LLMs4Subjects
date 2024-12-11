@@ -1,3 +1,0 @@
-Sensing and Systems in Pervasive Computing : Engineering Context Aware Systems
-Focus on issues and principles in context awareness, sensor processing and software design (rather than sensor networks or HCI or particular commercial systems). Designed as a textbook, with readings and lab problems in most chapters. Focus on concepts, algorithms and ideas rather than particular technologies.
-Focus on issues and principles in context awareness, sensor processing and software design (rather than sensor networks or HCI or particular commercial systems). Designed as a textbook, with readings and lab problems in most chapters. Focus on concepts, algorithms and ideas rather than particular technologies

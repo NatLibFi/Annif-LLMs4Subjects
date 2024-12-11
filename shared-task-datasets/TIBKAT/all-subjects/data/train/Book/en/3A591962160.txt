@@ -1,2 +1,0 @@
-Behavioral modeling for embedded systems and technologies : applications for design and implementation
-"This book provides innovative behavior models currently used for developing embedded systems, accentuating on graphical and visual notations"--Provided by publisher

@@ -1,3 +1,0 @@
-Elliptic PDEs on compact Ricci limit spaces and applications
-Preliminaries -- Lp-convergence revisited -- Poisson's equations -- Rellich type compactness for tensor fields -- Differential forms
-In this paper the author studies elliptic PDEs on compact Gromov-Hausdorff limit spaces of Riemannian manifolds with lower Ricci curvature bounds. In particular the author establishes continuities of geometric quantities, which include solutions of Poisson's equations, eigenvalues of Schrödinger operators, generalized Yamabe constants and eigenvalues of the Hodge Laplacian, with respect to the Gromov-Hausdorff topology. The author applies these to the study of second-order differential calculus on such limit spaces

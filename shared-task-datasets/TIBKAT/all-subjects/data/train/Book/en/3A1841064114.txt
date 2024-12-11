@@ -1,2 +1,0 @@
-Artificial neural network-based optimized design of reinforced concrete structures
-Introduction to Lagrange optimization for engineering applications -- AI-based Lagrange optimization adopting universally generalizable functions -- An optimized design of reinforced concrete columns based on an ANN-based Hong-Lagrange method -- Optimizing reinforced concrete beam cost using ANN-based Hong-Lagrange method -- ANN-based structural designs using Lagrange multipliers optimizing multiple objective functions.

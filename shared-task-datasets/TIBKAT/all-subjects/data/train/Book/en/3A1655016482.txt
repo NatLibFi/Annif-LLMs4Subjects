@@ -1,2 +1,0 @@
-XploRe — Learning Guide
-This is the comprehensive handbook to XploRe - the interactive statistical environment, a versatile tool for data analysis. XploRe combines classical techniques with high end statistical procedures and is the ideal solution for data exploration. The user-friendly graphics provide an effective basis for large-scale statistical analysis, computer intensive research and interactive knowledge discovery. The open architecture and the Auto Pilot Support System (APSS) guarantees smooth integration of future methods and updated data analysis techniques

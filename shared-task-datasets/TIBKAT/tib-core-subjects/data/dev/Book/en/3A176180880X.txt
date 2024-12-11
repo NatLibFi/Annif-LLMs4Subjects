@@ -1,2 +1,0 @@
-Markov processes and quantum theory
-This book discusses quantum theory as the theory of random (Brownian) motion of small particles (electrons etc.) under external forces. Implying that the Schrödinger equation is a complex-valued evolution equation and the Schrödinger function is a complex-valued evolution function, important applications are given. Readers will learn about new mathematical methods (theory of stochastic processes) in solving problems of quantum phenomena. Readers will also learn how to handle stochastic processes in analyzing physical phenomena.

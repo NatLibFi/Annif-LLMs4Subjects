@@ -1,2 +1,0 @@
-Computer vision and image processing : fundamentals and applications
-"The focus of the book is on image acquisition and image formation models, radiometric models of image formation, image formation in the camera, image processing concepts, concept of feature extraction and feature selection for pattern classification/recognition, and advanced concepts"--

@@ -1,2 +1,0 @@
-Kontinuierliches Engineering für evolutionäre Infrastrukturen : Abschlussbericht ; Vorhabensbezeichnung: KONTENG - Kontinuierliches Engineering für evolutionäre Informations- und Kommunikations-Infrastrukturen ; Laufzeit des Vorhabens/Berichtszeitraum: 01.05.1999 bis 31.12.2002
-Components, component architecture, system architecture, software architecture, evolution model, specification, context, constraint, component-based, XML, description language, platform independent, views, reference model, corporate finance, legacy system, development guide, development process

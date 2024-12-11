@@ -1,2 +1,0 @@
-Lithography : main techniques
-"Lithography is now a complex tool at the heart of a technological process for manufacturing micro and nanocomponents. A multidisciplinary technology, lithography continues to push the limits of optics, chemistry, mechanics, micro and nano-fluids, etc. This book deals with essential technologies and processes, primarily used in industrial manufacturing of microprocessors and other electronic components"--

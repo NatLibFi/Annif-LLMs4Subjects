@@ -1,2 +1,0 @@
-System Center 2012 Operations Manager unleashed : [plan and install Operations Manager 2012 SP1]
-'System Center Operations Manager 2012 Unleashed' joins Sams' market-leading series of books on Microsoft's System Center product suite: books that have achieved go-to status amongst IT implementers and administrators worldwide. The book provides coverage of planning, installation, and migration; configuration; and much more --

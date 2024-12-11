@@ -1,2 +1,0 @@
-Untersuchung des Strömungsverhaltens von hochbelasteten ungekühlten Niederdruck-Turbinengittern unter Berücksichtigung der Rotor-Stator Interaktion : AG TURBO TURBOTECH II Vorhaben 1.432: Optimierung des Strömungsverhaltens von hochbelasteten ungekühlten Turbinengittern
-Low-pressure turbine cascade, rotor-stator interaction, wake-induced transition, boundary layer, aerodynamic, experiments, total pressure losses, numerical flow simulations, design criteria, wake generator

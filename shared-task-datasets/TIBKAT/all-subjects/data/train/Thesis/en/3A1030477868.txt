@@ -1,2 +1,0 @@
-On the motivic Tamagawa number of number fields
-Abstract: We compute the motivic Tamagawa number by Bloch and Kato of the Artin–Tate motive of a number field at integers greater than one in terms of specific rational numbers. We follow Borel’s proof of the Lichtenbaum conjecture modulo rational multiples thereby relating motivic Tamagawa numbers to the classical ones attached to a certain central division algebra. The missing rational comparison factor is given in terms of that algebra

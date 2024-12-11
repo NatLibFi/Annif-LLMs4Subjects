@@ -1,2 +1,0 @@
-Robotic vision : technologies for machine learning and vision applications
-"This book offers comprehensive coverage of the current research on the fields of robotics, machine vision, image processing and pattern recognition that is important to applying machine vision methods in the real world"--

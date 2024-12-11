@@ -1,3 +1,0 @@
-Linear Algebra with machine learning and data
-1 Graph Theory. 2. Stochastic Processes. 3. SVD and PCA. 4. Interpolation. 5. Optimization and Learning Techniques for Regression. 6. Decision Trees and Random Forests. 7. Random Matrices and Covariance Estimate. 8. Sample Solutions to Exercises.
-This textbook attempts to revolutionize the Advanced Linear Algebra course by offering the integration of data analysis through case studies. Many schools are trying to find ways to incorporate data analysis into the undergrad math curriculum. The author presents a real alternative to standard textbooks. The use of case studies to demonstrate how linear algebra can be used in data analysis separates this text from all others currently available from any major publisher

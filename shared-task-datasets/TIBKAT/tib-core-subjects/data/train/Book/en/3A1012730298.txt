@@ -1,2 +1,0 @@
-The geometry, topology and physics of moduli spaces of Higgs bundles
-Preface -- An introduction to the dierential geometry of flat bundles and of Higgs bundles / Olivier Guichard -- An introduction to spectral data for Higgs bundles / Laura P. Schaposnik -- Lectures on the topological recursion for hHggs bundles and quantum curves / Olivia Dumitrescu and Motohico Mulase -- An introduction to moduli stacks, with a view towards Higgs bundles on algebraic curves / Sebastian Casalaina-Martin and Jonathan Wise

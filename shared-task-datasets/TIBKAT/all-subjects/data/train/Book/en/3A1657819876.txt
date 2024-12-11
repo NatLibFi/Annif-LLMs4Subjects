@@ -1,2 +1,0 @@
-Combinatorial, algebraic, and topological representations of groups, semigroups, and categories
-Preliminaries -- Basic embeddings -- Universality of S(P) -- Combinatorics -- Algebra -- Topology -- Strong embeddings and strongly algebraic categories

@@ -1,2 +1,0 @@
-Feature engineering for machine learning : principles and techniques for data scientists
-Feature engineering is a crucial step in the machine-learning pipeline, yet this topic is rarely examined on its own. With this practical book, youll learn techniques for extracting and transforming featuresthe numeric representations of raw datainto formats for machine-learning models. Each chapter guides you through a single data problem, such as how to represent text or image data. Together, these examples illustrate the main principles of feature engineering.--

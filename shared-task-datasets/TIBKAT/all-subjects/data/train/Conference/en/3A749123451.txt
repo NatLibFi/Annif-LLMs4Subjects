@@ -1,2 +1,0 @@
-Statistical Mechanics of Complex Networks
-Networks can provide a useful model and graphic image useful for the description of a wide variety of web-like structures in the physical and man-made realms, e.g. protein networks, food webs and the Internet. The contributions gathered in the present volume provide both an introduction to, and an overview of, the multifaceted phenomenology of complex networks. Statistical Mechanics of Complex Networks also provides a state-of-the-art picture of current theoretical methods and approaches

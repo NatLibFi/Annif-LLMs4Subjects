@@ -1,2 +1,0 @@
-Different Faces of Geometry
-Refined Seiberg-Witten Invariants -- 3-Dimensional Methods in Contact Geometry -- Asymptotic Convex Geometry Short Overview -- Singularities of Special Lagrangian Submanifolds -- Curvature Functionals, Optimal Metrics, and the Differential Topology of 4-Manifolds -- Amoebas of Algebraic Varieties and Tropical Geometry -- Heegaard Diagrams and Holomorphic Disks -- Exact Lagrangian Submanifolds in T*Sn and the Graded Kronecker Quiver -- The Construction Problem in Kähler Geometry.

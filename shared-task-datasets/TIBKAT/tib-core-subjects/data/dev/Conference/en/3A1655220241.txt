@@ -1,2 +1,0 @@
-K-theory and Homological Algebra : A Seminar held at the Razmadze Mathematical Institute in Tbilisi, Georgia, USSR 1987–88
-Homological dimension of extensions of abelian categories and rings -- Classical algebraic K-theory of monid algebras -- K-theory of special normed rings -- Cohomology and extensions of internal modules -- Coefficients for cohomology of "large" categories -- K-theory of ?2-graded Banach categories. I -- On Quillen's + construction of perfect groups -- Cohomology of small categories in homotopical algebra -- U-theory of exact categories.

@@ -1,2 +1,0 @@
-Applications of data assimilation and inverse problems in the earth sciences
-"A comprehensive reference on data assimilation and inverse problems, and their applications across a broad range of geophysical disciplines, ideal for researchers and graduate students. It highlights the importance of data assimilation for understanding dynamical processes of the Earth and its space environment, and summarises recent advances"--

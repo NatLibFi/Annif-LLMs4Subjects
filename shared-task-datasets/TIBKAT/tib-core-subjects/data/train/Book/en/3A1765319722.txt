@@ -1,2 +1,0 @@
-Urban informatics and future cities
-This book forms a selection of chapters submitted for the CUPUM (Computational Urban Planning and Urban Management) conference, held in the second week of June 2021 at Aalto University in Helsinki, Finland. Chapters were selected from a double-blind review process by the conference's scientific committee. The chapters in the book cover developments and applications with big data and urban analytics, collaborative urban planning, applications of geodesign and innovations, and planning support science.

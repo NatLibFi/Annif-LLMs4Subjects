@@ -1,3 +1,0 @@
-Übungsbuch Mathematik für Wirtschaftswissenschaftler : Aufgabensammlung mit ausführlichen Lösungen
-Hilfsmittel zur Lösung der Aufgaben -- Algebra -- Funktionen einer Veränderlichen -- Differentialrechnung -- Integralrechnung -- Lösungen -- Formelsammlung.
-Dieses Übungsbuch bietet eine umfangreiche Sammlung von Übungsaufgaben zur Mathematik für Wirtschaftswissenschaftler. Beginnend von den Grundlagen der Mathematik bis hin zu komplexeren Anwendungen werden zahlreiche Aspekte adressiert. Die Lösungen zu jeder Aufgabe sind im Buch enthalten. Zusätzlich werden PDF-, Maple- und Microsoft Excel-Dateien bereitgestellt. Für die intensive Diskussion von Fragen und Anregungen steht unter "www.ecomath.de/forum" ein Diskussionforum zur Verfügung.

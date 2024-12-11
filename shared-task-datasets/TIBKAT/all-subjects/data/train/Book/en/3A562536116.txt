@@ -1,2 +1,0 @@
-Engineering service oriented systems : a model driven approach
-"This book combines concepts from systems theory, model driven software engineering, and ontologies for software engineering into a systematic method for engineering service oriented systems"--Provided by publisher

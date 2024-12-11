@@ -1,2 +1,0 @@
-Chapter 3. Games on Networks
-We provide an overview and synthesis of the literatures analyzing games in which players are connected via a network structure. We discuss, in particular, the impact of the structure of the network on individuals’ behaviors. We focus on game theoretic modeling, but also include some discussion of analyses of peer effects, as well as applications to diffusion, employment, crime, industrial organization, and education.

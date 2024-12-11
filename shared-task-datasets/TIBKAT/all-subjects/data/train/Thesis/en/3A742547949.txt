@@ -1,2 +1,0 @@
-Ultra-stable laser based on a cryogenic single-crystal silicon cavity
-Laser frequency stabilization, optical reference cavity, thermal noise, optical clocks. - Frequenzstabilisierung, optischer Referenzresonator, thermisches Rauschen, optische Uhren

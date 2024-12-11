@@ -1,2 +1,0 @@
-Grundlagen der Bildverarbeitung
-Zum Buch:Tönnies führt in seinem Buch in die grundlegenden Aspekte der Bildverarbeitung ein. Dabei verknüpft er Motivation und praktische Umsetzung der vorgestellten Methoden mit vielen Beispielen aus der Praxis. Zu jedem Kapitel gibt es Übungsaufgaben, die dem Leser helfen, die nötigen Fertigkeiten zur Nutzung von Bildverarbeitungswerkzeugen zu erwerben. Der Autor schlägt außerdem verschiedene kleine Bildverarbeitungsprojekte vor, die  im Unterricht eingesetzt werden können

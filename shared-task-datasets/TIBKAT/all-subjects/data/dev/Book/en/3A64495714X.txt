@@ -1,2 +1,0 @@
-Building PHP applications with Symfony, CakePHP, and Zend Framework
-Presents a comparison of the three open source frameworks and how they can be used to create PHP Web sites

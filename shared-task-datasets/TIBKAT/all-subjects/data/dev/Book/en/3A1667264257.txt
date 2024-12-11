@@ -1,2 +1,0 @@
-Foundations of information security : a straightforward introduction
-"Begins with an introduction to information security, including key topics such as confidentiality, integrity, and availability, and then moves on to practical applications of these ideas in the areas of operational, physical, network, application, and operating system security"--

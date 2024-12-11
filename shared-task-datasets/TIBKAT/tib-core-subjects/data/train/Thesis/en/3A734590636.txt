@@ -1,2 +1,0 @@
-Quantum-optical control techniques for atomic motional states
-Laser-based control techniques, atomic motional states, shortcuts to adiabaticity. - Laserbasierte Kontrollverfahren, atomare Bewegungszustände, Abkürzungen zur Adiabatizität

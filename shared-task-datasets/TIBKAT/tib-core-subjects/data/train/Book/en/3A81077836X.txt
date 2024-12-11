@@ -1,2 +1,0 @@
-General relativity : basics and beyond
-From Newton to Einstein: synthesis of general relativity -- Examples of space-times -- Dynamics in space-time -- Dynamics of space-time -- Elementary phenomenology -- The space-time arena -- Asymptotic structure -- Black holes -- Cosmological space-times -- Gravitational waves -- Field equation: evolutionary interpretation -- Numerical relativity -- Into the quantum realm -- Epilogue -- Mathematical background

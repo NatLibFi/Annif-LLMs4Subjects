@@ -1,2 +1,0 @@
-Schallquellenlokalisierung : Schlussbericht gemäß NKBF 98 ; Forschungsverbund Leiser Verkehr, Bereich 1000 Gemeinsame Verfahren und Methoden, Schwerpunkt 1100 Schallquellenlokalisierung
-Acoustics, sound source localization, microphone array, microphone positioning, pass-by measurements, flyover measurements, roating source distribution, source density modelization, fan, rotor

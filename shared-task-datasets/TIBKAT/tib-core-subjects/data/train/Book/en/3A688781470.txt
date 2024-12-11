@@ -1,2 +1,0 @@
-Mobile device security for dummies : [learn to: protect your company's mobile devices against online threats, loss, or theft ; back up and restore critical data and documents ; control and enforce granular access with VPNs ; develop and implement a corporate mobile security plan]
-Factor mobile devices into the IT equation and learn to work securely in this smart new world. Learn how to lock down those mobile devices so that doing business on the go doesn't do you in

@@ -1,2 +1,0 @@
-Intuitive Mensch-Technik-Interaktion für die vernetzte Informationswelt der Zukunft - INVITE : Schlussbericht gemäß "Merkblatt zum Controlling von Leitprojekten" vom 29.07.1998 ; Leitprojekt Mensch-Technik-Interaktion ; Laufzeit des Vorhabens 01.07.1999 - 30.11.2003
-Human-computer-interaction, semantic concepts, topic structures, concept extraction, concept net, text mining speech recognition, simultaneous extraction, information extraction, information visualization, ontology, text corpora, software tool, innovation acceleration, innovation

@@ -1,2 +1,0 @@
-Critical point theory for Lagrangian systems
-Lagrangian and Hamiltonian systemsThe Morse indices in Lagrangian dynamics -- Functional setting for the Lagrangian action -- Discretizations -- Local homology and Hilbert subspaces -- Periodic orbits of Tonelli Lagrangian systems -- Appendix: An overview of Morse theory.

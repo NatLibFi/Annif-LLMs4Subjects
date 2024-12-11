@@ -1,3 +1,0 @@
-Numerical methods in engineering with MATLAB
-Cover; Half-title; Title; Copyright; Contents; Preface; 1 Introduction to MATLAB; 2 Systems of Linear Algebraic Equations; 3 Interpolation and Curve Fitting; 5 Numerical Differentiation; 6 Numerical Integration; 7 Initial Value Problems; 8 Two-Point Boundary Value Problems; 9 Symmetric Matrix Eigenvalue Problems; 10 Introduction to Optimization; Appendices; Index
-Numerical Methods in Engineering with MATLAB® is a text for engineering students and a reference for practicing engineers. The numerous examples and applications were chosen for their relevance to real world problems, and where numerical solutions are most efficient. MATLAB® mfiles are available on the book web site

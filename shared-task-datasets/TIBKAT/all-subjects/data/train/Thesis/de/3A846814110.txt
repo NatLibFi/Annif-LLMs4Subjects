@@ -1,2 +1,0 @@
-Distributed algorithms for nonlinear tree-sparse problems
-Stochastic optimization, nonlinear optimization, tree-sparse problems, interior-point methods, distributed programming. - Stochastische Optimierung, nichtlineare Optimierung, baumstrukturierte Probleme, Innere-Punkt-Methoden, verteilte Programmierung

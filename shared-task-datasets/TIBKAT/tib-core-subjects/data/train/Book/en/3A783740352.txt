@@ -1,2 +1,0 @@
-Microfluidics and Nanofluidics : theory and selected applications
-Fluidics originated as the description of pneumatic and hydraulic control systems, where fluids were employed (instead of electric currents) for signal transfer and processing. <i>Microfluidics and Nanofluidics: Theory and Selected Applications</i> offers an accessible, broad-based coverage of the basics through advanced applications of microfluidics and nanofluidics. It is essential reading for upper-level undergraduates and graduate students in engineering and professionals in industry

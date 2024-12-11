@@ -1,2 +1,0 @@
-The basics of hacking and penetration testing : ethical hacking and penetration testing made easy
-What is Penetration Testing? -- Reconnaissance -- Scanning -- Exploitation -- Web Based Exploitation -- Maintaining Access with Backdoors and Rootkits -- Wrapping Up the Penetration Test

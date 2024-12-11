@@ -1,2 +1,0 @@
-Designing control loops for linear and switching power supplies: a tutorial guide
-Basics of Loop Control -- Transfer Functions -- Stability Criteria of a Control System -- Compensation. Operational Amplifier-Based Compensators. Operational Transconductance Amplifier-Based Compensators -- TL431-Based Compensators -- Shunt Regulator-Based Compensators -- Measurements and Design Examples

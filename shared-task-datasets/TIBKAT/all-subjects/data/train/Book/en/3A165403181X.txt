@@ -1,2 +1,0 @@
-Advanced concepts in photovoltaics
-Photovoltaic systems enable the sun's energy to be converted directly into electricity using semiconductor solar cells. The ultimate goal of photovoltaic research and development is to reduce the cost of solar power to reach or even become lower than the cost of electricity generated from fossil and nuclear fuels

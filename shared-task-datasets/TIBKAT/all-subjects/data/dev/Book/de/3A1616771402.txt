@@ -1,2 +1,0 @@
-Methoden der Bioinformatik : eine Einführung zur Anwendung in Biologie und Mediziner
-Von den mathematischen Grundlagen zu den konkreten Methoden der Bioinformatik. Der Titel trägt den neueren Entwicklungen wie dem Next-Generation-Sequencing (NGS) und dem Aspekt der Datenintegration Rechnung

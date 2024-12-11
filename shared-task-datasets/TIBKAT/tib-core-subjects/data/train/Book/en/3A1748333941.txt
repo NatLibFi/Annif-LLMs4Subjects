@@ -1,2 +1,0 @@
-Testing and quality assurance for component-based software
-Presenting the state-of-the-art in component-based software testing, this new, cutting-edge resource offers you an in-depth understanding of the current issues, challenges, needs, and solutions in this critical area. The book discusses the very latest advances in component-based testing and quality assurance in an accessible tutorial format, making the material easy to comprehend and benefit from no matter what your professional level

@@ -1,2 +1,0 @@
-Effective electron mass in low-dimensional semiconductors
-"This book deals with the Effective Electron Mass (EEM) in low dimensional semiconductors. The materials considered are quantum confined non-linear optical, III-V, II-VI, GaP, Ge, PtSb2, zero-gap, stressed, Bismuth, carbon nanotubes, GaSb, IV-VI, Te, II-V, Bi2Te3, Sb, III-V, II-VI, IV-VI semiconductors and quantized III-V, II-VI, IV-VI and HgTe/CdTe superlattices with graded interfaces and effective mass superlattices. "--P. [4] of cover

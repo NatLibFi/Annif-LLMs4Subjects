@@ -1,2 +1,0 @@
-Quantum metrology with photoelectrons / Paul Hockett (National Research Council of Canada) ; Volume 1: Foundations
-Since the turn of the century, the increasing availability of photoelectron imaging experiments, along with the increasing sophistication of experimental techniques, and the availability of computational resources for analysis and numerics, has allowed for significant developments in such photoelectron metrology. Quantum Metrology with Photoelectrons, Volume 1: Foundations discusses the fundamental concepts along with recent and emerging applications.

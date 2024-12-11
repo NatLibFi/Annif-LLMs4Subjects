@@ -1,2 +1,0 @@
-CompTIA CySA+ practice tests : exam CS0-001
-Chapter 1 Domain 1: Threat Management; Chapter 2-- Domain 2: Vulnerability Management--Chapter 3 Domain 3: Cyber Incident Response--Chapter 4 Domain 4: Security Architecture and Tool Sets--Chapter 5 Practice Exam 1--Chapter 6 Practice Exam 2.

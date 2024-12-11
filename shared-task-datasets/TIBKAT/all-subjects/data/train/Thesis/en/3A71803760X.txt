@@ -1,2 +1,0 @@
-Statistical signal analysis and estimation algorithms for mud pulse telemetry systems
-Mud pulse telemetry, semi-blind and training sequence based signal processing, interference and channel characterization, transform domain interference suppression, multi-channel diversity schemes, hybrid receivers. - Mud-Pulse Telemetrie, semi-blinde und trainingsbasierende Signalverarbeitung, Charakterisierung von Pumpeninterferenz und Kanal, Transform-Domain Interferenzunterdrückung, Mehrkanal Diversitätsverfahren, hybride Empfänger

@@ -1,2 +1,0 @@
-Advances in Databases : 18th British National Conference on Databases, BNCOD 18 Chilton, UK, July 9–11, 2001 Proceedings
-This book constitutes the refereed proceedings of the 18th British National Conference on Databases, BNCOD 18, held in Chilton, UK, in July 2001. The 11 revised full papers presented together with one invited paper were carefully reviewed and selected. The papers are organized in topical sections on performance and optimization, objects: design and development, query optimization, and querying objects

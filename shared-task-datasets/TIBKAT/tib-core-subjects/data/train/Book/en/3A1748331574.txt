@@ -1,2 +1,0 @@
-VLSI circuits for biomedical applications
-Supported with over 280 illustrations and over 160 equations, the book offers cutting-edge guidance on designing integrated circuits for wireless biosensing, body implants, biosensing interfaces, and molecular biology. You discover innovative design techniques and novel materials to help you achieve higher levels circuit and system performance

@@ -1,2 +1,0 @@
-Practical partial discharge measurement on electrical equipment
-"The first half of the book will be educational material that covers what PD is, and the general principles of how it is measured and interpreted. The last half of the book is more like a handbook, with a chapter devoted to PD measurements in each type of HV equipment. These chapters will contain specific information of the insulation system design, causes of PD in that equipment, off-line and on-line measurement methods, interpretation methods and relevant standards."--

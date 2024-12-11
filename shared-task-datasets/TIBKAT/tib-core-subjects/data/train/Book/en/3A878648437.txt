@@ -1,2 +1,0 @@
-Problem solving in quantum mechanics : from basics to real-world applications for materials scientists, applied physicists, and devices engineers
-"A topical and timely useful textbook dealing with the practical aspects of quantum mechanics, including discussions on a broad range of topics including recent technological developments in superconducting Josephson junctions, atomic cavities, lasers, gated quantum dots, optical measurements, non-linear optics, spintronic devices, etc."--

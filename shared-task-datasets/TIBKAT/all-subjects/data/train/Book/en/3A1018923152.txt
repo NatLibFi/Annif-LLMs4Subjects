@@ -1,2 +1,0 @@
-Finite-time stability : an input-output approach
-Systematically presents the input-output finite-time stability (IO-FTS) analysis of dynamical systems, covering issues of analysis, design and robustness--

@@ -1,3 +1,0 @@
-Fourier analysis and nonlinear partial differential equations
-Recent years have seen a growth in interest in using partial differential equations in methods of Fourier analysis. This monograph sets out state-of-the-art models of these techniques as applied to transport, heat, wave, and Schrodinger equations.--
-Basic analysisLittlewood-Paley theory -- Transport and transport-diffusion equations -- Quasilinear symmetric systems -- The incompressibile Navier-Stokes system -- Anisotropic viscosity -- Euler system for perfect incompressible fluids -- Strichartz estimates and applications to semilinear dispersive equations -- Smoothing effect in quasilinear wave equations -- The compressible Navier-Stokes system.

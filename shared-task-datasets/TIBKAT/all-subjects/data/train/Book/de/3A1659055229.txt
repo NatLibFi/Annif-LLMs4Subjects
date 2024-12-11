@@ -1,2 +1,0 @@
-Mechanik-Aufgaben : Kinematik und Kinetik
-Das Niveau dieser Aufgabensammlung, die auch auf Schwingungsprobleme von Einmassenschwingern eingeht, entspricht den Maschinenbaustudiengängen an Fachhochschulen. Das Buch eignet sich ferner zum Einstieg an Universitäten und Technischen Hochschulen. Kinematik des Punktes Kinetik des Massenpunktes Kinetik des Körpers bei Drehung um eine feste Achse Kinetik der allgemeinen ebenen Bewegung

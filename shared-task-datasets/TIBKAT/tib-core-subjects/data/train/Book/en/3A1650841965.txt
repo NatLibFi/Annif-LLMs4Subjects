@@ -1,3 +1,0 @@
-Blow-up Theories for Semilinear Parabolic Equations
-1 Introduction -- 2 A review of elliptic theories -- 3 A review of parabolic theories -- 4 A review of fixed point theorems.-5 Finite time Blow-up for evolution equations -- 6 Steady-State solutions -- 7 Blow-up rate -- 8 Asymptotically self-similar blow-up solutions -- 9 One space variable case
-There is an enormous amount of work in the literature about the blow-up behavior of evolution equations. It is our intention to introduce the theory by emphasizing the methods while seeking to avoid massive technical computations. To reach this goal, we use the simplest equation to illustrate the methods; these methods very often apply to more general equations

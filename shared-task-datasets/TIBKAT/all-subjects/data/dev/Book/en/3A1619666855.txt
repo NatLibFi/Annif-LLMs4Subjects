@@ -1,2 +1,0 @@
-Architectural detailing : function, constructibility, aesthetics
-"Reviews recent built works and extract underlying principles that can be the basis for new patterns or for additional aspects of existing patterns"--

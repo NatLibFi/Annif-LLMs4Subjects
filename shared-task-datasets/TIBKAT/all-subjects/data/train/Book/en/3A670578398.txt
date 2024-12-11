@@ -1,2 +1,0 @@
-Formulas and calculations for drilling operations
-Basic Calculations -- Rig Equipment -- Well Path Design -- Fluids -- Hydraulics -- Tubular Mechanics -- Drilling Tools -- Pore Pressure and Fracture Gradient -- Well Control -- Drilling Problems -- Cementing -- Well Cost -- Appendix: Useful Conversion Factors

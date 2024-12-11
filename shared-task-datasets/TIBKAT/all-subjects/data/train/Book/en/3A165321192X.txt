@@ -1,3 +1,0 @@
-Applications and Markets for Cooperating Objects
-This book provides an overview and an insight in cooperative objects and defines the classification of topics into the different areas. A significant number of researchers and industrial partners were contacted in order to prepare the roadmap. The book prosents of the main results provided by the corresponding European project "CONET
-This book provides an overview and an insight in cooperative objects and defines the classification of topics into the different areas. A significant number of researchers and industrial partners were contacted in order to prepare the roadmap. The book presents of the main results provided by the corresponding European project 'CONET'.

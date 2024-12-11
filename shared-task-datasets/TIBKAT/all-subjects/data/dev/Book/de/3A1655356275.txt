@@ -1,2 +1,0 @@
-Splinefunktionen
-§1 Interpolation -- §2 Dividierte Differenzen -- §3 Approximationskraft der Polynome -- §4 Linienzüge -- §5 Polynomzüge -- §6 B-Splines -- §7 Duale Funktionale -- §8 Approximationsgrad von Splinefunktionen -- §9 Verfeinerung der Knotenfolge -- §10 Kollokation -- §11 “Optimale” Kollokation. Perfektsplines -- §12 Polynominterpolation im IRm -- §13 Multivariate B-Splines -- §14 Rekursionsformeln für multivariate B-Splines -- §15 Spezielle B-Splines -- §16 Approximationskraft der Polynomteppiche -- Literaturliste.

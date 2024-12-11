@@ -1,2 +1,0 @@
-Activity, context, and plan recognition with computational causal behaviour models
-reconstruction of causal structures of human behaviour in order to provide assistance?". To answer this question, the concept of Computational Causal Behaviour Models (CCBMs) is introduced. CCBM allows the specification of human behaviour by means of preconditions and effects and employs Bayesian filtering techniques to reconstruct action sequences from noisy and ambiguous sensor data. Furthermore, a novel approximative inference algorithm – the Marginal Filter – is introduced.<eng>

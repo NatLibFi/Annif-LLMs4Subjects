@@ -1,2 +1,0 @@
-Kotlin cookbook : a problem-focused approach
-Installing and running Kotlin -- Basic Kotlin -- Object-oriented programming in Kotlin -- Functional programming -- Collections -- Sequences -- Scope functions -- Kotlin delegates -- Testing -- Input/output -- Miscellaneous -- The Spring framework -- Coroutines and structured concurrency.

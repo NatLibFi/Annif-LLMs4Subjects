@@ -1,2 +1,0 @@
-Topological Stability of Smooth Mappings
-Construction of canonical stratifications -- Stratifications and flows -- Unfoldings of smooth map-germs -- Proof of the topological stability theorem.

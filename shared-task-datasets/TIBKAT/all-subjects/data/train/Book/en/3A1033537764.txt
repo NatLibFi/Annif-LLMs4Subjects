@@ -1,2 +1,0 @@
-Statistical inference for engineers and data scientists
-"Statistical Inference for Engineers and Data Scientists A mathematically accessible and up-to-date introduction to the tools needed to address modern inference problems in engineering and data science, ideal for graduate students taking courses on statistical inference and detection and estimation, and an invaluable reference for researchers and professionals"--

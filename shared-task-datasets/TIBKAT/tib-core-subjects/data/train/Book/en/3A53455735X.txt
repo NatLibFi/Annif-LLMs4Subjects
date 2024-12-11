@@ -1,2 +1,0 @@
-Advanced vector analysis for scientists and engineers
-This text illustrates the application of vector calculus to physical problems, and provides a wealth of solved problems to demonstrate the application of the theory. Coverage progresses from the algebra of vectors and vector functions of one variable, through integral theorems and orthogonal curvilinear coordinate systems. Learning features include

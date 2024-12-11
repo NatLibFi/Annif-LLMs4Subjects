@@ -1,2 +1,0 @@
-Chapter 17. Quantile Prediction
-This chapter is concerned with the problem of quantile prediction (or forecasting). There are numerous applications in economics and finance where quantiles are of interest. We primarily focus on methods that are relevant for dynamic time series data. The chapter is organized around two key questions: first, how to measure and forecast the conditional quantiles of some series of interest given the information currently available and second, how to assess the accuracy of alternative conditional quantile predictors.

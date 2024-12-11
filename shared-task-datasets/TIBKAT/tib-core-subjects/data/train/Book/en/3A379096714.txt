@@ -1,2 +1,0 @@
-Web database applications with PHP & MySQL : [building effective database- driven web sites ; covers PEAR, PHP 5, and MySQL 4.1]
-Demonstrates techniques of dynamic content through a complex sample application. Presents principles of good design, such as dividing logic from presentation. Introduces PHP 5 and MySQL 4.1 features, while providing techniques that can be used on older versions of the software that are still in widespread use

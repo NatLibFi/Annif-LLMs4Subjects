@@ -1,2 +1,0 @@
-Computational analysis and design of bridge structures
-"The book provides information on the methods of analysis and related modeling techniques suitable for the design and evaluation of various types of bridges. For the purpose of analysis, several special topics such as strut-and-tie modeling, linear and nonlinear buckling analysis, redundancy analysis, integral bridges, dynamic/earthquake analysis and bridge geometry, will also be covered. The book is mainly focused on highway bridges, although some information is provided for railway bridges"--

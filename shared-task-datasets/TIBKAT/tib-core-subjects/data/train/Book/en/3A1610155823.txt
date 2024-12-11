@@ -1,2 +1,0 @@
-Beginning Spring Framework 2
-A guide to the Spring Framework provides instructions for designing and building Java server applications

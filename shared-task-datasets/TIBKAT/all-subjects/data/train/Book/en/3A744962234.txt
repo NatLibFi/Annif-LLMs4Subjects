@@ -1,2 +1,0 @@
-High-Resolution Methods in Underwater Acoustics
-High resolution passive array processing : An overview of principles -- Extension of high-resolution methods to realistic cases -- Localisation of broadband sources with an array of unknown geometry -- High resolution processing techniques for temporal and spatial signals -- Performance limits of high-resolution systems -- Rapidly adaptive nulling of interference.

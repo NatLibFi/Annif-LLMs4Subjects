@@ -1,2 +1,0 @@
-Thermo-mechanical processing of metallic materials
-Microstructure and properties -- Plasticity -- Work hardening -- Softening mechanisms -- Alternative deformation mechanisms -- Phase transformations -- Textural developments during thermo-mechanical processing -- Residual stress -- Modelling -- Forming techniques -- Defects in thermo-mechanical processing -- Physical simulation of properties -- Thermo-mechanical processing of aluminum alloys -- Thermo-mechanical processing of steel -- Thermo-mechanical processing of hexagonal alloys -- New technologies

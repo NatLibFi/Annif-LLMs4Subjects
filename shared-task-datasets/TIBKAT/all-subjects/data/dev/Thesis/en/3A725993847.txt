@@ -1,3 +1,0 @@
-Kombinatorische Verfahren mit Qualitätsgarantien zur Schichtplanung von Call-Center-Agenten
-The thesis provides an algorithmic approach to the scheduling problem for call centre agents. It shows that this problem is NP-complete and even inapproximable. A broad statistical analysis of call data from a call centre is contained, too.
-Call Center, Approximationsalgorithmus, Statistische Analyse, NP-vollständiges Problem, Ganzzahlige lineare Optimierung, Diskrete Optimierung, Scheduling, Dual Fitting

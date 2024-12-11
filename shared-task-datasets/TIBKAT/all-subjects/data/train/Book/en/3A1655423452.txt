@@ -1,2 +1,0 @@
-Practical Nonparametric and Semiparametric Bayesian Statistics
-A compilation of original articles by Bayesian experts, this volume presents perspectives on recent developments on nonparametric and semiparametric methods in Bayesian statistics. The articles discuss how to conceptualize and develop Bayesian models using rich classes of nonparametric and semiparametric methods, how to use modern computational tools to summarize inferences, and how to apply these methodologies through the analysis of case studies

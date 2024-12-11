@@ -1,2 +1,0 @@
-Learning ASP.NET 2.0 with AJAX
-Getting started -- Building Web applications -- Snappier Web sites with AJAX -- Saving and retrieving data -- Validation -- Style sheets, master pages, and navigation -- State and life cycle -- Errors, exceptions, and bugs, oh my! -- Security and personalization -- Putting it all together

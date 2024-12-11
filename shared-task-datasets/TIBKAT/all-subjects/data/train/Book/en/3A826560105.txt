@@ -1,2 +1,0 @@
-Wave optics : basic concepts and contemporary trends
-Oscillations -- Scalar and vector waves -- Reflection and refraction -- Elements of polarization, anisotropy and birefringence -- Optical properties of dielectric, metal and engineered materials -- More on polarized light -- Interference and diffraction -- Rays and beams -- Optical waves in stratified media -- Surface and guided modes -- Resonances of small particles -- Spin orbit interaction of light -- Optical tweezers -- Pendry lensing and extraordinary transmission of light

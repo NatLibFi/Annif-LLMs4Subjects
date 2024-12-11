@@ -1,2 +1,0 @@
-Measurement systems and sensors
-Computer-based measurement systems -- Temperature sensors -- Stress and pressure sensors -- Signal conditioners -- Digital-to-analog and analog-to-digital converters -- Measurement systems with serial interface -- Wireless measurement systems -- Measurement systems with IEEE-488 interface -- Crate and modular measurement systems -- LAN-based measurement systems -- DAQ boards and virtual instruments

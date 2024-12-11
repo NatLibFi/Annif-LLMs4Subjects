@@ -1,2 +1,0 @@
-Handbook of research on public information technology / G. David Garson, Mehdi Khosrow-Pour [editors] ; Vol. 1
-"This book compiles estimable research on the global trend toward the rapidly increasing use of information technology in the public sector, discussing such issues as e-government and e-commerce; project management and information technology evaluation; system design and data processing; security and protection; and privacy, access, and ethics of public information technology"

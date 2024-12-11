@@ -1,2 +1,0 @@
-How software works : the magic behind encryption, CGI, search engines, and other everyday technologies
-"A guide for non-technical readers that explores topics like data encryption; computer graphics creation; password protection; video compression; how data is found in huge databases; how programs can work together on the same problem without conflict; and how map software finds routes."--

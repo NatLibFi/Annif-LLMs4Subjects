@@ -1,2 +1,0 @@
-Isosurfaces : geometry, topology, and algorithms
-"Ever since Lorensen and Cline published their paper on the marching cubes algorithm, isosurfaces have been a standard technique for the visualization of 3D volumetric data. Yet there is no book exclusively devoted to isosurfaces. This book presents the basic algorithms for isosurface construction and gives a rigorous mathematical perspective to some of the algorithms and results. It offers a solid introduction to research in this area as well as an organized overview of the various algorithms associated with isosurfaces"--

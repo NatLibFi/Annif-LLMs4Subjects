@@ -1,2 +1,0 @@
-Theory of elasticity and stress concentration
-"Theory of Elasticity and Stress Concentration comprehensively covers elasticity and stress concentration and demonstrates how to apply the theory to practical engineering problems. It presents a new approach to the topic without the need for complicated mathematics and the principles and meaning of stress concentration are covered without reliance on numerical analysis. Examples are included throughout and end of chapter problems and solutions are also provided."--

@@ -1,2 +1,0 @@
-Next generation communication networks for industrial internet of things systems
-"The text presents concepts and research challenges in communication networking for Industrial internet of things systems. It will serve as an ideal reference text for senior undergraduate, graduate students, and researchers in diverse engineering domains including electrical, electronics and communications, and computer science"--

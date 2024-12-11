@@ -1,2 +1,0 @@
-Lectures in Probability and Statistics : Lectures given at the Winter School in Probability and Statistics held in Santiago de Chile
-Theorie de la robustesse -- On the behavior of the hydrodynamical limit for stochastic particle systems -- Topics in advanced time series analysis -- Martingales with a multidimensional parameter and stochastic integrals in the plane.

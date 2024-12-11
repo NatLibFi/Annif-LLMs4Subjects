@@ -1,2 +1,0 @@
-PUE : a comprehensive examination of the metric
-"Simplifies the absorption and use of the PUE metric and allows executives to gain understanding of the concepts surrounding PUE, while providing application knowledge and resources to those implementing and reporting data center metrics"--

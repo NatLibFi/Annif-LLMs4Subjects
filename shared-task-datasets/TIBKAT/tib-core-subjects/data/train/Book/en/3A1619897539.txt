@@ -1,2 +1,0 @@
-Localization algorithms and strategies for wireless sensor networks
-"This book encompasses the significant and fast growing area of wireless localization technique"--Provided by publisher

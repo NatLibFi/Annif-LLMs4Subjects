@@ -1,2 +1,0 @@
-Nilpotent Groups
-Rudiments -- The upper central series -- Tensor products and the lower central series -- Idempotent radicals on the category of nilpotent groups -- Groups with abelian central quotient -- The Hall-Petresco formula and residual boundedness -- Completions and the structure of complete groups -- Localization -- Nilpotent actions, Kolchin’s theorem, and engel conditions -- Nilpotent groups admitting exponents in a ring -- Unipotent representations and Malcev completions of R-groups -- The Malcev correspondence.

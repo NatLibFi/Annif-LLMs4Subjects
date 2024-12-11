@@ -1,2 +1,0 @@
-Functional Reynolds stress modeling
-"Develops models for turbulence in fluid flow using the Reynolds stress equations. Applies the models to stationary and rotating flows including boundary layers, laminar to turbulent transition, and rapid distortion. Uses glyphs to visualize turbulence stress and spectrum tensors"--Provided by publisher

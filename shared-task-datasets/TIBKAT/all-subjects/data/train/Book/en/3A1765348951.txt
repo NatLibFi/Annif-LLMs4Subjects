@@ -1,2 +1,0 @@
-JavaScript everywhere : building cross-platform applications with GraphQL, React, React Native, and Electron
-JavaScript is the little scripting language that could.  Once used chiefly to add interactivity to web browser windows, JavaScript is now a primary building block of powerful and robust applications.  In this practical book, new and experienced JavaScript developers will learn how to use this language to create APIs as well as web, mobile, and desktop applications

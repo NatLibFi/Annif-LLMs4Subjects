@@ -1,2 +1,0 @@
-Proceedings of a Conference on Operator Theory : Dalhousie University, Halifax, Nova Scotia April 13th and 14th, 1973
-Intertwining, analytic structure, and the trace norm estimate -- Toeplitz operators on odd spheres -- Invariant subspaces of non-quasitriangular operators -- Unitary equivalence modulo the compact operators and extensions of C*-algebras -- Ext(X) from a homological point of view -- Integral operators: Traces, index, and homology -- The determinant invariant for operators with trace class self commutators.

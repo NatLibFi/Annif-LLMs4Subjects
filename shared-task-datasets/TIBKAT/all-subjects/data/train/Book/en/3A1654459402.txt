@@ -1,2 +1,0 @@
-Handbook of research on trends and digital advances in engineering geology
-"This book is on the new trends and technology, and especially on different computational methods that can model engineering phenomena automatically. It will open up possibilities of more rigorous analysis with new methods and technology so engineers can find the effective and efficient execution of their work to optimize very complicated and non-linear relations"--

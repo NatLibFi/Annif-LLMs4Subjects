@@ -1,2 +1,0 @@
-Gap-Sheaves and Estension of Coherent Analytic Subsheaves
-Preliminaries -- Singularities of coherent sheaves and their cohomology classes -- Primary decomposition and relative gap-sheaves -- Sheaves of local cohomology and absolute gap-sheaves -- Closedness of coboundary modules -- Duality -- ?-convexity -- Extension of analytic covers -- Subvariety extension. Projection lemma -- Subsheaf extension -- Globalization -- Historical notes.

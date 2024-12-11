@@ -1,2 +1,0 @@
-Project management process improvement
-No matter how perfect a project plan may be on paper, it is worthless if nobody actually uses it. This innovative guide shows you how to ensure that your team has the process capabilities needed to successfully carry out any project plan you put to paper. By using the SEI's Capability Maturity Model, The Project Management Maturity Model, and PMBOK Knowledge areas, you can baseline your team's process level to see how it measures up to those required by a project plan

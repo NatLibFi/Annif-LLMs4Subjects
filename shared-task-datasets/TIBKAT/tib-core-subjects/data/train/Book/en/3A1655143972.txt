@@ -1,2 +1,0 @@
-The Theory of Lie Superalgebras : An Introduction
-Preparatory remarks -- Formal constructions -- Simple Lie superalgebras -- A survey of some further developments.

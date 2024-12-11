@@ -1,2 +1,0 @@
-Amarts and Set Function Processes
-An introduction to the theory of asymptotic martingales -- Amarts — a measure theoretic approach -- Amarts - a bibliography.

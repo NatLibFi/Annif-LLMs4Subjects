@@ -1,3 +1,0 @@
-Grundkurs Algorithmen und Datenstrukturen in JAVA : Eine Einführung in die praktische Informatik
-Begriffsbildung -- Gleichwertige Lösungen -- Rekursion und Wiederholung -- Suchen -- Sortierverfahren -- Baumstrukturen -- Klassen von Algorithmen.
-Der Klassiker für Ausbildung und Studium aktualisiert für Java-Version 6. Er stellt die klassischen Informatik-Inhalte wie Sortieralgorithmen, Baumstrukturen, Komplexität, Rekursion und Algorithmenklassen bereit. Klare Ausrichtung an der Praxis, gute Verständlichkeit, leichte Lesbarkeit der Algorithmen, mit Online-Service.

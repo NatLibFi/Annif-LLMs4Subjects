@@ -1,2 +1,0 @@
-Verbundprojekt MIMOS Mikrosysteme in CMOS-Technologie : Abschlussbericht zum Teilvorhaben: Intelligentes Drucksensorsystem in CMOS-Technologie mit BESOI-Substraten ; Berichtszeitraum: 1.8.1996 - 31.1.2000
-Pressuresensor, micomechanics, microsystem, BESOI, CMOS, integration, monocrystallin, membrane, silicon, piezoresistive resistor

@@ -1,2 +1,0 @@
-Field guide to quantum mechanics
-Notation : constants, symbols, and operators -- Linear algebra -- Quantum mechanics formalism -- Postulates -- Bases and representations -- Operators -- Wavefunctions -- Time dependence, frames, and "pictures" -- Exactly solvable problems -- Angular momentum -- Two-level systems and spin 1=2 -- Net angular momentum -- Approximation methods -- Hydrogen and atomic structure -- Advanced topics -- Appendix.

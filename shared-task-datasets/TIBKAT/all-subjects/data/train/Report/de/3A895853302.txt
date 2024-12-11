@@ -1,2 +1,0 @@
-Grundzüge der nichtlinearen Optimierung
-"Das vorliegende Lehrbuch ist eine Einführung in die nichtlineare Optimierung, die mathematische Sachverhalte einerseits stringent behandelt, sie aber andererseits auch sehr ausführlich motiviert und mit 39 Abbildungen illustriert."--

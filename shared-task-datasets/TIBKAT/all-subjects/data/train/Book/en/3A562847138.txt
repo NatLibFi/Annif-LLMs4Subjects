@@ -1,2 +1,0 @@
-Linux device drivers : [where the Kernel meets the hardware]
-This is, on the surface, a book about writing device drivers for the Linux system.That is a worthy goal, of course; the flow of new hardware products is not likely to slow down anytime soon, and somebody is going to have to make all those new gadgets work with Linux. But this book is also about how the Linux kernel works and how to adapt its workings to your needs or interests. Linux is an open system; with this book, we hope, it is more open and accessible to a larger community of developers.

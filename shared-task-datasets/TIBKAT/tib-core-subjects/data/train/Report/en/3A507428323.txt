@@ -1,2 +1,0 @@
-Modern software review: techniques and technologies
-"This book provides an understanding of the critical factors affecting software review performance and to provide practical guidelines for software reviews"--Provided by publisher

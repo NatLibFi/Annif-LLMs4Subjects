@@ -1,2 +1,0 @@
-The noisy pendulum
-Formulation of the problem -- Overdamped pendulum  -- Underdamped pendulum --  Deterministic chaos -- Inverted pendulum

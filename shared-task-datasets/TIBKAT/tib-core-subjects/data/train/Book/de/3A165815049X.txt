@@ -1,3 +1,0 @@
-Betriebssysteme kompakt
-Speicherverwaltung, Hardwareverwaltung, Prozessadministration und Interprozesskommunikation sind zentrale Bereiche von Betriebssystemen. Die Konzepte und Prinzipien, auf denen klassische und moderne Betriebssysteme basieren, erläutert der Autor anhand von einschlägigen Aufgabenstellungen und Lösungen. Das Werk gibt damit eine verständliche Einführung in die Architektur von Betriebssystemen und eignet sich deshalb auch für die Lehre im Bachelorstudium. .
-Einleitung -- Grundlagen der Informationstechnik -- Grundlagen der Betriebssysteme -- Grundlagen der Rechnerarchitektur -- Speicherverwaltung -- Dateisysteme -- Systemaufrufe -- Prozessverwaltung -- Interprozesskommunikation -- Emulation und Virtualisierung -- Literatur -- Index.

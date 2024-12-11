@@ -1,2 +1,0 @@
-Physical chemistry of polyelectrolyte solutions
-Introductory remarks -- Thermodynamic properties of polyelectrolyte solutions -- Ionization equilibrium and potentiometric titration of weak polyelectrolytes -- Molecular conformation of linear polyelectrolytes -- Radius of gyration and intrinsic viscosity of linear polyelectrolytes -- Transport phenomena of linear polyelectrolytes -- Ion binding

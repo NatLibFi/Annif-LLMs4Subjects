@@ -1,2 +1,0 @@
-Rewriting Techniques and Applications : 12th International Conference, RTA 2001 Utrecht, The Netherlands, May 22–24, 2001 Proceedings
-This book constitutes the refereed proceedings of the 12th International Conference on Rewriting Techniques and Applications, RTA 2001, held in Utrecht, The Netherlands, in May 2001. The 23 revised full papers presented together with two system descriptions were carefully reviewed and selected from 55 submissions. All current aspects of rewriting are addressed

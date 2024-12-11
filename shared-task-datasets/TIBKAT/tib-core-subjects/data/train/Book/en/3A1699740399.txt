@@ -1,2 +1,0 @@
-Schrödinger's web : race to build the quantum internet
-"As the race to build the world's first quantum computer is coming to an end, the race to build the quantum internet has just started. This book leverages the author's unique insights into both the Chinese and American quantum programs. It begins with the physics and history of the quantum internet and ends with the latest results in quantum computing and quantum networks"--

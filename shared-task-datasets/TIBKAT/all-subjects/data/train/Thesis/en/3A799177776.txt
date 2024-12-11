@@ -1,2 +1,0 @@
-Applications in computational finance with a focus on approximation of financial time series by neurocomputing
-Neural network, financial time series, approximation, forecasting. - Neuronale Netze, Finanzzeitreihen, Prognose

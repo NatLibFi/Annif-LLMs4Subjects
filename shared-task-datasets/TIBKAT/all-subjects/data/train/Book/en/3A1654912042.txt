@@ -1,3 +1,0 @@
-Operator Approximant Problems Arising from Quantum Theory
-What this book is about: approximants -- Preliminaries -- Self-adjoint and positive approximants -- Commutator approximants -- Spectral, and numerical range, approximants -- Unitary, isometric and partially isometric approximation of positive operators
-This book offers an account of a number of aspects of operator theory, mainly developed since the 1980s, whose problems have their roots in quantum theory. The research presented is in non-commutative operator approximation theory or, to use Halmos' terminology, in operator approximants. Focusing on the concept of approximants, this self-contained book is suitable for graduate courses

@@ -1,2 +1,0 @@
-Imaginary Schur-Weyl duality
-Preliminaries -- Khovanov-Lauda-Rouquier alebras -- Imaginary Schur-Weyl duality -- Imaginary Howe duality -- Morita equaivalence -- On formal characters of imaginary modules -- Imaginary tensor space for non-simply-laced types

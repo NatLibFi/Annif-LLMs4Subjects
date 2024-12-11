@@ -1,2 +1,0 @@
-Powershell in practice [get going ; get savvy ; 205 pracitcal techniques]
-PowerShell fundamentals -- Learning PowerShell -- PowerShell toolkit -- Automating administration -- User accounts -- Mailboxes -- Desktop -- Windows servers -- DNS -- Active Directory structure -- Active Directory topology -- Exchange Server 2007 and 2010 -- IIS 7 -- SQL server -- PowerShell innovations

@@ -1,2 +1,0 @@
-Schlussbericht zum Projekt map Multimedia-Arbeitsplatz der Zukunft : Komponenten zur Mensch-Maschine-Interaktion, Mobilitätsunterstützung und Benutzerassistenz ; [Laufzeit: 01.04.2000 bis 30.06.2003]
-Men-machine-interaction, mobile systems, assistance, delegation, multimodal interaction, context management, situation-awareness, anthropomorphic interfaces, digital storytelling, narrative interfaces, software agents, speech processing

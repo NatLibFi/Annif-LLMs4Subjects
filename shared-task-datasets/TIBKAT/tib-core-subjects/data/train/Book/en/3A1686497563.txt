@@ -1,2 +1,0 @@
-Fundamentals of graphics using MATLAB
-"This book introduces fundamental concepts and principles of 2D and 3D graphics and illustrates the use of MATLAB for this purpose. The objectives are to demonstrate how MATLAB can be used to solve graphics problems and to help the reader gain an indepth knowledge about the subject matter through visual representations and practical examples"--

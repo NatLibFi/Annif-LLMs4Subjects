@@ -1,2 +1,0 @@
-Silizium-Chipsystem für die biochemische Analysentechnik : Elektroanalytik, Chip-Modul, Auslesegerät und Systemintegration, Teilprojekt ME1 ; SiBAnaT-Projekt-Abschlussbericht ; Arbeitspakete D1, E7, F1, F3, F4, G1, G2, H6, H7, I1, J1 ; Berichtszeitraum: 01.04.2000 - 31.03.2003 ; [Schlussbericht]
-Bioelectronic, biochip, electrical biochip, DNA-chip, redox cycling, DNA-assay, hybridisation, DNA-ELISA

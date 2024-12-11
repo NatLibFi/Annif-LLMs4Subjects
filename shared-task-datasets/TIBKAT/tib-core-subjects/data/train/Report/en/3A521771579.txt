@@ -1,2 +1,0 @@
-Contemporary issues in database design and information systems development
-"This book presents the latest research ideas and topics on databases and software development. It provides a representation of top notch research in all areas of database and information systems development"--Provided by publisher

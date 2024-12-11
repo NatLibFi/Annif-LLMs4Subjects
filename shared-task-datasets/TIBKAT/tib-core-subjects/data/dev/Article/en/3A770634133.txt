@@ -1,2 +1,0 @@
-Proposal and Development of Ultrasonic Motion Control Mechanism
-Ultrasonic motion control mechanism, ultrasonic vibration, traveling wave, friction reduction effect, self-locking

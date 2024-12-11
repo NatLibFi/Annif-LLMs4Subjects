@@ -1,2 +1,0 @@
-Computer and intrusion forensics
-Foreword / Eugene Spafford -- 1. Computer Crime, Computer Forensics, and Computer Security -- 2. Current Practice -- 3. Computer Forensics in Law Enforcement and National Security -- 4. Computer Forensics in Forensic Accounting --

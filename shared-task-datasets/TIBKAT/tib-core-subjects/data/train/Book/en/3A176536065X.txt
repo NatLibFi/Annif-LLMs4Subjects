@@ -1,2 +1,0 @@
-High-k materials in multi-gate FET devices
-"This book focuses on high-k materials for advanced FET devices. It discusses emerging challenges in the engineering and applications and considers issues with associated technologies. This work will be of high interest to researchers in materials science, electronics engineering, IT, and related disciplines studying nanodevices such as FinFET and Tunnel FET and device-circuit codesign issues"--

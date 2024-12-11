@@ -1,2 +1,0 @@
-Empirische Sozialforschung mit Python : Daten automatisiert sammeln, auswerten, aufbereiten
-In Zeiten von „Big Data“ wird es zunehmend wichtiger, Datenprozesse automatisieren zu können. In diesem Buch wird die Programmsprache Python dazu eingesetzt, Daten automatisiert zu erheben, diese auszuwerten und Zusammenhänge zu visualisieren. Die Beispiele sind einfach gehalten und können jedoch auf eigene, komplexere Vorhaben übertragen werden. Daher eignet sich das Buch für all jene, die noch keine Erfahrung mit der Programmierung gesammelt haben.

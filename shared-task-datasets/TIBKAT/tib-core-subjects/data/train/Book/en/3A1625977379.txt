@@ -1,2 +1,0 @@
-Finite elements : theory and algorithms
-"Starts with a brief introduction to Sobolev spaces and elliptic scalar problems and continues with explanation of finite element spaces and estimates for the interpolation error"--

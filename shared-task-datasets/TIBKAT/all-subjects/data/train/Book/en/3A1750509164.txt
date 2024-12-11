@@ -1,2 +1,0 @@
-One-dimensional turbulence and the stochastic Burgers equation
-Basic results -- Asymptotically sharp estimates for Sobolev norms of solutions -- Mixing in the stochastic Burgers equation -- Stochastic Burgers equation in the space L -- Notes and comments, I -- Turbulence and burgulence -- Rigorous burgulence -- The inviscid limit and inviscid burgulence -- Notes and comments, II -- Miscellanea -- Appendices -- Solutions for selected exercises.

@@ -1,2 +1,0 @@
-A course in stochastic game theory
-"Stochastic games are a mathematical model that is used to study dynamic interactions among agents who in uence the evolution of the environment. These games were  rst presented and studied by Lloyd Shapley (1953).1;2 Since Shapley's seminal work, the literature on stochastic games expanded considerably, and the model was applied to numerous areas, such as arm race,  shery wars, and taxation"--

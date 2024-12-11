@@ -1,2 +1,0 @@
-Mathematics, physics & chemistry with the Wolfram language
-"This book presents applications of the Wolfram language to applied mathematics, physics and chemistry. It features almost 200 Wolfram Demonstrations, and focuses heavily on quantum theory"--

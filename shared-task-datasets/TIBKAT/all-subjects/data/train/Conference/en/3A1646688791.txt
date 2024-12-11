@@ -1,2 +1,0 @@
-Artificial Intelligence and Soft Computing ? ICAISC 2006 : 8th International Conference, Zakopane, Poland, June 25-29, 2006, Proceedings
-Neural Networks and Their Applications -- Fuzzy Systems and Their Applications -- Evolutionary Algorithms and Their Applications -- Rough Sets -- Classification and Clustering -- Image Analysis and Robotics -- Bioinformatics and Medical Applications -- Various Problems of Artificial Intelligence.

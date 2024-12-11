@@ -1,2 +1,0 @@
-Beginning ASP.NET 4.5 in VB : [learn to create websites quickly and easily with Microsoft's innovative web technology]
-Pt. 1. Introducing .NET -- pt. 2. Developing ASP.NET applications -- pt. 3. Building better web forms -- pt. 4. Working with data -- pt. 5. Website security -- pt. 6. Advanced ASP.NET

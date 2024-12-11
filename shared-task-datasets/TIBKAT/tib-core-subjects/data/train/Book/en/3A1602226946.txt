@@ -1,2 +1,0 @@
-HTML & CSS : the good parts
-"HTML and CSS are the workhorses of web design, but using them together to build consistent, reliable web pages is difficult if you're relying on outdated, confusing, and unnecessary HTML hacks and workarounds. With this practical book, you'll learn how to work with these tools far more effectively than is standard practice for most web developers. You'll learn how to connect the underlying theory and design of HTML and CSS to your everyday work habits."--BOOK JACKET

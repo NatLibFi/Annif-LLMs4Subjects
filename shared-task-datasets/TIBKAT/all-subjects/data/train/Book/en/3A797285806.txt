@@ -1,2 +1,0 @@
-Handbook of research on synthesizing human emotion in intelligent systems and robotics
-"This book presents a solid framework for taking human-robot interaction closer to its full potential, presenting a close look at all the factors involved in modeling emotions and applying a thorough understanding of human emotional recognition to technology"--

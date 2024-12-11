@@ -1,2 +1,0 @@
-The art and science of ultrawideband antennas
-Includes numerous new problem sets and worked examples, this comprehensive treatment of ultrawideband (UWB) antennas and time-domain microwave engineering serves as an invaluable practical reference for anyone involved in antenna and RF design work. --

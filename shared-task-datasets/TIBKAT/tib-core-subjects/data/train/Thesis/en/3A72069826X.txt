@@ -1,2 +1,0 @@
-Finite-dimensional approximations of quantum systems and Connes' embedding conjecture
-Infinite-dimensional quantum systems, operator systems, C*-algebras. - Unendlichdimensionale Quantensysteme, Operatorsysteme, C*-Algebren

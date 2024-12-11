@@ -1,2 +1,0 @@
-Die Finite-Elemente-Methode für Anfänger
-Verlagstext: Die Finite-Elemente-Methode ist eine grundlegende mathematische Technik zur Behandlung von Differentialgleichungs- und Variationsproblemen, die

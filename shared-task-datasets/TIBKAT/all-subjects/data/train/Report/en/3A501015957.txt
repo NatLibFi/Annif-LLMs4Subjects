@@ -1,2 +1,0 @@
-A collection of examples for termination of term rewriting using dependency pairs
-This report contains a collection of examples to demonstrate the use and the power of the dependency pair technique developed by Arts and Giesl. This technique allows automated termination and innermost termination proofs for many term rewrite systems for which such proofs were not possible before.

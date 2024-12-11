@@ -1,2 +1,0 @@
-Malware forensics field guide for Linux systems : digital forensics field guides
-Malware incident response -- Linux memory forensics -- Postmortem forensics -- Legal considerations -- File identification and profiling -- Analysis of a malware specimen

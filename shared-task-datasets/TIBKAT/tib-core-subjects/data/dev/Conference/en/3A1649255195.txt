@@ -1,2 +1,0 @@
-Software Process Technology : 8th European Workshop, EWSPT 2001 Witten, Germany, June 19–21, 2001 Proceedings
-This book constitutes the refereed proceedings of the 8th European Workshop on Software Process Technology, EWSPT 2001, held in Witten, Germany, in June 2001. The 18 revised full papers presented were carefully reviewed and selected from 31 submissions. Among the areas addressed are process evolution, experiences, mobility and distribution, UML process patterns, and process improvement

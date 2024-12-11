@@ -1,2 +1,0 @@
-The ArcGIS book : 10 big ideas about applying geography to your world
-"This book helps you understand and use WEB GIS, a powerful mapping technology that is transforming the way we apply and share geographic information."  -- Back cover

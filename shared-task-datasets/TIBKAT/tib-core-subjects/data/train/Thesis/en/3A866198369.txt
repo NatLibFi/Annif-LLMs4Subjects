@@ -1,2 +1,0 @@
-Path-resolved electron transport in a triangular triple quantum dot system
-Triple quantum dots, path-resolved transport, Coulomb correlations. - Dreifachquantenpunkte, pfadaufgelöster Transport, Coulomb-Korrelationen

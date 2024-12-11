@@ -1,2 +1,0 @@
-Quality of service architectures for wireless networks : performance metrics and management
-"This book further explores various issues and proposed solutions for the provision of Quality of Service (QoS) on the wireless networks"--Provided by publisher

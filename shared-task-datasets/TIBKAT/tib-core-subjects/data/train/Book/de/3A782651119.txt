@@ -1,2 +1,0 @@
-Knigge für Softwarearchitekten : reloaded
-Gut lesbare Ergänzung zu Lehrbüchern der Softwarearchitektur, geschrieben von 2 Praktikern. Es werden Erfolgsmuster der Projektbegleitung, aber auch Fehlschläge geschildert. Ergänzte Neuauflage von "Knigge für Softwarearchitekten

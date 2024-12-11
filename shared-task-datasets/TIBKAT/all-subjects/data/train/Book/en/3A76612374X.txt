@@ -1,2 +1,0 @@
-ASP.NET MVC 4 and the Web API : building a REST service from start to finish ; [build cutting-edge rest services with ASP.NET WEB API and ASP.NET MVC 4]
-ASP.NET MVC as a service framework -- What is RESTful? -- Designing the sample REST API -- Building the environment and creating the source tree -- Controllers, dependencies, and managing the database unit of work -- Securing the service -- Putting it all together

@@ -1,2 +1,0 @@
-Least-squares finite element methods for coupled generalized Newtonian Stokes-Darcy flow
-Least-squares finite element method, non-Newtonian fluids, Beavers-Joseph-Saffman condition, a-posteriori error estimator, adaptive refinement, Gauß-Newton method. - Least-squares Finite-Element-Methode, nichtnewtonsche Fluide, Beavers-Joseph-Saffman Bedingung, a-posteriori Fehlerschätzer, adaptive Verfeinerung, Gauß-Newton Verfahren

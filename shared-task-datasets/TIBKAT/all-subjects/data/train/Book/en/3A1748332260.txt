@@ -1,2 +1,0 @@
-Electrotherapeutic devices : principles, design, and applications
-Electrotherapy is fast gaining mainstream acceptance, no doubt due to the growing mountain of clinical evidence demonstrating its effectiveness. To meet the growing demand for information, this scientifically rigorous guide gives healthcare professionals and engineers essential technical, biological, and clinical background together with hands-on guidelines to design highly effective electrotherapeutic devices and treatment protocols for today?s expanding list of clinical applications

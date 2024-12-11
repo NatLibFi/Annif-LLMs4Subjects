@@ -1,2 +1,0 @@
-Learn Swift 2 on the Mac
-"Swift is Apple's new, native, fast, and easy to learn programming language for iOS, watchOS, tvOS and OS X app development."--

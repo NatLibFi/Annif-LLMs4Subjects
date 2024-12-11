@@ -1,2 +1,0 @@
-Difference and differential equations with applications in queueing theory
-"This book features a collection of topics that are used in stochastic processes and, particularly, in queueing theory. Differential equations, difference equations, and Markovian queues (as they relate to systems of linear differential difference equations) are presented, and the relationship between the methods and applications are thoroughly addressed"--

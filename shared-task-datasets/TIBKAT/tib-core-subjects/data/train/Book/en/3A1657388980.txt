@@ -1,2 +1,0 @@
-Environmental information systems : concepts, methodologies, tools, and applications
-"This book is an innovative reference source for the latest research on the use of information systems for tracking and organizing environmental data for use in an overall environmental management system. Highlighting a range of topics such as environmental analysis, remote sensing, and geographic information science"--

@@ -1,2 +1,0 @@
-HTML5 und CSS3 : Semantik - Design - Responsive Layouts
-Dieser Band der "Bibliothek der Mediengestaltung" bietet eine kompakte Einführung in die Webstandards HTML5 und CSS3 als Basis zur Erstellung multimedialer und responsiver Webseiten. Aus dem Inhalt: Semantik - Design - Responsive Layouts - Lesbarkeit

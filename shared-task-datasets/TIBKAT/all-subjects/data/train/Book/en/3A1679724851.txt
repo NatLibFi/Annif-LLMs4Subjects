@@ -1,2 +1,0 @@
-Nonlinear regression
-Model building -- Estimation methods -- Commonly encountered problems -- Measures of curvature and nonlinearity -- Statistical inference -- Autocorrelated errors -- Growth models -- Compartmental models -- Multiphase and spline regressions -- Errors-in-variables models -- Multiresponse nonlinear models -- Asymptotic theory -- Unconstrained optimization -- Computational methods for nonlinear least squares -- Software considerations -- Appendices -- References -- Author index -- Index

@@ -1,2 +1,0 @@
-Channel equalization for wireless communications : from concepts to detailed mathematics
-1 Introduction 1 -- 2 Matched Filtering 31 -- 3 Zero-Forcing Decision Feedback Equalization 57 -- 4 Linear Equalization 69 -- 5 MMSE and ML Decision Feedback Equalization 99 -- 6 Maximum Likelihood Sequence Detection 115 -- 7 Advanced Topics 151 -- 8 Practical Considerations 173

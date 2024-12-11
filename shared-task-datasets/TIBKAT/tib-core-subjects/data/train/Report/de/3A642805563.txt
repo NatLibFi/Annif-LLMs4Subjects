@@ -1,2 +1,0 @@
-Übungsaufgaben zur Mathematik für Ingenieure : mit durchgerechneten und erklärten Lösungen
-Verlagstext: In diesem Übungsbuch werden etwa 160 Aufgaben zur Ingenieurmathematik im Detail durchgerechnet und erklärt. Im Gegensatz zu vielen anderen Übungsbüchern zur Mathematik zeigt der Autor seinen Lesern, wie solche Aufgaben vom ersten Ansatz bis zum Ergebnis zu lösen sind. Der Hauptteil der Übungen bezieht sich auf die im Lehrbuch Mathematik für Ingenieure" desselben Autors angegebenen Aufgaben

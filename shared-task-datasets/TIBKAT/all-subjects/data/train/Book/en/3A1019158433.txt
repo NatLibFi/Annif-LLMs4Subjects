@@ -1,2 +1,0 @@
-High-dimensional probability : an introduction with applications in data science
-Preliminaries on random variables -- Concentration of sums of independent random variables -- Random vectors in high dimensions -- Random matrices -- Concentration without independence -- Quadratic forms, symmetrization and contraction -- Random processes -- Chaining -- Deviations of random matrices and geometric consequences -- Sparse recovery -- Dvoretzky-Milman's theorem

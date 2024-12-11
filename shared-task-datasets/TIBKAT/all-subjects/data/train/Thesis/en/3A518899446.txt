@@ -1,2 +1,0 @@
-hp-version of the boundary element method for electromagnetic problems : error analysis, adaptivity, preconditioners
-Extension operators, iterative substructuring, preconditioners, FEM/BEM-coupling, Maxwell's equations, a posteriori error estimates

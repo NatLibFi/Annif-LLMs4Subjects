@@ -1,2 +1,0 @@
-The book of CSS3 : a developer's guide to the future of web design
-This completely updated second edition of the best-selling Book of CSS3 distills the dense technical language of the CSS3 specification into plain English and shows you what CSS3 can do now, in all major browsers. You'll find fully revised coverage of the updated syntax of gradients, grids, and flexible box layout, as well as all-new chapters on values and sizing, and graphical effects like filter effects and blend modes

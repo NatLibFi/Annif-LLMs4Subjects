@@ -1,2 +1,0 @@
-Beginning big data with Power BI and Excel 2013
-"Solve business problems by tapping the power of Microsoft Excel and Power BI to import data from NoSQL and SQL databases and other sources, create relational data models, and analyze business problems through sophisticated dashboards and data-driven maps"--Back cover

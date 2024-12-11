@@ -1,2 +1,0 @@
-Drinfeld Modular Curves
-Notations -- Drinfeld modules -- Lattices -- Partial zeta functions -- Drinfeld modules of rank 1 -- Modular curves over C -- Expansions around cusps -- Modular forms and functions -- Complements.

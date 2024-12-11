@@ -1,2 +1,0 @@
-Mac OS X in a nutshell : [a desktop quick reference ; covers Mac OS X 10.2]
-Complete overview of Mac OS Jaguar (Mac OS X 10.2) including basic system and network administration features, hundreds of tips and tricks, with an overview of Mac OS X's Unix text editors and CVS

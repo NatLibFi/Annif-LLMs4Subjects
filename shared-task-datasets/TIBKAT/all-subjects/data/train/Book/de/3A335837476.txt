@@ -1,2 +1,0 @@
-Das große Buch Access 2002-Programmierung
-Rez.: Helma Spona ist schon bekannt durch einige andere Titel aus dem Access-Bereich (BA 2/00; 10/99). Mit ihrem neuen Werk liefert die Autorin eine Praxis-Referenz zur Erstellung von auf Access basierenden Anwendungen. Beginnend bei den Grundlagen von VBA

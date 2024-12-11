@@ -1,2 +1,0 @@
-Computational aspects of dependence logic
-Dependence logic, computational complexity, modal logic, expressivity, satisfiability, model checking, two-variable logic, independence-friendly logic, intuitionistic logic. - Dependence-Logik, Komplexität, Modallogik, Erfüllbarkeit, Zwei-Variablen-Logik, Independence-friendly-Logik, intuitionistische Logik

@@ -1,2 +1,0 @@
-The [d-bar]-Neumann problem and Schrödinger operators
-Publisher’s description: This book’s subject lies in the nexus of partial differential equations, operator theory, and complex analysis. The spectral analysis of the complex Laplacian and the compactness of the d-bar-Neumann operator are primary topics. The revised 2nd edition explores updates to Schrödinger operators with magnetic fields and connections to the Segal Bargmann space (Fock space), to quantum mechanics, and the uncertainty principle.

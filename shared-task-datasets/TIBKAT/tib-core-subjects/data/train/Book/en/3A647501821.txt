@@ -1,2 +1,0 @@
-Professional Windows 7 development guide
-Describes the features of Windows 7, covering such topics as security policies, Windows Firewall, user account control, the Ribbon, libraries, Windows PowerShell, and 64-bit programming

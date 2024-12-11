@@ -1,2 +1,0 @@
-Power system stability : modelling, analysis and control
-The following topics are dealt with: power system stability; synchronous machine; transformer modelling; transmission lines; power flow; transient stability; stability enhancement; series compensation; shunt compensation and compensation devices

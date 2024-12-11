@@ -1,2 +1,0 @@
-Computational Methods for SNPs and Haplotype Inference : DIMACS/RECOMB Satellite Workshop, Piscataway, NJ, USA, November 21-22, 2002. Revised Papers
-This book constitutes the post-proceedings of the DIMACS/RECOMB Satellite Workshop on Computational Methods for SNPs and Haplotype Inference held in Piscataway, NJ, USA, in November 2002. The book presents ten revised full papers as well as abstracts of the remaining workshop papers. All relevant current issues in computational methods for SNP and haplotype analysis and their applications to disease associations are addressed

@@ -1,2 +1,0 @@
-SharePoint 2013 : users guide ; learning Microsoft's business collaboration platform ; [master the features and capabilities of the Sharepoint 2013 platform]
-Provides an examination of the next generation of Microsoft SharePoint technologies, explaining how to use the technologies to extend the information sharing and collaboration capabilities to develop enterprise information management, sharing and collaboration solutions

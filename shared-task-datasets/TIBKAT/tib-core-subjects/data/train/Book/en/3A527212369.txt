@@ -1,2 +1,0 @@
-Practical ruby for system administration : [apply the power and elegance of Ruby to the job of system administration]
-Provides information on using Ruby in system administration, covering such topics as building files, object storage and retrieval, working with enterprise data, network monitoring, and testing and documentation

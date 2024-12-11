@@ -1,2 +1,0 @@
-Advanced computational vibroacoustics : reduced-order models and uncertainty quantification
-This book presents an advanced computational method for the prediction of sound and structural vibrations in several industries

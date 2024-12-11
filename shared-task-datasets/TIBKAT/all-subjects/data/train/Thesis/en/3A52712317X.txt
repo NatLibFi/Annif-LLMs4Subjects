@@ -1,2 +1,0 @@
-Grundlagenuntersuchungen zur Entwicklung eines langzeitstabilen Kaltkathoden-Ionisationsmanometers vom inversen Magnetron-Typ
-Cold-cathode gauge, vacuum gauge, inverted magnetron gauge, crossed-field gauge, Penning gauge, contamination, ion baffle, measuring stability

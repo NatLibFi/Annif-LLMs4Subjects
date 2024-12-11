@@ -1,2 +1,0 @@
-Oracle Database 11g : new features for DBAs and developers ; [learn the powerful new features in Oracle Database 11g and advance to the cutting-edge of Oracle database administration and development ; all major features of Oracle Database 11g Release 1 tested and explained]
-A guide to the features of Oracle Database 11g covers such topics as database administration, performance management, database security, backup and recovery, Oracle streams, storage management, application development, and data warehousing

@@ -1,2 +1,0 @@
-Integration Theory (with Special Attention to Vector Measures)
-Riesz spaces and elementary integrals -- Upper gauges and extension theory -- Measurability -- Elementary operations on measure spaces -- Liftings and derivatives.

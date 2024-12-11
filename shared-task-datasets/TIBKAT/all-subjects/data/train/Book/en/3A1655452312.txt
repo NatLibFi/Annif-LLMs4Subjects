@@ -1,2 +1,0 @@
-Workshop Statistics : Discovery with Data and Minitab®
-Workshop Statistics: Discovery Through Data is one of the most successful new textbooks in recent years, emphasizing a hands-on, laboratory approach to introductory statistics. For this version author Allan Rossman is joined by Beth Chance, University of the Pacific, and in it they incorporate Minitab commands and worksheets. This version is intended for use in classes using Minitab

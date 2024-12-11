@@ -1,2 +1,0 @@
-Context-Based Routing in Dynamic Networks
-Bernd-Ludwig Wenning presents a context-based routing framework which can be applied to routing in different application domains. The routing framework includes the signaling as well as a decision system that is applied for route selection. <br><br>

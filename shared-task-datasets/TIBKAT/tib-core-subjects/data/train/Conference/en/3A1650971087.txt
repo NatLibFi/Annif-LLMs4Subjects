@@ -1,2 +1,0 @@
-Problemi di geometria differenziale in grande
-Lectures: C.B. Allendörfer: Global differential geometry of imbedded manifolds.- Seminars: P. Libermann: Pseudo-groupes infitésimaux.

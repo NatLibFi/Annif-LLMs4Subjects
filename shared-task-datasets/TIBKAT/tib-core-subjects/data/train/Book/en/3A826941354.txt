@@ -1,2 +1,0 @@
-BeagleBone essentials : harness the power of the BeagleBone Black to manage external environments using C, Bash, and Python/PHP programming
-If you are a developer with some hardware or electrical engineering experience who wants to learn how to use embedded machine-learning capabilities and get access to a GNU/Linux device driver to collect data from a peripheral or to control a device, this is the book for you

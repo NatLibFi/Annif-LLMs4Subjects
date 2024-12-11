@@ -1,2 +1,0 @@
-Modeling, Estimation, and Their Applications for Distributed Parameter Systems
-Mathematical preliminaries -- Optimal estimation problems for a distributed parameter system -- Existence theorems for the optimal estimations -- Optimal sensor location problems -- Stochastic optimal control problems.

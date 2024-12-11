@@ -1,2 +1,0 @@
-Einstein Relation in Compound Semiconductors and their Nanostructures
-Deals with the Einstein relation in compound semiconductors and their nanostructures. This book considers materials such as nonlinear optical, III-V, ternary, quaternary, II-VI, IV-VI, Bismuth, stressed compounds, quantum wells, quantum wires, nipi structures, carbon nanotubes, heavily doped semiconductors, and inversion layers

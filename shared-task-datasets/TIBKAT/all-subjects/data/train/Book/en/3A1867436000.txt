@@ -1,2 +1,0 @@
-Discrete mathematics with coding
-"The book is an attempt to integrate coding with discrete mathematics in the hopes that each discipline will complement the other and allow for a fuller treatment of concrete mathematical computations. Mathematics provides fertile ground for interesting, useful, and certainly nontrivial programs"--

@@ -1,2 +1,0 @@
-Making spatial decisions using Gis : a workbook
-Making Spatial Decisions Using GIS: A Workbook, Second Edition, provides scenario-based lessons that develop GIS skills and critical thinking. Students will use organized workflows, spatial analysis, and visualization to make decisions rooted in real-world issues about crime, hazards, hurricanes, demographics, and urban planning.--Publisher's description

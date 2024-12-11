@@ -1,2 +1,0 @@
-Diophantine Approximations and Value Distribution Theory
-Heights and integral points -- Diophantine approximations -- A correspondence with Nevanlinna theory -- Consequences of the main conjecture -- The ramification term -- Approximation to hyperplanes.

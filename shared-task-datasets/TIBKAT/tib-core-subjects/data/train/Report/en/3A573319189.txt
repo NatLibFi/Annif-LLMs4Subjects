@@ -1,2 +1,0 @@
-Computational fluid dynamics : an introduction
-This text provides an elementary tutorial presentation on computational fluid dynamics (CFD), emphasizing the fundamentals and surveying a variety of solution techniques whose applications range from low speed incompressible flow to hypersonic flow

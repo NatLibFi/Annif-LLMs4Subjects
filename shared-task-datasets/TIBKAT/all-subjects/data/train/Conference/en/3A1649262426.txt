@@ -1,2 +1,0 @@
-Job Scheduling Strategies for Parallel Processing : 7th International Workshop, JSSPP 2001 Cambridge, MA, USA, June 16, 2001 Revised Papers
-This book constitutes the thoroughly refereed post-proceedings of the 7th International Workshop on Job Scheduling Strategies for Parallel Processing, JSSPP 2001, held in Cambridge, MA, USA, in June 2001. The 11 revised full papers presented were carefully selected and improved during two rounds of reviewing and revision, and present state-of-the-art results in the area

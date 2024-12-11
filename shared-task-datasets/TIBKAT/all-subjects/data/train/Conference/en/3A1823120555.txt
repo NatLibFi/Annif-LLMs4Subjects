@@ -1,2 +1,0 @@
-Advances in computing : 15th Colombian Congress, CCC 2021, Bogota, Colombia, November 22-26, 2021, revised selected papers
-This book constitutes revised selected papers from the refereed proceedings of the 15th Colombian Congress on Advances in Computing, CCC 2021, held in Bogotá, Colombia, during November 22-26, 2021.The 8 full papers and 2 short papers included in this book were carefully reviewed and selected from 47 submissions. They were organized in topical sections as follows: Artificial intelligence; educational informatics; and information systems

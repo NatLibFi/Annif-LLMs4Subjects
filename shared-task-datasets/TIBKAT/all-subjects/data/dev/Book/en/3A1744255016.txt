@@ -1,2 +1,0 @@
-C programming
-Provides informaton on how to write computer programs using the C programming language, guiding readers logically through the development cycle, from initial design and testing to deployment and live iteration

@@ -1,2 +1,0 @@
-Advanced numerical and theoretical methods for photonic crystals and metamaterials
-This book provides a set of theoretical and numerical tools useful for the study of wave propagation in metamaterials and photonic crystals. While concentrating on electromagnetic waves, most of the material can be used for acoustic (or quantum) waves. For each presented numerical method, numerical code written in MATLAB® is presented. The codes are limited to 2D problems and can be easily translated in Python or Scilab, and used directly with Octave as well.

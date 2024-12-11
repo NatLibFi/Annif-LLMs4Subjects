@@ -1,2 +1,0 @@
-Function Theory on Manifolds Which Possess a Pole
-Preliminaries -- The Hessian comparison theorem -- Sub-mean-value theorem for subharmonic functions -- Quasi-isometry of the exponential map and the absence of positive harmonic functions -- New criterion of hyperbolicity -- Bounded exhaustion functions and a new class of hyperbolic Kähler manifolds -- A digression -- The Bergman metric -- Manifolds biholomorphic to ?n.

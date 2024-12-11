@@ -1,2 +1,0 @@
-Java leicht gemacht : eine verständliche Einführung in die Programmiersprache
-Anwendungsorientierte Einführung in die Programmiersprache Java. Auch zum Selbststudium und für die gymnasiale Oberstufe geeignet. Viele Aufgaben (mit Lösungen).

@@ -1,2 +1,0 @@
-The limits of resolution
-Early concepts of resolution -- Beyond the 2WT theorem -- Elementary functional analysis -- Resolution and ill-posedness -- Optimisation -- Deterministic methods for linear inverse problems -- Convolution equations and deterministic spectral analysis -- Statistical methods and resolution -- Some applications in scattering and absorption -- Resolution in microscopy

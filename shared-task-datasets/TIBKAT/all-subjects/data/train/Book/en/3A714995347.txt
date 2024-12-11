@@ -1,2 +1,0 @@
-Bayesian bounds for parameter estimation and nonlinear filtering / tracking
-Bayesian Cramér-Rao Bounds -- Global Bayesian Bounds -- Hybrid Bayesian Bounds -- Constrained Cramér-Rao Bounds -- Applications: Static Parameters -- Nonlinear Stochastic Dynamic Systems -- Applications: Nonlinear Dynamic Systems -- Statistical Literature

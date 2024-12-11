@@ -1,2 +1,0 @@
-Holomorphic Q Classes
-Fundamental Material -- Composite Embedding -- Series Expansions -- Modified Carleson Measures -- Inner-Outer Structure -- Pseudo-holomorphic Extension -- Representation via ?-equation -- Dyadic Localization.

@@ -1,2 +1,0 @@
-The Schur Subgroup of the Brauer Group
-Schur algebras -- Cyclotomic algebras -- The brauer-witt theorem -- The schur subgroup of a p-adic field, p?2 -- The schur subgroup of a 2-adic field -- Properties of a schur algebra -- The schur subgroup of a real field -- The schur subgroup of an imaginary field -- Some theorems for a schur algebra.

@@ -1,2 +1,0 @@
-Essential GWT : building for the web with Google Web toolkit 2
-Developing your application -- Getting started with GWT 2.0 -- Understanding projects and development -- Working with browsers -- Programming the user interface -- Communicating with your server -- Communicating with other servers -- Mixing in Javascript -- Adding APIs -- Working with servers -- Moving around files -- Internationalization and localization -- Testing your GWT application -- Optimizing for application speed -- Deploying your application

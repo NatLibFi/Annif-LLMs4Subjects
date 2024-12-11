@@ -1,2 +1,0 @@
-Numerical Range : The Field of Values of Linear Operators and Matrices
-This book is dedicated to presenting the fundamentals of numerical ranges. In order to make it quickly informative the authors place and keep the subject in a complex Hilbert space. This setting is the heart of the numerical range theory for bounded linear operators T. This text is a particularly well prepared account of a beautiful and interesting part of functional analysis which appears to have important applications in numerical analysis

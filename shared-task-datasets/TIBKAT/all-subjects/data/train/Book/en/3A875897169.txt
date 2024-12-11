@@ -1,3 +1,0 @@
-Plasmonic optics : theory and applications
-"Plasmonic optics is an emerging research field that combines electronics and photonics with nanostructures. This book presents the physics and applications of nanoscale photophysics. Topics include surface plasmon polaritons, local surface plasmon resonances, extraordinary transmission, scattering enhancement, perfect absorption, and light radiation"--
-Optical properties of plasmonic materials -- Surface plasmon polaritons at planar interfaces -- Localized surface plasmon resonances -- Extraordinary transmission through subwavelength apertures -- Surface plasmon polariton waveguides -- Optical nanoantennas -- Nanostructure fabrication and optical characteristics

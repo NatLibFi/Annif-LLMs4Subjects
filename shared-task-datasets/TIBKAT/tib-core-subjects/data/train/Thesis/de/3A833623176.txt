@@ -1,2 +1,0 @@
-Schema-agnostic entity retrieval in highly heterogeneous semi-structured environments
-Schema discovery, entity retrieval, heterogeneous semi-structured data. - Erkundung von Schemata, Abfrage von Entitäten, heterogene semi-strukturierte Daten

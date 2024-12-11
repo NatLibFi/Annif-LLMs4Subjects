@@ -1,2 +1,0 @@
-Numerical simulations of delamination in fibre reinforced plastic shell structures using XFEM
-Delamination, shell, XFEM, cohesive zone model, buckling. - Schale, erweiterte Finite-Elemente-Methode, Kohäsivzonenmodell, Beulen

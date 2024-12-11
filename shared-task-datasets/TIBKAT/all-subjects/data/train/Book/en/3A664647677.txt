@@ -1,2 +1,0 @@
-Programming Microsoft LINQ in Microsoft .NET Framework 4
-Explains how to use LINQ (Language Integrated Query) while working with C# and Visual Basic, demonstrating practical applications for querying and managing data, the XML infoset, extending LINQ, and data binding

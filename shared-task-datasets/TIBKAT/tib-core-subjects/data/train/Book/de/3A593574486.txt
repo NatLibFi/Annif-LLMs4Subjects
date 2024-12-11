@@ -1,2 +1,0 @@
-Fouriertransformation für Fußgänger
-Verlagstext: Diese Schrift ist ein unterhaltsames Lehrbuch. Es wendet sich an alle, die in der Ausbildung und in ihrer beruflichen Praxis mit Fouriertransformationen zu tun haben.Das Buch behandelt sowohl Fourierreihen als auch kontinuierliche und diskrete Fouriertransformationen. Ausserdem werden Fensterfunktionen ausführlich diskutiert. Zahlreiche Abbildungen und Beispiele, die vom Leser meist von Hand nachgerechnet werden können, machen den Stoff leicht verständlich

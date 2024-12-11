@@ -1,2 +1,0 @@
-Asymptotic Analysis for Integrable Connections with Irregular Singular Points
-General introduction -- Asymptotic developability and vanishing theorems in asymptotic analysis -- Existence theorems of asymptotic solutions and splitting lemmas -- Stokes phenomena and riemann-hilbert-birkhoff problem -- ?-poincaré's lemma and ?-derham cohomology theorem.

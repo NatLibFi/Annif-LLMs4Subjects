@@ -1,2 +1,0 @@
-Discrete and computational geometry : Japanese conference, JCDCG 2002, Tokyo, Japan, December 6 - 9, 2002 ; revised papers
-This book constitutes the thoroughly refereed post- proceedings of the Japanese Conference on Discrete Computational Geometry, JCDCG 2002, held in Tokyo, Japan, in December 2002. The 29 revised full papers presented were carefully selected during two rounds of reviewing and improvement. All current issues in discrete algorithmic geometry are addressed

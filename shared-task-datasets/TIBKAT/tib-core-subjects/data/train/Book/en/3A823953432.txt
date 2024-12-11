@@ -1,2 +1,0 @@
-Learn WatchKit for iOS : [learn how to make Watch apps with WatchKit and Swift]
-Welcome to the Apple Watch -- Interface controllers and layout -- Watch user interface objects -- Controller navigation -- Tables and menus -- Building a WatchKit app -- Glances, settings, and handoff -- Notifications

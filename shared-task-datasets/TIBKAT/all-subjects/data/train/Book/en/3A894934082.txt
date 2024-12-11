@@ -1,2 +1,0 @@
-Analysis and applications of Lattice-Boltzmann simulations
-"This book focuses on numerical details about "pure-LBM" without covering the different extensions which are widely used and necessary in multiples applications. The book focuses not only on numerical details but also on parallel implementations of LBM and its multiple extensions"--

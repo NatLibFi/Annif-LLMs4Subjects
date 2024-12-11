@@ -1,2 +1,0 @@
-LINQ to objects using C# 4.0 : using and extending LINQ to objects and parallel LINQ (PLINQ)
-Introducing LINQ -- Introducing LINQ to Objects -- Writing basic queries -- Grouping and joining data -- Standard query operators -- Working with set data -- Extending LINQ to Objects -- C# 4.0 features -- Parallel LINQ to Objects -- Glossary

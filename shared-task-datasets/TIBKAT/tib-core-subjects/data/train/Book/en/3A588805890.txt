@@ -1,2 +1,0 @@
-Data structures and algorithms using Python and C++
-"Builds on knowledge from a first course in computer programming using Python. Makes a transition from programming in Python to a data structures course and programming in C++"--Provided by publisher

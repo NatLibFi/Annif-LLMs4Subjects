@@ -1,2 +1,0 @@
-Measurable and composable security, privacy, and dependability for cyberphysical systems : the SHIELD methodology
-Security, privacy and dependability concepts -- Security, privacy and dependability technologies -- The SHIELD approach -- Security, privacy and dependability metrics -- Airborne domain -- Railway domain -- Biometric security domain -- Perspectives in secure smart environments -- SHIELD technology demonstrators -- Applying SHIELD in new domains

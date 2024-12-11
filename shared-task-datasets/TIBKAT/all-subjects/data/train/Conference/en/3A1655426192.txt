@@ -1,2 +1,0 @@
-Advances in GLIM and Statistical Modelling : Proceedings of the GLIM92 Conference and the 7th International Workshop on Statistical Modelling, Munich, 13–17 July 1992
-This volume comprises the Proceedings of the 1992 GLIM Workshop held in Munich. Papers present numerous applications of GLIM in statistical analyses. An important theme of the volume is the release of GLIM 4, including descriptions of the new features of GLIM 4

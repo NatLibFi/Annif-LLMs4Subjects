@@ -1,2 +1,0 @@
-Intelligent systems and pattern recognition / Akram Bennour, Ahmed Bouridane, Lotfi Chaari, editors ; Part 2
-This volume constitutes selected papers presented during the Third International Conference on Intelligent Systems and Pattern Recognition, ISPR 2023, held in Hammamet, Tunisia, in May 2023. The 44 full papers presented were thoroughly reviewed and selected from the 129 submissions. The papers are organized in the following topical sections: computer vision; data mining; pattern recognition; machine and deep learning

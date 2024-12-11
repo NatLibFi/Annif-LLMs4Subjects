@@ -1,2 +1,0 @@
-Dienstbarkeitsarchitekturen : zwischen Service-Korridor und Ambient Intelligence
-"Das Buch bietet verschiedene Blicke hinter die Kulissen der Macht und in die dort vorhandenen Service-Konstellationen, die durch architektonische Einrichtungen ermöglicht werden. Dabei wird ein historischer und interdisziplinärer Bogen von den antiken römischen Villen über die dienstleistende Funktion von Korridoren, die 'smart homes' der Gegenwart bis zum Begriff der Architektur in der Softwareentwicklung gespannt."--

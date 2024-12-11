@@ -1,2 +1,0 @@
-Guide to load analysis for durability in vehicle engineering
-"Covers the use of established computational methods, such as finite element method (FEM) and multi body simulation (MBS), and their appropriate use within load analysis for durability"--

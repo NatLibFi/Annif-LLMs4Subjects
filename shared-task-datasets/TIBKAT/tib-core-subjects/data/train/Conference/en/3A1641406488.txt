@@ -1,2 +1,0 @@
-Resilience engineering for urban tunnels
-"The second part of this report is built on the discussions from the First International Workshop on Resiliency of Urban Tunnels (Reston, Virginia, USA, September 1, 2016) and the conclusions drawn for perspective developments." - Preface

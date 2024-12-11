@@ -1,2 +1,0 @@
-HCI challenges and privacy preservation in big data security
-"This book contains chapters in the areas of HCI Challenges for Big Data Security and Privacy. It includes research and development results of lasting significance in the theory, design, implementation, analysis of human-computer interaction. Additionally, the book will explore the impact of Privacy Preserving big data in healthcare, industry, government and public sectors"--

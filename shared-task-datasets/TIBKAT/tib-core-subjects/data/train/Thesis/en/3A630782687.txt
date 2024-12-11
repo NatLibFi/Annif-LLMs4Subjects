@@ -1,2 +1,0 @@
-Functional methods for the solution of one-dimensional quantum systems
-Integrable models, boundary conditions, functional methods. - Integrable Modelle, Randbedingungen, funktionale Methoden

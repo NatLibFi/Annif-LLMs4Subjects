@@ -1,2 +1,0 @@
-Applied artificial higher order neural networks for control and recognition
-"This book explores the ways in which higher order neural networks are being integrated specifically for intelligent technology applications, emphasizing emerging research, practice, and real-world implementation"--

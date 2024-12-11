@@ -1,2 +1,0 @@
-Retail Credit Risk Management
-Introducing the fundamentals of retail credit risk management, this book provides a broad and applied investigation of the related modeling theory and methods, and explores the interconnections of risk management, by focusing on retail and the constant reference to the implications of the financial crisis for credit risk management

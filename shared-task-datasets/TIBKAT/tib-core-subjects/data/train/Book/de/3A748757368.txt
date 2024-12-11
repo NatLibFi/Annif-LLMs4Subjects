@@ -1,2 +1,0 @@
-Technische Thermodynamik
-Das Buch enthält in komprimierter Form die wesentlichen Inhalte der Bachelor-Vorlesung „Thermodynamik I/II“ und ist als begleitendes Material zu dieser Vorlesung gedacht. Im ersten Teil werden die Hauptsätze der Thermodynamik und der Zusammenhang zwischen den dabei auftretenden Zustandsgrößen behandelt. Der zweite Teil enthält ingenieurmäßige Anwendungen dieser Grundlagen auf verschiedene Kreisprozesse einschließlich wichtiger Zweiphasenprozesse, auf Klima- und Verbrennungsprozesse, sowie auf stationäre Fließprozesse.

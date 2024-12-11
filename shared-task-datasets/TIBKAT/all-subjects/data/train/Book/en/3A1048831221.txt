@@ -1,2 +1,0 @@
-Sustainable freight transport
-Freight Transport Modelling is a unique new reference book that provides insight into the state-of-the-art of freight modelling. Focusing on models used to support public transport policy analysis, Freight Transport Modelling systematically introduces the latest freight transport modelling approaches and describes the main methods and techniques used to arrive at operational models. As freight transport has grown exponentially in recent decades, policymakers now need to include freight flows in quantitative evaluations of transport systems

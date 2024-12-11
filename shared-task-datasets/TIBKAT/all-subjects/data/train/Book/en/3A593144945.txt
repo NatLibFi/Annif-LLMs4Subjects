@@ -1,2 +1,0 @@
-Regular expressions cookbook : [detailed solutions in eight programming languages ; includes a regular expressions tutorial]
-If you're a programmer, you've undoubtedly needed to search or manipulate text at some point. Regular expressions provide a flexible and concise means to complete most such tasks, but their power does not come without its problems. Addressing hundreds of tasks, this title covers many of the main programming languages

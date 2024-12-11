@@ -1,2 +1,0 @@
-Unternehmensweites Datenmanagement : von der Datenbankadministration bis zum Informationsmanagement ; mit 19 Tabellen
-Datenmanagement: Stellenwert im Unternehmen - Strategische Informationsplanung - Aufgaben der Datenbankadministration - Unternehmensmodellierung - Metadatenmanagement - Umgang mit Altlasten - Organisation - Data Warehousing, strategisch betrachtet - Datenmanagement: Von der Effizienz zur Effektivität - Informationsmanagement

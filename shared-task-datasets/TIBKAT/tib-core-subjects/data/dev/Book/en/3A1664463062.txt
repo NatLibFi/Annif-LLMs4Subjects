@@ -1,3 +1,0 @@
-Focus on geodatabases in ArcGIS Pro
-Designing the geodatabase schema -- Creating a geodatabase -- Populating and sharing a geodatabase -- Extending data formats -- Working with features -- Advanced editing -- Working with topology.
-"Focus on Geodatabases in ArcGIS Pro introduces readers to the geodatabase, the comprehensive information model for representing and managing geographic information across the ArcGIS platform"--

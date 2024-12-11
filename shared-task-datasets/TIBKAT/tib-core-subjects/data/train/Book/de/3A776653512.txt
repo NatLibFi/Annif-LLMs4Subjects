@@ -1,2 +1,0 @@
-Single-Page-Web-Apps : JavaScript im Einsatz: Webseiten erstellen mit AngularJS, Meteor und jQuery Mobile
-"Single-Page-Web-Apps sind eine neue Art, Web-Anwendungen zu bauen. Im Gegensatz zu klassischen Webseiten führen Single-Page-Web-Apps keinen Seitenwechsel mehr durch - die Oberfläche wird über dynamischen Austausch der HTML-Elemente auf einer einzigen Seite mit JavaScript verändert."--

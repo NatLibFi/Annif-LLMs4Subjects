@@ -1,2 +1,0 @@
-Shadowing and numerical analysis of set-valued dynamical systems
-In this PhD thesis, shadowing theory is systematically generalized to set-valued discrete-time dynamical systems. In particular, a notion of hyperbolicity is proposed and the corresponding shadowing and inverse shadowing theorems are proved. Explicit error estimates for the Viability Kernel Algorithm are given for systems which possess the shadowing property.

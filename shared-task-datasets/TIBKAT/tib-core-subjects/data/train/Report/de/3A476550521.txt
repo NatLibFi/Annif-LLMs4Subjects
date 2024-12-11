@@ -1,2 +1,0 @@
-Umweltinformationssysteme
-Dieses praxisnahe Lehrbuch vermittelt Kenntnisse über Umweltinformationssysteme (UIS) für Studierende und Praktiker aus dem gesamten Informatik-, Geo- und Umweltbereich. Der Stoff wird durch zahlreiche Beispiele und Abbildungen sehr verständlich vermittelt

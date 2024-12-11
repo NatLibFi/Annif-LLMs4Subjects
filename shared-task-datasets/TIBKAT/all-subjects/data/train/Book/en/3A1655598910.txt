@@ -1,2 +1,0 @@
-Single and multicomponent digital optical signal analysis : estimation of phase and its derivatives
-A review of the tools and methods of multicomponent fringe analysis and interferometric data, including a wide range of digital signal-processing-based interferometric data-processing techniques.

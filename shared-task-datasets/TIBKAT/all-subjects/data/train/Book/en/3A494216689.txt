@@ -1,2 +1,0 @@
-Structural biology : practical NMR applications
-Basic principles of NMR -- Instrumentation -- NMR sample preparation -- Practical aspects -- Multidimensional heteronuclear NMR experiments -- Studies of small biological molecules -- Protein structure determination from NMR data -- Protein dynamics -- Multiple choice questions -- Answers to multiple choice questions -- Nomenclature and symbols

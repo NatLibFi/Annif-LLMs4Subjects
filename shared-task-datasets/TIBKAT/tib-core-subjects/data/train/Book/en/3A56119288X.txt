@@ -1,2 +1,0 @@
-Non-perturbative renormalization
-Introduction to renormalization -- Quantum field theory -- Lattice statistical mechanics -- Quantum liquids

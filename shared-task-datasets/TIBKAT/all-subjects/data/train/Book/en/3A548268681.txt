@@ -1,2 +1,0 @@
-Client-side reporting with Visual studio in C# : [prepare for tomorrow by learning real-world practical reporting projects today ; covering versions 2005 and 2008 using C#]
-Provides information on ways to develop client-side reports using the 2005 and 2008 releases of Visual Studio

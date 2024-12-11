@@ -1,2 +1,0 @@
-Interpolation Functors and Duality
-Preliminaries -- The real method -- The complex method -- Categorical notions -- Finite dimensional doolittle diagrams -- Kan extensions -- Duality -- More about duality -- The classical methods from a categorical viewpoint.

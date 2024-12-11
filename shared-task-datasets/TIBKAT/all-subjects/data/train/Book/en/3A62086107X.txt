@@ -1,2 +1,0 @@
-Dreamweaver CS5 : the missing manual
-A guide to the Web design program covers such topics as text formatting, Cascading Style Sheets, links, images, tables, page layout, HTML, forms, and site management

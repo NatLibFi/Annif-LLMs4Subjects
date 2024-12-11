@@ -1,2 +1,0 @@
-Aggregating clones, colors, equations, iterates, numbers, and tiles
-Editorial -- Survey Papers -- A survey of minimal clones -- General theory of the translation equation -- Some recent applications of functional equations to the social and behavioral sciences. Further problems -- Progress of iteration theory since 1981 -- On the representation of integers as sums of triangular numbers -- Chromatic sums revisited -- Conditional functional equations and orthogonal additivity -- Hyers-Ulam stability of functional equations in several variables -- Rep-tiling Euclidean space.

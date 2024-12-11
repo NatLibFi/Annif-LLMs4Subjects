@@ -1,2 +1,0 @@
-Photoelectron Spectroscopy : Principles and Applications
-Photoelectron Spectroscopy presents an up-to-date introduction to the field by treating comprehensively the electronic structures of atoms, molecules, solids and surfaces. Brief descriptions are given of inverse photoemission, spin-polarized photoemission and photoelectron diffraction. Experimental aspects are considered throughout the book, and the results are carefully interpreted by theory. A wealth of measured data is presented in the form of tables for easy use by experimentalists

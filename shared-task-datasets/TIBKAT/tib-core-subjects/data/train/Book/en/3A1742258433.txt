@@ -1,2 +1,0 @@
-Dynamics of structures : theory and applications to earthquake engineering
-This book includes many topics in the theory of structural dynamics and applications of this theory to earthquake analysis, response, and design of structures. No prior knowledge of structural dynamics is assumed. The presentation is sufficiently detailed and integrated to make the book suitable for self-study by interested parties, as well as, professional engineers.

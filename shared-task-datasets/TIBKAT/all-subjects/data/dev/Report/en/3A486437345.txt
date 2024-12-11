@@ -1,2 +1,0 @@
-WIPS: Wettbewerbsvorteile durch informationstechnisch unterstützte Produktsimulation im Schiffbau : Schlussbericht ; Teilprojekt WIPS IT 1.1: Schiffstechnische Dienste im Internet ; Thema des Projekts: Bereitstellung von schiffstechnischen Diensten im Internet über ein Dienst- und Informationsportal ; Berichts- und Förderungszeitraum: 01. Oktober 2000 bis zum 30. September 2003
-Internet services, ship technology, information portals, service integration, process support, mobile services, work support

@@ -1,2 +1,0 @@
-Formal language : a practical introduction
-"This book is an undergraduate college-level introduction to formal languages, automata, computability, and complexity"--Provided by publisher

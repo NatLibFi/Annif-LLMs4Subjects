@@ -1,2 +1,0 @@
-Automated planning and acting
-"This book is about methods and techniques that a computational agent can use for deliberative planning and acting, i.e., for deciding both which actions to perform and how to perform them, to achieve some objective. The study of deliberation has several scientific and engineering motivations"--

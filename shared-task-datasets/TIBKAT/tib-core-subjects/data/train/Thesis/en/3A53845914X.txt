@@ -1,2 +1,0 @@
-Adaptive numerical simulation of reaction - diffusion systems
-Fluidized beds, granulation, heat and mass transfer, calcium dynamics, stochastic process, finite element methods, Rosenbrock methods, multigrid methods, parallelization

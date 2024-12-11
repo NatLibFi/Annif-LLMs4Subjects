@@ -1,2 +1,0 @@
-Statistical Information and Likelihood : A Collection of Critical Essays by Dr. D. Basu
-This book is a collection of essays on the foundations of Statistical Inference. The sequence in which the essays have been arranged makes it possible to read the book as a single contemporay discourse on the likelihood principle, the paradoxes that attend its violation, and the radical deviation from classical statistical practices that its adoption would entail. The book can also be read, with the aid of the notes as a chronicle of the development of Basu's ideas

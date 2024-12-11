@@ -1,2 +1,0 @@
-Pattern discovery using sequence data mining : applications and studies
-"This book provides a comprehensive view of sequence mining techniques, and present current research and case studies in Pattern Discovery in Sequential data authored by researchers and practitioners"--

@@ -1,2 +1,0 @@
-Collaborative filtering using data mining and analysis
-"This book evaluates the latest patterns and trending topics in the utilization of data mining tools and filtering practices, featuring emergent research and optimization techniques in the areas of opinion mining, text mining, and sentiment analysis"--

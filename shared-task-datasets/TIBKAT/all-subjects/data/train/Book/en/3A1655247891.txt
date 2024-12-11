@@ -1,2 +1,0 @@
-Order and Convexity in Potential Theory: H-Cones
-Terminology and notations -- Resolvents -- H-Cones -- H-Cones of functions -- Standard H-cones -- Potential theory on standard H-Cones of functions -- Markov processes associated with a standard H-Cone of functions -- H-Cones on Dirichlet spaces.

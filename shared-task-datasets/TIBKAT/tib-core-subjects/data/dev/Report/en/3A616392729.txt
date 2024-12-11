@@ -1,2 +1,0 @@
-Introduction to the basic concepts of modern physics : special relativity, quantum and statistical physics
-"These notes are designed as a text book for a course on the Modern Physics Theory for undergraduate students. The purpose is providing a rigorous and self-contained presentation of the simplest theoretical framework using elementary mathematical tools. A number of examples of relevant applications and an appropriate list of exercises and answered questions are also given

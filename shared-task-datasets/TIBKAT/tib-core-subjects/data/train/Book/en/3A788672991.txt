@@ -1,2 +1,0 @@
-An object-oriented approach to programming logic and design
-This text takes a language independent approach to develop a foundation in traditional programming principles and object-oriented concepts before learning the details of a specific programming language. Includes programming exercises in every chapter, with review questions, debugging exercises and case projects.--

@@ -1,2 +1,0 @@
-Asymptotische Äquivalenz eines Poisson-Modells und eines Gauß-Modells
-Diese Arbeit beschäftigt sich mit dem Le Cam-Abstand und dessen Eigenschaften. In diesem Zusammenhang werden wir auf die Themen Suffizienz und Defizienz eingehen. Wir werden Dekonvolutionsprobleme erörtern, insbesondere auch solche, bei denen wiederholte Messungen möglich sind. Das Hauptresultat ist die asymptotische Äquivalenz eines Poisson-Modells und eines Gauß-Modells.<ger>

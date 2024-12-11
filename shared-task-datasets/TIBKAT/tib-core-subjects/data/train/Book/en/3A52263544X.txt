@@ -1,2 +1,0 @@
-Theory of uniform approximation of functions by polynomials
-Chebyshev theory and its development -- Weierstrass theorems -- On smoothness of functions -- Extension -- Direct theorems on the approximation of periodic functions -- Inverse theorems on the approximation of periodic functions -- Approximation by polynomials

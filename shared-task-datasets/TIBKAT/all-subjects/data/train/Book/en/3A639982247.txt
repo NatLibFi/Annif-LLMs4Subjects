@@ -1,2 +1,0 @@
-Model-driven domain analysis and software development : architectures and functions
-"This book displays how to effectively map and respond to the real-world challenges and purposes which software must solve, covering domains such as mechatronic, embedded and high risk systems, where failure could cost human lives"--Provided by publisher

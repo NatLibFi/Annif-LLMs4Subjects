@@ -1,2 +1,0 @@
-Vacation queueing models : theory and applications
-Introduction -- M/G/1 type vacation models : exhaustive service -- M/G/1 type vacation models : nonexhaustive service -- General-input single server vacation models -- Markovian multiserver vacation models -- General-input multiserver vacation models -- Optimization in vacation models -- Applications of vacation models

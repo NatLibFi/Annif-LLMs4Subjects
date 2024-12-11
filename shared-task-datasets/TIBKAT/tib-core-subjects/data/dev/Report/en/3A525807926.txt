@@ -1,2 +1,0 @@
-Continuous semi-Markov processes
-Stepped semi-Markov processes -- Sequences of first exit times and regeneration times -- General semi-Markov processes -- Construction of semi-Markov processes using semi-Markov transition functions -- Semi-Markov processes of diffusion type -- Time change and semi-Markov processes -- Limit theorems for semi-Markov processes -- Representation of a semi-Markov process as a transformed Markov process -- Semi-Markov model of chromatography

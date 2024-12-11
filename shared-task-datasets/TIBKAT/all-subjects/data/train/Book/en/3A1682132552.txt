@@ -1,2 +1,0 @@
-Electromagnetic modeling of composite metallic and dielectric structures
-This practical new resource provides you with a much wider choice of analytical solutions to the everyday problems you encounter in electromagnetic modeling. The book enables you to use cutting-edge method-of-moments procedures, with new theories and techniques that help you optimize computer performance in numerical analysis of composite metallic and dielectric structures in the complex frequency domain

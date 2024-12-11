@@ -1,2 +1,0 @@
-Adaptive prediction and predictive control
-The book reviews developments in the following fields: process models; parameter estimation; adaptive prediction; transfer-function models; Kalman filter; state-space approaches; periodic series; nonlinear processes; GMDH; neural networks; quasiperiodic series; predictive control; input-output model; and smoothing and filtering

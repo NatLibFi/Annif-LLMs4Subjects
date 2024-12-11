@@ -1,2 +1,0 @@
-Quantum Mechanics
-Intended for beginning graduate students, this text takes the reader from the familiar coordinate representation of quantum mechanics to the modern algebraic approach, emphsizing symmetry principles throughout. After an introduction of the basic postulates and techniques, the book discusses time-independent perturbation theory, angular momentum, identical particles, scattering theory, and time-dependent perturbation theory. It concludes with several lectures on relativistic quantum mechanics and on many-body theory

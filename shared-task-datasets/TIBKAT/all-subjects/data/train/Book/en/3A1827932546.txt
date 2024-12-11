@@ -1,2 +1,0 @@
-Applied linear regression for longitudinal data : with an emphasis on missing observations
--Includes several real-life examples from health and clinical studies -Introduces statistical concepts of longitudinal data analysis strategies through visualization -Provides datasets and exercises online

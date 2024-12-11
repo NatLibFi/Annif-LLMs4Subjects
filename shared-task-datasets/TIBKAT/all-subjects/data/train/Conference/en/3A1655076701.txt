@@ -1,2 +1,0 @@
-Symposium on the Theory of Numerical Analysis : Held in Dundee/Scotland, September 15–23, 1970
-Direct methods for solving elliptic difference equations -- Matrix methods in mathematical programming -- Topics in stability theory for partial difference operators -- Iteration parameters in the numerical solution of elliptic problems -- to finite difference approximations to initial value problems for partial differential equations.

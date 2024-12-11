@@ -1,2 +1,0 @@
-Computational intelligence in robotics and automation
-"The reference text covers computational intelligence, artificial intelligence, cognitive systems, industrial IoT, and industry 4.0 in a single volume. It will be an ideal reference text for graduate students, professional and academic researchers in the fields of electrical engineering, electronics and communication engineering, and computer science"--

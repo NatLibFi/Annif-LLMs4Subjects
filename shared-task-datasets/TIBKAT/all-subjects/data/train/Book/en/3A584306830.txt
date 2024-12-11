@@ -1,2 +1,0 @@
-Network science : theory and practice
-Origins -- Graphs -- Regular networks -- Random networks -- Small-world networks -- Scale-free networks -- Emergence -- Epidemics -- Synchrony -- Influence networks -- Vulnerability -- NetGain -- Biology

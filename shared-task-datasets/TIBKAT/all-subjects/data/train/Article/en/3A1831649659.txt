@@ -1,2 +1,0 @@
-Chapter 12. Forecasters’ Objectives and Strategies
-This chapter develops a unified modeling framework for analyzing the strategic behavior of forecasters. The theoretical model encompasses reputational objectives, competition for the best accuracy, and bias. Also drawing from the extensive literature on analysts, we review the empirical evidence on strategic forecasting and illustrate how our model can be structurally estimated.

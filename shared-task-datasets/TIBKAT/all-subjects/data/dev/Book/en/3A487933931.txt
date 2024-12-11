@@ -1,2 +1,0 @@
-Neutron spin echo in polymer systems
-1 Introduction.- 2 Neutron Scattering and Neutron Spin Echo.- 3 Large Scale Dynamics of Homopolymers.-

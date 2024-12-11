@@ -1,3 +1,0 @@
-Geometric Inequalities : Methods of Proving
-Theorem on the Length of the Broken Line -- Application of Projection Method -- Areas -- Application of Trigonometric Inequalities -- Inequalities for Radiuses -- Miscellaneous Inequalities -- Some Applications of Geometric Inequalities
-This unique collection of new and classical problems provides full coverage of geometric inequalities. Many of the 1,000 exercises are presented with detailed author-prepared-solutions, developing creativity and an arsenal of new approaches for solving mathematical problems. This book can serve teachers, high-school students, and mathematical competitors. It may also be used as supplemental reading, providing readers with new and classical methods for proving geometric inequalities

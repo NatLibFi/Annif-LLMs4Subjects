@@ -1,2 +1,0 @@
-Frontend architecture for design systems : a modern blueprint for scalable and sustainable websites
-"Using real-world examples, case studies, and practical tips and tricks throughout,  author Micah Godbolt introduces you to the four pillars of frontend architecture : code, process, testing, documentation..." --- adapted from backcover

@@ -1,2 +1,0 @@
-Ridge functions and applications in neural networks
-Properties of linear combinations of ridge functions -- The smoothness problem in ridge function representation -- Approximation of multivariate functions by sums of univariate functions -- Generalized ridge functions and linear superpositions -- Applications to neural networks.

@@ -1,2 +1,0 @@
-Betriebssysteme : Grundlagen, Konzepte, Systemprogrammierung
-Dieses Lehrbuch vermittelt Studierenden der Informatik die Grundlagen der Betriebssystemtheorie. Neben den Prinzipien wird auch deren Nutzung bei der systemnahen Programmierung behandelt. (3)

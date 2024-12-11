@@ -1,2 +1,0 @@
-BMBF-Verbundprojekt: ACON - Adaptive Control, Teilvorhaben: Kombinierte, echtzeitfähige Prozeßmodelle ; Förderkennzeichen: 01 IN 510 E 3 ; vom 1.3.1996 bis 31.12.1999 ; Abschlußbericht des Instituts für Elektrische Energietechnik - Antriebstechnik, Prof. Dr.-Ing. H. Theuerkauf, Universität - Gh Kassel
-Modeling, neural networks, hybrid models, real-time models, combustion engines, emission models, cylinder pressure

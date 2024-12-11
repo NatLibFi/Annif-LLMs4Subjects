@@ -1,2 +1,0 @@
-Digital hearing aids
-Hearing-aid technology -- Signal processing basics -- The electroacoustic system -- Directional microphones -- Adaptive and multi-microphone arrays -- Wind noise -- Feedback cancellation -- Dynamic-range compression -- Single-microphone noise suppression -- Spectral subtraction -- Spectral contrast enhancement -- Sound classification -- Binaural signal processing

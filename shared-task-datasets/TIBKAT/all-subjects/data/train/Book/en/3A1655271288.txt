@@ -1,2 +1,0 @@
-Arithmetic Groups
-Locally compact groups and fields -- The additive group -- The multiplicative group -- GLn and SLn (over ?) -- GLn and SLn (p-adic and adelic groups) -- The congruence subgroup problem.

@@ -1,2 +1,0 @@
-Software development techniques for constructive information systems design
-"This book focuses on the aspects of information systems and software development as a merging process, paying special attention to the emerging research, trends, and experiences in this area"--

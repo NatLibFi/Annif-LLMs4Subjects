@@ -1,2 +1,0 @@
-Control System Design based on Exact Model Matching Techniques
-Time domain exact model matching -- Frequency domain exact model matching -- Adaptive control -- Disturbence in exact model matching and adaptive control -- Adaptive pole assignment -- Decoupling control with exact model matching -- Multivariable adaptive control -- Discrete time system -- Time delay system.

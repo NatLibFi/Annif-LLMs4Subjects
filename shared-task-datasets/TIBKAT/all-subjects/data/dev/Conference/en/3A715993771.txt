@@ -1,2 +1,0 @@
-Proceedings - Third International Workshop on Variability Modelling of Software-intensive Systems : [held from January 28 - 30, 2009 at the University of Sevilla, Spain]
-This ICB Research Report constitutes the proceedings of the Third International Workshop on Variability Modelling of Software-intensive Systems (VaMoS'09), which was held from January 28-30, 2009 at the University of Sevilla, Spain.

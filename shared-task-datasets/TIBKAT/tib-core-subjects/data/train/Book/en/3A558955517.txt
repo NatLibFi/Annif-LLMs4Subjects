@@ -1,2 +1,0 @@
-Beginning Web development, Silverlight and ASP.NET AJAX : from novice to professional ; [learn how to build web applications using ASP.NET AJAX, WPF, WCF, and WF, as well as Silverlight]
-Provides you with the skills you need to start building web applications with Microsoft next generation technology including information on ASP.NET AJAX, Silverlight, or the technologies that support them (WPF, WCF, WF, etc.), this is book you need.--Source other than Library of Congress

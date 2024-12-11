@@ -1,2 +1,0 @@
-Percolation on triangulations : a bijective parth to Liouville quantum gravity
-Keywords: Liouville quantum gravity, Schramm-Loewner evolutions, mating of trees, percolation, random planar maps, triangulations, random walks, Kreweras walks, planar Brownian motion, bijection

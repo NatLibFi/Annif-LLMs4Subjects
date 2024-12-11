@@ -1,2 +1,0 @@
-Numerical methods with Python : for the sciences
-Introduces students to appropriate use of computer programming within the scientific disciplines using Python. Discusses several common applications of programming and implementation using real world examples and hands on programming exercises. Students learn how to model situations such as image recognition, medical diagnosis, spread of disease, and others.The text could be used by students and lecturers for courses in Python, Numerical Methods, or as a first course in Data Science

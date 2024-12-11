@@ -1,2 +1,0 @@
-Regression basics
-An Introduction to the linear regression model -- The least-squares estimation method -- Model performance and evaluation -- Multiple regression analysis -- Non-linear and logarithmic models, dummy and interaction variables -- Time variables and panel data -- Some common problems in regression analysis -- Where to go from here

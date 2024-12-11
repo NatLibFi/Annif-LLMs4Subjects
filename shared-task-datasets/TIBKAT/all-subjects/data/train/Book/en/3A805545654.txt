@@ -1,2 +1,0 @@
-Quantum phase transitions in transverse field spin models : from statistical physics to quantum information
-"Discusses the fundamental connections between the physics of quantum phase transitions and the technological promise of quantum information, non-equilibrium quantum dynamics and adiabatic quantum computations"--

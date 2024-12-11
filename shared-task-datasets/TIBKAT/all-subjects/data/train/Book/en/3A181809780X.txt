@@ -1,2 +1,0 @@
-Blazor in action
-This book is an example-driven guide to building reusable UI components and web frontends - all with Blazor, C#, and .NET.

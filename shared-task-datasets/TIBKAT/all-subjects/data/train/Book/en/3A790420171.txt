@@ -1,2 +1,0 @@
-Electromagnetic measurements in the near field
-The book reviews developments in the following fields: electromagnetic measurement; near field; far field; electric field measurement; magnetic field measurement; power density measurement; directional pattern synthesis; and photonic EMF measurement

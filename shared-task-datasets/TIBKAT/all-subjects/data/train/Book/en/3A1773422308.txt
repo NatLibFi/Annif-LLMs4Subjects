@@ -1,2 +1,0 @@
-Semiparametric odds ratio model and its applications
-"Beginning with familiar models and moving onto advanced semiparametric modelling tools Semiparametric Odds Ratio Model and its Applications introduces readers to a new range of flexible statistical models and provides guidance on their application using real data examples. This books range of real-world examples and exploration of common statistical problems makes it an invaluable reference for research professionals and graduate students of biostatistics, statistics, and other quantitative fields"--

@@ -1,2 +1,0 @@
-Quasiconformal Mappings in the Plane : Parametrical Methods
-Notation and abbreviations -- Basic concepts and theorems in the analytic theory of quasiconformal mappings -- The parametrical methods -- A review of variational methods and basic applications in electrical engineering.

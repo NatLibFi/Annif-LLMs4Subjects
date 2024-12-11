@@ -1,2 +1,0 @@
-Lectures on constructive approximation : Fourier, spline, and wavelet methods on the real line, the sphere, and the ball
-Part I. Basics. Basic fundamentals : what you need to know ; Approximation of functions on the real line -- Part II. Approximation on the sphere. Basic aspects ; Fourier analysis ; Spherical splines ; Spherical wavelet analysis ; Spherical Slepian functions -- Part III. Approximation on the 3D ball. Orthonormal bases ; Splines ;  Wavelets for inverse problems on the 3D ball ; The regularized functional matching pursuit

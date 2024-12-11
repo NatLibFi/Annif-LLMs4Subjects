@@ -1,2 +1,0 @@
-Proceedings of the 4th Many-core Applications Research Community (MARC) Symposium
-In continuation of a successful series of events, the 4th Many-core Applications Research Community (MARC) symposium took place at the HPI in Potsdam on December 8th and 9th 2011. Over 60 researchers from different fields presented their work on many-core hardware architectures, their programming models, and the resulting research questions for the upcoming generation of heterogeneous parallel systems.

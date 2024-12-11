@@ -1,2 +1,0 @@
-Dissemination of ultra-stable optical frequencies over commercial fiber networks
-Frequency transfer over optical fiber, fiber phase noise, optical amplification, all-in-fiber interferometer, comparison of frequency standards. - Frequenzübertragung über Glasfasern, Phasenrauschen optischer Glasfasern, optische Verstärkung, Faserinterferometer, Vergleich zwischen Frequenznormalen

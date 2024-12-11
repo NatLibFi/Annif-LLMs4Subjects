@@ -1,2 +1,0 @@
-Handbook of finite state based models and applications
-"This handbook presents a collection of introductory materials on finite state theories and their applications. It offers an open treatment of the types of algorithms and data structures that are typically retained quietly by companies and provides performance information regarding individual techniques for various domain areas. A complete reference on finite state-based models and their applications, the book can be used by beginners as a quick reference guide and by researchers for an in-depth study of this area"--

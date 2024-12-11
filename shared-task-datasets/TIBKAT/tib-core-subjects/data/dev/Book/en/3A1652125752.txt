@@ -1,2 +1,0 @@
-MEMS Packaging
-The book reviews developments in the following fields: fundamentals of MEMS packaging; joining and bonding technologies; sealing technology; microsystem packaging; automated microassembly; design for test; MEMS packaging in the life sciences; RF and optical packaging in telecommunications; and aerospace application

@@ -1,2 +1,0 @@
-Discrete Painlevé equations
-Im Vorwort: "This book collects the material I presented as principal lecturer at a Confernce Board of Mathematical Sciences and National Science Foundation conference in Texas in 2016"

@@ -1,2 +1,0 @@
-Set Theory and Model Theory : Proceedings of an Informal Symposium Held at Bonn, June 1–3, 1979
-Morass-like constructions of ?2-trees in L -- Coarse morasses in L -- Some applications of the core model -- A lattice structure on the isomorphism types of complete boolean algebras -- Pseudo real closed fields -- Some remarks on the mathematical incompleteness of Peano’s arithmetic found by paris and harrington.

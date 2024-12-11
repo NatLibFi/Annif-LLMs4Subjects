@@ -1,2 +1,0 @@
-Spatial cloud computing : a practical approach
-"A computing cloud is a set of network enabled services, providing scalable, inexpensive computing platforms on demand, which can be accessed in a simple way. This book helps its readers understand the process of how to deploy and customize geospatial applications onto clouds, as well as how to optimize clouds to make them better support geospatial applications. It also discusses and presents the strategies for customizing different types of applications to better utilize the cloud capabilities, such as on-demand services"--

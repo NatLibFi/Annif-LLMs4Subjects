@@ -1,2 +1,0 @@
-Probabilistische Finite Element Modellierung des mechanischen Materialverhaltens von Salzgestein
-Finite-Elemente-Methode, stochastische Finite-Elemente-Methode, Kriechen, Salzgestein, polynomial Chaos. - Finite-element-method, stochastic finite-element-method, creep, rock salt

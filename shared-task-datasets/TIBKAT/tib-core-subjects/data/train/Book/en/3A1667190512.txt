@@ -1,2 +1,0 @@
-Introduction to seismology
-Introduction -- A brief history of seismology -- Stress and strain -- The seismic wave equation -- Ray theory : travel times -- Inversion of travel time data -- Ray theory : amplitude and phase -- Reflection seismology and related topics -- Surface waves and normal modes -- Earthquakes and source theory -- Earthquake prediction -- Seismometers and seismographs -- Earth noise -- Anisotropy.

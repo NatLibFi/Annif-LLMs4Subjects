@@ -1,2 +1,0 @@
-Architectural design of multi-agent systems : technologies and techniques
-"This book is a compilation of advanced research results in architecture and modeling issues of multi-agent systems. It serves as a reference for research on system models, architectural design languages, methods and reasoning, module interface design, and design issues"--Provided by publisher

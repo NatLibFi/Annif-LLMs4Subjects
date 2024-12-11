@@ -1,2 +1,0 @@
-The Spectral Theorem
-Multiplicity of spectral measures -- The spectral theorem -- Bochner’s theorem -- Distribution of cocycles -- Cocycles on the line.

@@ -1,2 +1,0 @@
-Getting to know ArcGIS : [for ArcGIS 10.2 and 10.3]
-"Getting to Know ArcGIS is a workbook for students and professionals who are getting started in the field of geographic information systems (GIS). Its detailed, step-by-step exercises teach you the core functionality of ArcGIS for Desktop software: how to make maps, carry out spatial analysis, and build and edit spatial databased in the context of realistic projects."--

@@ -1,2 +1,0 @@
-5G LTE narrowband internet of things (NB-IoT)
-Internet of things -- 4G and 5G systems -- Radio resource control sublayer -- Packet data convergence protocol sublayer -- Radio link control sublayer -- Medium access control sublayer -- Physical sublayer -- Quality of service architecture -- Use cases and deployment.

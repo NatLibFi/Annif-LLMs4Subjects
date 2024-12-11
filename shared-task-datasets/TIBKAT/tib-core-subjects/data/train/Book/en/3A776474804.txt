@@ -1,2 +1,0 @@
-More Python programming for the absolute beginner
-Teaches readers the basics of Python programming through simple game creation and describes how the skills learned can be used for more practical Python programming applications and real-world scenarios --

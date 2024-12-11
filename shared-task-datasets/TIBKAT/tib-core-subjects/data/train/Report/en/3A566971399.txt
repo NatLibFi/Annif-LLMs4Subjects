@@ -1,2 +1,0 @@
-Mathematical tools for one-dimensional dynamics
-This self-contained book discusses the major mathematical tools necessary for the study of complex dynamics at an advanced level. Complete proofs of some of the major tools are presented and an appendix considers Riemann surfaces and Teichmüller theory

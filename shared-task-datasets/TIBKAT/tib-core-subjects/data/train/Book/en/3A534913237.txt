@@ -1,2 +1,0 @@
-Adobe® Integrated Runtime ( AIR) for JavaScript developers : pocket reference ; [getting started with the beta release of adobe integrated runtime]
-A guide to the Beta release of Adobe Integrated Runtime explains how to build and deploy HTML and JavaSript-based Web applications to the desktop

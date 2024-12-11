@@ -1,2 +1,0 @@
-Signals and systems laboratory with MATLAB
-Introduction to MATLAB -- Signals -- Systems -- Time domain system analysis -- Fourier series -- Fourier transform -- Fourier analysis of discrete-time signals -- Frequency response -- Laplace transform -- z-transform -- Transfer function -- Suggested laboratory exercises -- Appendices : A. Signal crossword -- B. Notation

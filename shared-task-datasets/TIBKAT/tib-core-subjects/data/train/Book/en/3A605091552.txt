@@ -1,2 +1,0 @@
-Aggregation functions
-Properties for aggregation -- Conjunctive and disjunctive aggregation functions -- Means and averages --  Aggregation functions based on nonadditive integrals -- Construction methods --Aggregation on specific scale types -- Aggregation on ordinal scales -- Aggregation on bipolar scales -- Behavioral analysis of aggregation functions -- Identification of aggregation functions -- Aggregation of infinitely many arguments -- Examples and applications

@@ -1,2 +1,0 @@
-Toroidal Compactification of Siegel Spaces
-The siegel upperhalf plane and the symplectic group -- Main problem and main results -- The case of g=1 -- Boundary components and the structure of parabolic subgroups -- Realization as a siegel domain of the third kind, and satake compactification -- Theory of torus embeddings -- Toroidal compactification due to Mumford -- Examples : reduction theory of positive quadratic forms -- An application of the Voronoi compactification to the theory of moduli of polarized abelian varieties.

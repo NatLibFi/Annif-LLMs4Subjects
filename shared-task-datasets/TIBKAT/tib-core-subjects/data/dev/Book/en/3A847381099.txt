@@ -1,2 +1,0 @@
-The thermodynamics of quantum Yang-Mills theory : theory and applications
-The classical Yang-Mills action -- The perturbative approach at zero temperature -- Aspects of finite-temperature field theory -- Selfdual field configurations -- The deconfining phase -- The preconfining phase -- The confining phase -- The approach of thermal lattice gauge theory -- Black-body anomaly -- Astrophysical and cosmological implications

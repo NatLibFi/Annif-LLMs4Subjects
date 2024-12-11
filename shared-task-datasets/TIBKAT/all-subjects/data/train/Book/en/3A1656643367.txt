@@ -1,2 +1,0 @@
-Inconsistency, asymmetry, and non-locality : a philosophical investigation of classical electrodynamics
-Electrodynamics has largely been ignored by philosophers of science due to what Frisch says is a mistaken view that it is conceptually unproblematic. Part of the goal of this book is to show that classical physics, while successful in describing phenomena, has some very interesting conceptual problems worth discussing.

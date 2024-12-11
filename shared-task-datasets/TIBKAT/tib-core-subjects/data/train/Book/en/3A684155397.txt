@@ -1,2 +1,0 @@
-Drupal development tricks for designers : [a designer-friendly guide to Drush, Git, and other tools]
-"Take your Drupal skills even further with valuable tricks for making site building truly efficient. In this concise guide you'll learn how to set up your own development environment, quickly update your modules, and use version control to protect yourself from bonehead mistakes."--Publisher description

@@ -1,2 +1,0 @@
-First-Passage Percolation on the Square Lattice
-Preliminaries -- Bernoulli percolation -- Definition of the basic processes and the existence of routes -- Convergence of the first-passage processes -- Renewal theory for percolation processes -- The time constant -- Route length and the height process -- Other percolation models on the square lattice -- Conjectures and open problems.

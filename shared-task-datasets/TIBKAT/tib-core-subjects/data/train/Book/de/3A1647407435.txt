@@ -1,2 +1,0 @@
-Regelungstechnik I : Klassische Verfahren zur Analyse und Synthese linearer kontinuierlicher Regelsysteme, Fuzzy-Regelsysteme
-Dieses Lehrbuch behandelt die wichtigsten klassischen Methoden zur Analyse und Synthese linearer kontinuierlicher Regelsysteme. In einheitlicher Weise werden die Eigenschaften und Beschreibungsformen von Regelsystemen im Zeit- und Frequenzbereich vom systemtheoretischen Standpunkt aus dargestellt. Das stationäre und dynamische Verhalten von Regelkreisen wird für die gebräuchlichen Regeltypen hergeleitet.

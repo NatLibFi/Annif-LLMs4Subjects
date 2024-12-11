@@ -1,2 +1,0 @@
-Quantum computing verstehen : Grundlagen - Anwendungen - Perspektiven ; mit vielen Beispielen und Lösungen ; [mit Online-Service zum Buch]
-Vom Bit zum Quantenschaltkreis - Schnelle Datenbanksuche - Klassische Verschlüsselungen knacken: Primfaktorzerlegung - Teleportation und Kodierung - Geheime Botschaften: Quantenkryptographie - Wie steht es um die Realisierung des Quantencomputers?

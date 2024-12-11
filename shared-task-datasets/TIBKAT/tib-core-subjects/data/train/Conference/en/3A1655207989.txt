@@ -1,2 +1,0 @@
-Les Ondelettes en 1989 : Séminaire d'Analyse Harmonique, Université de Paris-Sud, Orsay
-This book surveys the recent theory of wavelet transforms and its applications in various fields both within mathematics (singular integrals, localization of singularities) and beyond it, in computer vision, the physics of fractals, time-frequency analysis

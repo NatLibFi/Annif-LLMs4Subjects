@@ -1,2 +1,0 @@
-Differential geometry : bundles, connections, metrics and curvature
-Bundles, connections, metrics and curvature are the lingua franca of modern differential geometry and theoretical physics. Supplying graduate students in mathematics or theoretical physics with the fundamentals of these objects, this book would suit a one-semester course on the subject of bundles and the associated geometry

@@ -1,2 +1,0 @@
-An introduction to generalized linear models
-Providing a thorough introduction to generalized linear models (GLM), exponential family distribution & maximum likelihood estimation, this book includes discussion on checking model adequacy & description on how to use a popular statistical software programme, SAS, to fit GLM

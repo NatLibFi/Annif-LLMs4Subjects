@@ -1,2 +1,0 @@
-Essential classical mechanics : problems and solutions
-In three-dimensional space: vector description -- Evolution in time: basic elements of Newtonian mechanics -- One-dimensional motion -- Motion of a particle in two or three dimensions -- The two-body problem, collision and many-particle system -- Gravitational field equations -- Rigid body dynamics I -- Elements of fluid mechanics -- Motion in a non-inertial reference frame -- Lagrangian mechanics -- Application of the Lagrangian method: small oscillations -- Rigid body dynamics II -- Hamiltonian mechanics

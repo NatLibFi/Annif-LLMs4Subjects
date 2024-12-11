@@ -1,2 +1,0 @@
-Windows server 2003 networking recipes : [networking solution fpr Windows Server 2003 administrators]
-Basic TCP/IP configuration -- Windows internet name serivce (WINS) -- Windows firewall -- Routing and remote access service (Remote Access) -- Routing and remote access service (Routing) -- Internet authentication service (IAS) -- Internet protocol security (IPSec) -- Network printing -- Network troubleshooting

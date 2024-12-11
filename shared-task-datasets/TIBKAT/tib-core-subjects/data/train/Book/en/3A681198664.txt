@@ -1,2 +1,0 @@
-Speech, image, and language processing for human computer interaction : multi-modal advancements
-"This book identifies the emerging research areas in Human Computer Interaction and discusses the current state of the art in these areas"--Provided by publisher

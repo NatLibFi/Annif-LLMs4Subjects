@@ -1,2 +1,0 @@
-FEM : Grundlagen und Anwendungen der Finite-Element-Methode im Maschinen- und Fahrzeugbau
-Die CAE-Technik als integratives Verfahren zum Konstruieren und Berechnen hat die Arbeitsweise der Ingenieure verändert. Als universelles Lösungsverfahren hat sich die Finite-Elemente-Methode bewährt, die in der Elastostatik, Elastodynamik, Wärmeleitung und Strömungsmechanik anwendbar ist. Die aktuelle Auflage enthält ein Kapitel zur Modelladäquatheit.

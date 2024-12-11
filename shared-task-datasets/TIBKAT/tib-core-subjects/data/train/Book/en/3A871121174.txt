@@ -1,2 +1,0 @@
-Modulares Laborrobotersystem : zur Durchführung biologischer Hochdurchsatzuntersuchungen
-High-throughput testing is gaining importance today for managing and analyzing imaging procedures in industry and research, especially in the medical technology and pharmaceutical industries and in the life sciences. This book presents a new design for an automatic process chain that is based on a modular robotic system, enabling the efficient management of large quantities of data. --

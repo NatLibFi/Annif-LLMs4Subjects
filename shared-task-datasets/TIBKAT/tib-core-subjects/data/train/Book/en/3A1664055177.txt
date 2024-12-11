@@ -1,2 +1,0 @@
-Elementary mathematical models : an accessible development without calculus
-Sequences and number patterns -- Arithmetic growth models -- Quadratic growth -- Geometric growth -- Mixed growth models -- Logistic growth.

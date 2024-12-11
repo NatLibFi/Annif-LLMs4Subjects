@@ -1,2 +1,0 @@
-Application acceleration and WAN optimization fundamentals
-Strategic information technology initiatives -- Barriers to application performance -- Aligning network resources with business priority -- Overcoming application-specific barriers -- Content delivery networks -- Overcoming transport and link capacity limitations -- Examining accelerator technology scenarios -- Common ports and assigned applications -- Ten places for more information

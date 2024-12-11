@@ -1,2 +1,0 @@
-Android concurrency
-Understanding concurrency -- Java concurrency -- The Android application model -- Async tasks and loaders -- Looper/handler -- Services, processes, and binder IPC -- Periodic tasks -- Concurrency tools

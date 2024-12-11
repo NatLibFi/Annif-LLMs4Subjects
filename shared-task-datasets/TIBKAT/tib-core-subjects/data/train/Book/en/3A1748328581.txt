@@ -1,2 +1,0 @@
-Understanding GPS/GNSS : principles and applications
-Providing a comprehensive treatment of the Global Navigation Satellite System (GNSS), this reference offers both a quick overview of GNSS essentials and an in-depth treatment of advanced topics exploring all the latest advances in technology, applications, and systems. --

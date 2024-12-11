@@ -1,2 +1,0 @@
-Simultaneous localization and mapping for mobile robots : introduction and methods
-"This book investigates the complexities of the theory of probabilistic localization and mapping of mobile robots as well as providing the most current and concrete developments"--

@@ -1,2 +1,0 @@
-Technische Informatik II
-Es handelt sich um Teil II des Zyklus Technische Informatik, in dem der Aufbau und Entwurf von Rechnern von der Gatterebene bis zur Anwendungsebene behandelt wird. Nachdem der Schwerpunkt in Teil I der Veranstaltung auf der Vermittlung der notwendigen Grundlagen zum Schaltkreisentwurf lag, werden die erlernten Fähigkeiten in Teil II zum Entwurf eines kleinen Rechners, ausgehend von einzelnen Komponenten, genutzt. Die Vorlesung wird durch einstündige Übungen ergänzt.

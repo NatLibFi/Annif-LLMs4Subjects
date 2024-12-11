@@ -1,3 +1,0 @@
-Infrared Non-local Modifications of General Relativity
-Introduction -- Linear massless/massive gauge theories -- Subtleties of non-local field theory -- Non-local gravity -- Cosmology -- Conclusions.
-This thesis presents significant new results on the problem of understanding the origin of dark energy in cosmology. The work develops an original approach based on modifications of General Relativity at cosmological scales, introducing non­-local effective terms that can in principle emerge from fundamental local theories. Both the phenomenological consequences and theoretical aspects of the proposal are developed in depth. The thesis also contains significant new material compared to that published by the author in scientific journals.

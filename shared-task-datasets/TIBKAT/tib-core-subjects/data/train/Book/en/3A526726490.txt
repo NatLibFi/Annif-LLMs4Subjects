@@ -1,2 +1,0 @@
-Using the Open Archives Initiative protocol for metadata harvesting
-Definition and origins of OAI-PMH -- Underlying technologies and the technical development of OAI-PMH -- Context for OAI-PMH : eprints, institutional repositories, and open access -- Technical details of the protocol -- Implementing an OAI data provider -- Creating metadata to share -- Post-harvest metadata normalization & augmentation -- Using aggregated metadata to build digital library services -- Concluding thoughts

@@ -1,2 +1,0 @@
-Human-computer interaction : concepts, methodologies, tools, and applications
-"This book gathers research on user interfaces for advanced technologies and how these interfaces can facilitate new developments in the fields of robotics, assistive technologies, and computational intelligence"--Provided by publisher.

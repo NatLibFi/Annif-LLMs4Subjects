@@ -1,2 +1,0 @@
-A student's guide to the Schrödinger equation
-Vectors and functions -- Operators and eigenfunctions -- The Schrödinger equation -- Solving the Schrödinger equation -- Solutions for specific potentials

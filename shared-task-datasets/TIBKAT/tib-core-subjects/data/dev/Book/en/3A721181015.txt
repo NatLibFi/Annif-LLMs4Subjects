@@ -1,2 +1,0 @@
-Developing and evaluating security-aware software systems
-"This book provides innovative ideas and methods on the development, operation, and maintenance of secure software systems and highlights the construction of a functional software system and a secure system simultaneously"--

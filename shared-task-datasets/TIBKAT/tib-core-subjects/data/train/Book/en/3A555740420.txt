@@ -1,2 +1,0 @@
-Desktop GIS : mapping the planet with open source tools
-'Desktop GIS' explores the world of Open Source GIS software and provides a guide to navigate the many options available. Discover what kind of GIS user you are and lay the foundation to evaluate the options and decide what software is best for you

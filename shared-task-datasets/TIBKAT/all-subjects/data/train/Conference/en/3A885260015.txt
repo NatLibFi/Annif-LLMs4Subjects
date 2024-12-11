@@ -1,2 +1,0 @@
-Dynamics done with your bare hands
-This book arose from 4 lectures given at the Undergraduate Summer School of the Thematic Program Dynamics and Boundaries held at the University of Notre Dame. It is intended to introduce (under)graduate students to the field of dynamical systems by emphasizing elementary examples, exercises and bare hands constructions

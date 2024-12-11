@@ -1,2 +1,0 @@
-Equivariant Pontrjagin Classes and Applications to Orbit Spaces : Applications of the G-signature Theorem to Transformation Groups, Symmetric Products and Number Theory
-L-classes of rational homology manifolds -- L-classes of symmetric froducts -- The G-signature theorem and some elementary number theory.

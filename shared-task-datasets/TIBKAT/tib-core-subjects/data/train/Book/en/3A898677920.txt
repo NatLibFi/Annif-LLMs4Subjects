@@ -1,2 +1,0 @@
-Charged beam dynamics, particle accelerators and free electron lasers
-Charged Beam Dynamics, Particle Accelerators and Free Electron Lasers' summarises different topics in the field of accelerators and of Free Electron Laser (FEL) devices. It explains how to design both an FEL device and the accelerator providing the driving beam. Covering both theoretical and experimental aspects, this book allows researchers to attempt a first design of an FEL device.

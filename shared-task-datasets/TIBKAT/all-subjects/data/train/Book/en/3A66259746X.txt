@@ -1,2 +1,0 @@
-Hybrid algorithms for service, computing and manufacturing systems : routing and scheduling solutions
-This book explores research developments and applications from an interdisciplinary perspective that combines approaches from operations research, computer science, artificial intelligence, and applied computational mathematics.

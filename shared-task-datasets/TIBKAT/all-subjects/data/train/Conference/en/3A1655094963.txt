@@ -1,2 +1,0 @@
-Invariant Theory : Proceedings of the 1st 1982 Session of the Centro Internazionale Matematico Estivo (C.I.M.E.) Held at Montecatini, Italy, June 10–18, 1982
-Complete symmetric varieties -- Geometric invariant theory and applications to moduli problems -- Root systems, representations of quivers and invariant theory -- Invariants of z/pz in characteristic p -- Symmetry and flag manifolds -- On some restriction theorems for semistable bundles.

@@ -1,2 +1,0 @@
-Principles of uncertainty
-"Like the De Groot winning first edition, the second edition of Principles of Uncertainty is an accessible, comprehensive guide to the theory of Bayesian Statistics written in an appealing, inviting style, and packed with interesting examples. It presents an accessible, comprehensive guide to the subjective Bayesian approach which has played a pivotal role in game theory, economics, and the recent boom in Markov Chain Monte Carlo methods. This new edition has been updated throughout and features a new chapter on Nonparametric Bayesian Methods"--

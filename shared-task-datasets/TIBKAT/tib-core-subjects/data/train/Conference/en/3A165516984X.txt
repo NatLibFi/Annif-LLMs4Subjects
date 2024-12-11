@@ -1,2 +1,0 @@
-Inverse Problems : Lectures given at the 1st 1986 Session of the Centro Internazionale Matematico Estivo (C.I.M.E.) held at Montecatini Terme, Italy, May 28 – June 5, 1986
-Inverse eigenvalue problems -- Regularization methods for linear inverse problems -- Some mathematical problems motivated by medical imaging -- Numerical treatment of ill-posed problems -- Regularization with linear equality constraints -- On the inversion of some first-kind fredholm equations occurring in optical applications.

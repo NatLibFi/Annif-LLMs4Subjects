@@ -1,2 +1,0 @@
-The essential guide to Flash games : building interactive entertainment with ActionScript 3.0
-Presents instructions for creating game frameworks for a variety of different game genres, including arcade games, casual games, and "retro-evolved" games, covering such topics as bitmap rendering, pixel-level, blitting, scrolling, and collision detection

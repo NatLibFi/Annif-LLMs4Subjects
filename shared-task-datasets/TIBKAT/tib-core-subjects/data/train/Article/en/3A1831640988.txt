@@ -1,2 +1,0 @@
-Chapter 24 Agent-based Computational Finance
-This chapter surveys research on agent-based models used in finance. It will concentrate on models where the use of computational tools is critical for the process of crafting models which give insights into the importance and dynamics of investor heterogeneity in many financial settings.

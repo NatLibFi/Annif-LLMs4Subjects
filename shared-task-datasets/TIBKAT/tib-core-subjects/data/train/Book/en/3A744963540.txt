@@ -1,2 +1,0 @@
-Regenerative Simulation of Response Times in Networks of Queues
-1.0 Introduction -- 2.0 Simulation of regenerative processes -- 3.0 Closed networks of queues -- 4.0 The marked job method -- 5.0 Examples and simulation results -- 6.0 Finite capacity open networks of queues -- 7.0 Marked job simulation via hitting times -- 8.0 The decomposition method -- 9.0 Efficiency of simulation -- 10.0 Networks with multiple job types -- 11.0 Implementation considerations.

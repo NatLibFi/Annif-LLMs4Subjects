@@ -1,2 +1,0 @@
-Fundamentals of Ground Radar for Air Traffic Control Engineers and Technicians
-The following topics in this book are discussed: radar history; secondary radar systems; air traffic control; microwave transmission lines and cavities; radar synchronizers; radar transmitters; radar receivers; moving target indicator; Doppler effect; moving target detector; and radar displays

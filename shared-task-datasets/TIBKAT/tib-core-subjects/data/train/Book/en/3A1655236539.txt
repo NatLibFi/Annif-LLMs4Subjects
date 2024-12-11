@@ -1,2 +1,0 @@
-Convex Analysis and Measurable Multifunctions
-Convex functions -- Hausdorff distance and Hausdorff uniformity -- Measurable multifunctions -- Topological property of the profile of a measurable multifunction with compact convex values -- Compactness theorems of measurable selections and integral representation theorem -- Primitive of multifunctions and multivalued differential equations -- Convex integrand on locally convex spaces. And its applications -- A natural supplement of L? in the dual of L?. Applications.

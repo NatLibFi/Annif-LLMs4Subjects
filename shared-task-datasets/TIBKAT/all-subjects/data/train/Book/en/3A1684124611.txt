@@ -1,2 +1,0 @@
-The physics of polarized targets
-"Magnetic resonance is a field that has expanded to a range of disciplines and applications, both in basic research and in its applications, and polarized targets have played an important role in this growth. This volume covers the range of disciplines required for understanding polarized targets, focusing in particular on the theoretical and technical developments made in dynamic nuclear polarization (DNP), NMR polarization measurement, high-power refrigeration, and magnet technology"--

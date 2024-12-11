@@ -1,2 +1,0 @@
-Electromechanical motion devices
-"This text is not an electric machines book aimed solely at the power system engineer, instead, it provides an elementary treatment of modern electric machine analysis that prepares the reader with the basis to study and understand the emerging applications of electric machines in the emerging smart grid, and especially, modern electric drive applications"--

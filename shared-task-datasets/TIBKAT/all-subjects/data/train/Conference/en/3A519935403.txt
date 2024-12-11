@@ -1,2 +1,0 @@
-Advanced wavefront control: methods, devices, and applications IV : 14 - 15 August 2006, San Diego, California, USA
-Wavefront control devices -- Adaptive optics systems and control algorithms -- Wavefront sensing -- Turbulence simulation and phase screens -- Novel systems and applications

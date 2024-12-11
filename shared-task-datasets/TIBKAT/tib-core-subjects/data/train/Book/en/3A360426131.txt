@@ -1,2 +1,0 @@
-Abschirmwirkung von Schallschutzwänden bei Hochgeschwindigkeitszügen : Forschungsvorhaben 29655215 / von Martin Klemenz; Michael W. Hansen; Bernd Barsikow ; Bericht 4, Arbeitspaket 3: Modellrechnungen und Vorschläge zur Modifikation der Schall 03
-Sound barriers, high-speed trains, ICE 1, ICE 2, Schall 03 guidelines, shielding effect, insertion loss, parametric study, AD-PRO 2.0 computer model, high-lying sound sources, source heights, fan noise, modification of Schall 03

@@ -1,2 +1,0 @@
-Design of human-powered vehicles
-Rationale for human-powered vehicle design and use -- Overview of human-powered vehicles -- General structured design of HPV's -- Physiology of human power generation -- The human-machine interface -- Manufacturing processes and materials -- Road loads -- Speed and power models -- Aerodynamic drag -- Bicycle handling performance -- Multi-track vehicle handling performance -- Drive train design -- Land vehicle frames and structures -- Bicycle components

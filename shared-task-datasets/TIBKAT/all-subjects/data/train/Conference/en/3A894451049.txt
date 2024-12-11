@@ -1,2 +1,0 @@
-ICASSP '95 : [proceedings] 1995 IEEE International Conference on Acoustics, Speech, and Signal Processing, May 9-12, 1995, Detroit, Michigan
-v. 1. Speech -- v. 2. Digital signal processing -- v. 3. Statistical signal and array processing -- v. 4. Image and multidimensional signal processing, Signal processing applications development -- v. 5. Special sessions, Audio and electroacoustics, Underwater signal processing, Very large scale integration for signal processing, Neural networks for signal processing, Joint sessions

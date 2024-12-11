@@ -1,2 +1,0 @@
-Chapter 8. Exchange Rates and Interest Parity
-This chapter surveys recent theoretical and empirical contributions on foreign exchange rate determination. The chapter first examines monetary models under uncovered interest parity and rational expectations, and then considers deviations from UIP/rational expectations: foreign exchange risk premium, private information, near-rational expectations, and peso problems.

@@ -1,2 +1,0 @@
-Applied edge AI : concepts, platforms, and industry use cases
-"Enterprises are evolving into real-time digital organizations. This book focuses on the technologies, processes, systems, and applications that are driving this evolution. It examines the implementation technologies, the products, processes, platforms, patterns, and practices, and use cases"--

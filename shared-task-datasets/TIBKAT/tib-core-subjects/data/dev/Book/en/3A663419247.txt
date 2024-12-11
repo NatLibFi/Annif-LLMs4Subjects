@@ -1,2 +1,0 @@
-Think Stats
-Shows you how to perform statistical analysis computationally, rather than mathematically, with programs written in Python -- Back cover

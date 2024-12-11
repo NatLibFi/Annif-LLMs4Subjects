@@ -1,2 +1,0 @@
-Research on the mechanical properties of the sand cast magnesium alloy AZ91
-In dieser Arbeit wurden die mechanischen Eigenschaften der Magnesiumsandgusslegierung AZ91 in Abhängigkeit von den Prozessparametern untersucht. Es wurde gezeigt, dass durch die Anwendung von Filtration, Kornfeinung und Wärmebehandlung das Niveau der mechanischen Eigenschaften des Sandgusses dem des Druckgusses angepasst werden kann. In dieser Arbeit wurde ausserdem der Einfluss der Prozessparameter auf die Spannungsrelaxations- und Dämpfungseigenschaften untersucht.

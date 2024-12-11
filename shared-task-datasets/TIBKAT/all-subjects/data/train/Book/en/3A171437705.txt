@@ -1,2 +1,0 @@
-Detection of signals in noise
-Aus dem Inhalt: I) Probability II) Random processes III) Narrowband signals IV) Gaussian derived processes V) Hypothesis testing VI) Detection of known signals VII) Detection of signals with random parameters VIII) Multiple pulse detection of signals IX) Detection of signals in coloured gaussian noise X) Estimation of signal parameters XI) Extension.

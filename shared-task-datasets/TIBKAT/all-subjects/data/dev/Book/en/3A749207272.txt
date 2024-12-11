@@ -1,2 +1,0 @@
-Adaptive Systems with Reduced Models
-1. Introduction -- 2. Continuous-time identifiers and adaptive observers -- 3. Discrete-time identifiers -- 4. Robustness improvement of identifiers and adaptive observers -- 5. Adaptive control in the presence of disturbances -- 6. Reduced-order adaptive control -- 7. Decentralized adaptive control -- 8. Reduced order-decentralized adaptive control -- Corrections.

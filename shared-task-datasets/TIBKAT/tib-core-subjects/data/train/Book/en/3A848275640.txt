@@ -1,2 +1,0 @@
-Problem solving and uncertainty modeling through optimization and soft computing applications
-"This book presents the latest research trends and developments in the area of applied optimization methodologies and soft computing techniques for solving complex problems, offering a multi-disciplinary approach"--

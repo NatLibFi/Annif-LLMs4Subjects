@@ -1,2 +1,0 @@
-Algorithmic high-dimensional robust statistics
-"This reference text offers a clear unified treatment for graduate students, academic researchers, and professionals interested in understanding and developing statistical procedures for high-dimensional data that are robust to idealized modeling assumptions, including robustness to model misspecification and to adversarial outliers in the dataset"--

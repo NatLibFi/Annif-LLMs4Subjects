@@ -1,3 +1,0 @@
-Handbook of research on cost-benefit analysis
-This Handbook provides an authoritative overview of current research in the field of cost-benefit analysis and is designed as a starting point for those interested in undertaking advanced research. The Handbook contains major contributions to the development of the field, focussing on standard microeconomic policy evaluations, the relatively neglected area of macroeconomic policy and its integration into a formal CBA framework, and dynamic considerations in CBA
-pt. 1. Introduction -- pt. 2. Microeconomic evaluations -- pt. 3. Macroeconomic evaluations -- pt.4. Dynamic evaluations

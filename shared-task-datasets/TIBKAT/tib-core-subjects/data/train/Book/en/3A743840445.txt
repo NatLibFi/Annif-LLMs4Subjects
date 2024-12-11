@@ -1,2 +1,0 @@
-Raspberry Pi for dummies : [learn to: connect the Raspberry Pi and install the OS ; get productive with word processing, spreadsheets, presentations, and images ; learn simple programming with Scratch and Python ; create electronics projects connected to the Raspberry Pi's GPIO port]
-As small as a credit card and ultra-affordable, the Raspberry Pi packs plenty of power into a pocket-size computer. But getting the hang of it can be tricky. This guide shows you how to use your Raspberry Pi to work and play, edit photos, watch videos, and even craft your own programs!

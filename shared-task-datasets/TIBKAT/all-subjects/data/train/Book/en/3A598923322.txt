@@ -1,2 +1,0 @@
-Data warehousing design and advanced engineering applications : methods for complex construction
-"This book covers the process of analyzing data to extract, transform, load, and manage the essential components of a data warehousing system"--Provided by publisher

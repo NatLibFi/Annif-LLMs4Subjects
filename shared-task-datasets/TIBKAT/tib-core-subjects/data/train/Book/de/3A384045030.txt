@@ -1,2 +1,0 @@
-Dokumentenverarbeitung
-Grundlagen und Prinzipien der Dokumentenverarbeitung, logische Dokumentstrukturen, ihre Spezifikation in z.B. XML, Komponenten wie Formeln oder Tabellen, Layout von Dokumenten, Zeilenumbruch und Seitenumbruch, dokumentenverarbeitende Systeme, d.h. Editoren, Formatierer etc., aber auch speziell für XML: SAX, DOM, CSS und XSLT, Seiten-Beschreibungssprachen wie z.B. PostScript.

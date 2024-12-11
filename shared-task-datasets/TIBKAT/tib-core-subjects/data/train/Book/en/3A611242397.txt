@@ -1,2 +1,0 @@
-How to cheat in Maya 2010 : tools and techniques for the Maya animator ; [companion DVD with fully animated examples and scene files]
-Workflow foundations -- Splines -- Graph editor -- Techniques -- Constraints -- Gimbal lock -- Blocking -- Walk cycles -- Polishing -- Facial animation -- Animation layers -- Lighting rendering

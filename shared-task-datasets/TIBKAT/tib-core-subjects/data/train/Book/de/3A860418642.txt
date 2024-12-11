@@ -1,2 +1,0 @@
-Versuchsplanung : Produkte und Prozesse optimieren
-"Jede Neu- oder Weiterentwicklung von Produkten und Fertigungsprozessen durchläuft eine Vielzahl von Versuchen. Aber Versuche kosten Zeit und Geld, und manche Ergebnisse sind nicht reproduzierbar. Versuchsplanung (auch DOE=Design of Experiments genannt) hilft dabei, mit möglichst geringem Aufwand reproduzierbare Ergebnisse zu erhalten. Dieses Buch zeigt Praktikern in Entwicklung, Konstruktion und Fertigung, sowie Studenten, wie mit Versuchsplanung Produkte und Prozesse optimiert werden können."--

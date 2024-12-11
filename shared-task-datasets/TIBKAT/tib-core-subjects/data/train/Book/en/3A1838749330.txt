@@ -1,2 +1,0 @@
-Microservice APIs in Python : using Python, Flask, FastAPI, OpenAPI and more
-Microservice APIs in Python' shares successful strategies and techniques for designing Microservices systems, with a particular emphasis on creating easy-to-consume APIs. The practical guide focuses on implementation over philosophising and has just enough theory to get you started. You'll quickly go hands on designing the architecture for a microservices platform, produce standard specifications for REST and GraphQL APIs, and bake in authentication features to keep your APIs secure

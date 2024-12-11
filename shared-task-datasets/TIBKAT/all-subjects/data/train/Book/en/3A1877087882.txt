@@ -1,2 +1,0 @@
-A first guide to computational modelling in physics
-"This hands-on text demystifies numerical modelling for early-stage physics and engineering students, with each chapter focusing on an intriguing physics problem. Developed over many years of teaching a computational modelling course, this stand-alone book gives students an essential numerical modelling toolkit for today's data-driven landscape"--

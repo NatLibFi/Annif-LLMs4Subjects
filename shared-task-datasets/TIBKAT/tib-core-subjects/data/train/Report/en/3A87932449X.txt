@@ -1,2 +1,0 @@
-Gray hat C# : a hacker's guide to creating and automating security tools
-"Teaches how to use C#'s set of core libraries to automate tasks like performing vulnerability scans, malware analysis, and incident response. Teaches how to write practical security tools that will run on Mac, Linux, and mobile devices"--

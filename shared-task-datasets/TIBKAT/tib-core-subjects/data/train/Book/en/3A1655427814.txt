@@ -1,2 +1,0 @@
-Majorization and the Lorenz Order: A Brief Introduction
-These notes are designed for a one quarter course introducing majorization and the Lorenz order. The inequality principles of Dalton, especially the transfer or Robin Hood principle, are given appropriate prominence

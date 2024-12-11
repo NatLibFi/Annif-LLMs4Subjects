@@ -1,2 +1,0 @@
-Developments in healthcare information systems and technologies : models and methods
-"This book presents the latest research in healthcare information systems design, development, and deployment,investigating topics such as clinical education, electronic medical records, clinical decision support systems, and IT adoption in healthcare"--Provided by publisher

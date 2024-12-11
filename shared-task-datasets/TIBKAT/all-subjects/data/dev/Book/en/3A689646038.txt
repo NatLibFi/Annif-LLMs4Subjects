@@ -1,2 +1,0 @@
-Computational knowledge discovery for bioinformatics research
-"This book discusses the most significant research and latest practices in computational knowledge discovery approaches to bioinformatics in a cross-disciplinary manner that is useful for researchers, practitioners, academicians, mathematicians, statisticians, and computer scientists involved in the many facets of bioinformatics"--

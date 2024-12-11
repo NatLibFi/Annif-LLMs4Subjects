@@ -1,2 +1,0 @@
-NSI - Neue Sicherheitsinfrastruktur : Abschlussbericht ; NSI ist ein im Rahmen des Programms "Leben und Arbeiten in einer vernetzten Welt" vom Bundesministerium für Bildung und Forschung (BMBF) gefördertes Projekt
-Public key infrastructures, PKI services for thin clients, key management digital signatures, security policy, delegation

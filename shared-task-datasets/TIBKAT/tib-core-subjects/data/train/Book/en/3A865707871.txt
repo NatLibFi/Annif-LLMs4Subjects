@@ -1,2 +1,0 @@
-Proof of the 1-factorization and Hamilton decomposition conjectures
-Introduction -- The two cliques case -- Exceptional systems for the two cliques case -- The bipartite case -- Approximate decompositions -- Bibliography

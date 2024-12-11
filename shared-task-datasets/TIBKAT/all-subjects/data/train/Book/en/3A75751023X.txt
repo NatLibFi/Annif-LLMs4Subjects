@@ -1,2 +1,0 @@
-Soil mechanics : concepts and applications
-"This is a rigorous and up-to-date textbook covering the soil mechanics and geotechnical engineering topics typically included in a university course. It encourages students to develop an understanding of the fundamentals of soil mechanics, by building a robust and adaptable framework of ideas to support and accommodate the analytical tools needed to solve the more complex problems that confront the practicing geotechnical engineer. "--

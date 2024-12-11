@@ -1,2 +1,0 @@
-Genetic Programming : 5th European Conference, EuroGP 2002 Kinsale, Ireland, April 3–5, 2002 Proceedings
-This book constitutes the refereed proceedings of the 5th European Conference on Genetic Programming, EuroGP 2002, held in Kinsale, Ireland, in April 2002. The 18 revised full papers and 14 posters presented were carefully reviewed and selected from 42 submissions. All current aspects of genetic programming and genetic algorithms are addressed, ranging from theoretical and foundational issues to applications in a variety of fields

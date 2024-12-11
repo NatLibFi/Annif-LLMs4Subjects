@@ -1,2 +1,0 @@
-Fast ASP.NET websites
-Fast ASP.NET Websites delivers just what it promises{u2014}practical, hands-on guidance to create faster, more efficient ASP.NET sites and applications. This book offers step-by-step .NET-specific examples showing you how to apply classic page optimization tips, ASP.NET-specific techniques, and ways to leverage new HTML5 features. Readers should be familiar with basic HTML, CSS, and ASP.NET concepts. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications

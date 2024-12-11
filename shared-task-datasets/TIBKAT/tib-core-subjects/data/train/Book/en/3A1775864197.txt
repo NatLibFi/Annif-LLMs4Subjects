@@ -1,3 +1,0 @@
-Springer Series in Light Scattering : Volume 7: Light Absorption and Scattering in Turbid Media
-The book aims to the description of recent progress in studies of light absorption and scattering in turbid media. In particular, light scattering/oceanic optics/snow optics research community will greatly benefit from the publication of this book.
-Radiative properties of non-spherical black carbon aerosols -- Light-absorbing particles in snow and ice: a journey across latitudes -- The study of planetary surface materials using reflectance spectroscopy -- Machine learning based retrieval algorithms: application to ocean optics -- Scattering of shaped beams by large particles: theoretical interpretation and numerical techniques.

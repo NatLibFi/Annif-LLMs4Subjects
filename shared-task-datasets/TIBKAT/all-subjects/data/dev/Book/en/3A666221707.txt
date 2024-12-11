@@ -1,2 +1,0 @@
-Mastering VMware vSphere 5
-Offers a comprehensive look at VMware technology, how to implement it, and how to make the most of what it offers

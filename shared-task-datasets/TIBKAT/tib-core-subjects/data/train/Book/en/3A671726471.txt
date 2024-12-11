@@ -1,2 +1,0 @@
-3-D surface geometry and reconstruction : developing concepts and applications
-"This book provides developers and scholars with an extensive collection of research articles in the expanding field of 3D reconstruction, investigating the concepts, methodologies, applications and recent developments in the field of 3D reconstruction"--

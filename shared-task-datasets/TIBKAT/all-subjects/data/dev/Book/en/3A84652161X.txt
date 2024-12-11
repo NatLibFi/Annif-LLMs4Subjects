@@ -1,2 +1,0 @@
-Photonics in space : advanced photonic devices and systems
-Fundamental of photonics -- Optical links for inter- and intra-spacecraft communications -- Optical signal processors and optical RF oscillators -- Image detectors -- Photonic sensors and instruments -- Solar cells for space -- Emerging space applications of photonics

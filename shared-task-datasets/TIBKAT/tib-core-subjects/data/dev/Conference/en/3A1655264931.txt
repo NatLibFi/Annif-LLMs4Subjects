@@ -1,2 +1,0 @@
-Schubert Varieties and Degeneracy Loci
-Schubert varieties and degeneracy loci have a long history in mathematics, starting from questions about loci of matrices with given ranks. These notes, from a summer school in Thurnau, aim to give an introduction to these topics, and to describe recent progress on these problems. There are interesting interactions with the algebra of symmetric functions and combinatorics, as well as the geometry of flag manifolds and intersection theory and algebraic geometry

@@ -1,2 +1,0 @@
-SSCP systems security certified practitioner : all-in-one exam guide
-Security fundamentals -- Access controls -- Basic networking and communications -- Advanced networking and communications -- Attacks -- Malicious code and activity -- Risk, response, and recovery -- Monitoring and analysis -- Controls and countermeasures -- Auditing -- Security operations -- Security administration and planning -- Legal issues -- Cryptography

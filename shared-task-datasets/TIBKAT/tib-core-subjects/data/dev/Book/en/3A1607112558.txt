@@ -1,2 +1,0 @@
-Stationary stochastic processes for scientists and engineers
-"Based on a course taught to undergraduate students in engineering for over 30 years, this textbook presents all the material for a first course in stationary stochastic processes (SSP). Following naturally from a mathematical statistics course, it covers model building via SSP with a focus on engineering applications. The book includes many exercises and computer-based practicals using MATLAB" --

@@ -1,3 +1,0 @@
-Stability of Superconductors
-and Overview -- Material Properties -- Flux jumping -- Boiling Heat Transfer and Cryostability -- Normal Zone Propagation -- Uncooled Conductors -- Internally Cooled Superconductors -- Hydrodynamic Phenomena -- Cooling with Superfluid Helium -- Miscellaneous Problems.
-In this definitive text in the field, the author gives a detailed account of the major problem of applied superconductivitiy-the stability of superconductors. His work focuses on the application of superconductiors to the construction of magnets. Students and engineers will discover the underlying principles of applied superconductivity and will learn how to solve mathematical problems with advanced methods of calculation.

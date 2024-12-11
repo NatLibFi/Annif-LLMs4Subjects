@@ -1,2 +1,0 @@
-Computational modeling and simulation examples in bioengineering
-"Bioengineering is broadly defined as the application of engineering principles to biological systems. Bioengineering can include elements of chemical, electrical and mechanical engineering, computer science, materials, chemistry and biology. The systems that are analyzed range from cell cultures and enzymes applied in the bioindustry and in bioremediation to prostehtics, construction of models for organs, drug delivery systems and numerous other subjects in biomedical engineering"--

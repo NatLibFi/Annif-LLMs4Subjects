@@ -1,2 +1,0 @@
-Artificial intelligence marketing and predicting consumer choice : an overview of tools and techniques
-Preface -- Who should read this book and why? -- Getting the project going -- Conjoint, discrete choice and other trade-offs : let's do an experiment -- Creating the best, newest thing : discrete choice modelling -- Conjoint analysis and its uses -- Predictive models 2: Classifications that grow on trees -- Remarkable predictive models with Bayes Nets -- Putting it together : what to use when -- Index

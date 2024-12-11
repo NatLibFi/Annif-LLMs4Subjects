@@ -1,2 +1,0 @@
-Applied satellite navigation using GPS, GALILEO, and augmentation systems
-"This authoritative work offers a timely, unified analysis of the various satellite navigation technologies, applications, and services in operation or development, and of the challenges that lie ahead in this rapidly evolving field."--Jacket

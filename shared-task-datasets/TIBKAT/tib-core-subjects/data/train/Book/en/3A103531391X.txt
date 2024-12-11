@@ -1,2 +1,0 @@
-Nanothermites
-The recent introduction of the 'nano' dimension to pyrotechnics has made it possible to develop a new family of highly reactive substances: nanothermites. These have a chemical composition that is comparable to that of thermites at submillimeter or micrometric granulometry, but with a morphology having a much increased degree of homogeneity.  This book discusses the methods of preparation of these energetic nanomaterials, their specific properties, and the different safety aspects inherent in their manipulation.

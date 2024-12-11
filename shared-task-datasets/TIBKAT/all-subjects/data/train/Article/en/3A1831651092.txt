@@ -1,2 +1,0 @@
-Chapter 7. International Prices and Exchange Rates
-We survey the recent empirical and theoretical developments in the literature on the relation between prices and exchange rates. After updating some of the major findings in the empirical literature, we present a simple framework to interpret this evidence. We review theoretical models that generate insensitivity of prices to exchange rate changes through variable markups, both under flexible prices and nominal rigidities, first in partial equilibrium and then in general equilibrium.

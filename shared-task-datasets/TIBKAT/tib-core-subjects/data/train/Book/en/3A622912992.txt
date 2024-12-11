@@ -1,2 +1,0 @@
-Data intensive distributed computing : challenges and solutions for large-scale information management
-"This book focuses on the challenges of distributed systems imposed by the data intensive applications, and on the different state-of-the-art solutions proposed to overcome these challenges"--Provided by publisher

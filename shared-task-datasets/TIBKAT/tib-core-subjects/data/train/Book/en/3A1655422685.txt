@@ -1,2 +1,0 @@
-Dynamics in Infinite Dimensions
-Invariant Sets and Attractors -- Functional Differential Equations on Manifolds -- The Dimension of the Attractor -- Stability and Bifurcation -- Stability of Morse-Smale Maps and Semiflows -- One-to-Oneness, Persistence, and Hyperbolicity -- Realization of Vector Fields and Normal Forms -- Attractor Sets as C1-Manifolds -- Monotonicity -- The Kupka-Smale Theorem -- A An Introduction to the Conley Index Theory in Noncompact Spaces.

@@ -1,2 +1,0 @@
-Computer control of real-time processes
-The following topics are dealt with: discrete controller design; multivariable control system design; PID controllers; sequences for control; real-time computer networking; parallel processing; computer control; software design; real-time system; real-time software; software fault tolerance; shop floor control systems; batch process control; and other control applications

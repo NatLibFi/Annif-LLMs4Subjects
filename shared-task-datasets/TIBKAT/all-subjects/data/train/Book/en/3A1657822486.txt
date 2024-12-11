@@ -1,2 +1,0 @@
-Interpolation theory, function spaces, differential operators
-Interpolation theory in Banach spaces -- Lebesgue-Besov spaces with weights in R and R -- Lebesgue-Besov spaces with weights in domains -- Regular elliptic differential operators -- Strongly degenerate elliptic differential operators -- Legendre and tricomi differential operators -- Nuclear function spaces

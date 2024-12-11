@@ -1,2 +1,0 @@
-Beginning sensor networks with Arduino and Raspberry Pi : [learn how to make Arduino and Raspberry Pi-based sensor networks]
-Learn how to build sensor networks with Arduino, Raspberry Pi, and XBee radio modules and how to turn your Raspberry Pi into a MySQL database server to store your sensor data

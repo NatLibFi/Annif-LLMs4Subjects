@@ -1,2 +1,0 @@
-Abelian Harmonic Analysis, Theta Functions and Function Algebras on a Nilmanifold
-The fourier transform and the nilmanifold ?\N -- Functions on ?\N and theta functions -- Elementary transformation theory -- Cohomology and theta functions -- Theta functions and distinguished subspaces.

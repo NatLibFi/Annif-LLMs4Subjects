@@ -1,2 +1,0 @@
-Special Relativity
-This course on special relativity emphasizes the coordinate-free and tensorial approach to Einstein's theory. The author encourages the reader tolook at problems from a four-dimensional point of view, so preparing them for further study in relativistic physics, gravitation and cosmology. The book will be especially appealing to students with a mathematical bent and those who like brevity and clarity of reasoning

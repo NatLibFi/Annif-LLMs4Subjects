@@ -1,2 +1,0 @@
-Numerik linearer Gleichungssysteme : eine Einführung in moderne Verfahren ; mit MATLAB-Implementierungen von C. Vömel
-Weitere Angaben Verfasser: Prof. Dr. Andreas Meister lehrt am Fachbereich Mathematik und Informatik der Universität Kassel

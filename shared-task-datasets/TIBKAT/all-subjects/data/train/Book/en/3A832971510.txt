@@ -1,2 +1,0 @@
-Kali Linux wireless penetration testing essentials : plan and execute penetration tests on wireless networks with the Kali Linux distribution
-This book is targeted at information security professionals, penetration testers and network/system administrators who want to get started with wireless penetration testing. No prior experience with Kali Linux and wireless penetration testing is required, but familiarity with Linux and basic networking concepts is recommended

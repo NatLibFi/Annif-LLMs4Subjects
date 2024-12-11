@@ -1,2 +1,0 @@
-Kontextabhängige Bedienassistenz und neue Interaktionstechnologien im Fahrzeug : Schlussbericht zum MTI-Leitprojekt-Vorhaben EMBASSI ; Berichtszeitraum: 01.07.99 - 30.06.2003
-Driving situation and driver state recognition, driver assistance, HMI, in-car user interaction, XML, KQML, software-agents, multiagent-system, ontologie, sw-architectur, navigation, MP3, MPEG 7, adaptive user profile, gaze detection, head-tracking, eye-tracking

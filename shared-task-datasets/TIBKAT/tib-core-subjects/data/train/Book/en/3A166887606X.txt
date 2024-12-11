@@ -1,2 +1,0 @@
-Design of unmanned aerial systems
-"An Unmanned Aerial System (UAS) is a group of coordinated multidisciplinary elements for an aerial mission by employing various payloads in flying vehicle(s). In contrast, an Unmanned Aerial Vehicle (UAV) is a remotely piloted or self-piloted aircraft that can carry payloads such as camera, radar, sensor, and communications equipment. All flight operations (including takeoff and landing) are performed without on-board human pilot. In news and media reports, the expression "drone" - as a short term - is preferred"--

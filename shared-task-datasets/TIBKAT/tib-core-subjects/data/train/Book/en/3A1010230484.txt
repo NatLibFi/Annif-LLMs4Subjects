@@ -1,2 +1,0 @@
-Systems control theory
-The book provides an up-to-date overview of modern control methods based on system models. Linear transformation of state vector, solution of state space model, stable analysis, state feedback and observer are discussed in detail. Throughout the book, computational problems are solved with MATLAB. The book is an essential text for graduate students and researchers in control engineering, mechanical, and electrical engineering--

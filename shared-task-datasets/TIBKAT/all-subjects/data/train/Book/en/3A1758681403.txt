@@ -1,2 +1,0 @@
-Maximal function methods for Sobolev spaces
-Maximal functions -- Lipeschitz and Sobolev functions -- Sobolev and Poincaré inequalities -- Pointwise inequalities for Sobolev functions -- Capacities and fine properties of Sobolev functions -- Hardy's inequalities -- Density conditions -- Muckenhoupt weights -- Weighted maximal and Poincaré inequalities -- Distance weights and Hardy-Sobolev inequalities -- The p-Laplace equation -- Stability results for the p-Laplace equation.

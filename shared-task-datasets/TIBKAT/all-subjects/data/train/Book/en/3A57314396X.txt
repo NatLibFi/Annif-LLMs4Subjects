@@ -1,2 +1,0 @@
-Practical Rails plugins : [learn how to accelerate your Rails development using plugins]
-Introduction to Plugins for Ruby on Rails -- Model enhancement -- Controller enhancement -- Login/security plugins -- Search and query plugins -- Performance optimization plugins -- View/UL enhancement --Testing with Plugins -- Plugin development strategies

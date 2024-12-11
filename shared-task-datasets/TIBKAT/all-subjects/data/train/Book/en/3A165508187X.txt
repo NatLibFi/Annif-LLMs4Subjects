@@ -1,2 +1,0 @@
-Generalized Hypergeometric Functions with Applications in Statistics and Physical Sciences
-Meijer's G-function -- Particular cases of Meijer's G-function -- Integrals of G-functions -- Finite and infinite series of G-functions -- Computable representations of a G-function in the logarithmic case -- Application of G-function in statistics -- Other applications of the G-function.

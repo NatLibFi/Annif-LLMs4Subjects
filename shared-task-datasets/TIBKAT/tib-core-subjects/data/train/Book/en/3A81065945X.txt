@@ -1,2 +1,0 @@
-Windows Server 2012 R2 inside out : services, security, & infrastructure ; [the ultimate, in-depth reference ; hundreds of timesaving solutions ; supremely organized, packed with expert advice]
-This supremely organized reference packs hundreds of timesaving solutions, troubleshooting tips, and workarounds for Windows Server 2012 R2 - with a focus on infrastructure, core services, and security features

@@ -1,2 +1,0 @@
-Video : Wiedergabe, Bearbeitung und Streaming unter Linux
-Dieser offizielle Sammelband zu einem Schwerpunktthema auf dem LinuxTag 2005 beschreibt in mehr als 15 Beiträgen die vielfältigen Aspekte der Video-Technik unter Linux. Nach der Vorstellung verschiedener Player geht es um Aspekte des Codings sowie verschiedenste Anwendungsszenarien (digitaler Videorecorder, Streaming in der Gebäudeautomation etc.). Ein Kompendium zum "State of the Art" von hochkarätigen internationalen Autoren

@@ -1,2 +1,0 @@
-Decoding the city
-Die Autoren vom Senseable City Lab am MIT zeigen, wie Big Data die Realität und damit die Beschäftigung mit der Stadt verändern, sie interpretieren digitale Daten als Material, das sie zu Formulierung einen neuen urbanen Zukunft heranziehen. Vier Fallstudien erweitern die spezifischen Schwerpunkte. Nicht übersehen werden die Schattenseiten dieser Datenerfassung und -steuerung.

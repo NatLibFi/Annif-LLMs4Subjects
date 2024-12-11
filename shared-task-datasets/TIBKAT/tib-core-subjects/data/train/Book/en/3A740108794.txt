@@ -1,2 +1,0 @@
-Meta-algorithmics : patterns for robust, low-cost, high-quality systems
-"The intent is to highlight the salient differences in multiple approaches to useful solutions in each of these arenas"--

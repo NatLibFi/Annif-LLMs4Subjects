@@ -1,2 +1,0 @@
-Active control of vibration and noise : presented at the 1996 ASME International Mechanical Engineering Congress and Exposition, November 17 - 22, 1996, Atlanta, Georgia
-Active control of acoustics -- Active control of structures and applications -- Vibration isolation, semi-active absorbers, and damping -- Adaptive structures, actuators, sensors, and mechatronic systems -- Control method synthesis and analysis

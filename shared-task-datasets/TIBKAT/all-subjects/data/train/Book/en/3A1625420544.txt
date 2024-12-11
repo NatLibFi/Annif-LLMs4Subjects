@@ -1,2 +1,0 @@
-Fiber Bragg gratings
-Photosensitivity and photosensitization of optical fibers -- Fabrication of bragg gratings -- Theory of fiber bragg gratings -- Apodization of fiber gratings -- Fiber grating band-pass filters -- Chirped fiber bragg gratings -- Fiber grating lasers and amplifiers -- Measurement and characterization of gratings -- Principles of optical fiber grating sensors -- Femtosecond-induced refractive index changes in glass -- Poling of glasses and optical fibers

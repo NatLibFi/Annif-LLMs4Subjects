@@ -1,2 +1,0 @@
-Machine Learning for Managers
-This book is for managers who have been afraid of machine learning but want to understand it. It helps managers understand how machine learning works, what it can do and how it can be used to create value in the context of wider organisation. It will appeal to managers who want to learn more about machine learning applications in business

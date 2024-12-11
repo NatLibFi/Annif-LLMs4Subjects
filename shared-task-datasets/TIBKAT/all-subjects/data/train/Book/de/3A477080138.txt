@@ -1,2 +1,0 @@
-Elemente der Funktionalanalysis : Vektorräume, Operatoren und Fixpunktsätze
-Normierte lineare Räume - Kompakte Mengen - Kompaktheitskriterien - Beschränkte lineare Operatoren - Kompakte Operatoren - Matrixoperatoren und Integraloperatoren - Fredholm-Alternative - Lösbarkeit linearer Gleichungen - Nichtlineare Operatoren - Banachscher Fixpunktsatz - Brouwerscher Fixpunktsatz - Schauderscher Fixpunktsatz - Darboscher Fixpunktsatz - Lösbarkeit nichtlinearer Gleichungen

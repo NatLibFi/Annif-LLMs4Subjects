@@ -1,2 +1,0 @@
-Raspberry Pi : [the fast and easy way to learn]
-Presents an introduction to the Rasberry Pi computer, describing how to set it up, use the command line, load aplications, organize information with Python, create graphics with Pygame, and program arcade games

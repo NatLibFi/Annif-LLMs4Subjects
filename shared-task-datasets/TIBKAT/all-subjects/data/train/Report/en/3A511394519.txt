@@ -1,2 +1,0 @@
-Verification, validation and testing in software engineering
-"This book explores different applications in V & V that spawn many areas of software development -including real time applications- where V & V techniques are required, providing in all cases examples of the applications"--Provided by publisher

@@ -1,2 +1,0 @@
-Smart computational strategies: theoretical and practical aspects
-This book covers new developments and advances in the field of Computational Strategies for next-generation computing. The contributing authors share diverse perspectives on and extensive discussions of issues concerning the theory, applications, and future prospects. Addressing computing methodologies, hardware information systems and networks, this interdisciplinary book will appeal to all scholars with an interest in computing methodologies, hardware information systems and networks

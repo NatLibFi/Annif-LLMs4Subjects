@@ -1,2 +1,0 @@
-Enterprise master data management : an SOA approach to managing core information
-About the authors -- Introducing master data management -- MDM as an SOA enabler -- MDM reference architecture -- MDM security and privacy -- MDM architecture patterns -- PIM-MDM solution blueprints -- CdI-MDM solution blueprints -- MDM integration blueprints -- Master data management and data governance -- MDM user roles -- Software and solution offerings for MDM deployments -- Compliance -- Standards

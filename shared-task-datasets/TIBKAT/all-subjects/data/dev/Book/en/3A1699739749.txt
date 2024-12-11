@@ -1,2 +1,0 @@
-Automated data analysis using Excel
-"This new edition includes some key topics relating to the latest version of MS Office, including use of the ribbon, current Excel file types, Dashboard, and basic Sharepoint integration. It shows how to automate operations, such as curve fitting, sorting, filtering, and analyzing data from a variety of sources. The book allows users to analyze data and automate the preparation of custom reports and demonstrates how to assign Excel VBA code to the new "Ribbon" user interface"--

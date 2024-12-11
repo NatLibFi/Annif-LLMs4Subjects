@@ -1,2 +1,0 @@
-Knowledge-based systems for industrial control
-The book has four parts. The first part deals with knowledge based process control. The second part discusses artificial intelligence. The third part discusses the applications of knowledge expertise and the fourth part deals in deductive control issues

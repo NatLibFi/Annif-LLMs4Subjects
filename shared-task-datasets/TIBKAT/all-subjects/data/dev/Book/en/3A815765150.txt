@@ -1,2 +1,0 @@
-Analysis of the alkali metal diatomic spectra : using molecular beams and ultracold molecules
-This ebook illustrates the complementarity of molecular beam (MB) spectra and ultracold molecule (UM) spectra in unraveling the complex electronic spectra of diatomic alkali metal molecules, using KRb as a prime example. Researchers interested in molecular spectroscopy, whether physicist, chemist, or engineer, may find this ebook helpful and may be able to apply similar ideas to their molecules of interest.

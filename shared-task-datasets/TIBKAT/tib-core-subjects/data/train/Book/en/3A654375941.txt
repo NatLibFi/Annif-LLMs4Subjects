@@ -1,2 +1,0 @@
-Modeling methods for marine science
-This is a textbook on modelling, data analysis and numerical techniques for advanced students and researchers in chemical, biological, geological and physical oceanography

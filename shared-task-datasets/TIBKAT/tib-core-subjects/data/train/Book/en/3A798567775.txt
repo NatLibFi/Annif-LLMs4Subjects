@@ -1,3 +1,0 @@
-Semiconductor spintronics
-Low-dimensional semiconductor structures -- Magnetism in solids -- Diluted magnetic semiconductors -- Magnetic electrodes -- Spin injection -- Spin transistor -- Spin interference -- Spin Hall effect -- Quantum spin Hall effect -- Topological insulators -- Quantum computation with electron spins
-"As the first comprehensive introduction into the rapidly evolving field of spintronics, this textbook covers magnetism in solids, transport of spins and the practical use of these effects in next-generation electronics. Based on foundations in solid state physics, optics, and quantum mechanics, this textbook guides the reader to the forefront of research and development in the field, based on repeated lectures given by the author" --

@@ -1,3 +1,0 @@
-Atomic Emission Spectra of Neutral Noble Gases in the Infrared Spectral Range
-This book is an invaluable guide to calibrating any infrared spectrum using noble gases as a reference. Featuring a detailed graphical and tabular overview of highly excited (Rydberg) states of neutral noble gases in the infrared range of 700–7000 cm-1, it helps researchers by providing high-precision experimental data that can be used in almost every infrared spectroscopic laboratory.
-Chapter 1 - Introduction -- Chapter 2- Experimental setup and spectral analysis -- Chapter 3 - Spectra -- Chapter 4 - Conclusion.

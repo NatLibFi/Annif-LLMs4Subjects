@@ -1,2 +1,0 @@
-Development and testing of navigation algorithms for autonomous underwater vehicles
-Introduction.- Involved vehicles.- Mathematical background .- Navigation ﬁlter.- Results.- Conclusion.

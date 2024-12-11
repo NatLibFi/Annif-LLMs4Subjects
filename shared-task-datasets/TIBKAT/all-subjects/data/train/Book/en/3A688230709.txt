@@ -1,2 +1,0 @@
-Bayesian statistics : an introduction
-"- Presents extensive examples throughout the book to complement the theory presented. Includes significant new material on recent techniques such as variational methods, importance sampling, approximate computation and reversible jump MCMC"--

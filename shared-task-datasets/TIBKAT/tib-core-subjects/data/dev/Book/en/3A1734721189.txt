@@ -1,2 +1,0 @@
-Systems reliability engineering : modeling and performance improvement$fedited by Amit Kumar and Mangey Ram
-Reliability is one of the fundamental criteria in engineering systems. Design and maintenance serve to support it throughout the systems life. As such, maintenance acts in parallel to production and can have a great impact on the availability and capacity of production and the quality of the products. The authors describe current and innovative methods useful to industry and society

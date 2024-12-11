@@ -1,2 +1,0 @@
-Device and materials modeling in PEM fuel cells
-"Topics such as catalyst layer performance and operation, reactor dynamics, macroscopic transport, and analytical models are covered under device modeling. Materials modeling include subjects relating to the membrane and the catalyst such as proton conduction, atomistic structural modeling, quantum molecular dynamics, and molecular-level modeling of the anode and cathode electrocatalysts"--P. 4 of cover

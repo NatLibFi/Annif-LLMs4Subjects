@@ -1,2 +1,0 @@
-Model order reduction : volume 1: system- and data-driven methods and algorithms
-An increasing complexity of models used to predict real-world systems leads to the need for algorithms to replace complex models with far simpler ones, while preserving the accuracy of the predictions. This two-volume handbook covers methods as well as applications. This first volume focuses on real-time control theory, data assimilation, real-time visualization, high-dimensional state spaces and interaction of different reduction techniques

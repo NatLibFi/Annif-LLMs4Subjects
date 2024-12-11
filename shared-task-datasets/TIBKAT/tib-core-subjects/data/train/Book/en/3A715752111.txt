@@ -1,2 +1,0 @@
-Basic structural dynamics
-"This book is intended as a basic introduction to the topic of structural dynamics for undergraduate civil and structural engineering students. Covering single and multiple degree of freedom systems while providing an introduction to earthquake engineering, this book keeps the coverage succinct and on topic at a level appropriate for non-specialist undergraduate and graduate students. Through dozens of worked examples based on actual structures, it also introduces the students to NONLIN, a matrix analysis software package"--

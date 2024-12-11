@@ -1,2 +1,0 @@
-Auction theory for modern computer networks
-"In this introductory chapter, we present an overview of the history of auctions. We then present critical issues and challenges of the current and future computer networks. Auctions can be used as elective tools to address the issues and challenges. We discuss motivations and signicance of the use of auctions in the computer networks. Finally, we present the objectives, organization, timeliness, and the potential audience of this book"--

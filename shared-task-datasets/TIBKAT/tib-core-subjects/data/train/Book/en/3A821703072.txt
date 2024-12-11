@@ -1,2 +1,0 @@
-Variance-constrained multi-objective stochastic control and filtering
-"Variance-Constrained Multi-Objective Stochastic Control and Filtering covers the latest research results and presents the state-of-the-art of control and filtering problems while taking multiple design objectives into consideration"--

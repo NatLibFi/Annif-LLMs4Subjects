@@ -1,2 +1,0 @@
-High performance mobile web
-"Optimize the performance of your mobile websites and webapps to the extreme. With this hands-on book, veteran mobile and web developer Maximiliano Firtman demonstrates which aspects of your site or app slow down the user's experience, and what you can do to achieve lightning-fast performance"--

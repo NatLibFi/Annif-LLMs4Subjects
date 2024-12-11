@@ -1,2 +1,0 @@
-Natural Computing : 4th International Workshop on Natural Computing Himeji, Japan, September 2009 Proceedings
-This book is the refereed proceedings of the Fourth International Workshop on Natural Computing, IWNC 2009, held in Himeji International Exchange Center, HIMEJI, JAPAN on September 2009. IWNC aims to bring together computer scientists, biologists, mathematicians, electronic engineers, physicists, and humanitarians, to critically assess present findings in the field, and to outline future developments in nature-inspired computing

@@ -1,2 +1,0 @@
-Minimal Projections in Banach Spaces : Problems of Existence and Uniqueness and their Application
-Problem of uniqueness of minimal projections in Banach spaces -- Minimal projections onto codimension one subspaces and a related mathematical programming problem -- Kolmogorov’s type criteria for minimal projections -- Isometries of Banach spaces and the problem of characterization of Hilbert spaces.

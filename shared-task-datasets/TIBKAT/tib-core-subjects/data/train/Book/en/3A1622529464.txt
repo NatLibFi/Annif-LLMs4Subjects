@@ -1,2 +1,0 @@
-Software defined networking : SDN-Praxis mit Controllern und OpenFlow®
-"Software Designed Networking (SDN) and its practical implementation is currently one of the most important topic areas in IT. This book describes general SDN theory, yet also stresses the practical implementation of leading OpenFlow technologies. It explains programming interfaces as well as the features of devices from various manufacturers"--

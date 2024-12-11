@@ -1,2 +1,0 @@
-Active inference : Third International Workshop, IWAI 2022, Grenoble, France, September 19, 2022, revised selected papers
-This volume constitutes the papers of the 3rd International Workshop on Active Inference, IWAI 2022, held in Grenoble, France, in conjunction with ECML/PKDD, on September 19, 2022. The 25 revised full papers presented in this book were carefully reviewed and selected from 31 submissions

@@ -1,2 +1,0 @@
-Evolving fuzzy models : incremental learning, interpretability, and stability issues, applications
-... The thesis ist concluded by a description of various applications, where incremental learning of Takagi-Sugeno fuzzy models acts as a necessary component in the corresponding frameworks.

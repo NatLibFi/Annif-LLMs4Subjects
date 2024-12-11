@@ -1,2 +1,0 @@
-Todd Lammle's CCNA IOS commands survival guide
-Basic IOS commands -- Managing a Cisco internetwork -- IP routing -- Enhanced IGRP (EIGRP) and open shortest path first (OSPF) -- Layer-2 switching and spanning-tree protocol (STP) -- Virtual LANs (VLANs) -- Security -- Network address translation (NAT) -- Cisco's wireless technologies -- Internet protocol version 6 (IPv6) -- Wide area networks (WANs) -- Cisco's security device manager (SDM)

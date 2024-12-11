@@ -1,2 +1,0 @@
-Game Hacking : developing autonomous bots for online games
-"A hands-on guide to hacking computer games. Shows programmers how to dissect computer games and create bots to alter their gaming environment. Covers the basics of game hacking, including reverse engineering, assembly code analysis, programmatic memory manipulation, persistent hacks, responsive hacks, and code injection"--

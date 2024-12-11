@@ -1,2 +1,0 @@
-Homotopy Theoretic Methods in Group Cohomology
-This book looks at group cohomology with tools that come from homotopy theory. These tools give both decomposition theorems (which rely on homotopy colimits to obtain a description of the cohomology of a group in terms of the cohomology of suitable subgroups) and global structure theorems (which exploit the action of the ring of topological cohomology operations)

@@ -1,2 +1,0 @@
-Networking self-teaching guide : OSI, TCP/IP, LANs, MANs, WANs, implementation, management, and maintenance
-pt. I. Networking Nuts and Bolts -- pt. II. OSI Layers -- pt. III. Network Design and Implementation -- pt. IV. Managing and Maintaining the Network -- App. A. Additional Exercises -- App. B. Exercise Answers -- App. C. Glossary -- App. D. Acronyms

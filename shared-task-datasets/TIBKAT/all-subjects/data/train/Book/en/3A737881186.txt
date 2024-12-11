@@ -1,2 +1,0 @@
-Explaining syntax : representations, structures, and computation
-This book collects Peter Culicover's key observations on the nature of syntax and its place within the architecture of language. Over four decades his pioneering examinations of expression and interpretation have led him to rebalance the elements of grammar and to reformulate linguistic theory. The book will appeal to all theoretical linguists.

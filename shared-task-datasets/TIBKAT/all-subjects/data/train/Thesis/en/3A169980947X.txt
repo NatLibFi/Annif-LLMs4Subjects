@@ -1,3 +1,0 @@
-Bayesian changepoint analysis
-In this thesis, we elaborate upon Bayesian changepoint analysis, whereby our focus is on three big topics: approximate sampling via MCMC, exact inference and uncertainty quantification. Besides, modeling matters are discussed in an ongoing fashion. Our findings are underpinned through several changepoint examples with a focus on a well-log drilling data.
-BAYES, Markov-Kette, Statistik, Ungewissheit, Convergence of Markov chains, Highest density regions, Integer Linear Program, MCMC, Model selection, NP-completeness, Perron-Frobenius theorem, Spike and Slab, mixture proposals, trans dimensional sampling

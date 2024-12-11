@@ -1,2 +1,0 @@
-Pro Php and jQuery : [add quick, smooth, and easy interactivity to your PHP sites with jQuery]
-Introducing jQuery -- Common jQuery actions and methods -- Object-oriented programming -- Add controls to create, edit, and delete events -- Password protecting sensitive actions and areas -- Enhancing the user interface with jQuery -- Editing the calendar with AJAX and jQuery -- Performing form validation with regular expressions -- Extending jQuery

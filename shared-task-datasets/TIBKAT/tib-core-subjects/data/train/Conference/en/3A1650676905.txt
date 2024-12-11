@@ -1,2 +1,0 @@
-Ferrofluids : Magnetically Controllable Fluids and Their Applications
-Magnetic control of the properties and the flow of liquids is a challenging field for basic research and for applications. This book is meant to be both an introduction to and a state-of-the-art review on this topic. Written in the form of a set of lectures and tutorial reviews, the book addresses the synthesis and characterization of magnetic fluids, their hydrodynamical description and their rheological properties. The book closes with an account of magnetic drug targeting

@@ -1,2 +1,0 @@
-Model checking software : 29th international symposium, SPIN 2023, Paris, France, April 26-27, 2023, proceedings
-This book constitutes the refereed proceedings of the 29th International Symposium on Model Checking Software, SPIN 2023, held in Paris, France, during April 26-27, 2023. The 9 full papers and 2 short papers included in this book were carefully reviewed and selected from 21 submissions. They were organized in topical sections as follows: binary decision diagrams, concurrency, testing, synthesis, explicit-state model checking

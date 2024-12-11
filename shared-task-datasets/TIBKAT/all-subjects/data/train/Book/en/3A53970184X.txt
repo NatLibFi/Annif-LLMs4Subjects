@@ -1,2 +1,0 @@
-Handbook of research on ubiquitous computing technology for real time enterprises
-"This book combines the fundamental methods, algorithms, and concepts of pervasive computing with current innovations and solutions to emerging challenges. It systemically covers such topics as network and application scalability, wireless network connectivity, adaptability and "context-aware" computing, information technology security and liability, and human-computer interaction"--Provided by publisher

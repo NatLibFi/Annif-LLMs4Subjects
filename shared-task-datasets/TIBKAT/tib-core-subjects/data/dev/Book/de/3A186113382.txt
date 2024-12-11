@@ -1,2 +1,0 @@
-Systemtheorie : eine Einführung für Ingenieure
-Das Buch soll der Bedeutung der Systemtheorie für technische Anwendungen Rechnung tragen und ist als Einführung in dieses Gebiet gedacht. Es wendet sich an jene Leser, die systemtheoretische Methoden zu Bearbeitung technischer Probleme heranziehen wollen. Das Buch ist zum Selbststudium und als Begleittext neben Vorlesungen gedacht.

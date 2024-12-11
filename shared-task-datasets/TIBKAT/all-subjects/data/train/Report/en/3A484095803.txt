@@ -1,2 +1,0 @@
-Einsatz modularer Diodenlaser zum Lasermikroschweißen und Laserhärten von Automobilkomponenten, Teilvorhaben der Robert Bosch GmbH im BMBF - Leitprojekt "Modulare Diodenlaser Strahlwerkzeuge (MDS)" : Berichtszeitraum: 01.07.1998 - 31.12.2003 ; Schlussbericht ; [Einsatz modularer Diodenlaser zum Lasermikroschweißen und Laserhärten von Automobilkomponenten, Arbeitspakte: AP3, AP7]
-Laser welding, laser hardening, diode laser, temperature control, simultaneous material processing, modular laser system, micro welding, process control

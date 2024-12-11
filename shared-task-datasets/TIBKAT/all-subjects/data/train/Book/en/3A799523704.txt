@@ -1,2 +1,0 @@
-Challenges, opportunities, and dimensions of cyber-physical systems
-"This book explores current trends and enhancements of CPS, highlighting the critical need for further research and advancement in this field and focusing on architectural fundamentals, interdisciplinary functions, and futuristic implications"--

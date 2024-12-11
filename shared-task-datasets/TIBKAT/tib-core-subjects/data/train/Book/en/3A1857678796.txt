@@ -1,2 +1,0 @@
-Computing and analysing energy minimisation problems in liquid crystals : implementation using Firedrake
-"Presents some of the latest work on numerical investigations of liquid crystals, addressing some mathematical modelling and numerical problems in the area"--

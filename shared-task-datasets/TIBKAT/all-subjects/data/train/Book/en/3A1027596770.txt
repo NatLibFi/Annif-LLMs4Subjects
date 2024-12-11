@@ -1,2 +1,0 @@
-Data visualization : charts, maps, and interactive graphics
-Why visualise? -- Translating numbers to images -- Continuous and discrete numbers -- Percentages and risks -- Showing data or statistics -- Differences, ratios, correlations -- Visual perception and the brain -- Showing uncertainty -- Time trends -- Statistical predictive models -- Machine learning techniques -- Many variables -- Maps and networks -- Interactivity -- Big data -- Visualisation as part of a bigger package -- Some overarching ideas

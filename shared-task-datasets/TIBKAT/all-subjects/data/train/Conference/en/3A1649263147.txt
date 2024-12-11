@@ -1,2 +1,0 @@
-Logic Programming : 17thInternational Conference, ICLP 2001 Paphos, Cyprus, November 26 – December 1, 2001 Proceedings
-This book constitutes the refereed proceedings of the 17th International Conference on Logic Programming, ICLP 2001, held in Paphos, Cyprus in November/December 2001. The 23 revised full papers presented were carefully reviewed and selected from 64 submissions. All current aspects of logic programming and computational logics are addressed

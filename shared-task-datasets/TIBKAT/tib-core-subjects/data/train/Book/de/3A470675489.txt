@@ -1,2 +1,0 @@
-Tomcat 5 : [inkl. Tomcat 5.5 ; Installation, Konfiguration und sicherer Betrieb ; Jasper2, Ventile, Servlet-Filter, JNDI und JDBC ; Loggen, Administration, Performance Tuning]
-Jeder, der Suns Referenzimplementierung für JavaServer Pages oder JavaServlet einsetzt, findet hier die ideale Arbeitsgrundlage. Sie erhalten einen vollständigen Überblick über die Tomcat-Architektur - mit allen Neuerungen in der Version 5. Angefangen von der Installation bis zu Realm-Implementierungen und der Anbindung von Datenbanken finden Sie alles zur Entwicklung professioneller Webanwendungen

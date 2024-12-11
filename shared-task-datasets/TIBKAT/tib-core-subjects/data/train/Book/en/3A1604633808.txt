@@ -1,2 +1,0 @@
-Differential geometry of singular spaces and reduction of symmetry
-"In this book the author illustrates the power of the theory of subcartesian differential spaces for investigating spaces with singularities. Part I gives a detailed and comprehensive presentation of the theory of differential spaces, including integration of distributions on subcartesian spaces and the structure of stratified spaces"--

@@ -1,3 +1,0 @@
-Formeln und Aufgaben zur Technischen Mechanik 2 : Elastostatik, Hydrostatik
-Das Buch enthält die wichtigsten Formeln und etwa 140 vollständig gelöste Aufgaben zur Technischen Mechanik 2 (Elastostatik, Hydrostatik). Besonderer Wert wird auf das Finden des Lösungsweges und das Erstellen der Grundgleichungen gelegt. Behandelte Themen sind: -Spannung und Verzerrung - Zug und Druck - Biegung - Torsion - Der Arbeitsbegriff der Elastostatik - Stabilität - Hydrostatik.
-Spannung, Verzerrung, Elastizitätsgesetz -- Zug und Druck -- Biegung -- Torsion -- Der Arbeitsbegriff in der Elastostatik -- Stabilität -- Hydrostatik.

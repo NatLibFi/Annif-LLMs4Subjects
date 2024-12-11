@@ -1,2 +1,0 @@
-Knots and links in three-dimensional flows
-The closed orbits of three-dimensional flows form knots and links. This book develops the tools - template theory and symbolic dynamics - needed for studying knotted orbits. This theory is applied to the problems of understanding local and global bifurcations, as well as the embedding data of orbits in Morse-smale, Smale, and integrable Hamiltonian flows. The necesssary background theory is sketched; however, some familiarity with low-dimensional topology and differential equations is assumed

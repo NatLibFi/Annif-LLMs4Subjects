@@ -1,2 +1,0 @@
-Wissenschaftstheorie für Informatiker
-Dieses Buch gibt eine Einführung in die Hauptprobleme und Grundbegriffe der Wissenschaftstheorie, soweit sie für den Informatiker relevant sind. Hierzu wird die systematische Darstellung der Sachverhalte durch fachbezogene Beispiele konkretisiert und mit einem Überblick über die wichtigsten wissenschaftstheoretischen Richtungen verbunden.

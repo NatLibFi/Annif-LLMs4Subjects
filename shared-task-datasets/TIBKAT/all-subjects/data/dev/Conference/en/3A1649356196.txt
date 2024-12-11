@@ -1,2 +1,0 @@
-Genetic Programming : Second European Workshop, EuroGP’99 Göteborg, Sweden, May 26–27, 1999 Proceedings
-This book constitutes the refereed proceedings of the Second European Workshop on Genetic Programming, EuroPG '99, held in Göteborg, Sweden in May 1999. The 12 revised full papers and 11 posters presented have been carefully reviewed and selected for inclusion in the book. All the relevant aspects of genetic programming are addressed ranging from traditional and foundational issues to applications in a variety of fields

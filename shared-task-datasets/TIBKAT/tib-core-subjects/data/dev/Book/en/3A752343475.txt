@@ -1,2 +1,0 @@
-Programming the finite element method
-"Provides an updated version of Fortran 2003 (all the Fortran programs and subroutines are listed in full in the text but will also be made available online)"--

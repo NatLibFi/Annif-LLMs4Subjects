@@ -1,2 +1,0 @@
-Data mining and knowledge discovery technologies
-"This book presents researchers and practitioners in fields such as knowledge management, information science, Web engineering, and medical informatics, with comprehensive, innovative research on data mining methods, structures, tools, and methods, the knowledge discovery process, and data marts, among many other cutting-edge topics"--Provided by publisher

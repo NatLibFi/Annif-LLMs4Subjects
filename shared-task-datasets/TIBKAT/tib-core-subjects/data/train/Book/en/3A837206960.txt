@@ -1,2 +1,0 @@
-The standard model of quantum physics Clifford algebra
-"We extend to gravitation our previous study of a quantum wave for all particles and antiparticles of each generation (electron + neutrino + u and d quarks for instance). This wave equation is form invariant under Cl3*, then relativistic invariant. It is gauge invariant under the gauge group of the standard model, with a mass term: this was impossible before, and the consequence was an impossibility to link gauge interactions and gravitation"--

@@ -1,2 +1,0 @@
-Convection in porous media
-Mechanics of fluid flow through a porous medium -- Heat transfer through a porous medium -- Mass transfer in a porous medium: multicomponent and multiphase flows -- Forced convection -- External natural convection -- Internal natural convection: heating from below -- Internal natural convection: heating from the side -- Mixed convection -- Double-diffusive convection -- Convection with change of phase -- Geophysical aspects

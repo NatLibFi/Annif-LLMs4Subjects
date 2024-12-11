@@ -1,2 +1,0 @@
-Theoretische Informatik : Formale Sprachen, Berechenbarkeit, Komplexitätstheorie,Algorithmik, Kommunikation und Kryptographie
-Die Zielsetzung dieses Lehrbuchs besteht darin, auf leicht verständliche Art in die grundlegenden algorithmischen Konzepte der Informatik einzuführen. Die Konzepte werden in ihrer historischen Entwicklung und in größeren Zusammenhängen dargestellt, um so die eigentliche Faszination der Informatik, die viel kontraintuitive Überraschungen bereithält, zu wecken.

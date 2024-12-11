@@ -1,2 +1,0 @@
-Mathematik für Physiker und Mathematiker / Rainer Wüst ; Band 1: Reelle Analysis und lineare Algebra
-Verlagstext: Als Grundlage dieses nunmehr in der dritten, korrigierten Auflage vorliegenden Kompendiums dient eine Zusammenstellung der relevanten Themen aus der Höheren Mathematik, von der Analysis, der Linearen Algebra bis hin zur zur Funktionentheorie und Differentialrechnung in der Physik. Diese engmaschige Verknüpfung vermittelt eingängig und präzise das für Physiker erforderliche Grundwissen und dient auch zum systematischen Aufbau vom mathematischen Standpunkt aus

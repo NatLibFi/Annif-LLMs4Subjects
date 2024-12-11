@@ -1,2 +1,0 @@
-Archaeological 3d GIS
-Introduction;1. Geographical Information Systems in Archaeology;2. 3D Models and Knowledge Production;3. 3D GIS in Archaeology;4. Deploying 3D GIS at the Trowel's Edge;5. Surface and Subsurface Analysis;6. 3D Visibility Analysis;7. Volumes;8. Future developments

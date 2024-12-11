@@ -1,2 +1,0 @@
-Computational probability : algorithms and applications in the mathematical sciences
-Introduction: Computational probability ; Maple for APPL -- Algorithms for continuous random variables: Data structures and simple algorithms ; Trasformations of random variables ; Products of random variables -- Algorithms for discrete random variables: Data structures and simple algorithms ; Sums of independent random variables ; Order statistics -- Applications: Reliability and survival analysis ; Stochastic simulation ; Other applications

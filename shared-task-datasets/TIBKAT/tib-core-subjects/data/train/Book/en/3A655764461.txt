@@ -1,2 +1,0 @@
-Windows Azure step by step
-Teach yourself how to build and host scalable applications in the cloud using Windows Azure - one step at a time. Ideal for developers with prior Microsoft .NET programming experience, this tutorial provides practical, learn-by-doing exercises for working with the core services and features of the Windows Azure platform

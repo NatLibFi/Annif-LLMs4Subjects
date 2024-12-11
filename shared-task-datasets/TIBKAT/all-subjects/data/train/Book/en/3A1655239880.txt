@@ -1,2 +1,0 @@
-Transformation Groups and Representation Theory
-The Burnside ring of finite G-sets -- The J-homomorphism and quadratic forms -- ?-rings -- Permutation representations -- The Burnside-ring of a compact Lie group -- Induction theory -- Equivariant homology and cohomology -- Equivariant homotopy theory -- Homotopy equivalent group representations -- Geometric modules over the Burnside ring -- Homotopy-equivalent stable G-vector bundles.

@@ -1,2 +1,0 @@
-Einfluß instationärer Zuströmbedingungen auf den zeitlich gemittelten Wärmeübergang an Gasturbinenschaufeln : Abschlußbericht zum BMFT Vorhaben 0326501E, AG-TURBO Verbundprojekt Turbotherm, Bauteilkühlung Vorhaben 2.1.3.2
-Convective heat transfer, blade cooling, experimental investigation, numerical investigation, unsteady wakes, boundary layer, unsteady interaction, wake induced transition, boundary layer code, intermittency model

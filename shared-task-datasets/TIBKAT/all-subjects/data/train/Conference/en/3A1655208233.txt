@@ -1,2 +1,0 @@
-Séminaire de Probabilités XXIV 1988/89
-The different papers contained in this volume are all research papers. The main directions of research which are being developed are: quantum probability, semimartingales and stochastic calculus

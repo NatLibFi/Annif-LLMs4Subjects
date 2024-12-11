@@ -1,2 +1,0 @@
-Complex Systems and Self-organization Modelling
-Discusses emergent computing and self-organization modeling within various applications of complex systems. This book focuses on concepts and implementations of model self-organizations

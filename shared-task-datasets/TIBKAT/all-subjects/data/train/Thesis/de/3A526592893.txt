@@ -1,2 +1,0 @@
-Radiation effects and damage formation in semiconductors due to high-energy ion irradiation
-Gegenstand dieser Arbeit war die Untersuchung ionenstrahlinduzierter Schädenbildung und -ausheilung in kristallinem und konventionell vorgeschädigtem Ge, GaAs un InP. Der zentrale Punkt der Untersuchung bestand in der Aufklärung des Einflusses verschiedener experimenteller Bedingungen auf die oben genannten Effekte.

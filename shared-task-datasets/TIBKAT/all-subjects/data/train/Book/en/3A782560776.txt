@@ -1,2 +1,0 @@
-Biologically-inspired techniques for knowledge discovery and data mining
-"This book highlights contemporary findings in the area of biologically-inspired techniques in data mining domains and their implementation in real-life problems"--

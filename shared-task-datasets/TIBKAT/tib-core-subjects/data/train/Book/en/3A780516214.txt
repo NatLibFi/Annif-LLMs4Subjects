@@ -1,2 +1,0 @@
-Correct-by-construction approaches for SoC design
-This book describes an approach for designing Systems-on-Chip such that the system meets precise mathematical requirements. The methodologies presented enable embedded systems designers to reuse intellectual property (IP) blocks from existing designs in an efficient, reliable manner, automatically generating correct SoCs from multiple, possibly mismatching, components

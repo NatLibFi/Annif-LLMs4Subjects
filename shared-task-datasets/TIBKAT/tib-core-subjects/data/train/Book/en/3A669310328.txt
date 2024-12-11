@@ -1,2 +1,0 @@
-Murach's ADO.NET 4 database programming with VB 2010 : [use data sources and datasets ; build 3-layer applications ; build ASP.NET web applications ; enhance your skills]
-"Master the relational database and ADO.NET concepts that are essential to becoming an effective database programmer."--Back cover

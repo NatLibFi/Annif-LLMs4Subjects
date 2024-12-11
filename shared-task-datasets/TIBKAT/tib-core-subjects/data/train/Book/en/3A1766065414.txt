@@ -1,2 +1,0 @@
-Elements of ∞-category theory
-[Infinity]-Cosmoi and their homotopy 2-categories -- Adjunctions, limits, and colimits I -- Comma [infinity]-categories -- Adjunctions, limits, and colimits II -- Fibrations and Yoneda's lemma -- Exotic [infinity]-cosmoi -- Two-sided fibrations and modules -- The calculus of modules -- Formal category theory in a virtual equipment -- Change-of-model functors -- Model independence -- Applications of model independence.

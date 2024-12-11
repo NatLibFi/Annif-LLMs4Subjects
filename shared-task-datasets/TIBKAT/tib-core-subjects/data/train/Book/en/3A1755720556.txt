@@ -1,2 +1,0 @@
-The physics of liquid water
-1. Statistical Mechanics and Thermodynamics of Fluids&nbsp; 2. Strange Temperature Change of Water Density&nbsp; 3. Fundamental Clarification of Thermodynamic Phenomena in Water&nbsp; 4. Variety of Shapes of Water-Molecule Interactions&nbsp; 5. Ornstein-Zernike Equation&nbsp; 6. Calculation Procedure of SCOZA&nbsp; 7. Pressure and Chemical Potential&nbsp; 8. Thermodynamic Properties of Subcritical Fluids

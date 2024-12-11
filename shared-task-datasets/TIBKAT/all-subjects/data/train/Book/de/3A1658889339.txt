@@ -1,3 +1,0 @@
-Das Ingenieurwissen: Messtechnik
-Das Ingenieurwissen jetzt auch in Einzelbänden verfügbar. Messtechnik enthält die für Ingenieure und Naturwissenschaftler wesentlichen Grundlagen in kompakter Form zum Nachschlagen bereit.
-Grundlagen der Messtechnik -- Strukturen der Messtechnik -- Messgrößenaufnehmer (Sensoren) -- Messschaltungen und Messvertärker -- Analoge Messtechnik -- Digitale Messtechnik -- Literatur.

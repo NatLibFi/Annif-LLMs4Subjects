@@ -1,2 +1,0 @@
-Attributbasierte Autorisierung im Grid Computing : vertrauenswürdige Architekturen und sichere Implementierung
-Grid Computing, attributbasierte Autorisierung, verteilte Systeme. - Attribute based authorization, distributed systems

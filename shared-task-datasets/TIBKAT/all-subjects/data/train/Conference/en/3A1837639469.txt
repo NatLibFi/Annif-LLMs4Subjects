@@ -1,2 +1,0 @@
-Machine learning and data mining for sports analytics : 9th International Workshop, MLSA 2022, Grenoble, France, September 19, 2022 : revised selected papers
-This book constitutes the refereed proceedings of the 9th International Workshop on Machine Learning and Data Mining for Sports Analytics, MLSA 2022, held in Grenoble, France, during September 19, 2022.The 10 full papers included in this book were carefully reviewed and selected from 18 submissions. They were organized in topical sections as follows: Football, Racket sports, Cycling

@@ -1,2 +1,0 @@
-Beautiful JavaScript : [leading programmers explain how they think]
-Preface -- Beautiful Mixins -- eval and Domain-Specific languages -- How to draw a bunny --Too much rope, or JavaScript for teams --  Hacking JavaScript constructors for model harmony -- One world, one language -- Math expression parser and evaluator -- Evolution -- Error handling -- The Node.js event loop -- JavaScript is -- Coding beyond logic -- JavaScript is Cutieful -- Functional JavaScript -- Progress

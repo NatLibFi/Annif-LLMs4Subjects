@@ -1,2 +1,0 @@
-Lectures on the Theory of Algebraic Functions of One Variable
-Function fields and valuations -- The Riemann-Roch theorem -- Zeta function and L-functions -- Constant field extensions.

@@ -1,2 +1,0 @@
-Control and Estimation of Systems with Input/Output Delays
-Krein Space -- Optimal Estimation for Systems with Measurement Delays -- Optimal Control for Systems with Input/Output Delays -- H? Estimation for Discrete-Time Systems with Measurement Delays -- H? Control for Discrete-Time Systems with Multiple Input Delays -- Linear Estimation for Continuous-Time Systems with Measurement Delays -- H? Estimation for Systems with Multiple State and Measurement Delays -- Optimal and H? Control of Continuous-Time Systems with Input/Output Delays.

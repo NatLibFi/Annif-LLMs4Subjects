@@ -1,2 +1,0 @@
-Charakterisierung instationärer dynamischer Flammenvorgänge in Brennkammern mit 2D-Lasermesstechnik : Abschlußbericht zum Vorhaben 3.1.3 C im Verbundprojekt "GuD-Kraftwerk: 500 MW auf einer Welle" der Arbeitsgemeinschaft Hochtemperaturgasturbine ; Förderzeitraum: 01.04.1999  30.09.2002
-Planar laser-based measuring techniques, self-excited, swirling flame, phase-correlated measure-mets, velocity of flow field, concentrations fo radicals (OH,CH, H2CO), temperature with planar OHLIF

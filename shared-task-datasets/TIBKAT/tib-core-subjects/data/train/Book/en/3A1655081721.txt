@@ -1,2 +1,0 @@
-A Course on Optimization and Best Approximation
-Preliminaries -- Theory of optimization -- Theory of best approximation -- Comments on the problems -- Selected special topics.

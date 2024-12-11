@@ -1,2 +1,0 @@
-Handbook of research on computational intelligence applications in bioinformatics
-"This book examines emergent research in handling real-world problems through the application of various computation technologies and techniques by featuring theoretical concepts and best practices in the areas of computational intelligence, artificial intelligence, big data, and bio-inspired computing"--Provided by publisher.

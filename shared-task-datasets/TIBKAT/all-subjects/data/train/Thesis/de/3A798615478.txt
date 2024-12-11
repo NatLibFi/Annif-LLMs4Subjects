@@ -1,2 +1,0 @@
-Grobstruktursimulationen zur Untersuchung des Einflusses von Landoberflächenheterogenitäten auf die Struktur der konvektiven Grenzschicht sowie Analyse der Repräsentativität von Turbulenzmessungen
-Atmosphärische Grenzschicht, Grobstruktursimulation, Oberflächenheterogenität. - Atmospheric boundary layer, large-eddy simulation, surface heterogeneity

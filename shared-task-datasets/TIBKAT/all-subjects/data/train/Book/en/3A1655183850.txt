@@ -1,2 +1,0 @@
-Weil’s Representation and the Spectrum of the Metaplectic Group
-Background and summary of results -- Metaplectic groups and representations -- Automorphic forms on the metaplectic group: Global theory -- Local theory: the archimedean places -- Local theory: the p-adic places -- Global theory and odds and ends.

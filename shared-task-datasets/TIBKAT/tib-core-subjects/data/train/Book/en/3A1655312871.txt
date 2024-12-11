@@ -1,2 +1,0 @@
-Metamathematical Investigation of Intuitionistic Arithmetic and Analysis
-Intuitionistic formal systems -- Models and computability -- Realizability and functional interpretations -- Normalization theorems for systems of natural deduction -- Applications of Kripke models -- Iterated inductive definitions, trees and ordinals -- Erratum.

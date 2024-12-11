@@ -1,2 +1,0 @@
-Emerging innovations in agile software development
-"This book focuses on the use of agile methodologies to manage, design, develop, test and maintain software projects, emphasizing research-based solutions for contemporary software development"--Provided by publisher.

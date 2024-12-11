@@ -1,2 +1,0 @@
-Chapter 47 Stochastic games
-Stochastic games model repeated play with symmetric information. We analyze their value in the zero-sum case, and approach the study of their equilibria in the non-zero-sum case.

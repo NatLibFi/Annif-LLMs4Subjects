@@ -1,2 +1,0 @@
-Food preservation process design
-Machine generated contents note: Chapter 1. Introduction Chapter 2. Kinetic Models for Food Systems Chapter 3. Kinetics of Inactivation of Microbial Populations Chapter 4. Kinetics of Food Quality Attribute Retention Chapter 5. Physical Transport Models Chapter 6. Process Design Models Chapter 7. Process Validation and Evaluation Chapter 8. Optimization of Preservation Processes Chapter 9. Designing Processes in the Future Appendix

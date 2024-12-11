@@ -1,2 +1,0 @@
-Video encryption technology and application
-Overview of video encrypton -- Video encryption algorithms with format compliance -- Visual security assessments for visual media -- Content-based multi-level encrypton and multi-level authorization

@@ -1,2 +1,0 @@
-Electron Liquids
-The study of electronic properties reveals a common basis for a variety of systems, including gaseous plasmas, ionic solutions, metals, and semiconductors. "Electron Liquids" discusses newly discovered unusual electronic phenomena, with emphasis on electron correlations, including: - the quantum Hall effect - high-Tc superconductivity - electron-hole liquids - localization - Wigner crystallization - 1D organic conductors This book is designed for use not only as a reference work but also as a graduate text for modern solid-state physics and plasma physics

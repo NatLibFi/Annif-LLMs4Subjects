@@ -1,2 +1,0 @@
-Thirty-three miniatures : mathematical and algorithmic applications of linear algebra
-Contains a collection of clever mathematical applications of linear algebra, mainly in combinatorics, geometry, and algorithms. Each chapter covers a single main result with motivation and full proof in at most ten pages and can be read independently of all other chapters (with minor exceptions), assuming only a modest background in linear algebra. --from publisher description

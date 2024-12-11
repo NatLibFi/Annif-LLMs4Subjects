@@ -1,2 +1,0 @@
-Understanding pendulums : a brief introduction
-"Despite their apparent simplicity, the behaviour of pendulums can be remarkably complicated.  Historically, pendulums for specific purposes have been developed using a combination of simplified theory and trial and error.  There do not appear to be any introductory books on pendulums, written at an intermediate level, and covering a wide range of topics.  This book aims to fill the gap.  It is written for readers with some background in elementary geometry, algebra, trigonometry and calculus."--P. 4 of cover

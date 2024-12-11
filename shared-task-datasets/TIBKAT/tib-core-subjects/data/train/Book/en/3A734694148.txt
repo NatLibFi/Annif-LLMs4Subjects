@@ -1,2 +1,0 @@
-THz identification for defense and security purposes : Identifying materials, substances, and items
-Basics of electromagnetism -- Mathematical methods of identification -- Physics of producing, detecting of THz waves and interaction with matter -- Methods and technology for THz sources, detectors, and processing electronics : imaging considerations -- Electronics for portable THz devices -- THz applications for defense and security -- Medical and other applications of THz radiation

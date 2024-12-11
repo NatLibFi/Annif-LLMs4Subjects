@@ -1,2 +1,0 @@
-Intelligent planning for mobile robotics : algorithmic approaches
-"This book presents content coverage on the basics of artificial intelligence, search problems and soft computing approaches, providing insight on robotics and basic algorithms, special topics in AI, planning, applied soft computing, applied AI, applied evolutionary computing"--Provided by publisher

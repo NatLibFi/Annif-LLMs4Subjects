@@ -1,2 +1,0 @@
-Beginner's guide to code algorithms : experiments to enhance productivity and solve problems
-"This book takes you on a problem-solving journey to expand your mind and increase your willingness to experiment with code"--

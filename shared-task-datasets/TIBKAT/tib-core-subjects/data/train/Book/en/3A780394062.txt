@@ -1,2 +1,0 @@
-Finite elements in vector lattices
-Finite elements in Archimedean vector lattices are introduced as abstract models of finite functions, i.e. continuous functions with compact support on some topological space. The book is the first systematical treatment of the theory of finite elements in Archimedean vector lattices and contains the results known on this topic up to the year 2013.It joins all important contributions achieved by a series of mathematicians that can only be found in scattered in literature.--

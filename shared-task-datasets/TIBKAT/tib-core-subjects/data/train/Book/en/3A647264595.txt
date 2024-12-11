@@ -1,2 +1,0 @@
-Using Drupal : [choosing and configuring modules to build dynamic websites ; covers Drupal 7]
-Drupal overview -- Drupal jumpstart -- Job posting board -- Media management -- Product reviews -- Event management -- Managing publishing workflow -- Multilingual sites -- Online store --  Appendix A : Installing and upgrading Drupal -- Appendix B : Choosing the right modules -- Appendix C : Modules and themes used in this book -- Major changes between Drupal 6 and 7

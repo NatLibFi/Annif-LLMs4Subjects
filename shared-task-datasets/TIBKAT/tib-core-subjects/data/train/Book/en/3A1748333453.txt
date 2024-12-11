@@ -1,2 +1,0 @@
-Installation and maintenance of SDH/SONET, ATM, Xdsl, and synchronization networks
-Service level agreements guaranteeing quality of service have helped your organization to keep old customers and win new ones over. Although it may be easy for the sales department to ink a service level agreement, you have to handle the constant problems of phase fluctuations, jitter, and wander, that threaten the quality of service spelled out in these service level agreements

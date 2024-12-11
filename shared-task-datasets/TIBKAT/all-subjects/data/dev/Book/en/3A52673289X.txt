@@ -1,2 +1,0 @@
-The book of Qt 4 : the art of building Qt applications
-Basics, tools, and first code -- The tools needed to create dialogs -- GUI design using the Qt designer -- Developing a GUI application based on a main window -- Laying out widgets -- Dialogs -- Events, drag and drop, and the clipboard -- Displaying data using "interview" -- The GtSQL module -- The graphics library "arthur" -- Input/output interfaces -- Threading with Qthread -- Handling XML with QtXML -- Internationalization -- Debugging help -- Tulip, containers and algorithms

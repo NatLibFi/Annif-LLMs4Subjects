@@ -1,2 +1,0 @@
-A composer's guide to game music
-Why would you want to write music for games? -- A composer's creative skillset -- Immersion -- The importance of themes -- Music genres and game genres -- Roles and functions of music in games -- Preparation and workflow -- The development team -- Music needs of the game -- Linear music in games -- Interactive music in games -- Interactive music in games -- A game composer's technical skillset -- Acting like a business and finding work

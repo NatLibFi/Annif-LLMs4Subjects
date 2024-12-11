@@ -1,2 +1,0 @@
-Techniques of Multivariate Calculation
-and brief survey -- Transforms -- Locally compact groups and Haar measure -- Wishart’s paper -- The noncentral Wishart density function -- Manifolds and exterior differential forms -- Invariant measures on manifolds -- Decompositions of matrices -- Examples using differential forms -- Cross sections and maximal invariants -- Random variable techniques -- The construction of zonal polynomials -- Problems for users of zonal polynomials.

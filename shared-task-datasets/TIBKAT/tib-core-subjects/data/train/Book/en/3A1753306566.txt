@@ -1,2 +1,0 @@
-Thermal energy storage with phase change materials
-"This book focuses on latent heat storage, which is one of the most efficient ways of storing thermal energy. Unlike the sensible heat storage method, latent heat storage method provides much higher storage density, with a smaller difference between storing and releasing temperatures"--

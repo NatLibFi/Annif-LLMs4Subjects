@@ -1,2 +1,0 @@
-Analytical fluid dynamics
-Section 1. Basic concepts -- section 2. Advanced gas dynamics -- section 3. Viscous/inviscid fluid dynamics -- section 4. Exact solutions for a viscous flow -- section 5. Laminar boundary-layer theory for steady two-dimensional or axisymmetric flow

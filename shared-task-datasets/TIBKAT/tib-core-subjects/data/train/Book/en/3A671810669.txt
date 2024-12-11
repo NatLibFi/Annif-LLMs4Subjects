@@ -1,2 +1,0 @@
-Tap, Move, Shake : turning your game ideas into iPhone & iPad Apps
-Introduces Xcode and Objective-C by guiding reader through hands-on development of a real game. Includes implementing game logic, sophisticated graphics, game physics, sound, and computer AI --

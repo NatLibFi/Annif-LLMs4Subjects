@@ -1,2 +1,0 @@
-The VSEPR model of molecular geometry
-" Valence Shell Electron Pair Repulsion (VSEPR) theory is a simple technique for predicting the geometry of atomic centers in small molecules and molecular ions. This authoritative reference, written by the developer of VSEPR theory features extensive coverage of structural information as well as theory and applications. Helpful data on molecular geometries, bond lengths, and band angles appear in tables and other graphics. 1991 edition"--

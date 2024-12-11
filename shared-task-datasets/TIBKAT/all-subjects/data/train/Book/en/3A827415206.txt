@@ -1,2 +1,0 @@
-Learning robotics using Python : design, simulate, program, and prototype an interactive autonomous mobile robot from scratch with the help of Python, ROS, and Open-CV!
-If you are an engineer, a researcher, or a hobbyist, and you are interested in robotics and want to build your own robot, this book is for you. Readers are assumed to be new to robotics but should have experience with Python

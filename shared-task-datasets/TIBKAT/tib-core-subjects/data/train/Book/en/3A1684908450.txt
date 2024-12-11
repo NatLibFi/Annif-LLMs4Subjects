@@ -1,2 +1,0 @@
-Axiomatic set theory
-Historical introduction -- Frame of logic and class theory -- Start of general set theory -- Ordinals : naturals numbers, finite sets -- Transfinite recursion -- Power : order, wellorder -- Completing axioms -- Analysis, cardinal arithmetic, abstract theories -- Further strengthening of the axiom system.

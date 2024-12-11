@@ -1,2 +1,0 @@
-Java for dummies
-The bestselling Java beginner's book is now fully updated for Java 7! Whether you're new to programming or already know a little Visual Basic or C++, you'll be doing Java in a jiffy. --

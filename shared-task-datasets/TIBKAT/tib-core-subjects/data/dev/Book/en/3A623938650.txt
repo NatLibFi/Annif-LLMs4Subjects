@@ -1,2 +1,0 @@
-Set theory
-Algebra of sets -- Axioms of set theory, relations, funcilons -- Natual numbers, finite and infinite sets -- Generalized union, intersection and cartesian product -- Theory of cardinal numbers -- Linearly ordered sets -- Well-ordered sets -- Alephs and related topics -- Inaccessible cardinals : the continuum hypothesis -- Introduction to the theory of analytic and projective sets

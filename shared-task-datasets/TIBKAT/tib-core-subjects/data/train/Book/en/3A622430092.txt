@@ -1,2 +1,0 @@
-Boundary value problems in queueing system analysis
-Singular integrals -- The Riemann boundary value problem -- The Riemann-Hilbert boundary value problem -- Conformal mapping -- The random walk -- The symmetrical random walk -- The general random walk -- Random walk with Poisson kernel -- Two queues in parallel -- The alternating service discipline -- A coupled processor model -- The M/G/2 queueing model -- The alternating service discipline -- The alternating service discipline- a random walk approach.

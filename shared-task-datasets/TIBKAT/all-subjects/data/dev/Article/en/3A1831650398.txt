@@ -1,2 +1,0 @@
-Chapter 9. Neighborhood and Network Effects
-In this chapter, we provide an overview of research on neighborhoods and social networks and their role in shaping behavior and economic outcomes. We include a discussion of empirical and theoretical analyses of the role of neighborhoods and social networks in crime, education, and labor-market outcomes. In particular, we discuss in detail identification problems in peer, neighborhood, and network effects and the policy implications of integrating the social and the geographical space, especially for ethnic minorities.

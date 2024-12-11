@@ -1,2 +1,0 @@
-Well completion design
-Completions are the conduit between hydrocarbon reservoirs and surface facilities. They are a fundamental part of any hydrocarbon field development project. The have to be designed for safely maximising the hydrocarbon recovery from the well and may have to last for many years under ever changing conditions. Issues include: connection with the reservoir rock, avoiding sand production, selecting the correct interval, pumps and other forms of artificial lift, safety and integrity, equipment selection and installation and future well interventions

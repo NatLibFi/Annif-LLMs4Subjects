@@ -1,2 +1,0 @@
-Electric machines : transients, control principles, finite element analysis, and optimal design with MATLAB
-"This second edition extensively covers advanced issues/subjects in electric machines, starting from principles, to applications and case studies with ample graphical (numerical) results. This textbook is intended for second (and third) semester course, treating topics such as modeling of transients, control principles, electromagnetic and thermal finite element Analysis and optimal design (dimensioning)"--

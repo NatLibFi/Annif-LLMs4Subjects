@@ -1,2 +1,0 @@
-Corpus Linguistics for Translation and Contrastive Studies : a guide for research
-Parallel text corpora: a general overview -- Designing and compiling a parallel corpus -- Using parallel corpora: basic search procedures -- Processing search results -- Using parallel corpora: more advanced search procedures -- Applications of parallel corpora -- A survey of available parallel corpora -- Final remarks -- Glossary -- Appendix 1: Corpus-based M.A. theses at the University of Tampere -- Appendix 2: Sample programs -- Index

@@ -1,2 +1,0 @@
-Expert PHP and MySQL
-Looks at the techniques of creating applications using PHP with MySQL, with information on such topics as design patterns, complex queries, iterators, closures, caching, PHP extensions, and Sphinx

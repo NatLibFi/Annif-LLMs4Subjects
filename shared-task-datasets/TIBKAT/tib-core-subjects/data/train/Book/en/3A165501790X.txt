@@ -1,2 +1,0 @@
-Spectral Theory of Differential Operators : Self-Adjoint Differential Operators
-In this fully-illustrated textbook, the author examines the spectral theory of self-adjoint elliptic operators. Chapters focus on the problems of convergence and summability of spectral decompositions about the fundamental functions of elliptic operators of the second order. The author's work offers a novel method for estimation of the remainder term of a spectral function and its Riesz means without recourse to the traditional Carleman technique and Tauberian theorem apparatus

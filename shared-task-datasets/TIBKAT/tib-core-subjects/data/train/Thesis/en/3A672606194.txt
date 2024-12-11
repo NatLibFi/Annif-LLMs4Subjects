@@ -1,2 +1,0 @@
-An early history of recursive functions and computability from Gödel to Turing
-Traces the development of recursive functions from their origins in the late nineteenth century to the mid-1930s, with particular emphasis on the work and influence of Kurt Gödel

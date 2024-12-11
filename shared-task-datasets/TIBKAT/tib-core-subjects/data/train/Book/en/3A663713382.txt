@@ -1,2 +1,0 @@
-Advanced design approaches to emerging software systems : principles, methodologies, and tools
-"This book provides relevant theoretical frameworks and the latest empirical research findings in the area, clarifying the present chaotic and confusing literature of the current state of the art and knowledge in the areas of the design and engineering of the many emerging software systems"--Provided by publisher

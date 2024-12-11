@@ -1,2 +1,0 @@
-Beginning iPhone 4 Development : exploring the iOS SDK ; [a comprehensive introduction to creating Apps for iPhone, iPad and iPod touch]
-A programmer's manual for creating a variety of iPhone applications provides a complete course in iPhone, iPad, and iPod Touch programming fundamentals, including how to download and install the iOS SDK 4, how to master interface elements, and how to save and retrieve data with SQLite

@@ -1,2 +1,0 @@
-Machine learning and deep learning in efficacy improvement of healthcare systems
-"This book describes the fundamental concepts of machine learning and deep learning techniques in a healthcare system. The aim of this book is to describe how deep learning methods are used to insure high quality data processing, medical image and signal analysis, and improved healthcare application"--

@@ -1,2 +1,0 @@
-Strömungsmaschinen
-Inhalt:1. Der Strömungsmechanismus im Laufrad. 2. Entwurf des Laufrades. 3. Ausführungsbeispiele von Laufrädern. 4. Die Kennlinien einstufiger Maschinen bei vernachlässigbarer Dichteänderung. 5. Spaltverlust und Achsschub. 6. Besonderheiten der Axialschaufel. 7. Die Kennlinien ein- und mehrstufiger Verdichter und Dampfturbinen. 8. Besondere Bedingungen bei den einzelnen Arten von Strömungsmaschinen.

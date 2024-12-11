@@ -1,2 +1,0 @@
-EMBASSI, Robuste Spracherkennung und Dialogdesign : Schlussbericht zum MTI-Leitprojekt-Vorhaben EMBASSI ; Berichtszeitraum: 19.5.99 - 30.6.2003 ; Ausgangsplan vom: 19.05.1999
-Robust speech recognition, dynamic adaption to new vocabulary, dialogmanagement, dialog design tool, spoken dialog system

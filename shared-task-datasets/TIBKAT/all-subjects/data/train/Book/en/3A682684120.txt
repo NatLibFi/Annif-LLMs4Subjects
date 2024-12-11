@@ -1,2 +1,0 @@
-Modeling, analysis, and applications in metaheuristic computing : advancements and trends
-"This book is a collection of the latest developments, models, and applications within the transdisciplinary fields related to metaheuristic computing, providing readers with insight into a wide range of topics such as genetic algorithms, differential evolution, and ant colony optimization"--Provided by publisher

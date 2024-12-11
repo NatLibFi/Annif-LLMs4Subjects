@@ -1,2 +1,0 @@
-Electronic basis of the strength of materials
-This book is the first to relate the strength characteristics of constituent atoms to the electronic structures. The book begins with short reviews of classical and quantum mechanics followed by reviews of the three major branches of the strength of materials: elastic stiffnesses; plastic responses; and the nature of fracture

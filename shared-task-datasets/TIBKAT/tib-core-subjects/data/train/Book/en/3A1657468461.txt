@@ -1,2 +1,0 @@
-Bayesian estimation of DSGE models
-Introduction to DSGE modeling and Bayesian inference. DSGE modeling -- Turning a DSGE model into a Bayesian model -- A crash course in Bayesian inference -- Estimation of linearized DSGE models. Metropolis-Hastings algorithms for DSGE models -- Sequential Monte Carlo methods -- Three applications -- Estimation of nonlinear DSGE models. From linear to nonlinear DSGE models -- Particle filters -- Combining particle filters with MH samplers -- Combining particle filters with SMC samplers -- Appendix. Model descriptions -- Data sources.

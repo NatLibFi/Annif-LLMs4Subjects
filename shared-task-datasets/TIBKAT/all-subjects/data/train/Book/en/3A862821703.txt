@@ -1,2 +1,0 @@
-Introduction to plasma physics : with space, laboratory and astrophysical applications
-Characteristic parameters of a plasma -- Single particle motions -- Waves in a cold plasma -- Kinetic theory and the moment equations -- Magnetohydrodynamics -- MHD equilibria and stability -- Discontinuities and shock waves -- Electrostatic waves in a hot unmagnetized plasma -- Waves in a hot magnetized plasma -- Nonlinear effects -- Collisional processes

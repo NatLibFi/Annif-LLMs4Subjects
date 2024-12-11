@@ -1,2 +1,0 @@
-Asymptotic Statistics
-I: Asymptotic Expansions in Statistics1 by Rabi Bhattacharya -- §1. Cramér-Egeworth Expansions -- §2. Expansions of Distributions of Statistics Admitting Stochastic Expansions -- §3. Cornish-Fisher Expansions -- §4. Second Order Efficiency -- §5. Bootstrap and Edgeworth Expansion -- §6. Notes and References -- References -- II: Weak Convergence in Nonparametric Statistics by Manfred Denker -- 1: Symmetric Statistics -- 2: Statistics Based on Ranking Methods.

@@ -1,2 +1,0 @@
-Advanced .NET remoting
-Introduction to remoting -- .NET remoting basics -- .NET remoting in action -- Configuration and deployment -- Securing .NET remoting -- Creating remoting clients -- In-depth .NET remoting -- The ins and outs of versioning -- .NET remoting tips and best practices -- Troubleshooting .NET remoting -- Inside the framework -- Creation of sinks -- Extending .NET remoting -- Developing a transport channel -- Context matters -- .NET remoting usage reference -- .NET remoting extensibility reference -- .NET remoting links

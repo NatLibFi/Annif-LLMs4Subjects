@@ -1,2 +1,0 @@
-Gauge symmetries, symmetry breaking, and gauge-invariant approaches
-"This Element focuses on the circumstances in which the restriction of gauge theories to gauge invariant information on an observable level is warranted, using the Brout-Englert-Higgs theory as an example of particular current importance"--

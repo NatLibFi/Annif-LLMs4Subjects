@@ -1,2 +1,0 @@
-Business analytics : wie Sie Daten für die Steuerung von Unternehmen nutzen
-Warum schöpfen manche Unternehmen das Potenzial von Business Analytics voll aus und andere nicht? Der Grund hierfür ist nicht etwa eine mangelnde Beherrschung der Algorithmen. Vielmehr werden andere Aspekte von Business Analytics nicht ausreichend beachtet! Dazu gehören neben die Beherrschung von Algorithmen die Interpretation und Visualisierung der Ergebnisse der Algorithmen, aber auch die organisatorische Verortung der Analytics-Funktion

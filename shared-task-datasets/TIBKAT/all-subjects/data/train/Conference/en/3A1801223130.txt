@@ -1,2 +1,0 @@
-Scientific computing in electrical engineering : SCEE 2020, Eindhoven, The Netherlands, February 2020
-The conference has an interdisciplinary focus and aims to bring together scientists – mathematicians, electrical engineers, computer scientists, and physicists, from universities and industry – to have in-depth discussions of the latest scientific results in Computational Science and Engineering relevant to Electrical Engineering and to stimulate and inspire active participation of young researchers.

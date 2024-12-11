@@ -1,2 +1,0 @@
-Spatial analysis and location modeling in urban and regional systems
-This contributed volume collects cutting-edge research in Geographic Information Science & Technologies, Location Modeling, and Spatial Analysis of Urban and Regional Systems. The contributions emphasize methodological innovations or substantive breakthroughs on many facets of the socio-economic and environmental reality of urban and regional contexts.

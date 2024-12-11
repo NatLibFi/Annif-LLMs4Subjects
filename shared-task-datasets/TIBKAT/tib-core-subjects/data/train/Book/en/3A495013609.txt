@@ -1,2 +1,0 @@
-Computational economics : a perspective from computational intelligence
-"This book identifies the economic as well as financial problems that may be solved efficiently with computational methods and explains why those problems should best be solved with computational methods" - Provided by publisher

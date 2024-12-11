@@ -1,2 +1,0 @@
-Expert ASP.NET Web API 2 for MVC developers : [learn how to create efficent, fast, and scalable HTTP web services using WEB API 2]
-"Best-selling author Adam Freeman explains how to get the most from Web API 2 by building on the foundation of the MVC Framework and the ASP.NET platform.  He starts with the nuts-and-bolts and shows you everything through to advanced features, going in-depth to give you the knowledge you need."--Back cover

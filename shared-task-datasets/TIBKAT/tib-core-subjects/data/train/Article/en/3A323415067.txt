@@ -1,2 +1,0 @@
-Extension of the Ahiezer-Kac Determinant Formula to the Case of Real-Valued Symbols with Two Real Zeros
-The Fredholm determinant asymptotics for self-adjoint convolution operators on finite intervals with real symbols vanishing on the real axis is studied. Explicit formulae are obtained in the case where the symbol satisfies the generalized zero index condition and has only two simple zeros of analytic type. These formulae are direct extensions of the AhiezerKacSzegö limit theorem which, in particular, take into account the oscillating character of the asymptotics.

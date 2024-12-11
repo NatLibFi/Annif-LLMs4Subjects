@@ -1,2 +1,0 @@
-Artificial intelligence and robotics : ten short lessons
-"The author explains the world of computer-modeled intelligence for curious general readers. Organized into ten essential lessons, the book covers the historical origins of artificial intelligence and robotics; algorithms for building robots; and the technologies that enable computers to process sensory information, language and communication, and emotion. The book belongs to a new series, Pocket Einstein Series, which features trade titles organized into ten lessons meant to satisfy the curiosity of general readers"--

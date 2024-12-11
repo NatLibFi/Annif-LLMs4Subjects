@@ -1,2 +1,0 @@
-Ein computergestütztes Modellsystem für die Generierung von städtischen Raumstrukturen : ein computerbasierter generativer Ansatz zur Erzeugung von räumlichen Stadtstrukturen als methodische Ergänzung zur heutigen Planungspraxis in der Stadtentwicklung
-Die Arbeit beschäftigt sich mit der komplexen Aufgabe Stadtstrukturen mit einem Simulationsmodell im Rechner erzeugen zu können. Dafür wird ein Vierebenenmodell als Untermodellebene eingeführt, um mit allgemeinen Informationen, Parzellierung, Gebäuden und Optimierung der Struktur arbeiten zu können.

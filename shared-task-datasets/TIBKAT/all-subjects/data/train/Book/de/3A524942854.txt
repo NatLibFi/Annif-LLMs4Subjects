@@ -1,2 +1,0 @@
-Vernetztes Supply Chain Management : SCM-Integration über die gesamte Wertschöpfungskette
-Supply Chain Management (SCM) optimiert die Geschäftsprozesse vom Lieferanten bis zum Kunden. Ganzheitliche Modelle kommen dabei nicht ohne E-Business-Konzepte und Web-Technologien aus, sie unterstützen die Koordination aller Prozesse und Transaktionen. Das Buch bietet einen umfassenden und systematischen Überblick über voll integrierte SCM-Konzepte. Dafür werden auch die zur Effizienzsteigerung notwendigen Informations- und Kommunikations-Technologien vorgestellt.

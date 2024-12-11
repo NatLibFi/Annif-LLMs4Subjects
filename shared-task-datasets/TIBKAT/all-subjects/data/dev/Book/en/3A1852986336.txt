@@ -1,2 +1,0 @@
-Intelligent approaches to cyber security
-"Intelligent Approach to Cyber Security provides details on the important cyber security threats and its mitigation and the influence of Machine Learning, Deep Learning and Blockchain technologies in the realm of cyber security"--

@@ -1,2 +1,0 @@
-Random light beams : theory and applications
-Deterministic paraxial beams -- Scalar stochastic beams : theory -- Electromagnetic stochastic beams : theory -- Interaction of random electromagnetic beams with optical systems -- Random beams in linear random media -- Mitigation of random media effects with random beams -- Weak scattering of random beams

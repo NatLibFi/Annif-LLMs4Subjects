@@ -1,2 +1,0 @@
-Elektrische Maschinen
-Gleichstrommaschinen, Gleichstromgeneratoren, Gleichstrommotoren, Transformatoren (Umspanner), Asynchronmaschinen für Drei- und Einphasenwechselstrom, Synchronmaschinen, Stromwendermaschinen für Ein- und Dreiphasenwechselstrom, Umformer, Gliederung der Einphasen-, Dreiphasen- und Gleichstrommaschinen, Störungen an elektrischen Maschinen. Besondere Bedeutung hat dieser Band für die Meisterausbildung von Elektroinstallateuren, Elektromechanikern und Elektromaschinenbauern im Handwerk und in der Industrie

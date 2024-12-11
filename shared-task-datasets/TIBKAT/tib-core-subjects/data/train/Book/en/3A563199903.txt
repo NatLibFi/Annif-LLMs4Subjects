@@ -1,2 +1,0 @@
-The structure of affine buildings
-Richard Weiss gives a detailed presentation of the complete proof of the classification of Bruhat-Tits buildings first completed by Jacques Tits in 1986. The book includes numerous results about automorphisms, completions and residues of these buildings

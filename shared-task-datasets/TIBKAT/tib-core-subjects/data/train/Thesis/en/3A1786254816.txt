@@ -1,2 +1,0 @@
-Image objects : an archaeology of computer graphics
-"Though an analysis of five objects that have shaped the history of computer graphics, this book explores what historical technologies shaped and limited the development of simulated images"--

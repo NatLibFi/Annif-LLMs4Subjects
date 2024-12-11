@@ -1,2 +1,0 @@
-Biostatistik : eine Einführung für Bio- und Umweltwissenschaftler
-Alle für die Biowissenschaften notwendigen Grundlagen der Biostatistik im kompakten Überblick. Zahlreiche Beispiele veranschaulichen den Bezug zur Praxis und bereiten die Leser auf die erfolgreiche Durchführung eigener Forschungsprojekte vor.In dem dazugehörigen MyLab Biostatistik werden alle im Buch behandelten Methoden mit Hilfe der gängigen Software SPSS, Excel und R unmittelbar in die Praxis umgesetzt. Außerdem liefert das MyLab viele interaktive Aufgaben mit Lösung

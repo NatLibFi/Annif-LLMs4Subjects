@@ -1,2 +1,0 @@
-Research developments in computer vision and image processing : methodologies and applications
-"This book brings together various research methodologies and trends in emerging areas of application of computer vision and image processing for those interested in the research developments of this rapidly growing field"--

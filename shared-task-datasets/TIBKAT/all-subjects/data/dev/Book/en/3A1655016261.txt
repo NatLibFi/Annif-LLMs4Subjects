@@ -1,2 +1,0 @@
-Introduction to the Statistical Analysis of Categorical Data
-This book deals with the analysis of categorical data. Statistical models, especially log-linear models for contingency tables and logistic regression, are described and applied to real life data. Special emphasis is given to the use of graphical methods. The book is intended as a text for both undergraduate and graduate courses for statisticians, applied statisticians, social scientists, economists and epidemiologists. Many examples and exercises with solutions should help the reader to understand the material

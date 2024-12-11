@@ -1,2 +1,0 @@
-Time-frequency transforms for radar imaging and signal analysis
-Here's a hands-on book on time-frequency transforms for radar imaging and signal analysis. It teaches you more efficient ways to extract dispersive scattering features; detect and extract weak signals in noise; form clear radar images; estimate parameters and perform motion compensation; detect and track moving targets in the synthetic aperture radar; and analyze vibration and rotation induced micro-Doppler

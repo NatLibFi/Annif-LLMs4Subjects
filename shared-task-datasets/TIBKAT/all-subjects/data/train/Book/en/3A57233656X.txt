@@ -1,2 +1,0 @@
-Handbook of research on geoinformatics
-"This book discusses the complete range of contemporary research topics such as computer modeling, geometry, geoprocessing, and geographic information systems"--Provided by publisher

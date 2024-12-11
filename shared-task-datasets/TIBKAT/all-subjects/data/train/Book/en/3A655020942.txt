@@ -1,2 +1,0 @@
-Ultracapacitor applications
-This text takes a critical look at physical storage of electricity in the devices known collectively as electrochemical capacitors and particularly as ultracapacitors

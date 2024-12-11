@@ -1,2 +1,0 @@
-Theoretical foundations of digital imaging using MATLAB
-"Based on the author's course, this text provides a thorough and mathematically rigorous treatment of digital imaging and image processing, including 3D imaging. It covers modern imaging methods, with a focus on digital implementations. The text also includes a review of imaging mathematics accompanied by MATLAB

@@ -1,2 +1,0 @@
-Transducers and Arrays for Underwater Sound
-Discusses the theory, development and design of electroacoustic transducers for underwater applications. This book includes the basics of the six major types of electroacoustic transducers and shows why piezoelectric ceramic transducers are the most suitable for underwater sound. It also presents the basic acoustic concepts

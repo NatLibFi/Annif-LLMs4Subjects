@@ -1,2 +1,0 @@
-Configuration Spaces over Hilbert Schemes and Applications
-The main themes of this book are to establish the triple formula without any hypotheses on the genericity of the morphism, and to develop a theory of complete quadruple points, which is a first step towards proving the quadruple point formula under less restrictive hypotheses. This book should be of interest to graduate students and researchers in the field of algebraic geometry. The reader is expected to have some basic knowledge of enumerative algebraic geometry and pointwise Hilbert schemes

@@ -1,2 +1,0 @@
-MuPAD : eine Einführung
-Das Computeralgebrasystem MuPAD ist eines der unentbehrlichen Werkzeuge für Lehre und Forschung in den Natur- und Ingenieurwissenschaften. Es überzeugt durch klare Strukturen, vielfältige Visualisierungsmöglichkeiten und effiziente Berechnungen. Diese kompakte, übersichtliche und elementare Einführung demonstriert anhand vieler Beispiele den Aufbau der Sprache und ihre wichtigsten Sprachelemente - basierend auf der MuPAD-Version Pro 4.0.

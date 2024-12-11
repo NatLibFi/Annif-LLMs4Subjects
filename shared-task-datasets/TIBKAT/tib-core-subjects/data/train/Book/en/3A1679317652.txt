@@ -1,2 +1,0 @@
-Modern techniques for agricultural disease management and crop yield prediction
-"This book explores the current practices and widespread open challenges in the field of applications of computational techniques in smart agriculture. It also examines computational methods that will aid in agriculture disease management, weed detection, and crop yield prediction."

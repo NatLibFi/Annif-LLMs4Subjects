@@ -1,2 +1,0 @@
-Wissensbasierte Interpretation von Vegetationsflächen aus multitemporalen Fernerkundungsdaten
-Knowledge based system, image interpretation, semantic net, monitoring, multitemporal, remote sensing, moor

@@ -1,2 +1,0 @@
-Stochastic analysis : proceedings of the Taniguchi International Symposium on Stochastic Analysis, Katata and Kyoto, 1982
-Stochastic analysis, a branch of probability theory stemming from the theory of stochastic differential equations, is becoming increasingly important in connection with partial differential equations, non-linear functional analysis, control theory and statistical mechanics

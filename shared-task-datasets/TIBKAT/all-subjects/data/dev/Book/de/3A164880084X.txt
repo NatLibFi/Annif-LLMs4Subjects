@@ -1,3 +1,0 @@
-Digitale Signalverarbeitung 2 : Entwurf diskreter Systeme
-Der zweite Teil der „Digitalen Signalverarbeitung" von Prof. Hans W. Schüssler gibt eine fundierte und ausführliche Einführung in den Entwurf digitaler Systeme und legt einen wesentlichen Schwerpunkt auf die Analyse und das Design digitaler Filter. Diese Erstausgabe basiert auf dem Manuskript von H. W. Schüssler, das von G. Dehner,R. Rabenstein und P. Steffen bearbeitet wurde. Wie der Band 1 ist auch dieser zweite Band von einer umfangreichen Matlab-Bibliothek begleitet, die im Internet zur Verfügung gestellt wird.
-Nichtrekursive Filter -- Rekursive Filter -- Spezielle Systeme -- Programmbibliothek zur Digitalen Signalverarbeitung.

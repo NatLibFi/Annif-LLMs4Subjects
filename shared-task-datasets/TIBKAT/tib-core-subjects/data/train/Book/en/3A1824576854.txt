@@ -1,2 +1,0 @@
-Tunnel design methods
-"This book covers analytical, numerical and empirical methods for the design of tunnels in soil and in rock. It gives detailed analytical and numerical methods for design engineers, suits graduate students, and guides specialists in ground-support interaction under static and seismic loading. It presents fundamental concepts in ground and support behavior and in ground-excavation-support interaction along with detailed information on methods used for the design of tunnels, with applications, and on the latest developments in empirical methods"--

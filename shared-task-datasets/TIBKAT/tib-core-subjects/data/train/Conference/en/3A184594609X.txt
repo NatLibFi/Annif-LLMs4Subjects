@@ -1,2 +1,0 @@
-Codes, cryptology and information security : 4th International Conference, C2SI 2023, Rabat, Morocco, May 29-31, 2023, proceedings
-This book constitutes the refereed proceedings of the 4th International Conference on Codes, Cryptology and Information Security, C2SI 2023, held in Rabat, Morocco, during May 29-31, 2023.  The 21 full papers included in this book were carefully reviewed and selected from 62 submissions. They were organized in topical sections as follows: Invited Papers, Cryptography, Information Security, Discrete Mathematics, Coding Theory

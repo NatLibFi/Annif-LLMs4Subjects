@@ -1,2 +1,0 @@
-Sams teach yourself NoSQL with MongoDB in 24 hours
-"Now, in just 24 lessons of one hour or less, you can learn how to leverage MongoDB's immense power. Each short, easy lesson builds on all that's come before, teaching NoSQL concepts and MongoDB techniques from the ground up."--

@@ -1,2 +1,0 @@
-Quantum theory from first principles : an informational approach
-"Quantum theory is the soul of theoretical physics. It is not just a theory of specific physical systems, but rather a new framework with universal applicability. This book shows how we can reconstruct the theory from six information-theoretical principles, by rebuilding the quantum rules from the bottom up. Step by step, the reader will learn how to master the counterintuitive aspects of the quantum world, and how to efficiently reconstruct quantum information protocols from first principles."

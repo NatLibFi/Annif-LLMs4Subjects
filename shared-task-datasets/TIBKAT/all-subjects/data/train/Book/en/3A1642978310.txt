@@ -1,2 +1,0 @@
-Advances in swarm intelligence for optimizing problems in computer science
-This book provides comprehensive details of all Swarm Intelligence based Techniques available till date in a comprehensive manner along with their mathematical proofs. It will act as foundation for authors, researchers and industry professionals--

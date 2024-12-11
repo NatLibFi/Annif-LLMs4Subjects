@@ -1,2 +1,0 @@
-Climate mathematics : theory and applications
-Dimensional analysis for climate science -- Basics of R programming -- Basic statistical methods for climate data analysis -- Climate data matrices and linear algebra -- Energy balance models -- Calculus applications to climate science I : derivatives -- Calculus applications to climate science II : integrals -- Conservation laws in climate dynamics -- R graphics for climate science -- Advanced r analysis and plotting EOFs, trends, and global data -- R analysis of incomplete climate data -- Appendices.

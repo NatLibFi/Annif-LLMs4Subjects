@@ -1,2 +1,0 @@
-Optics inspections and tests : a guide for optics inspectors and designers
-"This book instructs inspectors and designers of optical elements and assemblies with the primary means of inspection and testing, as well as the relevant tools and instruments"

@@ -1,2 +1,0 @@
-Artificial higher order neural networks for computer science and engineering : trends for emerging applications
-"This book introduces and explains Higher Order Neural Networks (HONNs) to people working in the fields of computer science and computer engineering, and how to use HONNS in these areas"--Provided by publisher

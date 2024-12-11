@@ -1,2 +1,0 @@
-Stability of tautological bundles on Hilbert schemes of points on a surface
-Moduli spaces, hyperkähler manifolds, vector bundles. - Modulräume, Hyperkählermannigfaltigkeiten, Vektorbündel

@@ -1,2 +1,0 @@
-GPU Pro : advanced rendering techniques / ed. by Wolfgang Engel ; 2
-"This book contains many chapters describing the latest developments in computer graphics rendering on the GPU. Written by game programming experts, each contribution covers advanced rendering techniques that run on the DirectX and OpenGL run-time with any shader language available. The book's sections cover topics in mathematics of computer graphics, rendering, global illumination, handheld devices, 3D engine design, and GPGPU" --

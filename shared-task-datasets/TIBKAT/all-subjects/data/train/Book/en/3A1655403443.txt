@@ -1,2 +1,0 @@
-Smooth Manifolds and Observables
-Cutoff and Other Special Smooth Functions on ?n -- Algebras and Points -- Smooth Manifolds (Algebraic Definition) -- Charts and Atlases -- Smooth Maps -- Equivalence of Coordinate and Algebraic Definitions -- Spectra and Ghosts -- The Differential Calculus as a Part of Commutative Algebra -- Smooth Bundles -- Vector Bundles and Projective Modules.

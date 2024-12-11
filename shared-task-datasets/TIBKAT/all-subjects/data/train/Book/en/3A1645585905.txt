@@ -1,2 +1,0 @@
-Value-Distribution of L-Functions
-Dirichlet Series and Polynomial Euler Products -- Interlude: Results from Probability Theory -- Limit Theorems -- Universality -- The Selberg Class -- Value-Distribution in the Complex Plane -- The Riemann Hypothesis -- Effective Results -- Consequences of Universality -- Dirichlet Series with Periodic Coefficients -- Joint Universality -- L-Functions of Number Fields.

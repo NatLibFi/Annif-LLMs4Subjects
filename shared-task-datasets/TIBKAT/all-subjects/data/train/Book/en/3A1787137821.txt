@@ -1,2 +1,0 @@
-2D nanomaterials : chemistry and properties
-"2D nanomaterials have emerged as promising candidates for energy devices owing to their superior electrochemical properties, surface area, nanodevice integration, multifunctionality, printability, and mechanical flexibility. This book covers basic concepts, chemistries, and properties along with theoretical consideration in designing new 2D nanomaterials, especially for energy applications. It is aimed at materials scientists, chemists, electrochemists, and engineers working in energy disciplines"--

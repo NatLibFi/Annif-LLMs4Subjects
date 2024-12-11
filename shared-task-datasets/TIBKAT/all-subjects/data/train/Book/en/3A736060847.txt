@@ -1,2 +1,0 @@
-Volatility surface and term structure : high-profit options trading strategies
-Introduction -- A novel model-free term structure for stock prediction -- An adaptive correlation heston model for stock prediction -- The algorithm to control risk using option -- Option strategies: evaluation criterion and optimization -- A novel mean reversion-based local volatility model -- Regression-based correlation modeling for heston model -- Index option strategies comparison and self-risk management -- Call-put term structure spread-based HSI analysis

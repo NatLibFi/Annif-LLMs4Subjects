@@ -1,3 +1,0 @@
-Iron- and manganese-catalysed (de)hydrogenation reactions
-This work relates to the development of new methodologies for homogeneously catalysed (de)hydrogenation reactions. The focus is on non-noble metal catalysts based on iron or manganese with varying pincer ligands for the dehydrogenation of alcohols and the semihydrogenation of alkynes.<eng>
-Die vorliegende Arbeit beschreibt die Entwicklung von neuen Methoden für homogenkatalytische (De)Hydrierungsreaktionen. Dabei wurden Nichtedelmetallkatalysatoren auf Basis von Eisen oder Mangan mit variierenden Pincer-Liganden für die Dehydrierung von Alkoholen und die Semihydrierung von Alkinen eingesetzt.<ger>

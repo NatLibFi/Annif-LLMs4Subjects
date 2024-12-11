@@ -1,2 +1,0 @@
-The Classification of Three-Dimensional Homogeneous Complex Manifolds
-This book provides a classification of all three-dimensional complex manifolds for which there exists a transitive action (by biholomorphic transformations) of a real Lie group. This means two homogeneous complex manifolds are considered equivalent if they are isomorphic as complex manifolds. The classification is based on methods from Lie group theory, complex analysis and algebraic geometry. Basic knowledge in these areas is presupposed

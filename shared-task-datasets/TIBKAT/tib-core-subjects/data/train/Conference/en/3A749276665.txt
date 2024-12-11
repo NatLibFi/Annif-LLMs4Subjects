@@ -1,2 +1,0 @@
-Optimal control : proceedings of the Conference on Optimal Control and Variational Calculus, Oberwolfach, West-Germany, June 15 - 21, 1986
-The volume contains new research papers (some of which are of a tutorial nature) on theory and computational methods, oscillatory control, deterministic control of uncertain systems, nonlinear perturbed optimal control, and on control of systems with distributed parameters

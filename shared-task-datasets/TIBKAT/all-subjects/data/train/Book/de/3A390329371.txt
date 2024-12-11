@@ -1,2 +1,0 @@
-Open-Source-Werkzeuge für e-Trainings : Übersicht, Empfehlungen und Anleitungen für den sofortigen Seminareinsatz
-Viele Trainer scheuen e-Learning-Methoden, weil die erhältlichen e-Learning-Werkzeuge unübersichtlich, kompliziert und sehr teuer sind. Deshalb gibt dieses Werk einen Überblick über funktionierende Open-Source-Alternativen für den ganz kleinen Geldbeutel. Die nach Bedienerfreundlichkeit und didaktischen Kriterien besten Produkte werden detailliert erläutert. Eine ideale Ergänzung zum Buch "101 e-Learning Seminarmethoden

@@ -1,2 +1,0 @@
-Medical Simulation : International Symposium, ISMS 2004, Cambridge, MA, USA, June 17-18, 2004. Proceedings
-This book constitutes the refereed proceedings of the International Symposium on Medical Simulation, ISMS 2004, held in Cambridge, MA, USA in June 2004. The 32 revised full papers presented were carefully reviewed and selected from 50 submissions. The papers are organized in topical sections on soft tissue properties and modeling, real-time deformable models, haptic rendering, anatomical modeling, and applications and development frameworks

@@ -1,2 +1,0 @@
-Principles of the manufacturing of composite materials
-1. Introduction -- 2. Matrix materials -- 3. Reinforcements -- fibers -- 4. Hand laminating (or Wet Lay-up) and the autoclave processing of composites -- 5. Filament winding and fiber placement -- 6. Pultrusion -- 7. Liquid composite molding -- 8. Long fiber thermoplastic matrix composites -- Automated composites manufacturing

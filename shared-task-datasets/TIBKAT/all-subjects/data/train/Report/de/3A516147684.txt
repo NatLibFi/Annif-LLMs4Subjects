@@ -1,2 +1,0 @@
-Konstruktionslehre : Grundlagen erfolgreicher Produktentwicklung ; Methoden und Anwendung
-Umfassendes Lehr- und Nachschlagewerk über Grundlagen, Methoden und Anwendungen des Konstruierens unter Berücksichtigung rechnerunterstützter Verfahren. Wurde gegenüber der 5. Auflage (ID 31/03) um neue Entwicklungen und Methoden (TRIZ, PLM) erweitert und durchgehend aktualisiert. Die alte Ausgabe kann verbraucht, sollte um diese Neuauflage ergänzt werden. (3)

@@ -1,2 +1,0 @@
-Programming the semantic web : [build flexible applications with Graph Data]
-Semantic data. Why semantics? -- Expressing meaning -- Using semantic data -- Standards and sources. Just enough RDF [Resource description framework] -- Sources of semantic data -- What do you mean, "ontology"? -- Publishing semantic data -- Putting it into practice. Overview of toolkits -- Introspecting objects from data -- Tying it all together -- Epilogue. The giant global graph

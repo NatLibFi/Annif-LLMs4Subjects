@@ -1,2 +1,0 @@
-Implementierung von schichtadditiven Fertigungsverfahren : mit Fallbeispielen aus der Luftfahrtindustrie und Medizintechnik
-"Additive Fertigungsverfahren sind nach ersten wirtschaftlichen Erfolgen auf dem Sprung in die Serienfertigung. Der Einsatz dieser Fertigungsverfahren in der industriellen Praxis wird insbesondere im Hinblick auf das Lasergenerieren untersucht (SLM/LaserCusing)."--

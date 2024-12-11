@@ -1,2 +1,0 @@
-Number theory and its applications / Fuhuo Li (Sanmenxia SuDa Transportation Energy Saving Technology Co., Ltd., China), Nianliang Wang (Shangluo University, China), Shigeru Kanemitsu (Kyushu Institute of Technology, Japan) ; 2
-Preface -- Linear algebraic approach to algebraic number theory -- Group-theoretic aspects of algebraic number theory -- Arithmetic functions and stieltjes integrals -- Number theory in the unit disc -- Hilbert space and number theory -- Control systems and number theory

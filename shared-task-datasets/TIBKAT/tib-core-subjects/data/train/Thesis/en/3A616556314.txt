@@ -1,2 +1,0 @@
-Generic automorphisms with prescribed fixed fields
-This work constructs generic automorphisms with arbitrary pseudo-finite fixed field. More general, those structures are characterised in terms of algebraic closures which occur as fixed structure of generic automorphisms of a stable theory. The notion of PAC-structure for arbitrary theories is introduced and studied. Further a Galois Cohomology is developed for types in arbitrary first-order theories.

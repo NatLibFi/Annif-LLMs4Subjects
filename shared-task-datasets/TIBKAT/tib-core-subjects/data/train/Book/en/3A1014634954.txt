@@ -1,3 +1,0 @@
-Pre-Riesz spaces
-"This monograph develops the theory of operators on partially ordered vector spaces as an extension to the classical theory on Riesz spaces. Structures from vector lattice theory, such as disjointness, ideals and bands are studied with respect to which extend they can be extended to partially ordered vector spaces"--
-A primer on ordered vector spaces -- Embeddings, covers and completions -- Seminorms on pre-Riesz spaces -- Disjointness, bands and ideals in pre-Riesz spaces -- Operators on pre-Riesz spaces

@@ -1,2 +1,0 @@
-Grid Services Engineering and Management : First International Conference, GSEM 2004, Erfurt, Germany, September 27-30, 2004. Proceedings
-This book constitutes the refereed proceedings of the First International Conference on Grid Services Engineering and Management, GSEM 2004, held in Erfurt, Germany, in September 2004. The 11 revised full papers presented were carefully reviewed and selected from 21 submissions. The papers are organized in topical sections on grid service architecture, grid service composition, service security, and grid service management

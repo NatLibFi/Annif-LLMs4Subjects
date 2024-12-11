@@ -1,2 +1,0 @@
-Advances in reactor measurement and control
-1. System dynamics -- 2. Inferential mesasurements -- 3. Reactor characterization -- 4. Reaction kinetics -- 5. Reactor control systems -- 6. Cooling and heating control systems

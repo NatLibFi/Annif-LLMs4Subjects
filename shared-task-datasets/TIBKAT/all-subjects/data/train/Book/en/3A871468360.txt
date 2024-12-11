@@ -1,2 +1,0 @@
-Programming beyond practices : be more than just a code monkey
-This work discusses a range of advanced programming techinquies, from requirements discovery and rapid prototyping to business analysis and designing for maintainability

@@ -1,3 +1,0 @@
-Radar rainfall data estimation and use
-A flexible framework and practical guidance in the development, analysis, and use of radar rainfall data sets--
-Radar rainfall estimation -- Radar rainfall data : temporal and spatial characteristics -- Radar-based rainfall data processing -- Evaluation and improvement of radar-based rainfall data -- Use of radar rainfall data in hydrologic modeling -- Examples in radar rainfall data, analyses, and applications -- Advanced topic : framework for bias analysis of radar data -- Advanced topic : rain gauge rainfall data augmentation and radar rainfall data analysis -- Advanced topic : design of rainfall monitoring networks

@@ -1,2 +1,0 @@
-An introduction to microelectromechanical systems engineering
-Annotation, Now in its second edition, this guide brings readers up-to-date with the latest developments in RF MEMS and photonic MEMS, and how projects may benefit from a MEMS solution

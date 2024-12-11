@@ -1,2 +1,0 @@
-Optoelectronic sensors
-Introduction to semiconductor photodetectors -- Pin photodiodes for the visible and near-infrared -- Avalanche photodiodes -- Phototransistors -- Metal-semiconductor-metal photodiodes -- Ultraviolet photodetectors -- Noise in photodiodes and photoreceiver systems

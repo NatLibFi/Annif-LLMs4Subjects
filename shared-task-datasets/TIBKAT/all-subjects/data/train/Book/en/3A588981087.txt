@@ -1,2 +1,0 @@
-Web design for developers : a programmer's guide to design tools and techniques
-Developers don't get to spend a lot of time thinking about design, but many secretly wish they knew how to make their applications look just a little bit better. This book takes you on a journey through a web site redesign, where you'll learn the basic concepts of design, color theory, typography, and accessibility

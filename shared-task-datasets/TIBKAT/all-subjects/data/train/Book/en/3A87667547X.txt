@@ -1,2 +1,0 @@
-High-power converters and AC drives
-This book presents the latest cutting-edge technology in high-power converters and medium voltage drives, and provides a complete analysis of various converter topologies, modulation techniques, practical drive configurations, and advanced control schemes. Supplemented with more than 250 illustrations, the author illustrates key concepts with simulations and experiments. Practical problems, along with accompanying solutions, are presented to help you tackle real-world issues

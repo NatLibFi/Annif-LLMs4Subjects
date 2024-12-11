@@ -1,2 +1,0 @@
-Advanced pattern recognition technologies with applications to biometrics
-"This book focuses on two kinds of advanced biometric recognition technologies, biometric data discrimination and multi-biometrics"--Provided by publisher

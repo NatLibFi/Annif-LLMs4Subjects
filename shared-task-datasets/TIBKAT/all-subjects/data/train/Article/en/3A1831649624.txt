@@ -1,2 +1,0 @@
-Chapter 15. Forecasting with Bayesian Vector Autoregression
-This chapter reviews Bayesian methods for inference and forecasting with VAR models. Bayesian inference and, by extension, forecasting depends on numerical methods for simulating from the posterior distribution of the parameters and special attention is given to the implementation of the simulation algorithm.

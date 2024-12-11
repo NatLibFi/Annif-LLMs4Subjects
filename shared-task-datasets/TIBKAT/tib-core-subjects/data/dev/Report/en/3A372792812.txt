@@ -1,2 +1,0 @@
-MEDIS Schlussbericht : [Phase A/B-Untersuchungen des Multimedia Demonstrationsexperiments (MEDIS)]
-Multimedia, broadband, Ka-band, communication, constellation, MEO, GPS, star tracker, laser terminal, on-board processing, COLUMBUS, TCP/IP, ATM, in-orbit verification, MEDIS

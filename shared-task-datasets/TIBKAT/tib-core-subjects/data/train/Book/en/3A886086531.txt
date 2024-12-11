@@ -1,2 +1,0 @@
-Securing the internet of things
-"Securing the Internet of Things provides network and cybersecurity researchers and practitioners with both the theoretical and practical knowledge they need on Internet of Things (IoT) security."--

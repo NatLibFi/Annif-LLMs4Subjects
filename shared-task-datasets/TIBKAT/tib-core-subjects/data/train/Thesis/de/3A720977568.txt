@@ -1,2 +1,0 @@
-The search for extrasolar planets and the characterization of variable stars with the Tautenburg exoplanet search telescope
-Seit der Entdeckung des ersten Exoplaneten 1990 ist die Zahl der bekannten Planeten außerhalb unseres Sonnensystems auf über 500 gestiegen. Ein Großteil der entdeckten Planeten umkreist ihren Mutterstern mit Umlaufzeiten kürzer als zehn Tage. Diese kurzen Umlaufzeiten und die damit verbundene hohe Wahrscheinlichkeit einer Bedeckung des Zentralsterns erlaubt die Entdeckung dieser Planeten mithilfe der Transitsuche.

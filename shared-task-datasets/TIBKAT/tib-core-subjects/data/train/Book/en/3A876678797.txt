@@ -1,2 +1,0 @@
-Software measurement and estimation : a practical approach
-This book serves as a practical guide to metrics and quantitative software estimation, beginning with the foundations of measurement and metrics, and then focuses on techniques and tools for estimation of the required effort and the resulting quality of a software project

@@ -1,2 +1,0 @@
-Hypoellipticity and Eigenvalue Asymptotics
-Hypoellipticity with loss of one derivative -- Example: Poincaré complexes -- Hypoellipticity and asymptotic eigenvalues in the abstract case.

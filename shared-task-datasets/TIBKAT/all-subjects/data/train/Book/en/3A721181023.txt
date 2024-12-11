@@ -1,2 +1,0 @@
-Advancing information management through Semantic Web concepts and ontologies
-"This book provides an analysis and introduction on the concept of combining the areas of semantic web and web mining, emphasizing semantics in technologies, reasoning, content searching and social media"--Provided by publisher

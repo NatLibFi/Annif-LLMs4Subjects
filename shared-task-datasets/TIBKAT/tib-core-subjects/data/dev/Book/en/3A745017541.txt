@@ -1,2 +1,0 @@
-Excel VBA programming for dummies : [learn to: use the essential tools and operations for VBA ; get the most out of Excel's macro recording feature ; handle errors and eliminate bugs in your code ; develop custom worksheet functions and user-oriented applications]
-Explore VBA programming and learn how to customize and automate many aspects of Excel. This plain-English guide shows what VBA is, how it works with Excel, essential programming concepts, and steps to creating dialog boxes, time-saving macros, Excel add-ins, and more

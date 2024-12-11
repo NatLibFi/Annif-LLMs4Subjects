@@ -1,2 +1,0 @@
-Principles of systems design : essays dedicated to Thomas A. Henzinger on the occasion of his 60th birthday
-This Festschrift is dedicated to Thomas A. Henzinger on the occasion of his 60th birthday in 2022.This Festschrift volume celebrates his many contributions in the field of computer science, with 31 papers covering various research and application directions, authored by scientists inspired by his efforts and example over many years

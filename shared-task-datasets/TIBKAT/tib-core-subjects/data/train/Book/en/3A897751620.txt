@@ -1,2 +1,0 @@
-Handbook of research on design, control, and modeling of swarm robotics
-"This book is a collection of the most important research achievements in swarm robotics thus far, covering the growing areas of design, control, and modeling of swarm robotics"--Provided by publisher.

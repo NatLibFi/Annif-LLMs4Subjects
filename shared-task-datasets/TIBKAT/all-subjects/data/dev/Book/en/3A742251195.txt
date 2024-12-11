@@ -1,2 +1,0 @@
-Materials and reliability handbook for semiconductor optical and electron devices
-Materials and Reliability Handbook for Semiconductor Optical and Electron Devices provides comprehensive coverage of reliability procedures and approaches for electron and photonic devices. These include lasers and high speed electronics used in cell phones, satellites, data transmission systems and displays.

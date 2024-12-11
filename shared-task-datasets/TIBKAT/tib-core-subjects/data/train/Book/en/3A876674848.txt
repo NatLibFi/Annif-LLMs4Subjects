@@ -1,2 +1,0 @@
-Digital system clocking : high performance and low-power aspects
-Machine generated contents note: Ch. 1 Introduction -- Ch. 2 Theory of Clocked Storage Elements -- Ch. 3 Timing and Energy Parameters -- Ch. 4 Pipelining and Timing Analysis -- Ch. 5 High-Performance System Issues -- Ch. 6 Low-Energy System Issues -- Ch. 7 Simulation Techniques -- Ch. 8 State-of-the-Art Clocked Storage Elements in MOS Technology -- Ch. 9 Microprocessor Examples

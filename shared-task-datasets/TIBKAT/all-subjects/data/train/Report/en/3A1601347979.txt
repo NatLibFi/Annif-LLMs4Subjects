@@ -1,2 +1,0 @@
-Database modeling for industrial data management : emerging technologies and applications
-"This book covers industrial databases and applications and offers generic database modeling techniques"--Provided by publisher

@@ -1,2 +1,0 @@
-Strukturgleichungsmodelle in den Sozialwissenschaften
-Mit diesem Werk wird neben der elementaren Einführung in die Modellbildung mit Strukturgleichungen zugleich eine Übersicht über die Vielzahl von Anwendungsmöglichkeiten geboten. Es wird aufgezeigt, wie entsprechende Analysen unter Rückgriff auf verbreitete Programme mit empirischem Datenmaterial durchgeführt werden können. Das Lehrbuch ist für fortgeschrittene Veranstaltungen in Statistik und multivariaten Analyseverfahren konzipiert.

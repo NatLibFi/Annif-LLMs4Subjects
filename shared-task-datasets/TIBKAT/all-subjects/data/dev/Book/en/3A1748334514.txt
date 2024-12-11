@@ -1,2 +1,0 @@
-Software verification and validation for practitioners and managers
-A concise and practical introduction to the basic principles of effective software verification and validation (V & V). This revised edition includes five new chapters and five new appendices focused on management techniques to make your company's software V & V efforts more cost-effective

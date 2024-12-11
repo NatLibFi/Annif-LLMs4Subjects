@@ -1,3 +1,0 @@
-Gewöhnliche Differentialgleichungen : eine Einführung mit Beispielen, Aufgaben und Musterlösungen
-Ein Lehrbuch zur Theorie der gewöhnlichen Differentialgleichungen; mit Beispielen aus der Naturwissenschaft, Übungsaufgaben und Lösungen. (LK/SH: Gülck)
-Einführung - Der Existenzsatz von Peano - Globale Existenz und Eindeutigkeit - Phasenporträts und erste Integrale - Lineare Differentialgleichungen - Autonome lineare Systeme - Stabilität von Ruhelagen - Stetigkeit der allgemeinen Lösung - Langzeitverhalten von Lösungen - Der Jordansche Kurvensatz - Ebene dynamische Systeme - Anhang über topologische Grundbegriffe

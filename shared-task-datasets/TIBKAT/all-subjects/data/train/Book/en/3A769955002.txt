@@ -1,2 +1,0 @@
-Evaluating measurement accuracy : a practical approach
-General concepts in the theory of measurements -- Measuring instruments and their properties -- Statistical methods for experimental data processing -- Direct measurements -- Indirect measurements -- Combined and simultaneous measurements -- Combining the results of measurements -- Examples of measurements and measurement data processing -- Conclusion -- Appendix -- Glossary

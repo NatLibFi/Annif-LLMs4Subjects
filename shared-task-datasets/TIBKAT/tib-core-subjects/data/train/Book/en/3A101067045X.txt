@@ -1,2 +1,0 @@
-SAP Lumira, designer edition : the comprehensive guide
-SAP Lumira designer vs. other SAP BI tools -- Planning applications -- Enhancing applications with CSS -- Design principles and visualization options -- Using SDK extensions in SAP Lumira designer -- SDK installation and deployment

@@ -1,2 +1,0 @@
-Introduction to electricity and magnetism
-Electricity -- Coulomb's law -- The electric field -- Gauss' law -- The electrostatic potential -- Electric energy -- Capacitors and dielectrics -- Currents and Ohm's law -- Circuits -- Review of electricity -- Magnetism -- The magnetic force and field -- Ampere's law -- Electromagnetic induction -- Magnetic materials -- Time-dependent circuits -- Review of magnetism -- Electromagnetism -- Waves -- Electromagnetic waves -- More electromagnetic waves -- The theory of special relativity -- Review of electromagnetism -- Problems.

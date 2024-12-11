@@ -1,2 +1,0 @@
-Mechanics of solid interfaces
-"This book introduces basic concepts on mechanical problems related to the presence of solid/solid interfaces and their practical applications. The various topics discussed here are mechanical characterization of interface, initiation and growth of crack along interface, the origin and the control of interface adhesion and a special focus on thin films on substrate systems"--

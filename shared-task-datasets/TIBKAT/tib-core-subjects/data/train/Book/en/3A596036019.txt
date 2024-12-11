@@ -1,2 +1,0 @@
-Foundation Expression Blend 3 with Silverlight : [use Microsoft Expression Blend 3 to create stunning RIAs quickly : add video and advanced storyboards to your web or desktop applications ; learn about the new Silverlight sketchflow for rapid application prototyping]
-Provides information on using Blend and Silverlight to design media applications, Web-based animations, and games

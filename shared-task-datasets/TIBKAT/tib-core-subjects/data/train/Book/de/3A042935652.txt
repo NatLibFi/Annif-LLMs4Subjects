@@ -1,2 +1,0 @@
-Kalman-Bucy-Filter : deterministische Beobachtung und stochastische Filterung
-Das Buch will die mannigfaltigen Aufgaben der heutigen Regelungs- und Steuerungstechnik und ihre Lösung nahebringen. Das soll mit möglichst geringem Zeit- und Arbeitsaufwand für den Leser verbunden sein. Leichte Verständlichkeit, Anschaulichkeit und Anwendungsnähe sind deshalb Hauptgesichtspunkt der Darstellung. Vollständigkeit ist nicht angestrebt, vielmehr Darstellung des Wesentlichen. Mathematische Methoden werden auf das Notwendige beschränkt.

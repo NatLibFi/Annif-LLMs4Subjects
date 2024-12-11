@@ -1,2 +1,0 @@
-Theorie und Numerik elliptischer Differentialgleichungen : mit Beispielen und Übungsaufgaben
-Ein Lehrbuch unter Betonung einer einheitlichen Behandlung von Theorie und Numerik für Mathematiker, Physiker und Ingenieure in Studium und Praxis.

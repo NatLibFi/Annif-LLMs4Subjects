@@ -1,2 +1,0 @@
-Design optimization of active and passive structural control systems
-"This book addresses the design optimization of active and passive control systems including earthquake engineering and tuned mass damper research topics and their link"--

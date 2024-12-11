@@ -1,2 +1,0 @@
-Semantic web technologies and e-business : toward the integrated virtual organization and business process automation
-"This book presents research related to the application of semantic Web technologies, including semantic service-oriented architecture, semantic content management, and semantic knowledge sharing in e-business processes. It compiles research from experts around the globe to bring to the forefront the many issues surrounding the application of semantic Web technologies in e-business"--Provided by publisher

@@ -1,2 +1,0 @@
-Modeling and simulating bodies and garments
-Modeling bodies -- Character based adaptation -- Cloth modeling and simulation -- Designing and animating patterns and clothes -- Virtual prototyping and collaboration in the clothing industry

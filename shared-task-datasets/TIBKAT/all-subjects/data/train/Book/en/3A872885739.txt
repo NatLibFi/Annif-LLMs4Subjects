@@ -1,2 +1,0 @@
-Tools for chemical product design : from consumer products to biomedicine
-This book describes the challenges involved in systematic product design across a variety of industries and provides a comprehensive overview of mathematical tools aimed at the design of chemical products, from molecular design to customer products

@@ -1,2 +1,0 @@
-Schlussbericht BMBF Regierungsprogramm "Gesundheitsforschung 2000" : Förderschwerpunkt: MEDWIS "Medizinische Wissensbasen" ; Arbeitskreis "Terminologie" ; Vorhabentitel: Theoretische und praktische Unterstützung der MEDWIS-Projekte bei der Entwicklung und dem Einsatz wissensbasierter Systeme
-Medical Terminology, Standardization, Knowledge-Based Systems, Distributed Systems, Terminology Server, Controlled Vocabularies, UMLS

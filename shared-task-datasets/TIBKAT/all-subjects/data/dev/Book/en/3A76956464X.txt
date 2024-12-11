@@ -1,2 +1,0 @@
-Introduction to semiconductor lasers for optical communications : an applied approach
-This textbook provides a thorough and accessible treatment of semiconductor lasers from a design and engineering perspective. It includes both the physics of devices as well as the engineering, designing, and testing of practical lasers. The material is presented clearly with many examples provided. Readers of the book will come to understand the finer aspects of the theory, design, fabrication, and test of these devices and have an excellent background for further study of optoelectronics

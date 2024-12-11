@@ -1,2 +1,0 @@
-Mastering React Native : a beginner's guide
-"This book is a detailed guide that will help learners get started with React Native programming. It talks about the basics and then moves on to practical exercises to help readers quickly gain the required knowledge. This book is meant for both JavaScript developers as well as learners without a formal frontend background"--

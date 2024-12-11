@@ -1,2 +1,0 @@
-Application-layer fault-tolerance protocols
-"This book increases awareness of the need for application-level fault-tolerance (ALFT) through introduction of problems and qualitative analysis of solutions"--Provided by publisher

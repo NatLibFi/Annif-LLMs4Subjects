@@ -1,2 +1,0 @@
-Soft-computing-based nonlinear control systems design
-"This book focuses on new developments and contributions in the areas of soft computing which are related to optimization, control and automation. It covers how the global soft-computing based techniques are used for global optimization problems of decision-making, supply chain management, power and control optimization, nuclear energy, space exploration, bio-medical and health care, pattern recognition image processing"--

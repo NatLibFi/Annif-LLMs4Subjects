@@ -1,2 +1,0 @@
-Advanced interconnects for ULSI technology
-"This book presents an in-depth overview of present status, novel developments and new materials and approaches for advanced interconnect technology"--

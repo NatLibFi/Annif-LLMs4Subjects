@@ -1,2 +1,0 @@
-Agile project management for dummies : [learn to: complete software projects in weeks instead of months, use agile techniques to reduce risk and leverage core benefits, turn agile theory into practice, avoid common pitfalls]
-Learn why agile techniques work better than historical approaches, and use them to rev up your software development with a faster, more flexible approach--

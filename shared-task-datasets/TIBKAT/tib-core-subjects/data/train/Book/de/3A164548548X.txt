@@ -1,3 +1,0 @@
-Programmieren mit R
-2 R ist eine objekt-orientierte und interpretierte Sprache und Programmierumgebung für Datenanalyse und Grafik.
-Grundlagen -- Ein- und Ausgabe von Daten -- Die Sprache im Detail -- Effizientes Programmieren -- Objektorientiertes Programmieren -- Statistik mit R -- Grafik -- Erweiterungen -- Pakete.

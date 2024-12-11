@@ -1,2 +1,0 @@
-An introduction to optimization
-"The purpose of the book is to give the reader a working knowledge of optimization theory and methods"--

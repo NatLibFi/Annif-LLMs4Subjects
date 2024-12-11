@@ -1,2 +1,0 @@
-Finite-Elemente-Methoden : Matrizen und lineare Algebra, die Methode der finiten Elemente, Lösung von Gleichgewichtsbedingungen und Bewegungsgleichungen
-Das Ziel dieses Buches ist es, jeden der zuvor genannten Aspekte von Finite- Elemente-Berechnungen darzustellen und damit die Grundlage für das Verstehen des vollständigen Lösungsprozesses zu liefern, der auf Probleme der Festkörper- und Strukturmechanik, der Wärmeübertragung der Sickerströmung usw. angewandt wird.

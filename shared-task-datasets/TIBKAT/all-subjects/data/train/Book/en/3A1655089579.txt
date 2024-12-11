@@ -1,2 +1,0 @@
-Bessel Polynomials
-Historic sketch -- Bessel polynomials and bessel functions: Differential equations and their solutions -- Recurrence relations -- Moments and orthogonality on the unit circle -- Relations of the BP to classical orthonormal polynomials and to other functions -- Generating functions -- Formulas of rodrigues' type -- The BP and continued fractions -- Expansions of functions in series of BP -- Properties of the zeros of BP -- On the algebraic irreducibility of the BP -- The galois group of B.P. -- Asymptotic properties of the BP -- Applications -- Miscellanea.

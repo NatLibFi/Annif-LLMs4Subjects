@@ -1,2 +1,0 @@
-Docker in practice
-"Docker in Practice, Second Edition presents over 100 practical techniques, hand-picked to help you get the most out of Docker. Following a Problem/Solution/Discussion format, you'll walk through specific examples that you can use immediately, and you'll get expert guidance on techniques that you can apply to a whole range of scenarios."--provided by publisher

@@ -1,2 +1,0 @@
-RabbitMQ in depth
-RabbitMQ and application architecture. Foundational RabbitMQ ; How to speak Rabbit: the AMQ protocol ; An in-depth tour of message properties ; Performance trade-offs in publishing ; Don't get messages; consume them ; Message patterns via exchange routing -- Managing RabbitMQ in the data center or the cloud. Scaling RabbitMQ with clusters ; Cross-cluster message distribution -- Integrations and customization. Using alternative protocols ; Database integrations

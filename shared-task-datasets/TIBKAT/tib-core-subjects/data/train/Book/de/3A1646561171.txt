@@ -1,2 +1,0 @@
-Elementare Zahlentheorie
-Primzerlegung in ? und ? -- Theorie des größten gemeinsamen Teilers in ? -- Zahlentheorie in allgemeinen Integritätsringen -- Der g-adische Algorithmus -- Kongruenzen und Restklassenringe -- Prime Restklassengruppen -- Theorie der quadratischen Reste.

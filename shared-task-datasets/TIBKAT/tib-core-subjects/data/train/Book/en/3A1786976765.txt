@@ -1,2 +1,0 @@
-Object oriented data analysis
-What is OODA? -- Breadth of OODA -- Data object definition -- exploratory and confirmatory analyses -- OODA P -- Data visualization -- Distance based methods -- Manifold data analysis -- FDA Curve Registration -- Graph structured data objects -- Classification -- supervised learning -- Clustering -- unsupervised learning -- High dimensional inference -- High dimensional asymptotics -- Smoothing and SiZer -- Robust methods -- PCA details and variants -- OODA context and related areas.

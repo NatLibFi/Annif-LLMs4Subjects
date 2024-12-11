@@ -1,2 +1,0 @@
-Pulse width modulation : analysis and performance in multilevel inverters
-"In this book, the various space vector pulse width modulation based algorithms for multilevel inverter fed induction motors are proposed and implemented. The results have been analyzed and compared. The performance of these algorithms as evaluated in terms of inverter output regarding voltage, current waveforms, total harmonic distortion, speed of induction motor and torque ripples."--

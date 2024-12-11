@@ -1,2 +1,0 @@
-Model-driven software development : integrating quality assurance
-"This book provides in-depth coverage of important concepts, issues, trends, methodologies, and technologies in quality assurance for model-driven software development"--Provided by publisher

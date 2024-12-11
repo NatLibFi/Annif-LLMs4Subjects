@@ -1,2 +1,0 @@
-RF linear accelerators for medical and industrial applications
-Gives an overview of medical and industrial accelerators and the basic concepts surrounding their operation. Explains the manufacturing process behind commercial accelerators to avoid costly production problems by better understanding manufacturing issues and sources of potential defects--

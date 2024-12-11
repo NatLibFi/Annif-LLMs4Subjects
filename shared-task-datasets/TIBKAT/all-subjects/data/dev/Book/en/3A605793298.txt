@@ -1,2 +1,0 @@
-The essential guide to processing for Flash developers
-Provides information on using the Processing API to create character animation, 3D data, games, and a particle engine

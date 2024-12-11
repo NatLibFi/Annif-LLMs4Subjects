@@ -1,2 +1,0 @@
-Trusted platform modules : why, when and how to use them
-When to use a TPM -- TPM concepts and functionality -- Programming introduction -- Provisioning : getting the TPM ready to use -- First steps : TPM keys -- Machine authentication -- Data protection -- Attestation -- Other TPM features -- Software, specifications, and more : where to find other TPM resources -- Troubleshooting -- Conclusion and review -- Appendix A : Basic cryptographic concepts -- Appendix B : Command equivalence and requirements charts -- Appendix C : Complete code samples.

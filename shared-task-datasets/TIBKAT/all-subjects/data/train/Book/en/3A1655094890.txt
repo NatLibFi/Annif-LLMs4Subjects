@@ -1,2 +1,0 @@
-Gauss Sums and p-adic Division Algebras
-Arithmetic of local division algebras -- to Gauss Sums -- Functional equation -- One-dimensional representations -- The basic correspondence -- The basic inductive step -- The general inductive process -- Representations of certain group extensions -- Trace computations -- Induction constants for Galois Gauss sums -- Synthesis of results -- modified correspondences.

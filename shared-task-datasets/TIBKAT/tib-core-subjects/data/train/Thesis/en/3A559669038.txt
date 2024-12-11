@@ -1,2 +1,0 @@
-Autonomous robot work cell exploration using multisensory eye-in-hand systems
-Autonomous exploration, eye-in-hand system, multisensory exploration, self-guided sensing, view planning, motion planning

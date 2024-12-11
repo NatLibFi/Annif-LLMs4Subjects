@@ -1,2 +1,0 @@
-Modern Optical Spectroscopy : With Examples from Biophysics and Biochemistry
-Gives explanations of the theory of optical spectroscopic phenomena and shows how these ideas are used in modern molecular and cellular biophysics and biochemistry. This book covers topics such as electronic and vibrational absorption, fluorescence, resonance energy transfer, exciton interactions, circular dichroism, and coherence and dephasing

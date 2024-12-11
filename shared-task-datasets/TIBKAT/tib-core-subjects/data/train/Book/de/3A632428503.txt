@@ -1,2 +1,0 @@
-Optische Strahlungssicherheit und Laser / Hrsg.: DIN Deutsches Institut für Normung e.V.; VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V. ; 1: Normen mit Grundlagencharakter, Grenzwerten und Konstruktionsanweisungen ; Normen mit Vorgaben für Schutzeinrichtungen und -vorkehrungen
-Enthält: DIN EN 207:2010 ; DIN EN 208:2010 ; DIN EN 12254:2010 ; DIN EN 60825-1:2008 [Beiblatt 1] ; DIN EN 60825-1:2008 [Berichtigung 1] ; DIN EN 60825-1:2008 [VDE 0837-1] ; DIN EN 60825-1:2009 [Berichtigung 2] ; DIN EN 62471:2009 [VDE 0837-471] ; DIN EN ISO 11553-1:2009

@@ -1,2 +1,0 @@
-SharePoint 2010 development for dummies
-If you can use a Web browser, you can develop a SharePoint solution-- and you don't even have to be a programmer! This friendly guide demystifies SharePoint, giving you the tools you need to create solutions to meet your business's needs

@@ -1,2 +1,0 @@
-Statistik kompakt für Dummies
-Verl.Beschr.: Statistik ist vielen ein Graus, doch keine Sorge! Thomas Krickhahn erklärt Ihnen verständlich, aber kompakt zusammengefasst, worauf es in der Statistik ankommt: vom arithmetischen Mittel über Regressionsanalyse, Normalverteilung und Wahrscheinlichkeitsrechnung bis zum Hypothesentest. Dank erläuternden Beispielen sind auch schwierigere Formeln gut nachvollziehbar und so gelingt es Ihnen schnell, ein gutes Verständnis für die Grundlagen der Statistik zu gewinnen. So kann die nächste Prüfung kommen

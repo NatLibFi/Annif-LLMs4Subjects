@@ -1,2 +1,0 @@
-An introduction to sonar systems engineering
-"This book discusses the fundamental topics of modern-day sonar systems engineering. It provides students and practicing engineers and scientists the tools to analyze and design both passive and active sonar systems, do basic signal design for active sonar systems, and understand the basics of underwater acoustic communication signals"--

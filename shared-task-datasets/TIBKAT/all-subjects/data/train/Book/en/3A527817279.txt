@@ -1,2 +1,0 @@
-Rough computing : theories, technologies, and applications
-"This book offers the most comprehensive coverage of key rough computing research, surveying a full range of topics from granular computing to pansystems theory. With its unique coverage of the defining issues of the field, it provides libraries with a single, authoritative reference to this highly advanced technological topic"--Provided by publisher

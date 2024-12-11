@@ -1,2 +1,0 @@
-Mikrofluidik : Entwurf, Herstellung und Charakterisierung ; mit 12 Tabellen und 37 Beispielen
-Entwicklungsgeschichte und Potentiale der Mikrofluidik - Strömungsmechanik im Mikrobereich - Technologien zur Herstellung mikrofluidischer Systeme - Simulation und Entwurf für mikrofluidische Systeme - Detaillierte Entwurfsbeispiele: Ultraschall-Mikropumpe, Polymer-Mikropumpe, Mikromischer

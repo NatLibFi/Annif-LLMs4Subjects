@@ -1,2 +1,0 @@
-Geometric Theory for Infinite Dimensional Systems
-The monograph is addressed to researchers in the field of geometric theory of infinite dimensional systems. The author uses basic concepts of the infinite dimensional system theory, approximate controllability, initial observability, which are covered in the second and third chapter. The book is self-contained with respect to the notions of the geometric theory, although sometimes the author refers to the references for the finite dimensional case

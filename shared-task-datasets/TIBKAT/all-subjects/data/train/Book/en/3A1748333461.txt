@@ -1,2 +1,0 @@
-Location management and routing in mobile wireless networks
-Annotation The most common complaints of today's cell phone users are poor reception, a lost signal that cuts off a call, and the inability to put a call through. Today's wireless providers struggle to ensure these problems do not occur. This book is an in-depth examination of two of the hottest research areas relating to these challenges: location management and mobile wireless routing

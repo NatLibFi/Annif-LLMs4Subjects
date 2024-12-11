@@ -1,2 +1,0 @@
-Monoidal topology : a categorical approach to order, metric and topology
-"Monoidal Topology describes an active research area that, after various past proposals on how to axiomatize "spaces" in terms of convergence, began to emerge at the beginning of the millennium. It combines Barr's relational presentation of topological spaces in terms of ultrafilter convergence with Lawvere's interpretation of metric spaces as small categories enriched over the extended real half-line"--

@@ -1,2 +1,0 @@
-Beginning Ajax with PHP : from novice to professional [build powerful interactive web applications by harnessing the collective power of PHP and Ajax]
-Introducing Ajax -- Ajax basics -- PHP and Ajax -- Database-driven Ajax -- Forms -- Images -- A real-world Ajax application -- Ergonomic display -- Web services -- Spatially enabled web applications -- Cross-browser issues -- Security -- Testing and debugging -- The DOM

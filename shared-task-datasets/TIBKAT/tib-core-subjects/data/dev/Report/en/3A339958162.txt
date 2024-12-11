@@ -1,2 +1,0 @@
-HiQoS: High performance Multimedia-Dienste mit Quality-of-Service-Garantien ; Abschlussbericht ; Zeitraum vom 1. Mai 1998 bis zum 30. April 2001
-Access management, content management, high performance computing (HPC), Multimedia, Quality-of-Service (QoS), rendering, radiosity, raytracing, real-time systems, video streaming

@@ -1,2 +1,0 @@
-Algorithmic composition : paradigms of automated music generation
-Historical development of algorithmic procedures -- Markov models -- Generative grammars -- Transition networks -- Chaos and self-similarity -- Genetic algorithms -- Cellular automata -- Artificial neural networks -- Artificial intelligence -- Final synopsis

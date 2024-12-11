@@ -1,2 +1,0 @@
-Structurally constrained controllers : analysis and synthesis
-"Structurally Constrained Controllers: Analysis and Synthesis studies the control of interconnected systems, with a particular emphasis placed on networks, power systems and flight formations, to name just a few. This volume introduces four important problems regarding the control of such systems, and then proposes emerging techniques for solving them and insuring optimum system operation."--

@@ -1,2 +1,0 @@
-Schiefe Stäbe und Platten
-Die wichtigsten Bauelemente der schiefwinkligen Brücken sind drehsteife Stäbe und Platten. Diese Systeme werden behandelt. Für schiefwinklig gelagerte, drehsteife Stäbe und einfache Kreuzwerke werden analytische Lösungen geboten, die gebrauchsfertig sind, bzw. als Grundsysteme zur Berechnung komplizierter Tragwerke Verwendung finden können.

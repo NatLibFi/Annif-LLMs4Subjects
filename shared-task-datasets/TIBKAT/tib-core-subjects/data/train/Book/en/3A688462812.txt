@@ -1,2 +1,0 @@
-Modelling and parameter estimation of dynamic systems
-The book is written at postgraduate level and comprised N chapters dealing with the following topics: modelling; parameter estimation; dynamic systems; least squares method; output error method; filtering methods; filter error method; model error determination; and model error concept

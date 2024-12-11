@@ -1,2 +1,0 @@
-Advanced database query systems : techniques, applications and technologies
-"This book focuses on technologies and methodologies of database queries, XML and metadata queries, and applications of database query systems, aiming at providing a single account of technologies and practices in advanced database query systems"--Provided by publisher

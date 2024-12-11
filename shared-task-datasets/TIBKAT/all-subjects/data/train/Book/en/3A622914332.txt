@@ -1,2 +1,0 @@
-Physical ultrasonics of composites
-Fundamentals of composite elastic properties -- Elastic waves in anisotropic media -- Bulk ultrasonic techniques for evaluation of elastic properties -- Reflection and refraction of waves at a planar composite interface -- Guided waves in plates and rods -- Elastic waves in multi-layer composites -- Waves in periodically layered composites -- Measurement of scattering coefficients -- Air-coupled ultrasonics

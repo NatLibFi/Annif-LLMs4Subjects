@@ -1,2 +1,0 @@
-Topics in Complex Analysis
-This book is an outgrowth of lectures given at several occasions at the University of Göteborg and Chalmers University of Technology during the last ten years. Contrary to most introductory texts on complex analysis, it preassumes knowledge of basic analysis. This makes it possible to move rather quickly through the most fundamental material and to reach within a one-semester course some classical highlights such as Fatou theorems and some Nevanlinna theory, as well as more recent topics, for example the corona theorem and the H1-BMO duality

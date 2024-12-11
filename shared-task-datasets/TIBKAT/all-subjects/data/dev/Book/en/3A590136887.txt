@@ -1,2 +1,0 @@
-Introduction to mathematical logic
-"Retaining all the key features of the previous editions, Introduction to Mathematical Logic, Fifth Edition explores the principal topics of mathematical logic. It covers propositional logic, first-order logic, first-order number theory, axiomatic set theory, and the theory of computability. The text also discusses the major results of Godel, Church, Kleene, Rosser, and Turing."--BOOK JACKET

@@ -1,2 +1,0 @@
-Vollfarbtaugliche LC-Display-Beleuchtung für die multimediale Mobilkommunikation, Teilprojekt: A: LED-Lampen für die LC-Display-Hinterleuchtung und B: Leuchtstoffe auf Oxidbasis für UV-gepumpte Lumineszenzkonversion -LED : Laufzeit des Vorhabens/Berichtszeitraum: 01.01.1999 bis 31.12.2001 ; Abschlußbericht
-LED-lamps, mobile communication, LC-Display-backlight, semiconductor, UV-radiation, luminescence conversion, RGB-phoshors, InGaN

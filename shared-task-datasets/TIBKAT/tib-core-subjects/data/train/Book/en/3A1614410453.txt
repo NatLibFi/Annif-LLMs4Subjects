@@ -1,2 +1,0 @@
-PowerShell for Microsoft SharePoint 2010 Administrators
-"Administer SharePoint 2010 using PowerShell 2.0 with help from this practical guide. PowerShell for Microsoft SharePoint 2010 Administrators explains how to configure and manage the latest version of the powerful enterprise collaboration platform. Find out how to automate the installation process, construct dynamic SharePoint environments, create and extend Web applications, and manage service applications. Backup, security, and performance enhancement techniques are also fully covered in this comprehensive resource"--

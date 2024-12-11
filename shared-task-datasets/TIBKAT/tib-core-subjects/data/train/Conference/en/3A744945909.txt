@@ -1,2 +1,0 @@
-Stochastic Systems and Optimization : Proceedings of the 6th IFIP WG 7.1 Working Conference Warsaw, Poland, September 12-16, 1988
-The meeting intended to continue the traditional line of the foregoing conferences and to focus on topics of present research in the field of stochastic systems and optimization. Particular emphasis was placed on stochastic differential systems both finite and infinite dimensional, filtering, stochastic control, asymptotic methods and periodic systems

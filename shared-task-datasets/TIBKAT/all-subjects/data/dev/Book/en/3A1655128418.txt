@@ -1,2 +1,0 @@
-Scattering Theory for Many-Body Quantum Mechanical Systems — : Rigorous Results
-Spectral decomposition -- Two-space scattering theory -- Scattering theory for N-body systems -- Exact parametrices -- Quasibound states and the finiteness of the discrete spectrum -- Boundary values of the resolvent. General single-channel case -- Boundary values of the resolvent. The general case -- Non-dilation-analytic potentials -- Instability of quasibound-state and embedded eigenvalues.

@@ -1,2 +1,0 @@
-Foundation flex for developers : data-driven applications with PHP, ASP.NET, ColdFusion, and LCDS ; [learn how to build applications using Flex Builder 3 and ActionScript 3.0 ; learn how to include dynamic content from XML documents and databases ; develop Flex applications powered by ColdFusion, PHP, and ASP.NET]
-Provides information on building internet applications using Flex Builder 3 along with ActionScript 3.0

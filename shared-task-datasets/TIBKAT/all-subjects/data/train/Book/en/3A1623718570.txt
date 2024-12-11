@@ -1,2 +1,0 @@
-Foundations of quantum mechanics
-Photons -- Wave-particle duality -- The machinery of quantum mechanics -- Measurement -- Interaction-free measurements -- EPR paradox -- Classical and quantum information -- Quantum computing -- Classical cryptology -- Quantum factoring -- Ion-trap quantum computers -- Outlook

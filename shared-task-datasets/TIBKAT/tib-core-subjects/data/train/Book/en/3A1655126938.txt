@@ -1,2 +1,0 @@
-Degrees of Unsolvability: Structure and Theory
-An introduction to degrees of unsolvability -- The undecidability of the theory of degrees -- Various finite distributive lattices -- Finite distributive lattices -- Linear orderings -- Countable distributive lattices -- Relativizing, a tree of trees, the jump operator -- The homogeneity questions -- Degree theory and analysis -- An introduction to degrees ? 0? -- The undecidability of the theory of degrees ? 0?.

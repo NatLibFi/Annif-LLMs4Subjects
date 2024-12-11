@@ -1,2 +1,0 @@
-Practical intrusion analysis : prevention and detection for the twenty-first century
-Network overview -- Infrastructure monitoring -- Intrusion detection systems -- Lifecycle of a vulnerability -- Proactive intrusion prevention and response via attack graphs -- Network flows and anomaly detection -- Web application firewalls -- Wireless IDS/IPS -- Physical intrusion detection for IT -- Geospatial intrusion detection -- Visual data communications -- Return on investment : business justification

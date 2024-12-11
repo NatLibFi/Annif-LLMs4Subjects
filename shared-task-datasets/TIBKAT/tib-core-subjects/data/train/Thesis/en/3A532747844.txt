@@ -1,2 +1,0 @@
-Modellierung der Ruß- und NOx-Emissionen des Dieselmotors
-Diesel Engine, Soot- and NOx-Emissions, Potency Product Approaches, zero-dimensional Models, optical and thermodynamical Methods, semi-empirical, Combustion Strategy, Injection Rate Shape

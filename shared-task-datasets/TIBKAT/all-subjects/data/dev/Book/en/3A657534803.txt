@@ -1,2 +1,0 @@
-Big java : late objects ; [compatible with Java 5,6, & 7]
-"The introductory programming course is difficult. Many students fail to succeed or have trouble in the course because they don't understand the material and do not practice programming sufficiently. Big Java for Everyone will provide an authoritative but accessible introduction to the fundamentals of Java Programming using a fundamentals first/late objects approach and providing extensive opportunities for programming practice"--

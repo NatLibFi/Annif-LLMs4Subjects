@@ -1,2 +1,0 @@
-Weather analysis & forecasting handbook
-Physics --Observation --Thermodynamics --Upper air analysis --Surface analysis --Weather systems --Satellite --Radar --Convective weather --Numerical modeling --Prognosis.

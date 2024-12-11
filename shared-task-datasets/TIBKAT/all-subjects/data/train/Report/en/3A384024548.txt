@@ -1,2 +1,0 @@
-HTS-SQUIDs im Kraftwerk, Teilvorhaben: HTS-Wirbelstromsensoren für ZfP im Vergleich : Abschlußbericht ; Verbundprojekt ; Zeitraum: 01.01.2001 - 31.05.2003
-Hybrid magnetic field sensor, high temperature superconductor, Hall converter, AMR  converter, non destructive testing, induction coil, low frequency eddy current method

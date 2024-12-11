@@ -1,2 +1,0 @@
-Vorkurs der Ingenieurmathematik
-Neuaufl. VerlBeschr.: Dieses Buch dient der Vorbereitung auf ein Ingenieurstudium. s werden Rechenoperationen bis zum Logarithmieren, Funktionen einschliesslich der trigonometrischen Funktionen, Gleichungen, Berechnungen am Dreieck, Vieleck und Kreis, Körperberechnungen und Grundlagen der Vektorrechnung behandelt. ie grosse Zahl von Aufgaben einschliesslich Lösungen dient der Festigung des Lehrstoffes, seiner sicheren Anwendung sowie der notwendigen Selbstkontrolle für den Leser

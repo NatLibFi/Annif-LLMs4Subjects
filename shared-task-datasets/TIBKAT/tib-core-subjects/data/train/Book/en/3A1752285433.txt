@@ -1,2 +1,0 @@
-Advances in malware and data-driven network security
-"This book describes some of the recent notable advances in threat-detection using machine-learning and artificial-intelligence with a focus on malwares, covering the current trends in ML/statistical approaches to detecting, clustering or classification of cyber-threats extensively"--

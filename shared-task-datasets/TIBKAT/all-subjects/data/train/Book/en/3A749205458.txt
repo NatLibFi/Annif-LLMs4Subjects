@@ -1,2 +1,0 @@
-Nonlinear Control Systems: An Introduction
-Local decompositions of control systems -- Global decompositions of control systems -- Input-output maps and realization theory -- Disturbance decoupling and non interacting control -- Exact linearization methods.

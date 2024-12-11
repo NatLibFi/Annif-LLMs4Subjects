@@ -1,2 +1,0 @@
-Practical Julia : a hands-on introduction for scientific minds
-"A comprehensive introduction to the Julia programming language. Provides a step-by-step foundation on the language's basics before diving into how to write effective Julia programs that solve real-world problems in various scientific fields. Readers will use Julia to explore and visualize data, solve equations, write simulations, and create libraries. Contains hundreds of working code examples and illustrations"

@@ -1,2 +1,0 @@
-The principles of navigation
-From the preface: The object of this book is to contribute to the exchange of ideas between the navigator and the scientist and engineer in two ways. First, by painting a broad picture of navigation as a whole so that each problem may be seen against a wider background. Secondly, by attempting to suggest a common language appropriate to a study of navigation.

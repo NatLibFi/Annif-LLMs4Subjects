@@ -1,2 +1,0 @@
-Pro Bash programming : scripting the GNU/Linux Shell
-Hello, world! Your first shell program -- Input, output, and throughput -- Looping and branching -- Command-line parsing and expansion -- Parameters and variables -- Shell functions -- String manipulation -- File operations and commands -- Reserved words and built-in commands -- Writing bug-free scripts and debugging the rest -- Programming for the command line -- Runtime configuration -- Data processing -- Scripting the screen -- Entry-level programming

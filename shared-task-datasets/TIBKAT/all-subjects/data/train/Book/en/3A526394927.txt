@@ -1,2 +1,0 @@
-Linear algebra : theory and applications
-Systems of linear equations -- Vector spaces and transformations -- Matrix operations -- Determinants -- Vector spaces -- Eigensystems -- Inner product vector spaces -- Additional topics

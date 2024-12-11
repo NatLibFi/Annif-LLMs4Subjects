@@ -1,2 +1,0 @@
-Chapter 18 Forecasting in Marketing
-With the advent of advanced data collection techniques, there is an increased interest in using econometric models to support decisions in marketing. Due to the sometimes specific nature of variables in marketing, the discipline uses econometric models that are rarely, if ever, used elsewhere. This chapter deals with techniques to derive forecasts from these models. Due to the intrinsic non-linear nature of these models, these techniques draw heavily on simulation techniques.

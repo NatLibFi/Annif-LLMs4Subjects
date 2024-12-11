@@ -1,2 +1,0 @@
-Choosing a quality control system
-Obstacles in quality control training -- Implementing quality -- Quality and process solutions: engineering method -- Quality and process solutions: nonstatistical methods -- Computerized quality solutions and risks: statistical methods -- Making the right choice

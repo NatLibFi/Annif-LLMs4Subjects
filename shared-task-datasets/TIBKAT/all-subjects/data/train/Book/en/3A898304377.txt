@@ -1,2 +1,0 @@
-Network function virtualization : concepts and applicability in 5G networks
-Virtualization and cloud computing -- Network function virtualization -- Software-defined networks principles and applications -- SDN and NFV in 5G 84 -- Open source and research activities

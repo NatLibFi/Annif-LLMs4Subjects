@@ -1,2 +1,0 @@
-Statistik mit SPSS : alles in einem Band für Dummies
-Verl.Beschr.: Reale Sachverhalte statistisch zu erschliessen und zu analysieren ist eine hohe Kunst. Das Programmpaket SPSS ist dafür ein mächtiges Werkzeug. In diesem Buch lernen Sie anhand zahlreicher Beispiele, welche statistischen Verfahren es überhaupt gibt und wann welches Verfahren angemessen ist. Gleich im Anschluss erfahren Sie, wie diese Verfahren in SPSS implementiert sind und wie Sie sie in Ihrem Fachgebiet nutzen können. So finden Sie Zusammenhänge in Ihren Daten, die statistisch signifikant sind

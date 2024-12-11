@@ -1,2 +1,0 @@
-Multiphysics modeling using COMSOL : a first principles approach
-Modeling methodology -- Materials and databases -- 1D modeling -- 2D modeling -- 2D axisymmetric modeling -- 2D simple mixed mode modeling -- 2D complex mixed mode modeling -- 3D modeling -- Perfectly matched layer models -- Bioheat models

@@ -1,3 +1,0 @@
-Multicore: Parallele Programmierung
-Kurzüberblick Multicore-Prozessoren.- Konzepte paralleler Programmierung.- Thread-Programmierung.- Programmierung mit Pthreads.- Java-Threads.- OpenMP.- Weitere Ansätze.
-Kurzüberblick Multicore-Prozessoren -- Konzepte paralleler Programmierung -- Thread-Programmierung -- Programmierung mit Pthreads -- Java-Threads -- OpenMP -- Weitere Ansätze.

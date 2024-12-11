@@ -1,2 +1,0 @@
-Design and analysis of simulation experiments
-1. Introduction -- 2. Low-order polynomial regression metamodels and their designs: basics -- 3. Classic assumptions revisited -- 4. Simulation optimization -- 5. Kriging metamodels -- 6. Screening designs -- 7. Epilogue

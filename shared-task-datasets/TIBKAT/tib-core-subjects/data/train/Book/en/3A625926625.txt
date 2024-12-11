@@ -1,2 +1,0 @@
-Certification and security in health-related web applications : concepts and solutions
-"This book aims to bridge the worlds of healthcare and information technology, increase the security awareness of professionals, students and users and highlight the recent advances in certification and security in health-related Web applications"--Provided by publisher

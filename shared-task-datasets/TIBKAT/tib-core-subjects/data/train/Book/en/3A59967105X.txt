@@ -1,2 +1,0 @@
-Communication satellite antennas : system architecture, technology, and evaluation
-Fundamental parameters -- Technology survey -- Communication satellite system architectures -- Propagation limitations and link performance -- Interference susceptibility and mitigation -- Space segment antenna technology -- User segment antennas -- Antenna test facilities and methodologies -- Satellite antenna system evaluation

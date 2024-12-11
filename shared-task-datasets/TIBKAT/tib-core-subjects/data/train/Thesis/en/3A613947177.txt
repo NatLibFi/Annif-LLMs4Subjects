@@ -1,2 +1,0 @@
-Aufbau eines Downstream-Prozesses zur Proteingewinnung mittels Membrantechnologie am Beispiel von Kartoffelfruchtwasser
-Crossflow-Mikrofiltration, Enzym-Assay, Kartoffelfruchtwasser, Membranadsorber, scaleup, Trocknung, Ultrafiltration. - Crossflow microfiltration, enzyme assay, potato fruit juice, membrane adsorber, drying

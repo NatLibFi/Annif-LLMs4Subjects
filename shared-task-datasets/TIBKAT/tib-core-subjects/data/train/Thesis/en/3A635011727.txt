@@ -1,2 +1,0 @@
-Controlling the electric-field of few-cycle laser pulses on the cycle-scale
-Few-cycle Ti:sapphire laser oscillators, carrier-envelope-offset phase stabilization, octave-spanning pulse shaping, few-cycle field synthesis. - Wenige-Zyklen-Pulse, Titan:Saphir-Laser-Oszillatoren, Träger-Einhüllenden-Phase, oktavbreite Pulsformung, Wenige-Zyklen-Feld-Synthese

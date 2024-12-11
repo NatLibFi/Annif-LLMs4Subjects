@@ -1,2 +1,0 @@
-Secure Data Management : VLDB 2004 Workshop, SDM 2004, Toronto, Canada, August 30, 2004. Proceedings
-This book constitutes the refereed proceedings of the VLDB 2004 International Workshop on Secure Data Management in a Connected World, SDM 2004, held in Toronto, Canada in August 2004 in association with VLDB 2004. The 15 revised full papers presented were carefully reviewed and selected from 28 submissions. The papers are organized in topical sections on encrypted data access, privacy perserving data management, access control, and database security

@@ -1,3 +1,0 @@
-Road vehicle automation 6
-This is the sixth volume of a sub series on Road Vehicle Automation published within the Lecture Notes in Mobility. The contents have been provided by researchers, engineers and analysts from all around the world. Topics covered include public sector activities, human factors and challenges, ethical, legal, energy and technology perspectives, vehicle systems development, as well as transportation infrastructure and planning. The book is based on the Automated Vehicles Symposium held on July 9-12, 2018 in San Francisco, CA (USA)
-Public Sector Activities -- Human Factors and Challenges -- Vehicle Systems and Technology Development -- Transportation Infrastructure and Planning

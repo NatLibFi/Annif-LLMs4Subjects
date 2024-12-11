@@ -1,2 +1,0 @@
-The Rails 5 way
-Through detailed code examples, you’ll dive deep into Ruby on Rails, discover why it’s designed as it is, and learn to make it do exactly what you want. Proven in thousands of production systems, the knowledge in this book will maximize your productivity and help you build more successful solutions. --Publisher

@@ -1,2 +1,0 @@
-A frequency domain approach to synchronization of filterbank multicarrier systems in practice
-Frequency domain synchronization, filterbank multicarrier, shared spectrum usage. - Frequenzbereichssynchronisation, filterbankbasierte Mehrträgerverfahren, adaptive Spektrumsnutzung

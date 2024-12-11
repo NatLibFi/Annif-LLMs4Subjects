@@ -1,2 +1,0 @@
-Combinatorial Theory Seminar Eindhoven University of Technology
-I. Permutations and combinations -- II. Inversion formulae -- III. Generating functions and recursions -- IV. Partitions -- V. Distinct representatives -- VI. Ramsey's theorem -- VII. Some extremal problems -- VIII. Convex spaces -- IX. De bruign sequences -- X. Block designs -- XI. Difference sets -- XII. Finite geometries -- XIII. Orthogonal latin squares -- XIV. Hadamard matrices -- XV. Constructions of block designs.

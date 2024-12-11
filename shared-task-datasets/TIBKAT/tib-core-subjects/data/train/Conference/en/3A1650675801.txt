@@ -1,2 +1,0 @@
-Thermal Nonequilibrium Phenomena in Fluid Mixtures
-Thermodiffusion describes the coupling between a temperature gradient and a resulting mass flux. Traditionally, the focus has been on simple fluids, and it is now extending to more complex systems such as electrolytes, polymers, colloidal dispersions and magnetic fluids. This book widens the scope even further by including applications in ionic solids. Written as a set of tutorial reviews, it will be useful to experts, nonspecialist researchers and postgraduate students alike

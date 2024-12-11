@@ -1,3 +1,0 @@
-Bridgeland stability conditions in algebra, geometry and physics
-Zusammenfassung: In the first part we study stability conditions on projective Kummer surfaces. In the second part we us stability conditions to prove results for refined Donaldson-Thomas invarinats associated to quivers with potential
-Zusammenfassung: In ersten Teil studieren wir Stabilitätsbedingungen auf projektiven Kummer Flächen. Im zweiten Teil nutzen wir Stabilitätsbedigungen um Resultate für verfeinerte Donaldson-Thomas-Invarianten assoziiert zu Köchern mit Potential zu beweisen

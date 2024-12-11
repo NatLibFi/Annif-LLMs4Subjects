@@ -1,2 +1,0 @@
-Introduction to the qualitative theory of dynamical systems on surfaces
-Ch. 1. Dynamical Systems on Surfaces -- Ch. 2. Structure of Limit Sets -- Ch. 3. Topological Structure of a Flow -- Ch. 4. Local Structure of Dynamical Systems -- Ch. 5. Transformations of the Circle -- Ch. 6. Classification of Flows on Surfaces -- Ch. 7. Relation Between Smoothness Properties and Topological Properties of Flows

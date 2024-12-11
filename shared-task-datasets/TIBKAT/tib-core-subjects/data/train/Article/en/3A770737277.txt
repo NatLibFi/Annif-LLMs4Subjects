@@ -1,2 +1,0 @@
-Design of a junction in noncontact ultrasonic transportation system
-Ultrasonic levitation, noncontact transportation, acoustic radiation force, flexural vibration, finite element analysis

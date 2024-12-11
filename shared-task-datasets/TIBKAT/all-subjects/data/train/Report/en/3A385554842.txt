@@ -1,5 +1,0 @@
-Coastal processes : with engineering applications
-Part I. Introduction to Coastal Processes: 1. Overview; 2. Sediment characteristics; 3. Long-term processes;
-Part II. Hydrodynamics of the Coastal Zone: 4. Tides and storm surges; 5. Waves and wave-induced hydrodynamics;
-Part IV. Shoreline Modification and Analysis: 11. Beach fill and soft engineering structures; 12. Hard engineering structures; 13. Tidal inlets; 14. Shoreline management.
-Part III. Coastal Response: 6. Field measurement techniques and analysis; 7. Equilibrium beach profiles; 8. Sediment transport; 9. Miscellaneous coastal features; 10. Modeling of beaches and shorelines;

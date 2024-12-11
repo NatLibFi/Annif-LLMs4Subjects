@@ -1,2 +1,0 @@
-Kerbspannungslehre : Theorie der Spannungskonzentration Genaue Berechnung der Festigkeit
-"Die beiden ersten Auflagen dieses Buches, erscheinen 1937 und 1985, sind zweifellos zu den Klassikern der Elastizitätstheorie zu zählen.. Das mathematisch anspruchsvolle Buch wendet sich hauptsächlich an theoretisch interessierte Ingenieure und Physiker. Die zahlreichen, beinahe handbuchartig präsentierten Lösungen können aber auch einem Konstrukteur oder Berechnungsingenieur in vielen praktischen Fällen dienlich sein.." Rezension zur 3. Auflage, ZAMP 1986

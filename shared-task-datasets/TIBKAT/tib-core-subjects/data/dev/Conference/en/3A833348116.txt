@@ -1,2 +1,0 @@
-Automated deduction in geometry : 10th international workshop, ADG 2014, Coimbra, Portugal, July 9 - 11, 2014 ; revised selected papers
-This book constitutes the thoroughly refereed post-workshop proceedings of the 10th International Workshop on Automated Deduction in Geometry, ADG 2014, held in Coimbra, Portugal, in July 2014. The 11 revised full papers presented in this volume were carefully selected from 20 submissions. The papers show the trend set of current research in automated reasoning in geometry

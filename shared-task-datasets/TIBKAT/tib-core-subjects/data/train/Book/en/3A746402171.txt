@@ -1,2 +1,0 @@
-Service-driven approaches to architecture and enterprise integration
-"This book addresses the issues of integrating assorted software applications and systems by using a service driven approach, highlighting the tools, techniques, and governance aspects to design and implement cost effective enterprise integration solutions"--

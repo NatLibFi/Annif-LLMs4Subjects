@@ -1,2 +1,0 @@
-Pressure vessel and piping codes and standards, 2000 : presented at the 2000 ASME Pressure Vessels and Piping Conference, Seattle, Washington, July 23 - 27, 2000
-What is and what should be new in the Code -- Plastic analysis in pressure vessel design -- Piping seismic design and analysis -- Developments in Section XI -- Elastic-plastic analysis -- Evaluation of stresses -- Evaluation of components in service

@@ -1,2 +1,0 @@
-Oracle Database 10g PL/SQL programming : [develop database-driven PL/SQL applications]
-"This fifth edition is principally rewritten, and includes all new examples and coverage of advanced topics like object oriented programming with PL/SQL, external routines, job scheduling, and more. This book covers both introductory and advanced material, and provides complete coverage of the PL/SQL language including new 10g features"--Introd

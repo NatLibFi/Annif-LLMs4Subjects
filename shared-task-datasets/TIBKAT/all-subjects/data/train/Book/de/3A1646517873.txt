@@ -1,3 +1,0 @@
-Datenbankentwicklung in IT-Berufen : Eine praktisch orientierte Einführung mit MS Access und MySQL
-Mit Hilfe der derzeit verbreitetsten Datenbanksysteme - MS Access und MySQL - werden die Grundlagen von Datenbanksystemen an praktischen Beispielen behandelt. Die leicht nachvollziehbare Darstellung ist anwendungsorientiert und wird durch viele Übungen ergänzt. Ein kompaktes Lehrbuch für die Thematik Datenbanken im Berufsfeld IT-Berufe.
-Grundbegriffe -- Datenbanksysteme -- Entwicklung von Datenbanksystemen -- Datenbanksystem Microsoft® Access -- Datenbanksystem MySQL.

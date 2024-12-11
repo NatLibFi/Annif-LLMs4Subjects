@@ -1,2 +1,0 @@
-Transients in Electric Power Supply Systems : Textbook for students of higher educational institutions
-The book consists of introduction and two parts. In the first part electromagnetic transients caused by shorts, longitudinal and lateral asymmetry, technological process and conditions of electromagnetic compatibility are considered. The part two is devoted to electromechanical transients and to combined influence of the electromagnetic and electromechanical transients on power supply system operation stability. Transients, Electric Power, Supply Systems

@@ -1,2 +1,0 @@
-Quantum information in gravitational fields
-One of the major scientific thrusts in recent years has been to try to harness quantum phenomena to increase dramatically the performance of a wide variety of classical information processing devices. In particular, it is generally accepted that quantum computers and communication systems promise to revolutionize our information infrastructure.

@@ -1,2 +1,0 @@
-Übungsbuch zur Analysis 1 : Aufgaben und Lösungen
-Ergänzung zu Analysis 1 von Otto Forster. Zu den ausgewählten Aufgaben wurden Lösungen ausgearbeitet, manchmal auch nur Hinweise oder bei Rechenaufgaben die Ergebnisse, so dass genügend viele ungelöste Aufgaben als Herausforderung für den Leser übrig bleiben. Das Buch unterstützt Studierende der Mathematik und Physik der ersten Semester beim Selbststudium (z.B. bei Prüfungsvorbereitungen). Diese Auflage wurde überarbeitet und mit einigen Aufgaben inkl. Lösungen ergänzt.

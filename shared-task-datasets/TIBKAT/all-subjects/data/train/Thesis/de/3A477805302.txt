@@ -1,2 +1,0 @@
-Eine frei driftende, pelagische, autonome Experimentierplattform
-In der vorliegenden Arbeit wird eine autonome, auftriebsneutrale Experimentierplattform für den universellen Einsatz als pelagisches Labor entwickelt. Dabei werden die mit einem Prototypen gemachten Erfahrungen und die unterschiedlichen Einflüsse der Einsatzumgebung berücksichtigt. Schwerpunkte bei der Entwicklung bilden die Verbesserung der einzelnen Komponenten und des Systems im Ganzen sowie der Entwurf einer flexiblen Regelung. Wichtiges Kriterium ist dabei stets die Reduzierung des Energiebedarfs

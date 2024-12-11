@@ -1,2 +1,0 @@
-Hyperbolic Chaos : A Physicist’s View
-This book reviews progress on uniformly hyperbolic attractors in dynamical systems from the perspective of physics. The text shows how to find hyperbolic chaotic attractors in physical systems and how to design physical systems that possess hyperbolic chaos

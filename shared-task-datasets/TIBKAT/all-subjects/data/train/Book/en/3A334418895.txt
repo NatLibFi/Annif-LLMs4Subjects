@@ -1,2 +1,0 @@
-Modern control design with MATLAB and SIMULINK
-The author emphasises the physical principles and engineering applications of modern control design. Instead of detailing the mathematical theory, MATLAB and SIMULINK examples are used throughout

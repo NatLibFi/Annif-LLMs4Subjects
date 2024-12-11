@@ -1,2 +1,0 @@
-Safety management systems in aviation
-Introduction to SMS -- History and evolution of safety -- Principles of quality management -- Hazards -- Risks -- Controls -- Taxonomies -- Process-based safety risk management/safety assurance -- Managing the SMS -- Tools and analysis methods -- Implementing an SMS

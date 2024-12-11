@@ -1,2 +1,0 @@
-Inverse load calculation for offshore wind turbines
-Inverse load calculation, load measurement, deconvolution in the Frequency Domain, FAST, system identification, Frequency Domain Decomposition, aerodynamic damping, lifetime prediction. - Inverse Lastermittlung, Systemidentifikation, aerodynamische Dämpfung, Restlebensdaueranalyse

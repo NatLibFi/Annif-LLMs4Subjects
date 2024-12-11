@@ -1,2 +1,0 @@
-Models for the h cluster of the [FeFe]-hydrogenase : synthesis, protonation and electrochemical investigations
-The investigations of the ability of the [FeFe]-hydrogenase models toward the electrocatalytic reduction of protons showed that the presence of protonation sites on the model complex is important to lower the overpotential of proton reduction and to enhance the catalytic activity. Figure 1 provides an overview for different derivatization strategies of various [FeFe]-hydrogenase models that are described in this thesis.

@@ -1,2 +1,0 @@
-Valuations of Skew Fields and Projective Hjelmslev Spaces
-Valuations of fields -- Valuation topologies and the approximation theorem -- Valued vector spaces -- Projective Hjelmslev spaces.

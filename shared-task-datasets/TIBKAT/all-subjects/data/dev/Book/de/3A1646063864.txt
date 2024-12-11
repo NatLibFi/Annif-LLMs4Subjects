@@ -1,2 +1,0 @@
-Identifikationssysteme und Automatisierung
-Barcode, intelligente Etiketten (RFID), Künstliche Intelligenz: Interdisziplinär erläutern die Autoren die Automatisierung der modernen Logistik und Produktion, bis hin zur erforderlichen automatischen Identifizierung von Objekten (AutoID). Mit zahlreichen Beispielen, vielen Hinweisen für die praktische Anwendung und theoretischen Hintergründen. Kompakt, profund und anschaulich: ein detailliertes Nachschlagewerk für Lehre und Praxis

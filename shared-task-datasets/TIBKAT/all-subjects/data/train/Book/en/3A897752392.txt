@@ -1,2 +1,0 @@
-Modern software engineering methodologies for mobile and cloud environments
-"This book investigates emergent trends and research on innovative software platforms in mobile and cloud computing, featuring state-of-the-art software engineering methods, as well as new techniques being utilized in the field"--Provided by publisher.

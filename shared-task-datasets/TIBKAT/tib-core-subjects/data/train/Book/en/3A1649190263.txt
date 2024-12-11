@@ -1,2 +1,0 @@
-Computer Science in Perspective : Essays Dedicated to Thomas Ottmann
-By presenting state-of-the-art aspects of theoretical computer science and practical applications in various fields, this book commemorates the 60th birthday of Thomas Ottmann. The 26 research papers presented span the whole range of Thomas Ottmann's scientific career, from formal languages to algorithms and data structures, from topics in practical computer science like software engineering or database systems to applications of Web technology, groupware, and e-learning

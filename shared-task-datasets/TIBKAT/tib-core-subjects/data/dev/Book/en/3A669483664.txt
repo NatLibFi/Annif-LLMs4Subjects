@@ -1,2 +1,0 @@
-JavaScript & jQuery : the missing manual
-Getting started with JavaScript -- Getting started with jQuery -- Building web page features -- Ajax: communication with the web server -- Tips, tricks, and troubleshooting

@@ -1,2 +1,0 @@
-Komplexität von Algorithmen
-"Dieses Lehrbuch, entstanden aus einer Anfängervorlesung aus dem Informatik-Studiengang an der Leibniz Universität Hannover, bietet einen ersten Einstieg in den Bereich der Komplexitätstheorie."--

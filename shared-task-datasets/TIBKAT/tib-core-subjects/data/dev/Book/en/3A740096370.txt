@@ -1,2 +1,0 @@
-Hybrid electric power train engineering and technology : modeling, control, and simulation
-"This book provides readers with an academic investigation into HEV power train design using mathematical modeling and simulation of various hybrid electric motors and control systems"--

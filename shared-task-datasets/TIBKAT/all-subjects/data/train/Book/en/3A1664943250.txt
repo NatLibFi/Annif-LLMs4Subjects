@@ -1,3 +1,0 @@
-C++ crash course : a fast-paced introduction
-Up and running -- Types -- Reference types -- The object life cycle -- Runtime polymorphism -- Compile-time polymorphism -- Expressions -- Statements -- Functions -- Testing -- Smart pointers -- Utilities -- Containers -- Iterators -- Strings -- Streams -- Filestreams -- Algorithms -- Concurrency and parallelism -- Network programming with boost Asio -- Writing applications.
-"A guide to C++ that begins by introducing all the core language features, then explores the Standard and Boost Libraries. Covers major features of modern C++, including types, expressions, containers, and more"--

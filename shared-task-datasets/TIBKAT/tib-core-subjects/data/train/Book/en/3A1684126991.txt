@@ -1,2 +1,0 @@
-Sediment transport and morphodynamics modelling for coasts and shallow environments
-"This guide to sediment transport and morphodynamics modelling in nearshore environments covers hydrodynamics of estuarine and coastal environments, seafloor and estuarine composition, and hydro-environmental interactions; emphasising the inter-relations of small and large scale processes. For engineers and graduate students"--

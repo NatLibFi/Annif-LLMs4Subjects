@@ -1,2 +1,0 @@
-Pragmatic guide to Git
-Provides information on using the version control system, covering such topics as branching, merging, and working with the repository

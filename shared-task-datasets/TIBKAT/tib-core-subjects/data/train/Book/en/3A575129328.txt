@@ -1,2 +1,0 @@
-Microsoft Visual C# 2008 step by step
-Covers the fundamentals of Visual C# and how to use it to build .NET-connected applications, covering topics including syntax, Web services, and operators

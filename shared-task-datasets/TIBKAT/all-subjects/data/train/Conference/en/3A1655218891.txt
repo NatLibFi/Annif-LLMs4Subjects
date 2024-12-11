@@ -1,2 +1,0 @@
-Commutative Algebra : Proceedings of a Workshop held in Salvador, Brazil, Aug. 8–17, 1988
-The central theme of this volume is commutative algebra, with emphasis on special graded algebras, which are increasingly of interest in problems of algebraic geometry, combinatorics and computer algebra. Most of the papers have partly survey character, but are research-oriented, aiming at classification and structural results

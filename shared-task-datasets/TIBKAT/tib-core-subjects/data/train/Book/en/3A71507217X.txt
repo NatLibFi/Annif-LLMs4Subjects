@@ -1,2 +1,0 @@
-Non-linear finite element analysis of solids and structures
-"The Finite Element Method (FEM) is a powerful technique originally developed for numerical solution of complex problems in structural mechanics, and it remains the method of choice for complex systems"--

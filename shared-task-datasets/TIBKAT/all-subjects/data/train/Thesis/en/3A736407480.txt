@@ -1,2 +1,0 @@
-Contact methods integrating plasticity models with application to soil mechanics
-Contact mechanics, finite-element-method, soil mechanics, friction laws, Mortar method, eXtended-finite-element-method. - Kontaktmechanik, Finite-Element-Methode, Bodenmechanik, Reibgesetze, Mortar-Methode, eXtended-Finite-Element-Methode

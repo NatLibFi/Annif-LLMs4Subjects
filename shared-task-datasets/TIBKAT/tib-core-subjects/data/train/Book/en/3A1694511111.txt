@@ -1,2 +1,0 @@
-Process gas chromatographs : fundamentals, design and implementation
-"Books on gas chromatography, of which there are many, usually start by reviewing the historical development of the science, so we won't do that here. Instead, we'll start by understanding the basic technique; what a chromatograph does and how it does it. To read the fascinating history of chromatographic science see the beautiful book by Ettre (2008)"--

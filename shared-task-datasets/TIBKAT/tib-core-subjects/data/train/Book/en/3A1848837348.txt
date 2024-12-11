@@ -1,2 +1,0 @@
-AI, machine learning and deep learning : a security perspective
-Today AI and Machine/Deep Learning have become the hottest areas in the information technology. This book aims to provide a complete picture on the challenges and solutions to the security issues in various applications. It explains how different attacks can occur in advanced AI tools and the challenges of overcoming those attacks

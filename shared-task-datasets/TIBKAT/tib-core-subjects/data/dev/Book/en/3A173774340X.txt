@@ -1,2 +1,0 @@
-Introduction to urban water distribution : Problems & exercises
-<P>Workshop problems, Network modelling workshop, Network design exercise, Network rehabilitation exercise, Minor loss factors, Hydraulic tables (Darcy-Weisbach/Colebrook-White), Spreadsheet hydraulic lessons -- Overview, EPANET -- Version 2, Unit conversion table.</P>

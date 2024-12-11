@@ -1,2 +1,0 @@
-Transport- und Lagerlogistik : Planung, Aufbau und Steuerung von Transport- und Lagersystemen
-Der Schwerpunkt des Buches liegt auf der planerischen Transport- und Lagertechnik mit notwendigen Vordimensionierungen und nicht auf maschinenbauspezifischen und konstruktiven Berechnungen. Im Vordergrund steht die Vermittlung von umfassendem und detailliertem Wissen. Durch Darstellung des konstruktiven und funktionellen Aufbaus der Einzelgrößen mit Vor- und Nachteilen, Einsatzgebieten und planerisch wichtigen Größen werden ihr Zusammenhang und die Abhängigkeiten aufgezeigt

@@ -1,2 +1,0 @@
-Querying moving objects detected by sensor networks
-Introduction -- Applications for MOSD -- Background -- Generic Model of a Sensor Network -- Point Set Topology for Sensor Networks -- Deriving Predicate Results -- Spatio-Temporal Developments -- Spatio-Temporal Query Processing in SN -- Evaluation

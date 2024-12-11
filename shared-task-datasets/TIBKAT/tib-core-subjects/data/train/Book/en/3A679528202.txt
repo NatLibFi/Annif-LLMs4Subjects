@@ -1,2 +1,0 @@
-Mathematical aspects of network routing optimization
-1. Unicast routing algorithms -- 2. Multicast routing -- 3. Steiner trees and multicast -- 4. Online multicast -- 5. Distributed algorithms for multicast routing -- 6. Center-based trees and multicast packing -- 7. Metaheuristics for multicast routing -- 8. The point-to-point connection problem -- 9. Streaming cache placement -- 10. Algorithms for cache placement -- 11. Distributed routing on ad hoc networks -- 12. Power-aware routing in MANETs

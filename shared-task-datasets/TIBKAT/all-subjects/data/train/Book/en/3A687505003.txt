@@ -1,2 +1,0 @@
-MATLAB and Simulink for engineers
-1. Introduction to MATLAB programming -- 2. Fundamentals of MATLAB programming -- 3. Fundamentals of Simulink -- 4. Basic electrical engineerings applications -- 5. Simulation of rectifiers -- 6. Simulation of inverters -- 7. Simulation of choppers and cycloconverters -- 8. Power system engineering --- 9. Control system engineering and electrical machines -- 10. Miscellaneous applications -- 11. Simulation of power converters

@@ -1,2 +1,0 @@
-Inverse problems in engineering : theory and practice ; presented at the 3rd International Conference on Inverse Problems in Engineering: Theory and Practice, June 13 - 18, 1999, Port Ludlow, Washington
-Applications of inverse problems -- Identification -- Mechanics -- Mathematics -- Heat transfer -- Imaging -- Experiment design and optimization

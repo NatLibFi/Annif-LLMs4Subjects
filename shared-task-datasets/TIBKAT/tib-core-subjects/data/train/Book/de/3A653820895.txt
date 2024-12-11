@@ -1,2 +1,0 @@
-Online-Shops mit Magento : [Praxiswissen für die eigene Shoplösung; aktuell zu Magento 1.5]
-Einsteigerfreundlicher, umfassender Titel zu Magento, der populären Open Source-Lösung für den Betrieb eines eigenen Webshops

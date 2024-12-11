@@ -1,2 +1,0 @@
-Measure and Integral
-The Lebesgue integral is an essential tool in the fields of analysis and stochastics and for this reason, in many areas where mathematics is applied. This textbook is a concise, lecture-tested introduction to measure and integration theory. It addresses the important topics of this theory and presents additional results which establish connections to other areas of mathematics. The arrangement of the material should allow the adoption of this textbook in differently composed Bachelor programmes

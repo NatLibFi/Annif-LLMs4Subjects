@@ -1,2 +1,0 @@
-Essentials of mechatronics
-The bare essentials -- Gaining experience -- Introduction to the next level -- Electronic design -- Essential control theory -- Vectors, matrices and tensors -- Mathematics for control -- Robotics, Dynamics and Kinematics -- Further control theory -- Computer implementation -- Machine vision -- Case studies -- The human element

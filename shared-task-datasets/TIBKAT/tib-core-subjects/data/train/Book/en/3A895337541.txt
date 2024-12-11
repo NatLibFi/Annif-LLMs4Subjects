@@ -1,2 +1,0 @@
-Existence theory for generalized Newtonian fluids
-Existence Theory for Generalized Newtonian Fluids provides a rigorous mathematical treatment of the existence of weak solutions to generalized Navier-Stokes equations modeling Non-Newtonian fluid flows. The book presents classical results, developments over the last 50 years of research, and recent results with proofs. --

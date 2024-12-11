@@ -1,2 +1,0 @@
-Taschenbuch der Meßtechnik : Mit Schwerpunkt Sensortechnik
-Dieses Buch setzt Schwerpunkte auf den Gebieten: Meßverstärker und Meßoszillatoren, Digitale Zeit- und Frequenzmessung, Sensoren und sensorspezifische Meßsingalverarbeitung und Strukturen analoger und digitaler Meß- und Sensorsysteme. Es liefert damit die Grundlage für den Wandel von einer bisher eher komponenten-orientierten Meßtechnik hin zu einer rechnerorientierten Meßsystem-Technik.

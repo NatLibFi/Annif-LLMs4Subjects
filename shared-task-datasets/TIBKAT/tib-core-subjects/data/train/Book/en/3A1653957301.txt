@@ -1,2 +1,0 @@
-Agile Android
-Agile Android is a unique short but power packed book of 100-150 pages for the market that walks you through how to get unit testing and test driven development done on the Android platform - on both new and existing Android projects, specifically using JUnit 4 which is now allowed by Google to use and run. Done correctly, agile development results in a significant increase in development efficiency and a reduction in the number of defects. This book shows you how it's done quickly but correctly

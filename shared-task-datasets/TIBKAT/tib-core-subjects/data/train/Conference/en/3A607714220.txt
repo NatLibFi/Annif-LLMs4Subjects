@@ -1,2 +1,0 @@
-Constructive neural networks : [collection of invited works ... taken primarily from papers presented at a special session held during the 18th International Conference on Artificial Neural Networks (ICANN 2008) in September 2008 in Prague, Czech Republic]
-"This book presents a collection of invited works that consider constructive methods for neural networks, taken primarily from papers presented at a special session held during the 18th International Conference on Artificial Neural Networks (ICANN 2008) in September 2008 in Prague, Czech Republic."--Pref

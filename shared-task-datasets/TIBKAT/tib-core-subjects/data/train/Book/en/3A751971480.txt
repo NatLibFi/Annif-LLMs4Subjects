@@ -1,2 +1,0 @@
-Drilling of polymer-matrix composites
-Part I, 1. Introduction ; 2. Drilling of composites -- part II, 3. Effects of drill points while drilling of composites -- part III, 4. Effects of drill points while drilling at high spindle speed ; 5. Numerical prediction of the critical thrust force causing delamination at the hole exit ; 6. Effects of drilling parameters on mechanical strength ; 7. Behavior of composite laminates with drilled and moulded hole under tensile load

@@ -1,2 +1,0 @@
-Designing software intensive systems : methods and principles
-"This book addresses the complex issues associated with software engineering environment capabilities for designing real-time embedded software systems"--Provided by publisher

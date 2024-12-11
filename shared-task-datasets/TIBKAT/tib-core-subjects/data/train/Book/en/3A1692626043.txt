@@ -1,2 +1,0 @@
-Time delay ODE/PDE models : applications in biomedical science and engineering
-Introduction to Delay Ordinary Differential Equations -- Introduction to Delay Partial Differential Equations -- Hepatitis B Virus DPDE Model -- Tumor Induced Angiogenesis -- Metastatic Cancer Cell Invasion of Tissue -- Subcutaneous Injection of Insulin -- Hematopoietic Stem Cells -- Drug Eluting Stents.

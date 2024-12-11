@@ -1,2 +1,0 @@
-Machine learning : the art and science of algorithms that make sense of data
-'Machine Learning' brings together all the state-of-the-art methods for making sense of data. With hundreds of worked examples and explanatory figures, it explains the principles behind these methods in an intuitive yet precise manner and will appeal to novice and experienced readers alike

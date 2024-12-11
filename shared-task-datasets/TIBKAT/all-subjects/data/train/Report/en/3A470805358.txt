@@ -1,2 +1,0 @@
-3D-instationäre Schaufelgitter-Interaktionen in 2-stufigen Turbinenbeschaufelungen mit Deckband-Kavitäten (2.1.7 A) : Abschlussbericht zum Verbundprojekt "GuD-Kraftwerk - 500 MW auf einer Welle" (AG Turbo II)
-Turbine, multi-stage, rotor-stator interaction, shroud cavity, unsteady, clocking, numeric, experiment, balance-based

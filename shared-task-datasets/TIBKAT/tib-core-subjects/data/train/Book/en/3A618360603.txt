@@ -1,2 +1,0 @@
-Professional SharePoint 2010 administration
-Provides information on the major improvments and changes in SharePoint 2010 and offers coverage of such topics as command-line administration, backups and disaster recovery, service applications, and enterprise search

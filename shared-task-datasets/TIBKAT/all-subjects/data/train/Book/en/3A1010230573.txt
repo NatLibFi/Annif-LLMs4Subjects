@@ -1,2 +1,0 @@
-Control engineering : fundamentals
-The book introduces the fundamentals (principle, structure, characteristics, classification etc.) of control systems. The dynamic behavior are also illustrated in detail. The authors also present the time/ frequency/stability/error response analyses of control system. This book is an essential reference for graduate students, scientists and practitioner in the research fields of mechanical and electrical engineering--

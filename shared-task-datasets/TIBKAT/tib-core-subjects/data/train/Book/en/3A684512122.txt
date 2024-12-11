@@ -1,2 +1,0 @@
-Theoretical and practice frameworks for agent-based systems
-"This book tackles these real problems and issues pertaining to agent-based systems, bringing the theoretical research of intelligent agents to researchers and practitioners in academia, government, and innumerable industries"--Provided by publisher

@@ -1,2 +1,0 @@
-Learning iPhone programming : [from Xcode to App Store]
-With this guide, you'll build several sample applications by learning how to use Xcode tools, the Objective-C programming language, and the core frameworks

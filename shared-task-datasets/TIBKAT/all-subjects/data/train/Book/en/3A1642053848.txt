@@ -1,2 +1,0 @@
-Nuggets of number theory : a visual approach$nRoger B. Nelsen
-Figurate numbers -- Congruence -- Diophantine equations -- Pythagorean triples -- Irrational numbers -- Fibonacci and Lucas numbers -- Perfect numbers

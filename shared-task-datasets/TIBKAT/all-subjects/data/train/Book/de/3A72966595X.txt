@@ -1,2 +1,0 @@
-Einführung in die Statistik : Analyse und Modellierung von Daten
-Das Lehrbuch beinhaltet neben den grundlegenden statistischen Verfahren zur Aufbereitung, Darstellung und Analyse von Daten auch einzelne Aspekte der Wirtschaftsstatistik und der multiplen Regression. Die dargestellten Verfahren begründet der Autor ausführlich. Die beispielhaften Auswertungen zahlreicher realer Datensätze aus verschiedenen Wissensbereichen befähigen den Leser, die statistischen Methoden selbstständig anzuwenden.

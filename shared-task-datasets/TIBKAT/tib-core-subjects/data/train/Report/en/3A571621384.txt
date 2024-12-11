@@ -1,2 +1,0 @@
-Autonomous robots : modeling, path planning, and control
-Introduction -- Redundant manipulators -- Hyper-redundant manipulators -- Obstacle avoidance using harmonic potential functions -- Control of manipulators -- Mobile robots -- Autonomous surface vessels -- Autonomous helicopters -- Mathematics -- Control methods review

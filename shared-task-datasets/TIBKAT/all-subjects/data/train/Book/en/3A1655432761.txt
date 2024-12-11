@@ -1,2 +1,0 @@
-Introduction to Mathematical Statistics
-Notation and Preliminary Remarks -- I Introduction to Probability Theory -- II Elementary Sampling Theory -- III Introduction to the Theory of Hypothesis Testing -- IV The Theory of Confidence Sets -- V Theory of Estimation -- VI Theory of Regression and the Sampling Theory of Multidimensional Normal Distributions -- VII Introduction to Non-parametric Theories -- Name and Subject Index.

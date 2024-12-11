@@ -1,2 +1,0 @@
-R in a nutshell : [a desktop quick reference]
-Presents a guide to the R computer language, covering such topics as the user interface, packages, syntax, objects, functions, object-oriented programming, data sets, lattice graphics, regression models, and bioconductor

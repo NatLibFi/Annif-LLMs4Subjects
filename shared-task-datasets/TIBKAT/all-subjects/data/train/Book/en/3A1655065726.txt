@@ -1,2 +1,0 @@
-Deformations of Singularities
-These notes deal with deformation theory of complex analytic singularities and related objects. The first part treats general theory. The central notion is that of versal deformation in several variants. The theory is developed both in an abstract way and in a concrete way suitable for computations. The second part deals with more specific problems, specially on curves and surfaces. Smoothings of singularities are the main concern. Examples are spread throughout the text

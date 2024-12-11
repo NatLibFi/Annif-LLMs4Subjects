@@ -1,2 +1,0 @@
-From objects to diagrams for ranges of functors
-"This work introduces tools from the field of category theory that make it possible to tackle a number of representation problems that have remained unsolvable to date (e.g. the determination of the range of a given functor).  The basic idea is:if a functor lifts many objects, then it also lifts many (poset-indexed) diagrams." --P. [4] of cover

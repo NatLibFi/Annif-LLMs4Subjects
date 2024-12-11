@@ -1,2 +1,0 @@
-Cocoa and Objective-C : up and running ; [foundations of Mac, iPhone, and iPad programming]
-Setup and first run -- Thinking in code : basic C -- Memory and pointers : advanced C -- Thinking in objects -- Basic Objective-C -- More Objective-C -- Foundation value classes -- Basic controls -- Designing applications using MVC -- Custom views and drawing -- The final word

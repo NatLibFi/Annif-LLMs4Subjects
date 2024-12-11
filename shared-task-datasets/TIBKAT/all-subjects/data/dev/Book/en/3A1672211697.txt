@@ -1,2 +1,0 @@
-BIM and big data for construction cost management
-Introduction -- BIM theories and technologies -- BIM implementation strategies, prospects, and challenges -- Adopting BIM for cost management -- Case studies -- Big data for construction cost management -- Current challenges and future outlooks -- Good practices for adopting BIM for cost management -- The future of BIM and big data in quantity surveying -- Conclusion.

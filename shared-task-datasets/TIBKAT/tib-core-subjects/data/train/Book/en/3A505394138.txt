@@ -1,2 +1,0 @@
-Applied numerical analysis
-This undergraduate textbook describes numerical methods of solving differentials, integrals, and ordinary differential equations, and introduces the numerical solution of partial differential equations by finite difference, finite element, and boundary element methods. Rahman (Dalhousie University) then considers the stability of nonlinear ordinary

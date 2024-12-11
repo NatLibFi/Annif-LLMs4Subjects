@@ -1,2 +1,0 @@
-Accelerated C# 2008
-C♯ preview -- C♯ and the CLR -- C♯ syntax overview -- Classes, structs, and objects -- Interfaces and contracts -- Overloading operators -- Exception handling and exception safety -- Working with strings -- Arrays, collection types, and iterators -- Delegates, anonymous functions, and events -- Generics -- Threading in C♯ -- In search of C♯ canonical forms -- Extension methods -- Lambda expressions -- LINQ: language integrated query

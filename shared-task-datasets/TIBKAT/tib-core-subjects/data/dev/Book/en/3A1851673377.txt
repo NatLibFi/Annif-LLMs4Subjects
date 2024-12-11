@@ -1,2 +1,0 @@
-Introduction to nonlinear optimization : theory, algorithms and applications with Python and MATLAB
-"This book is a modern introduction to the area of optimization. Its objective is to provide the foundations of theory and algorithms of nonlinear optimization, as well as to present a variety of applications from diverse areas of applied sciences"--

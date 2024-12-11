@@ -1,2 +1,0 @@
-Spin transfer torque based devices, circuits, and memory
-Completely dedicated to spin transfer torque (STT) based devices, circuits, and memory, this book covers a wide range of topics including STT MRAMs, MTJ based logic circuits, simulation and modeling strategies, fabrication of MTJ CMOS circuits, and more. --

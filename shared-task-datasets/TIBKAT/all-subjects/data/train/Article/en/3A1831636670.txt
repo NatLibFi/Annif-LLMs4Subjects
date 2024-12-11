@@ -1,2 +1,0 @@
-Chapter 41 Hedonic analysis of housing markets
-This chapter examines the hedonic analysis of housing markets. These techniques have been widely applied in studies of the demand for housing attributes and environmental amenities. The chapter discusses the theoretical foundation of hedonic analysis, the use of hedonic estimates of demand for welfare analysis, the empirical difficulties that arise in such studies, and some of the methods for overcoming these difficulties.

@@ -1,3 +1,0 @@
-Steinberg groups for Jordan pairs
-Groups with commutator relations -- Groups associated with Jordan pairs -- Steinberg groups for Peirce graded Jordan pairs -- Jordan graphs - Steinberg groups for root graded Jordan pairs -- Central closedness.
-"The present monograph develops a unified theory of Steinberg groups, independent of matrix representations, based on the theory of Jordan pairs and the theory of 3-graded locally finite root systems."

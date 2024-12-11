@@ -1,2 +1,0 @@
-Iterative Methods for the Solution of a Linear Operator Equation in Hilbert Space — A Survey
-Iterative methods in real Hilbert spaces -- Iterative methods in complex Hilbert spaces -- Successive approximation methods -- Gradient methods.

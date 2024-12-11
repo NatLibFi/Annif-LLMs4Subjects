@@ -1,2 +1,0 @@
-Statistik – wie und warum sie funktioniert : ein mathematisches Lesebuch mit einer Einführung in R
-Beschr.: Typische Argumentationen der Mathematischen Statistik werden exemplarisch erläutert: Warum kann aus den Ergebnissen einer Stichprobenuntersuchung auf die Gesamtheit geschlossen werden? Welche Ungenauigkeiten und Unsicherheiten sind dabei möglich? Wie und warum können zufallsbedingte Abweichungen mit mathematischen Methoden analysiert werden?

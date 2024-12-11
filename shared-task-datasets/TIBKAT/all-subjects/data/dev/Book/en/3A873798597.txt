@@ -1,2 +1,0 @@
-Analog-to-digital conversion
-"Preface to the third edition: In this edition, the time-interleaved conversion is extended to a full chapter. The other chapters have been updated with the latest developments, and that has led to a considerable increase in pages for the Nyquist and sigma-delta conversion chapters. With these extensions, the third edition of the analog-to-digital conversion book became too voluminous. So the supporting components, technology, and systems chapters have been removed."--

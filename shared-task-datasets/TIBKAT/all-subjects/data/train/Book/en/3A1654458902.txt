@@ -1,2 +1,0 @@
-Modern technologies for big data classification and clustering
-"This book provides an analysis of large data in the field of classification and clustering by presenting algorithms and comparative analysis in the form of their effectiveness and efficiency. It covers topics such as handling large data with conventional data mining, machine learning algorithms and information about new technologies, algorithms and platforms developed for handling large data"--

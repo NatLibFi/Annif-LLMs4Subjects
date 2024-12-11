@@ -1,3 +1,0 @@
-Lehr- und Übungsbuch Mikrosystemtechnik : Grundlagen ; mit 24 Tabellen sowie einer CD-ROM
-Verlagstext: Das Buch stellt den aktuellen Stand der Mikrosystemtechnik dar. Schwerpunkte sind Mikroskopie für Atome, Kräfte in der Mikrowelt, Hybridtechnik, SMD-Technik, Mikromechanik, Integrierte Optik und Simulation von Mikrosystemen
-Verlagstext: Das Buch stellt den aktuellen Stand der Mikrosystemtechnik dar. Schwerpunkte sind Mikroskopie für Atome, Kräfte in der Mikrowelt, Hybridtechnik, SMD-Technik, Mikromechanik, Integrierte Optik und Simulation von Mikrosystemen.

@@ -1,2 +1,0 @@
-Combinatorics of determinantal ideas
-Preliminaries -- Divisor class group and canonical class of determinantal rings -- Gröbner bases and determinantal ideals -- Powers and products of determinantal ideals -- Simplicial complexes associated to determinantal ideals -- Algebras of minors -- F-rationality of determinantal rings

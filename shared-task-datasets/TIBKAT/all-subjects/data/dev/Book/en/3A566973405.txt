@@ -1,2 +1,0 @@
-Artificial intelligence for maximizing content based image retrieval
-"This book provide state of the art information to those involved in the study, use, design and development of advanced and emerging AI technologies"--Provided by publisher

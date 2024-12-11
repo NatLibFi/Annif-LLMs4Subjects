@@ -1,2 +1,0 @@
-Medical image computing and computer assisted intervention - MICCAI '99 : second international conference, Cambridge, UK, September 19 - 22, 1999 ; proceedings
-Data-Driven Segmentation -- Segmentation Using Structural Models -- Image Processing and Feature Detection -- Surfaces and Shape -- Measurement and Interpretation -- Spatiotemporal and Diffusion Tensor Analysis -- Registration and Fusion -- Visualisation -- Image-Guided Intervention -- Robotic Systems -- Biomechanics and Simulation.

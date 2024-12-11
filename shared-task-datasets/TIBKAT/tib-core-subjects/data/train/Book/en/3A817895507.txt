@@ -1,2 +1,0 @@
-Windows Server 2012 R2 administrator cookbook : over 80 hands-on recipes to effectively administer and manage your Windows Server 2012 R2 infrastructure in enterprise environments
-This book is intended for system administrators and IT professionals with experience in Windows Server 2008 or Windows Server 2012 environments who are looking to acquire the skills and knowledge necessary to manage and maintain the core infrastructure required for a Windows Server 2012 and Windows Server 2012 R2 environment

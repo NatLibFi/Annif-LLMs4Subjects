@@ -1,2 +1,0 @@
-Theory of Sobolev multipliers : with applications to differential and integral operators
-"The purpose of this book is to give a comprehensive exposition of the theory of pointwise multipliers acting in pairs of spaces of differentiable functions. The theory was essentially developed by the authors during the last thirty years and the present volume is mainly based on their results."--BOOK JACKET

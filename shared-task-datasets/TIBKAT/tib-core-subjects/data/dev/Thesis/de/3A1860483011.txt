@@ -1,2 +1,0 @@
-Peptid-Maskierung von Oligonukleotiden mit selbstzerlegenden Linkern
-Diese Arbeit beschreibt die Peptid-Maskierung von Oligonukleotiden mit selbstzerlegenden Linkern für Prodrug- und Freisetzungsstrategien.

@@ -1,2 +1,0 @@
-Gaze interaction and applications of eye tracking : advances in assistive technologies
-"This book focuses on interactive communication and control tools based on gaze tracking, including eye typing, computer control, and gaming, with special attention to assistive technologies"--

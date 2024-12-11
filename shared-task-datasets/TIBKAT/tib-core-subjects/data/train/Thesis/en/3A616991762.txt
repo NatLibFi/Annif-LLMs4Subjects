@@ -1,2 +1,0 @@
-Advanced neural networks : finance, forecast, and other applications
-Neural networks, grid computing, parallelization, high-dimensional optimization, quantitative investment, decision support. - Neuronale Netze, Parallelisierung, hoch-dimensionale Optimierung, quantitatives Investment, Entscheidungsunterstützung

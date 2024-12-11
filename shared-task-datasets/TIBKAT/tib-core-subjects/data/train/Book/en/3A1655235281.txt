@@ -1,2 +1,0 @@
-Computations in Higher Types
-Abstract -- The computation domain -- Recursion on ? -- Connection with Kleene recursion in higher types -- Recursion in normal lists on ? -- Kleene recursion in normal objects of type n+2, n>0 -- Computation theories on ? -- Abstract Kleene theories -- Normal computation theories on ? -- More about Mahloness -- Calculation of the lengths of some computations -- Gaps -- On platek: “Foundations of recursion theory” -- A final comment concerning the two types.

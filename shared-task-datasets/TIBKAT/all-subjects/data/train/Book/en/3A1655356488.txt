@@ -1,2 +1,0 @@
-Nonpositive Curvature: Geometric and Analytic Aspects
-This book discusses various geometric and analytic aspects of nonpositive curvature, starting with a discussion of Riemannian examples and rigidity theorems. It then treats generalized notions of nonpositive curvature in metric geometry in the sense of Alexandrov and Busemann, as well as the theory of harmonic maps with values in such spaces. It is intended for researchers and graduate students in Riemannian and metric geometry as well as calculus of variations

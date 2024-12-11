@@ -1,2 +1,0 @@
-Einstieg in Python : ideal für Programmiereinsteiger
-Sie möchten Python lernen? Mit diesem Buch schaffen Sie es! Folgen Sie unserem Autor Thomas Theis bei der Entwicklung eines kleinen Spiels und lernen Sie ganz nebenbei das Basiswissen. Das Spiel wird immer weiter ausgebaut. Dabei lernen Sie die Oberflächen-, Datenbank- und Internet-Programmierung kennen. Natürlich werden Sie auch mit der objektorientierten Programmierung vertraut gemacht. Mit diesem Buch wird Ihnen der Einstieg in Python im wahrsten Sinne des Worts spielend gelingen. Ganz ohne Vorkenntnisse

@@ -1,2 +1,0 @@
-A tour of data science : learn R and Python in parallel
-"A Tour of Data Science : Learn R and Python in Parallel covers the fundamentals of data science, including programming, statistics, optimization, and machine learning in a single short book. It does not cover everything, but rather, teaches the key concepts and topics in Data Science. It also covers two of the most popular programming languages used in Data Science, R and Python, in one source"--

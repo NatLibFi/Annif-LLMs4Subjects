@@ -1,2 +1,0 @@
-Differential Calculus in Topological Linear Spaces
-Definitions and fundamental properties -- Compact mappings -- Inverse mapping theorems -- Differentiability of semi-norms -- Smoothness -- Differentiability of mappings of a real variable -- Sets of differentiable mappings.

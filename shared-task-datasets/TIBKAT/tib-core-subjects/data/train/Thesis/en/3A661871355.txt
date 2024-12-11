@@ -1,2 +1,0 @@
-Dual-dual formulations for frictional contact problems in mechanics
-Mixed finite element method, dual formulation, saddle point problem, variational inequality, inf-sup condition, error estimator. - Gemischte Finite Elemente Methode, duale Formulierung, Sattelpunktproblem, Variationsungleichung, Inf-Sup-Bedingung, Fehlerschätzer

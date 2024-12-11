@@ -1,2 +1,0 @@
-Evaluating derivatives : principles and techniques of algorithmic differentiation
-This title is a comprehensive treatment of algorithmic, or automatic, differentiation. The second edition covers recent developments in applications and theory, including an elegant NP completeness argument and an introduction to scarcity

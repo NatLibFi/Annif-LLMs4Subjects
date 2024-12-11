@@ -1,2 +1,0 @@
-Multidimensional Inverse Problems for Differential Equations
-Some problems of integral geometry -- Linearized inverse dynamic problem for the telegraph equation -- Linearized inverse kinematic problem for the wave equation -- Inverse heat conduction problems with continuously active sources -- Inverse problems for second-order elliptic equations.

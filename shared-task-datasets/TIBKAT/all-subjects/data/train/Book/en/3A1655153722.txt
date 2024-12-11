@@ -1,2 +1,0 @@
-Products of Conjugacy Classes in Groups
-Powers and products of conjugacy classes in groups -- Covering numbers of groups of small order and sporadic groups -- Covering properties of permutation groups -- Groups with a small covering number.

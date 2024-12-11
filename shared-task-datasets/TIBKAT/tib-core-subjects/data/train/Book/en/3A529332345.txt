@@ -1,3 +1,0 @@
-PHP Web 2.0 Mashup Projects : create practical mashups in PHP, grabbing and mixin data from Google Maps, Flickr, Amazon, YouTube, MSN serach, Yahoo!, Last.fm, and 411Sync.com
-This practical tutorial has detailed, carefully explained case studies using PHP to build new, effective mashup applications, which combine data from multiple external online sources into an integrated Web 2.0 experience.
-Contains case studies using PHP to build new, effective mashup applications, which combine data from multiple external online sources into an integrated Web 2.0 experience.

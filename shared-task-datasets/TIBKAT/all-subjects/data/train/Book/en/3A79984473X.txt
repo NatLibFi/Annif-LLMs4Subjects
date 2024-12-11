@@ -1,2 +1,0 @@
-Hadronic jets : an introduction
-Jet physics is an incredibly rich subject detailing the narrow cone of hadrons and other particles produced by the hadronization of a quark or gluon in a particle physics or heavy ion experiment. This book is a general overview of jet physics for scientists not directly involved in the field. It presents the basic experimental and theoretical problems arising when dealing with jets, and describing the solutions proposed in recent years.

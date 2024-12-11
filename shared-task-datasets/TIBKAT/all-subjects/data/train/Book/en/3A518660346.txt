@@ -1,2 +1,0 @@
-Biomolecular crystallography : principles, practice, and application to structural biology
-Introduction : preparing for your study -- Protein structure -- Protein crystallization -- Proteins for crystallography -- Crystal geometry -- Diffraction basics -- Statistics and probability in crystallography -- Instrumentation and data collection -- Reconstruction of electron density and the phase problem -- Experimental phasing -- Non-crystallographic symmetry and molecular replacement -- Model building and refinement -- Structure validation, analysis, and presentation

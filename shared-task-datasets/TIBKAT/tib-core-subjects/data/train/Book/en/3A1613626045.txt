@@ -1,2 +1,0 @@
-Pattern recognition technologies and applications : recent advances
-" This book provides cutting-edge pattern recognition techniques and applications. Written by world-renowned experts in their field, this easy to understand book is a must have for those seeking explanation in topics such as on- and offline handwriting and speech recognition, signature verification, and gender classification"--Provided by publisher

@@ -1,2 +1,0 @@
-Fundamentals of transport processes
-"The proposed book is an introductory text covering the fundamentals and applications of transport phenomena in a single volume. It aims to interlink mathematics with physical concepts by solving equations using numerical techniques and explaining their industrial applications. It thus provides a foundation for advanced courses in fluid mechanics, multiphase flows and turbulence. The supplements package of the book will have lecture slides and solutions to all of the practice problems in the book"--

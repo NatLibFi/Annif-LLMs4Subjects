@@ -1,2 +1,0 @@
-Dynamical systems and geometric mechanics : an introduction
-Linear systems -- Linearization of trajectories -- Invariant manifolds -- Periodic orbits -- Bifurcations and chaos -- Differentiable manifolds -- Lagrangian mechanics -- Hamiltonian mechanics -- Lie groups and rigid body mechanics -- Moving frames and nonholonomic mechanics -- Fiber bundles and nonholonomic mechanics

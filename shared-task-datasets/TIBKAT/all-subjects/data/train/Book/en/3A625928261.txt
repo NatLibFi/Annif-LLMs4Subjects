@@ -1,2 +1,0 @@
-Software engineering for secure systems : industrial and research perspectives
-"This book provides coverage of recent advances in the area of secure software engineering that address the various stages of the development process from requirements to design to testing to implementation"--Provided by publisher

@@ -1,2 +1,0 @@
-Selectors, specificity, and the cascade : [applying CSS3 to documents ; excerpt from "CSS: the definite guide, 4th edition"]
-Exactly how does the cascade in Cascading Style Sheets work? This concise guide demonstrates the power and simplicity of CSS selectors for applying style rules to different web page elements. You'll learn how your page's presentation depends on a multitude of style rules and the complex ways they function - and sometimes collide - within the document's structure. This guide is a chapter from the upcoming fourth edition of CSS: The Definitive Guide --

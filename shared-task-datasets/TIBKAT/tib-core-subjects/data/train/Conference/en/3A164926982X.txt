@@ -1,2 +1,0 @@
-Rewriting Techniques and Applications : 13th International Conference, RTA 2002 Copenhagen, Denmark, July 22–24, 2002 Proceedings
-This book constitutes the refereed proceedings of the 13th International Conference on Rewriting Techniques and Applications, RTA 2002, held in Copenhagen, Denmark, in July 2002. The 20 regular papers, two application papers, and four system descriptions presented together with three invited contributions were carefully reviewed and selected from 49 submissions. All current aspects of rewriting are addressed

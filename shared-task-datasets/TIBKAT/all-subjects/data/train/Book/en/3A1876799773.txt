@@ -1,2 +1,0 @@
-Metamaterials in Topological Acoustics
-1. Acoustic Metmaterials. 2. Classical Mechanics and the Physics of Continua. 3.Acoustics and Elastic Wave Propagation in Fluids and Anisotropic Solids. 4. Electromagnetic Wave Propagation. 5. Quantum Mechanics for Engineers. 6. Waves in Periodic Media: Quantum Analogous Application of Acoustics and Elastic Waves. 7. Topological Acoustics in Metamaterials.

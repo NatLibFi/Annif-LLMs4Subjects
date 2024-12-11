@@ -1,2 +1,0 @@
-Artificial immune system : applications in computer security
-"This book focuses on the technologies and applications of artificial immune systems in malware and spam detection proposed in recent years by the computation intelligence laboratory at Peking University, China. It offers a theoretical perspective and practical solutions to graduate students, practitioners, and researchers working in the area of artificial immune system, machine learning, pattern recognition, and computer security"--

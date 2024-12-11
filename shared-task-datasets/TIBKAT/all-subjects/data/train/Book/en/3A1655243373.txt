@@ -1,2 +1,0 @@
-Fixed Rings of Finite Automorphism Groups of Associative Rings
-Preliminaries -- Rings with no |G|-torsion: Existence of fixed elements, the prime radical and Jacobson radical of RG -- Simple rings: Inner and outer automorphisms, simple fixed rings, R as an RG-module -- Inner and outer automorphisms of semiprime rings -- Rings with no nilpotent elements: Existence of fixed elements and traces -- Chain conditions -- Polynomial identities -- Skew group rings and applications to modules.

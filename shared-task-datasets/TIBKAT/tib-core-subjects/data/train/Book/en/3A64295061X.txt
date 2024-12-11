@@ -1,2 +1,0 @@
-Emerging technologies in wireless ad-hoc networks : applications and future development
-"This book provides the rationale, state-of-the-art studies and practical applications, proof-of-concepts, experimental studies, and future development on the use of emerging technologies in wireless ad-hoc networks"--

@@ -1,2 +1,0 @@
-Chemische Gasphasensynthese von oxidischen Nanopartikeln
-Gasphasensynthese, Nanopartikel, CVS, YSZ, AZO, ZnO:Al, ZrO2:Y, Al2O3:I, TiO2:I, Al4Bi2O9, Bi2O3. - Chemical vapor synthesis, nanoparticles, gasphase process

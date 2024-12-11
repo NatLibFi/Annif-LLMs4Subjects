@@ -1,3 +1,0 @@
-Nuclear magnetic resonance
-Introduction -- Chemical shifts -- Spin-spin coupling -- Chemical exchange -- Spin relaxation -- NMR experiments
-"Part of the renowned Oxford Chemistry Primers series, Nuclear Magnetic Resonance offers a concise and accessible introduction to the physical principles of liquid-state NMR, a powerful technique for probing molecular structures. Examples, applications, and exercises are provided throughout to enable beginning undergraduates to get to grips with this important analytical technique."--

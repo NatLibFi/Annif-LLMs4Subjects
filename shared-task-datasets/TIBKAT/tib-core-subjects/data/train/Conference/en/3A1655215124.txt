@@ -1,2 +1,0 @@
-Topics in Calculus of Variations : Lectures given at the 2nd 1987 Session of the Centro Internazionale Matematico Estivo (C.I.M.E.) held at Montecatini Terme, Italy, July 20–28, 1987
-Sk—Valued maps with singularities -- Free boundary problems a survey -- Minimal foliations on a torus -- Variational methods in nonlinear problems -- Variational theory for the total scalar curvature functional for riemannian metrics and related topics -- A classical variational approach to Teichmüller theory.

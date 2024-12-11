@@ -1,2 +1,0 @@
-Building Websites with TYPO3 : a practical guide to getting your TYPO3 website up and running fast/ Michael Peacock
-TYPO3 is a popular, free, feature-rich open source content management system. This book is a tutorial to creating a website using TYPO3. It contains 8 chapters, each dealing with a different aspect of TYPO3. It is aimed at anyone who would like to quickly build a TYPO3 website.

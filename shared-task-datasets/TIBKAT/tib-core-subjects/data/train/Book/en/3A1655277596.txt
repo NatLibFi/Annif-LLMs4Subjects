@@ -1,2 +1,0 @@
-Induced Representations and Banach *-Algebraic Bundles : with an Appendix due to A. Douady and L. Dal Soglio-Hérault
-The abstract inducing process and abstract imprimitivity -- Banach *-algebraic bundles -- Induced representations and imprimitivity for Banach *-algebraic bundles.

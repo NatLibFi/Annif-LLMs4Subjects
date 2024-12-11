@@ -1,2 +1,0 @@
-Approximated flux boundary conditions for Raviart-Thomas finite elements on domains with curved boundaries and applications to first-order system least squares
-Raviart-Thomas, curved boundaries, first-order system least squares. - Gekrümmte Ränder, least squares finite Elemente Methode für Systeme erster Ordnung

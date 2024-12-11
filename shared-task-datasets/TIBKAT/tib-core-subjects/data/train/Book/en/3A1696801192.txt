@@ -1,2 +1,0 @@
-Advanced signal processing : a concise guide
-"This is a core textbook on signal analysis and its underlying mathematics for upper undergraduate and graduate courses"--

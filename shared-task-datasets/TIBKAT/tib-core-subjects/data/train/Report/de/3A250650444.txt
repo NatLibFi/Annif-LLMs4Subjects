@@ -1,2 +1,0 @@
-Verbundprojekt: Verteilte Entwicklung am Beispiel des Flugzeugentwurfs (EFENDA) : Schlußbericht, Laufzeit des Vorhabens, Berichtszeitraum: 01.03.1996 - 28.02.1998
-Datenautobahn, verteilte Anwendung, kooperatives Arbeiten, MEGAFLOW, DFN, Breitband-WiN, COVISE, Flugzeugentwicklung, Kommunikationsbibliothek, CLIC-3D, interaktive Prozeßsteuerung, MegaCads, FLOWer, Multimedia

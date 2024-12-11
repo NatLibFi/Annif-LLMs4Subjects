@@ -1,2 +1,0 @@
-Alcune questioni di analisi numerica
-A. Ghizzetti: a) Lezioni sui procedimenti di quasilinearizzazione e applicazioni. b) Nozioni fondamentali sulle equazioni alle differenze e sulle frazioni continue.- P. Wynn: Four lectures on the numerical application of continued fractions.- W. Gautschi: Strength and weakness of three-term recurrence relation.- F.L. Bauer: Use of continued fractions and algorithms related to them

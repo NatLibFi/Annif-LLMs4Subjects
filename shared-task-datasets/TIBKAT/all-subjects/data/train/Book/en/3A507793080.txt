@@ -1,2 +1,0 @@
-ASP.NET 2.0 instant results : [CD-ROM includes all source code for all 12 projects]
-The Online Diary and Organizer -- Wrox File Share -- Wrox Chat Server -- Wrox Survey Engine -- Wrox CMS -- Wrox Blog -- Wrox Photo Album -- Build a Customer Support Site -- Wrox WebShop -- Appointment Booking System -- Greeting Cards -- The Bug Base

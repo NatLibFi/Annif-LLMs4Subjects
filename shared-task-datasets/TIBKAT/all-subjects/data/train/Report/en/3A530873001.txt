@@ -1,2 +1,0 @@
-Cost estimation techniques for web projects
-"This book provides a step-by-step methodology to improving cost estimation practices for Web projects. Utilizing such techniques as stepwise regression modeling, case-base reasoning, classification and regression trees, and expert opinion, it is a powerful tool for scholars, researchers, and practitioners in the areas of Web development, Web engineering, project management, and software engineering"--Provided by publisher

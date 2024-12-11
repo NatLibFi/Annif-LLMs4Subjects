@@ -1,2 +1,0 @@
-L 1 adaptive control theory : guaranteed robustness with fast adaptation
-Introduction -- State feedback in the presence of matched uncertainties -- State feedback in the presence of unmatched uncertainties -- Output feedback -- Adaptive controller for time-varying reference systems -- Applications, conclusions, and open problems -- Appendices -- A. Systems theory -- B. Projection operator for adaptation laws -- C. Basic facts on linear matrix inequalities

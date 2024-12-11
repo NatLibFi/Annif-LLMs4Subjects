@@ -1,2 +1,0 @@
-Model Theory and Topoi : A Collection of Lectures by Various Authors
-to Part I -- Abstract Horn theories -- Completeness theorem for logical categories -- Logical categories, semantical categories and topoi -- Internal categories and classification theorems -- Lectures on elementary topoi -- Some topos theoretic concepts of finiteness -- Universes in topoi -- Logical and set theoretical tools in elementary topoi -- A note on Kripke-Joyal semantics for the internal language of topoi.

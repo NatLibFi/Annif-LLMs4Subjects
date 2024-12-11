@@ -1,2 +1,0 @@
-Topics in Stability and Bifurcation Theory
-Nonlinear elliptic boundary value problems of second order -- Functional analysis -- Bifurcation at a simple eigenvalue -- Bifurcation of periodic solutions -- The mathematical problems of hydrodynamic stability -- Topological degree theory and applications -- The real world.

@@ -1,2 +1,0 @@
-Photonics : scientific foundations, technology and applications ; Vol. 4: Biomedical photonics, spectroscopy, and microscopy
-"The Handbook of Photonics third volume addresses photonics technology and application.  It discusses communication networks, data buffers, defense and security applications, detectors, fiber optics and amplifiers, green photonics, instrumentation and metrology, interferometers, light-harvesting materials, logic devices, optical communications, remote sensing, solar energy, solid-state lighting, and wavelength conversion"--

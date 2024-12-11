@@ -1,2 +1,0 @@
-Integrated photonic quantum walks in complex lattice structures
-Das Ziel dieser Arbeit war, das Potential chip-basierter photonischer Quantum Walks (QWs) auszubauen und neue Anwendungsmöglichkeiten zu erschließen. Hierbei wurden sowohl QWs einzelner als auch verschränkter Photonenpaare in komplexen Wellenleiternetzwerken untersucht. Mittels direktem Lasereinschreiben wurden verschiedene Wellenleiterstrukturen implementiert und ermöglichten damit QWs in Gittern mit externem Feld oder über zwei Chips hinweg, sowie die Weiterentwicklung der Photonendetektion.

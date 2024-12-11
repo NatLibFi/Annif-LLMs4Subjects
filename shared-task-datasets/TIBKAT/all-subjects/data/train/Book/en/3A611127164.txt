@@ -1,2 +1,0 @@
-The art of assembly language
-Hello, world of Assembly language -- Data representation -- Memory access and organization -- Constants, variables, and data types -- Procedures and units -- Arithmetic -- Low level control structures -- Advanced arithmetic -- Macros and the HLA Compile-time language -- Bit manipulation -- The string instructions -- Classes and objects -- Appendix: ASCII character set

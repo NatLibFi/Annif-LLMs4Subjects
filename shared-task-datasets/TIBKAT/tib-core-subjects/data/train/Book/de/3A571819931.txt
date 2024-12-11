@@ -1,2 +1,0 @@
-Meßunsicherheit und Meßdatenauswertung
-Grundbegriffe des Messens -- Grundlagen der Messdatenauswertung -- Messunsicherheit -- Messdatenauswertung bei mehreren beteiligten Messgrössen -- Ausgleichende Auswertung -- Die Bayessche Theorie der Messunsicherheit -- Grundlagen der Wahrscheinlichkeitsrechnung und Statistik -- Grundlagen der Matrizenrechnung -- Wichtige Methoden -- Nebenrechnungen -- Rechenprogramme für die Messdatenauswertung

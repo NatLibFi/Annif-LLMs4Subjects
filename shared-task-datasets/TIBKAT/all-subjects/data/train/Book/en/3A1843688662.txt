@@ -1,2 +1,0 @@
-Gromov's theory of multicomplexes with applications to bounded cohomology and simplicial volume
-bounded cohomology; simplicial volume; multicomplex; simplicial complex; simplicial set; Kan complex; singular homology; singular cohomology; L1-homology; amenable group; homotopy groups; diffusion operator

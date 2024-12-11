@@ -1,2 +1,0 @@
-Invariance and System Theory: Algebraic and Geometric Aspects
-Some basic algebraic geometry -- Some basic system theory -- Invariant theory and orbit space problems -- Global moduli of linear time-invariant dynamical systems -- Local moduli of linear time-invariant dynamical systems -- Algebraic realization theory -- On the geometry of rational transfer functions -- Feedback and stabilization of systems with parameter uncertainty.

@@ -1,2 +1,0 @@
-Nessus, Snort, and Ethereal Power Tools : customizing Open Source Security applications
-Covers customizing Snort to perform intrusion detection and prevention;Nessus to analyze the network layer for vulnerabilities; and Ethereal to "sniff" their network for malicious or unusual traffic. Users can code their own custom rules, plug-ins, and filters that are tailor- made to fit their own networks and threats they most commonly face.

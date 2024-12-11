@@ -1,2 +1,0 @@
-Light and video microscopy
-This book brings together mathematics, physics, and, biology to provide a broad and deep understanding of the light microscope. Discussions include: bright field microscope, dark field microscope, oblique illumination, phase-contrast microscope, photomicrography, fluorescence microscope, polarization microscope, interference microscope, differential interference microscope, and modulation contrast microscope

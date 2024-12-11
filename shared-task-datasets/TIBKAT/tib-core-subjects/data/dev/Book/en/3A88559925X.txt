@@ -1,2 +1,0 @@
-Semantic data mining : an ontology-based approach
-"Ontologies are now increasingly used to integrate, and organize data and knowledge, particularly in data and knowledge-intensive applications in both research and industry. The book is devoted to semantic data mining--a data mining approach where domain ontologies are used as background knowledge, and where the new challenge is to mine knowledge encoded in domain ontologies and knowledge graphs, rather than only purely empirical data."--

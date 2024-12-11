@@ -1,2 +1,0 @@
-Logistiknetzwerke : Modelle für Standortwahl und Tourenplanung
-Die methodische Unterstützung von Entscheidungen hinsichtlich Standortwahl, Güterflüssen und Tourenplanung ist ein wichtiger Baustein zum Erhalt der Wettbewerbsfähigkeit in komplexen Wertschöpfungsnetzwerken. Dieses Buch beschreibt Modelle zur Planung von Logistiknetzwerken und stellt praxisrelevante Lösungsmethoden vor. Zahlreiche Beispiele und Aufgaben ergänzen die Ausführungen.

@@ -1,2 +1,0 @@
-Technische Akustik : Grundlagen und Anwendungen
-Grundlagen.- Elektromechanische Analogien.- Geometrische Akustik.- Schallfelder in Gasen und Flüssigkeiten.- Schallabstrahlung.- Nichtlineare Wellenausbreitung in Gasen.- Schallfelder in festen Medien.- Schallerzeugung durch Strömung.- Schalldämpfung und Schalldämmung.- Schallsensoren.- Schallsender.- Ultraschall und Hyperschall - Erzeugung und Detektion.- Raumakustik.- Akustische Messtechnik.- Physiologische und psychologische Akustik.- Computational Acoustics.- Industrielle Anwendungen.- Anhang

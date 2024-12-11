@@ -1,2 +1,0 @@
-Data visualization toolkit : using JavaScript, rails, and postgres to present data and geospatial information
-Data Visualization Toolkit is your hands-on, practical, and holistic guide to the art of visualizing data. Youll learn how to use Rails, jQuery, D3, Leaflet, PostgreSQL, and PostGIS together, creating beautiful visualizations and maps that give your data a voice and to make it "dance

@@ -1,2 +1,0 @@
-Data clustering : theory, algorithms, and applications
-"This second edition covers new developments in data clustering, especially in clustering algorithms for big data and open-source software for cluster analysis"--

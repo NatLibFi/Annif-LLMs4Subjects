@@ -1,2 +1,0 @@
-Public Key Cryptography : 5th International Workshop on Practice and Theory in Public Key Cryptosystems, PKC 2002 Paris, France, February 12–14, 2002 Proceedings
-This book constitutes the thoroughly refereed proceedings of the PKC Public Key Cryptography, PKC 2002, held in Paris, France in February 2002. This book presents 26 carefully reviewed papers selected from 69 submissions plus one invited talk. Among the topics addressed are encryption schemes, signature schemes, protocols, cryptanalysis, elliptic curve cryptography, and side channels

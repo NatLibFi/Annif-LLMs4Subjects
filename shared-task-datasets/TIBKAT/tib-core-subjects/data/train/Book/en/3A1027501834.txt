@@ -1,2 +1,0 @@
-Kafka Streams in action : real-time apps and microservices with the Kafka streams API
-Kafka Streams in Action teaches you everything you need to know to implement stream processing on data flowing into your Kafka platform, allowing you to focus on getting more from your data without sacrificing time or effort

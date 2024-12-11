@@ -1,2 +1,0 @@
-From data to knowledge : theoretical and practical aspects of classification, data analysis, and knowledge organization
-The subject of this book is the incorporation and integration of mathematical and statistical techniques and information science topics into the field of classification, data analysis, and knowledge organization. Readers will find survey papers as well as research papers and reports on newest results. The papers are a combination of theoretical issues and applications in special fields: Spatial Data Analysis, Economics, Medicine, Biology, and Linguistics

@@ -1,2 +1,0 @@
-Selbstjustierender kapazitiver Füllstandssensor basierend auf nichtlinearen Resonanzerscheinungen: Teilprojekt: Universelle Identifikationsmethoden für nichtlineare Systeme : Abschlussbericht ; Laufzeit: 1.03.1998 - 31.08.2001
-Measure frequency, response signal sensor, non-linear effects, capacitive sensor, relative permittivity, reactance theory, contactless identification of media

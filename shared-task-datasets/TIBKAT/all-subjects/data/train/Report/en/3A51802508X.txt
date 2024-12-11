@@ -1,2 +1,0 @@
-Biomedical optics : principles and imaging
-Rayleigh theory and mie theory for a single scatterer -- Monte Carlo modeling of photon transport in biological tissue -- Convolution for broad-beam responses -- Radiative transfer equation and diffusion theory -- Hybrid model of Monte Carlo method and diffusion theory -- Sensing of optical properties and spectroscopy -- Ballistic imaging and microscopy -- Optical coherence tomography -- Mueller optical coherence tomography -- Diffuse optical tomography -- Photoacoustic tomography -- Ultrasound-modulated optical tomography

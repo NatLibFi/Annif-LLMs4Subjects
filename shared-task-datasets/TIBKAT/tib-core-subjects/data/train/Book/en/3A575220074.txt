@@ -1,2 +1,0 @@
-Rails for .NET Developers
-You're already a .NET developer - this book will help you get up and running as a Ruby on Rails developer on any operating system - Windows, Mac, or Linux. It starts with a gentle introduction to the object-oriented Ruby language then gets to the heart of Rails development by showing how to tackle everyday tasks --

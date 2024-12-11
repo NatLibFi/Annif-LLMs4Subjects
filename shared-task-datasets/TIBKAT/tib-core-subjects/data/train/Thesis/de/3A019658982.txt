@@ -1,2 +1,0 @@
-Spinbestimmung in Rotationsbanden
-Aus der Zusammenfassung: Es wurden zwei Methoden entwickelt, um Näherungen für Spins in Rotationsbanden zu erhalten.

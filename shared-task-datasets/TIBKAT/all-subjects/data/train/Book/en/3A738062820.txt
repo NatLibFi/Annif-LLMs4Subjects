@@ -1,2 +1,0 @@
-Beginning iOS 6 development : exploring the iOS SDK ; [design and develop your app from concept and vision to code]
-"Assuming only a minimal working knowledge of Objective-C, and written in a friendly, easy-to-follow style, this book offers a complete soup-to-nuts course in iPhone, iPad, and iPod touch programming. The book starts with the basics, walking through the process of downloading and installing Xcode and the iOS 6 SDK, and then guides you though the creation of your first simple application"--Cover p. [4]

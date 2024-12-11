@@ -1,2 +1,0 @@
-Nanoscale CMOS VLSI circuits : design for manufacturability
-Semiconductor manufacturing -- Process and device variability : analysis and modeling -- Manufacturing-aware physical design closure -- Metrology, manufacturing defects, and defect extraction -- Defect impact modeling and yield improvement techniques -- Physical design and reliability -- Design for manufacturability : tools and methodologies

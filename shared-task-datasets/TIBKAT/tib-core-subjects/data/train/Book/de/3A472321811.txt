@@ -1,2 +1,0 @@
-Algorithmen : vom Problem zum Programm
-Was ist ein Algorithmus? - Numerische Algorithmen - Teilbarkeitslehre in N - Stellenwertsysteme in Q - Iterationen in Q - Nichtnumerische Algorithmen - Suchvorgänge - Sortiervorgänge

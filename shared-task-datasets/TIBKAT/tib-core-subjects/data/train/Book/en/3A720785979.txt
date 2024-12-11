@@ -1,2 +1,0 @@
-Microsoft SharePoint 2010 : administrator's companion
-A guide to SharePoint 2010 administration covers such topics as architecture, deployment scenarios, design, security, Web content management, and business intelligence

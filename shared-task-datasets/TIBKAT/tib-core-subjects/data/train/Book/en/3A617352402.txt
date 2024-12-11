@@ -1,2 +1,0 @@
-iPhone and iPad apps for absolute beginners : [get started building your very own iPhone and iPad apps]
-Provides information on building applications for the iPhone and the iPad, covering such topics as code, multiple graphics, table views, arrays, MapKit

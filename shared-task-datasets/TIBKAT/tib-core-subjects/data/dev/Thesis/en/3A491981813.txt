@@ -1,2 +1,0 @@
-Ansteuerkonzept für piezoelektrische Aktoren
-Piezoelectric actuator, electric drive, switching amplifier, charge pump, energy recovery, model of the piezoelectric actuator, mixed-mode-simulation, FPGA, voltage control, bit serial implementation

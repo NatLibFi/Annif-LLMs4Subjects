@@ -1,2 +1,0 @@
-Thermal management of electric vehicle battery systems
-Introductory aspects of electric vehicles -- Electric vehicle battery technology -- Phase change materials for passive TMSs -- Cost, environmental impact and multi-objective optimization of battery TMSs -- Case studies -- Alternative dimensions and future expectations

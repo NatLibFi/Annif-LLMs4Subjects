@@ -1,2 +1,0 @@
-From Microphysics to Macrophysics : Methods and Applications of Statistical Physics
-Drawing on both quantum mechanics and classical physics, this first volume of a two-volume work follows modern research in statistical physics. It discusses in detail the probabilistic description of quantum or classical systems, the Boltzmann-Gibbs distributions, the conservation laws, and the interpretation of entropy as missing information

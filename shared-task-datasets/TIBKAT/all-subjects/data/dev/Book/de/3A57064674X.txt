@@ -1,2 +1,0 @@
-Grundlagen elektrischer Maschinen
-Transformator -- Allgemeine Betrachtungen über rotierende elektrische Maschinen -- Gleichstrommaschine -- Allgemeine Betrachtungen über Maschinen mit Drehfeldern als Luftspaltfeld -- Dreiphasen-Induktionsmaschine -- Dreiphasen-Synchronmaschine -- Maschinen für Betrieb am Einphasennetz -- Weitere Maschinenkonzepte -- Maschinen für andere Arten der Einspeisung

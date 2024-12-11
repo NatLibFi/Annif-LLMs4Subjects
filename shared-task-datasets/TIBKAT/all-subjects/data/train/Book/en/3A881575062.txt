@@ -1,2 +1,0 @@
-3D printing and additive manufacturing : principles and applications
-Additive manufacturing process chain -- Liquid-based additive manufacturing systems -- Solid-based additive manufacturing systems -- Powder-based additive manufacturing systems -- Additive manufacturing data formats -- Applications and examples -- Medical and bioengineering applications -- Benchmarking and the future of additive manufacturing

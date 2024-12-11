@@ -1,2 +1,0 @@
-Flowable and stable concrete : design, characterization and performance evaluation
-Water balance mix-design, flowability, sedimentation under vibration, pump-stability, pumpability, performance evaluation criteria, structural breakdown, multiscale rheological model. - Fließfähigkeit, Rüttelstabilität, Pumpstabilität, Pumpfähigkeit, Performancebeurteilungskriterien, Strukturbruch, rheologisches Multiskalenmodell

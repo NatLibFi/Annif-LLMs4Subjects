@@ -1,2 +1,0 @@
-Linear algebra for data science
-"An introductory text to linear algebra for undergraduates in data science, statistics, computer sciences, economics and engineering. Presents the essentials in mathematical rigor while also providing intuition behind the results. Discusses the applications of linear algebra to data science along the way"--

@@ -1,2 +1,0 @@
-Power system control and stability
-Analyzes the dynamic performance of interconnected power systems. * Examines the characteristics of the various components of a power system during normal operating conditions and during disturbances. * Explores the detailed mathematical models of system components and analyzes the system behavior using the necessary computational tools

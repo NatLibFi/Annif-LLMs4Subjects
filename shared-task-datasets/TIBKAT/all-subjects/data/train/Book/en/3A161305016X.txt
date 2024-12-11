@@ -1,2 +1,0 @@
-Interactive information retrieval in digital environments
-"This book includes the integration of existing frameworks on user-oriented information retrieval systems across multiple disciplines; the comprehensive review of empirical studies of interactive information retrieval systems for different types of users, tasks, and subtasks; and the discussion of how to evaluate interactive information retrieval systems. "--Provided by publisher

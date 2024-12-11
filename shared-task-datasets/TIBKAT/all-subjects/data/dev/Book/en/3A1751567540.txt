@@ -1,2 +1,0 @@
-Numerical linear algebra and optimization
-"This book provides a unified introduction to the fundamentals of numerical analysis and scientific computing, techniques for solving linear systems and linear least-square problems, and numerical optimization methods for both linear and nonlinear programming"--

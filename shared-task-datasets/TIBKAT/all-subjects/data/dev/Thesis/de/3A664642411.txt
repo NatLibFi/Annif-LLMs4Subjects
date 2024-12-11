@@ -1,2 +1,0 @@
-Search for Supersymmetry in single-lepton final states with the ATLAS detector and Improved background model for the search of new physics
-Zusammenfassung: Diese Dissertation präsentiert den Beitrag des Autors zur Suche nach supersymmetrischen Teilchen in Endzuständen mit genau einem hochenergetischen Lepton, verursacht durch Proton-Proton-Kollision am ATLAS-Experiment des Large Hadron Colliders. Darüberhinaus wird eine neue Methode zur Verbesserung der Untergrundmodelle in einer Suche nach neuer Physik vorgestellt

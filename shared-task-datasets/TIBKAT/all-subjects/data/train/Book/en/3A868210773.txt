@@ -1,2 +1,0 @@
-Nonlinear regression modeling for engineering applications : modeling, model validation, and enabling design of experiments
-With a focus on practical applications, with relevant methods supported by fundamental analysis, this book details methods of nonlinear regression, computational algorithms, model validation, interpretation of residuals, and useful experimental design. --

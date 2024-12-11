@@ -1,2 +1,0 @@
-StarBasic-Programmierung
-Das Buch erschließt das hohe Automatisierungspotential der StarOffice- Programmierung unter Verwendung der Programmiersprache StarBasic. Aus dem Inhalt: Makros Aufzeichnen und bearbeiten ; die integrierte Entwicklungsumgebung (IDE) ; StarBasic-Grundkurs ; Module und Bibliotheken verwalten ; StarWriter_programmierung ; StarCalc-Programmierung ; Dialoge und Formulare erstellen ; Kontrollfelder programmieren ; Datenbankprogrammierung ; Symbolleisten und Menüs ändern und erstellen ; Fehlersuche und Fehlerbeseitigung.

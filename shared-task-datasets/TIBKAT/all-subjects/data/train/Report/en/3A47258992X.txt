@@ -1,2 +1,0 @@
-TeleTravel Services : Schlussbericht
-Mobile services, mobile phone technologies, Java 2 Micro Edition (J2ME), Location Based Services (LBS)

@@ -1,2 +1,0 @@
-Extension and Interpolation of Linear Operators and Matrix Functions
-Realization and factorization for rational matrix functions with symmetries -- Lossless inverse scattering and reproducing kernels for upper triangular operators -- Zero-pole structure of nonregular rational matrix functions -- Structured interpolation theory -- Extension theorems for contraction operators on Krein spaces.

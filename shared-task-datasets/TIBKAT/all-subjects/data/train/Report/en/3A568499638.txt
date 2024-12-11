@@ -1,2 +1,0 @@
-Physics of solar cells : from basic principles to advanced concepts
-This text contains the latest knowledge on the mechanisms of solar energy conversion. Requiring no more than standard physics knowledge, it enables readers to understand the factors driving conversion efficiency and to apply this knowledge to their own solar cell development

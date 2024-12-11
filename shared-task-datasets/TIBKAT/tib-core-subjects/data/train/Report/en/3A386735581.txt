@@ -1,2 +1,0 @@
-Entwicklung von Nano-Rauhnormalen für die Rastersondentechnik : Realisierung eines Kombi-Normals ; Abschlussbericht für das F&E-Förderprojekt ; Laufzeit: 01.01.2000 - 30.06.2003
-AFM, calibration artefacts, metrology, roughness measurement, roughness standard, tip characterisation

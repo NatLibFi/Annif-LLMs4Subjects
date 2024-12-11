@@ -1,2 +1,0 @@
-Strategies to approximate random sampling and assignment
-Basic concepts and assumptions -- Methodological alternatives and supplements to random sampling -- Statistical alternatives and supplements to random sampling -- Methodological alternatives and supplements to random assignment -- Statistical alternatives and supplements to random assignment -- Summary and conclusions

@@ -1,2 +1,0 @@
-Digital video surveillance and security
-Introduction to digital video security -- Digital video overview -- Digital video hardware -- Understanding networks and networked video -- Wireless networked video -- Site survey -- Choosing the right software -- DVS archiving and storage -- Project implementation -- Integration and management

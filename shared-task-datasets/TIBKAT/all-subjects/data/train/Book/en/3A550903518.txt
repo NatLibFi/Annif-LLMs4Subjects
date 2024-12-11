@@ -1,2 +1,0 @@
-The book of wireless : a painless guide to wi-fi and broadband wireless
-Intro to networking -- Intro to wireless networking -- How Wi-Fi works -- What you need for Wi-Fi -- Setting up your computer for Wi-Fi -- How-to Windows -- How-to NIX -- How-to Mac -- Configuring and installing WAPS -- Long range point-to-point -- Public surfing -- Wi-Fi security -- Alternatives to Wi-Fi -- Phones/PDAs -- VPNs -- VOIP telephone service -- Troubleshooting & tips

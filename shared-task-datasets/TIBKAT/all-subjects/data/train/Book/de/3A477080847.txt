@@ -1,2 +1,0 @@
-CATIA V5 - Grundkurs für Maschinenbauer : Bauteil- und Baugruppenkonstruktion, Zeichnungsableitung
-Konstruktionssystematische Grundlagen - Einführung in CATIA V5 - Umgang mit Dateien - Bauteilkonstruktion - Zusammenbau von Bauteilen zu Baugruppen - Zeichnungsableitungen - Verwenden und Konstruieren von Normteilen - Systematische, objektorientierte Teilekonstruktion - Systematische Baugruppenkonstruktion - Konstruieren von Baugruppen mit Abhängigkeiten der Teile

@@ -1,2 +1,0 @@
-Microsoft Visual C# 2010 step by step
-Your hands-on, step-by-step guide to the fundamentals of Visual C# development.  This tutorial provides practical, learn-by-doing exercises for mastering C# language features and creating working applications and components for Windows-- back cover

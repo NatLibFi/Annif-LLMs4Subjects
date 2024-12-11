@@ -1,2 +1,0 @@
-Cloud computing for teaching and learning : strategies for design and implementation
-"This book provides the latest information about cloud development and cloud applications in teaching and learning, including empirical research findings in these areas for professionals and researchers working in the field of e-learning who want to implement teaching and learning with cloud computing"--Provided by publisher

@@ -1,4 +1,0 @@
-Zahlentheorie
-""Zahlentheorie"" bietet neue und überraschende Einblicke in die Zahlentheorie bzw. die quadratischen Erweiterungen der rationalen Zahlen. Es eignet sich vor allem für fortgeschrittene Leser, die einen tieferen Einblick in die Zahlentheorie erhalten möchten
-Main description: "Zahlentheorie" bietet neue und überraschende Einblicke in die Zahlentheorie bzw. die quadratischen Erweiterungen der rationalen Zahlen. Es eignet sich vor allem für fortgeschrittene Leser, die einen tieferen Einblick in die Zahlentheorie erhalten möchten.
-Review text: "Wie schon bei seiner Vorlage ist auch der Inhalt dieses Buches klar strukturiert und gut dargestellt, und man findet hier Dinge, die man anderswo vergeblich sucht. (...) In diesem Sinne sei das vorliegende Buch insbesondere künftigen Lehrern als Lektüre anempfohlen." Zentralblatt Math, Ausgabe 1205

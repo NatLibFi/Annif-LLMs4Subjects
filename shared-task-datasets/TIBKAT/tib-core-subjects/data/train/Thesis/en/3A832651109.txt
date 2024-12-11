@@ -1,2 +1,0 @@
-Nanostrukturierte Graphendevices
-Graphen, Coulomb-Blockade, Quantenpunkt, thermischer Stress. - Graphene, quantum dot, strain engineering

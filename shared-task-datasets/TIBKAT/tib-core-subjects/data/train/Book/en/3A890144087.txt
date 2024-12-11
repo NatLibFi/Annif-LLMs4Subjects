@@ -1,2 +1,0 @@
-The cubic Szegő equation and Hankel operators
-Hankel operators and the Lax pair structure -- Spectral analysis -- The inverse spectral theorem -- The Szegö dynamics -- Long Time instability and unbounded Sobolev orbits -- Geometry of the Fourier transform

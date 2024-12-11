@@ -1,2 +1,0 @@
-jQuery cookbook : [solutions & examples for iQuery developers]
-With 'jQuery Cookbook' you'll learn how to add components from the jQuery library to your websites and web applications with detailed recipes for tasks ranging from basic integration to complex user interface development. You'll find real-world solutions to common web development hurdles, along with best practices for using jQuery

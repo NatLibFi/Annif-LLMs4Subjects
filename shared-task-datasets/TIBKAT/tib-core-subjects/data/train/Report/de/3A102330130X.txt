@@ -1,2 +1,0 @@
-Konkrete Mathematik (nicht nur) für Informatiker : mit vielen Grafiken und Algorithmen in Python
-"Mit informatik-spezifischen Anwendungen unter anderem aus der Kryptographie, der Kodierungs- und Komplexitätstheorie sowie der Computergrafik. Unterstützt durch viele farbige Grafiken, etwa 1000 Aufgaben mit Lösungen und nicht zuletzt Hunderte von Videos, in denen man sich das Gelesene vom Autor noch mal 'persönlich' erklären lassen kann."--

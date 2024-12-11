@@ -1,2 +1,0 @@
-Photonic crystals : molding the flow of light
-Introduction -- Electromagnetism in mixed dielectric media -- Symmetries and solid-state electromagnetism -- The multilayer film : a one-dimensional photonic crystal -- Two-dimensional photonic crystals -- Three-dimensional photonic crystals -- Periodic dielectric waveguides -- Photonic-crystal slabs -- Photonic-crystal fibers -- Designing photonic crystals for applications -- A : Comparisons with quantum mechanics -- B : The reciprocal lattice and the brillouin zone -- C : Atlas of band gaps -- D : Computational photonics

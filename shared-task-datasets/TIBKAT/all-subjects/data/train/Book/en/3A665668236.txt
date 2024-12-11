@@ -1,2 +1,0 @@
-Learning HTML5 game programming : a hands-on guide to building online games using Canvas, SVG, and WebGL
-Presents practical instrucion and theory for using the features of HTML5 to create a online gaming applications

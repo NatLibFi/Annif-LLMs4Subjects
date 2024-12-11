@@ -1,2 +1,0 @@
-Proofs from THE BOOK : [dedicated to the memory of Paul Erdos]
-This revised and enlarged fourth edition features five new chapters, which treat classical results such as the 'Fundamental Theorem of Algebra', problems about tilings, but also quite recent proofs, for example of the Kneser conjecture in graph theory. The new edition also presents further improvements and surprises, among them a new proof for 'Hilbert's Third Problem'.

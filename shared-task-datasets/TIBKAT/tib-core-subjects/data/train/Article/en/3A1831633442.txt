@@ -1,2 +1,0 @@
-Chapter 8 Simulated and Real Buyers in Posted Offer Markets
-This chapter uses the data from three previously published studies to examine the effect of real versus simulated buyers on laboratory outcomes. Real buyers can and occasionally do trategically deviate from full demand revelation. Further, the threat of strategic behavior appears to temper the pricing decisions by sellers. The chapter presents the experimental design and a discussion of demand withholding as a buyer strategy. The chapter concludes by providing results and discussion.

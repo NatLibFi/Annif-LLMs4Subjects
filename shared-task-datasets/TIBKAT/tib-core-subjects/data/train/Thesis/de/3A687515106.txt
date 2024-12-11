@@ -1,2 +1,0 @@
-South Java tsunami model using highly resolved data and probable tsunamigenic sources
-Tsunami modelling, south Java, highly resolved data, nonlinear shallow water wave equation. - Tsunami-Modellierung, Süd-Java, hochaufgelöste Daten, nichtlineare Flachwassergleichungen

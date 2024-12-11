@@ -1,3 +1,0 @@
-Fixing language : an essay on conceptual engineering
-Herman Cappelen investigates how language and other representational devices can go wrong, and how to fix them. We use language to understand and talk about the world, but what if our language has deficiencies that prevent it from playing that role? How can we revise our concepts, and what are the limits on revision?
-Introduction to conceptual engineering -- Towards a general theory I: Metasemantic foundations -- Towards a general theory II: Topic continuity as the limits of revision -- Towards a general theory III: Worldiness and the varieties of conceptual engineering -- Part V: Compare and contrast: Alternative accounts of conceptual engineering

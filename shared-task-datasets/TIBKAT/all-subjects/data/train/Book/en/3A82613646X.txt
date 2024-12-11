@@ -1,2 +1,0 @@
-Introduction to quantum-state estimation
-Preliminaries of quantum-state estimation -- Informationally complete estimation -- Informationally incomplete estimation -- Practical aspects of state estimation -- Quasi-probability distributions

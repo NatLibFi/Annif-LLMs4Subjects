@@ -1,2 +1,0 @@
-EEG signal processing
-Fundamentals of EEG signal processing -- Event related potentials -- Seizure signal analysis -- EEG source localization -- Sleep EEG -- Brain-computer interfacing

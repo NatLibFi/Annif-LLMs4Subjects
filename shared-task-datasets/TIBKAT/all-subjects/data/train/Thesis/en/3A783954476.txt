@@ -1,2 +1,0 @@
-Entwicklung von Lebendzell-Microarrays und ihre Anwendung in der Detektion klinisch relevanter Biomarker
-Lebendzell-Microarrays, Quantum Dots, Antikörper, Aptamere, spezifische Zelldetektion/-diskriminierung. - Living cell microarrays, antibodies, aptamers, specific cell detection/discrimination

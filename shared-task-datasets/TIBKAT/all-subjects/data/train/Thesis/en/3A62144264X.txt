@@ -1,2 +1,0 @@
-Selection and verification of workflows in multimedia service compositions
-Semantic web services, service composition, verification. - Semantische Web Services, Servicekomposition, Zustandsautomaten

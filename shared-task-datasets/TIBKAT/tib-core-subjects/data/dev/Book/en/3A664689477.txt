@@ -1,2 +1,0 @@
-Computational solid mechanics : variational formulation and high order approximation
-"Presents mechanical models, their main hypotheses, and applications, and is intended for graduate and undergraduate engineering students taking courses in solid mechanics."--

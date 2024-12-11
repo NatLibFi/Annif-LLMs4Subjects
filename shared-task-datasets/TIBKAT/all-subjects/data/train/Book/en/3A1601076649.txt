@@ -1,2 +1,0 @@
-Windows 8 application development with HTML5 for dummies
-Introducing Windows 8 -- Embracing Windows 8 style -- Getting a grip on Windows 8 development -- Setting up a Windows 8 app -- Using everyday controls -- Laying out the app -- Presenting data -- Building tiles and using notifications -- Programming to contract -- Talking to the Internet -- Managing the process lifecycle -- Keeping local storage -- Integrating with hardware -- Preparing for the store -- Going to the cloud -- Making money with your app -- Ten app ideas -- Ten places to find samples and info

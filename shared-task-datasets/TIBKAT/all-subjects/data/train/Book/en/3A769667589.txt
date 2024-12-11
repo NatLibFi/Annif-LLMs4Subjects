@@ -1,2 +1,0 @@
-Mathematical aspects of pattern formation in biological systems
-This monograph is concerned with the mathematical analysis of patterns which are encountered in biological systems. It summarises, expands and relates results obtained in the field during the last fifteen years. It also links the results to biological applications and highlights their relevance to phenomena in nature. Of particular concern are large-amplitude patterns far from equilibrium in biologically relevant models.

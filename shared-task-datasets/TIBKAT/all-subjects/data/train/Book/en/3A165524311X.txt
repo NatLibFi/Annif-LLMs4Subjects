@@ -1,2 +1,0 @@
-Infinite Matrices of Operators
-Notation and terminology -- Generalized Köthe-Toeplitz duals -- Characterization of matrix classes -- Tauberian theorems -- Consistency theorems -- Operator Nörlund means.

@@ -1,2 +1,0 @@
-Solid Edge ST2 - kurz und bündig : Grundlagen für Einsteiger
-Verlagstext: Dieses Übungsbuch ermöglicht dem Anfänger und Interessierten der 3D-Modellierung einen effektiven Einstieg in die Arbeit mit Solid Edge. Die wichtigsten Befehle und Abläufe werden anschaulich dargestellt und erläutert. Der Schwerpunkt liegt dabei auf den grundlegenden Funktionen zur Modellierung von Einzelteilen und Baugruppen sowie zur Erstellung technischer Zeichnungen. Aufgrund des tabellarischen Aufbaus ist es für das Selbststudium sehr gut geeignet

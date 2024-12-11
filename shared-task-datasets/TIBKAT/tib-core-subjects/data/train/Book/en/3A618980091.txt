@@ -1,2 +1,0 @@
-An Operator Perspective on Signals and Systems
-This monograph combines operator techniques with state space methods to solve factorization, spectral estimation and interpolation problems arising in control and signal processing. In general, the book lays out intricate ideas in a relaxed one-step at time style and hence should be accessible for beginners in the subject. In addition, the novel way in which known material is interrelated should make the book informative for experts as well

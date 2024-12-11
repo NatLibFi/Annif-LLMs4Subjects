@@ -1,2 +1,0 @@
-Guide to good practice in the management of time in major projects : dynamic time modelling
-Introduction -- Strategy -- The dynamic time model -- Developing the dynamic time model -- Managing the dynamic time model -- Communicating the dynamic time model

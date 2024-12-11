@@ -1,2 +1,0 @@
-Thema: Verbundprojekt: Laserdiagnostische und plasmatechnologische Grundlagen zur Verminderung von Emissionen und Kraftstoffverbrauch von DI-Verbrennungsmotoren, Teilvorhaben: 2D-Streulicht- und Fluoreszenztechniken zur Analyse von Ladungsschichtung und Durchbrennverhalten bei der Benzindirekteinspritzung
-Gasoline direct injection, mixture formation, Mie-scattering, laser induced fluorescence, linear Raman spectroscopy

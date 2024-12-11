@@ -1,2 +1,0 @@
-Sets, logic and maths for computing
-This easy-to-follow text allows readers to carry out their computing studies with a clear understanding of the basic finite mathematics and logic that they will need. Written explicitly for undergraduates, it requires only a minimal mathematical background and is ideal for self-study as well as classroom use

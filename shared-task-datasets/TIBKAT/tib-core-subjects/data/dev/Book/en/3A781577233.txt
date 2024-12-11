@@ -1,2 +1,0 @@
-Random differential equations in scientific computing
-The book offers a hollistic approach to the theory and numerics of random differential equations from an interdisciplinary and problem-centered point of view. In this interdisciplinary work, the authors examine state–of-the-art concepts of both dynamical systems and scientific computing

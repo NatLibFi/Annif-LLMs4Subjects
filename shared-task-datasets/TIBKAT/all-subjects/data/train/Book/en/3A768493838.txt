@@ -1,2 +1,0 @@
-Signals and systems : a MATLAB® integrated approach
-"This book draws on the author's more than 25 years of teaching a course on signals and systems. It provides an interactive, visual reinforcement of fundamental concepts like the utility of MATLAB®, not just as a computational tool, but also as a teaching tool that allows the development of a sophisticated demo program for students to explore while studying the theory of linear systems. It includes a large number of computer modules or applications, each linked to a specific example, section, or figure in the book. "--

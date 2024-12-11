@@ -1,2 +1,0 @@
-Local Analysis of Selberg's Trace Formula
-Preliminaries -- Decompositions of G -- Integral representations of eigenfunctions -- Fourier coefficients and Kloosterman sums -- Computation of some integrals I -- Poincaré series and their Fourier series expansions -- Computation of some integrals II -- Analytic continuations and functional equations -- Sum formulae (first form) -- Sum formulae (second form).

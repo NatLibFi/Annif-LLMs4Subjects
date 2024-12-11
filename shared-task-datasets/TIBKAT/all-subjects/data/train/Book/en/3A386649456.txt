@@ -1,2 +1,0 @@
-IRC hacks : [100 industrial strength tips & tools]
-Connecting to IRC -- Using IRC -- Users and channels -- Enhancing IRC clients -- Writing IRC bots -- Logging bots -- Community bots -- Search and query bots -- Fun bots -- Announcement bots -- Network bots -- Channel management bots -- The IRC protocol -- Other ways to connect to IRC -- Servers and services

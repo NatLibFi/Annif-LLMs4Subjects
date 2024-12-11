@@ -1,2 +1,0 @@
-Chemische Verfahrenstechnik : Berechnung, Auslegung und Betrieb chemischer Reaktoren
-This is a practical and theoretically grounded textbook on modeling, designing, and operating chemical reactors. Processes are systematically presented with mathematical models. Numerous examples from real-world applications teach the reader how to design and optimize new reactors. The third edition includes new reactor concepts. --

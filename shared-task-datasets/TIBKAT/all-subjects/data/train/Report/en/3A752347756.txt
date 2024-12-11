@@ -1,2 +1,0 @@
-Security, privacy, trust, and resource management in mobile and wireless communications
-"This book examines the current scope of theoretical and practical applications on the security of mobile and wireless communications, covering fundamental concepts of current issues, challenges, and solutions in wireless and mobile networks"--

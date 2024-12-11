@@ -1,2 +1,0 @@
-Cryptography : breakthroughs in research and practice
-""This book examines novel designs and recent developments in cryptographic security control procedures to improve the efficiency of existing security mechanisms that can help in securing sensors, devices, networks, communication, and data"--

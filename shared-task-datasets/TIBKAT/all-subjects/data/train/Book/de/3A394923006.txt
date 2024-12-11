@@ -1,3 +1,0 @@
-Einführung in die Abbildungsgeometrie : Kongruenzabbildungen, Ähnlichkeiten und Affinitäten
-Geometrische Grundbegriffe - Punkte und Geraden in der Ebene - Halbgeraden, Strecken und Halbebenen - Winkel - Vielecke - Abbildungen - Kongruenzabbildungen - Achsenspiegelungen - Verketten von Achsenspiegelungen - Verschiebungen - Drehungen - Punktspiegelungen - Schubspiegelungen - Gruppe der Kongruenzabbildungen Kongruenz - Anwendungen in der Elementargeometrie - Ähnlichkeitsabbildungen - Zentrische Streckungen - Gruppe der Ähnlichkeitsabbildungen - Ähnlichkeiten - Affinitätsabbildungen - Achsenaffinitäten - Scherungen - Lösungshinweise zu ausgewählten Aufgaben
-Eine Einführung in die euklidische Geometrie der Ebene für Lehrer/innen und Lehramtsstudierende. (Stephan Gülck)

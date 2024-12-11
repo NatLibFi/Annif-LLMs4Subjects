@@ -1,3 +1,0 @@
-Topological and non-topological solitons in scalar field theories
-"Solitons emerge in various non-linear systems as stable localized configurations behaving in many ways like particles, from non-linear optics and condensed matter to nuclear physics to cosmology and supersymmetric theories"--
-Sine-Gordon model - Kinks in the models with polynomial potentials - Non-topological solitons: Korteweg-de-Vries system - Op3q non-linear sigma model - Baby Skyrmions - Q-balls - Skyrmions - Hopfions

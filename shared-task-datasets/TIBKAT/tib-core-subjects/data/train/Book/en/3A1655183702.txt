@@ -1,2 +1,0 @@
-Equations over Finite Fields An Elementary Approach
-Equations yd=f(x) and yq?y=f(x) -- Character sums and exponential sums -- Absolutely irreducible equations f(x,y)=0 -- Equations in many variables -- Absolutely irreducible equations f(x1,...,xn)=0 -- Rudiments of algebraic geometry. The number of points in varieties over finite fields.

@@ -1,2 +1,0 @@
-Künstliches Greifsystem für die Rehabilitation (GRIP) : Teilprojekt: Entwicklung der Armstruktur und künstlichen intelligenten Muskeln für das Greifsystem ; Abschlussbericht zum Verbundvorhaben ; Laufzeit: 01.05.1996 bis 30.09.1999
-Roboter arm, hybrid structure, actuators, sensor, technology, Greifarm, Hybridstruktur, Getriebeeinheit, Aktorik, Sensorik

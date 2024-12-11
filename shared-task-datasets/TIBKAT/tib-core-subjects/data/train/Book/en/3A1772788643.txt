@@ -1,2 +1,0 @@
-Passive millimeter-wave radiometry
-The millimeter-wave (mmW) portion of the spectrum presents unique technical challenges due to low-thermal-background emissions. The literature often uses simplified system temperature models or basic radiometric calculations, resulting in costly design errors that compound the difficulty of working in the mmW. This Spotlight provides readers with proper derivations of basic radiometric equations and an end-to-end system model for radiometers that use an antenna as the detection element.

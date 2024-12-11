@@ -1,2 +1,0 @@
-Action-minimizing methods in Hamiltonian dynamics : an introduction to Aubry-Mather theory
-Tonelli Lagrangians and Hamitonians on compact manifoldsFrom KAM theory to Aubry-Mather theory -- Action-minimizing invariant measures for Tonelli Lagrangians -- Action-minimizing curves for Tonelli Lagragians -- The Hamilton-Jacobi equation and weak KAM theory -- Appendices --On the existence of invariant Lagrangian graphs -- Schwartzman asymptotic cycle and dynamics.

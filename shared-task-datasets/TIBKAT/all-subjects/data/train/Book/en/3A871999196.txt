@@ -1,3 +1,0 @@
-Excel 2016 all-in-one for dummies
-Excel has undergone a massive makeover, and each of the mini-books in this guide covers one important area of Excel 2016. If you're new to Excel, Harvey covers all the essentials, then branches out into information on worksheets, charts and graphs, and ways to maintain and analyze the data you create
-Introduction -- Excel basics -- Worksheet design -- Formulas and functions -- Worksheet collaboration and review -- Charts and graphics -- Data management -- Data analysis -- Macros and VBA

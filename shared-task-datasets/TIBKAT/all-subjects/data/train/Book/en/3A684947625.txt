@@ -1,2 +1,0 @@
-Intuitionistic preference modeling and interactive decision making
-This book offers an in-depth and comprehensive introduction to the priority methods of intuitionistic preference relations, the consistency and consensusimproving procedures for intuitionistic preference relations, the approaches to group decision making based on intuitionistic preference relations, the approaches and models for interactive decision making with intuitionistic fuzzy information, and the extended results in interval-valued intuitionistic fuzzy environments

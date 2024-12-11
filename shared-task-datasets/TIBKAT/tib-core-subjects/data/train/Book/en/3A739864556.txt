@@ -1,2 +1,0 @@
-RHCSA/RHCE Red Hat Linux certification practice exams with virtual machines : (exams EX200 & EX300) ; [questions, in-depth answers ; score higher with the most effective self-test program available ; 100+ hands-on labs, four full practise exams - two RHCSA + two RHCE, three virtual machines]
-"Designed as a companion to the [author's] RHCSA/RHCE Red Hat Linux certification study guide (exams EX200 & EX300), sixth edition ... this book is organized to serve as an in-depth review for the RHCSA and RHCE exams for both experienced Linux and Unix professionals"--

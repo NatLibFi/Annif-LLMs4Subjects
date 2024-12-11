@@ -1,2 +1,0 @@
-Tracer Kinetics in Biomedical Research : From Data to Model
-Fundamentals of Tracer Kinetics -- The Noncompartmental Model of Multipool Systems: Accessible Pool and System Parameters -- The Compartmental model -- Identifiability of the Tracer Model -- Using the Tracer Model to Estimate Kinetic Parameters -- Compartmental Versus Noncompartmental Kinetic Parameters -- Parameter Estimation: Some Fundamentals of Regression Analysis -- Parameter Estimation in Noncompartmental Models -- Parameter Estimation in Compartmental Models -- Precursor-Product Models.

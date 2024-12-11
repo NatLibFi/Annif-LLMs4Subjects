@@ -1,2 +1,0 @@
-Blow-up theories for semilinear parabolic equations
-"There is an enormous amount of work in the literature about eh blow up behavior of evolution equations.  It is our intention to introduce the theory by emphasizing the methods while seeking to avoid massive technical computations.  to reach this goal, we use the simplest equation to illustrate the methods; these methods very often apply to more general equations." -- P. [4] of cover

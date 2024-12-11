@@ -1,2 +1,0 @@
-Getting started with FPGAs : digital circuit design, Verilog, and VHDL for beginners
-"A straightforward introduction to working with FPGAs. Explores the inner workings of an FPGA and high concepts like state machines, crossing clock domains, and parallel logic. Features hands-on projects and thoroughly annotated code examples in both Verilog and VHDL"--

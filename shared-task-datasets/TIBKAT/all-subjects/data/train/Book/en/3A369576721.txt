@@ -1,2 +1,0 @@
-Selecta : [selected works of Benoit B. Mandelbrot, reprinted, translated, or new with annotations and guest contributions] ; Vol. C: Fractals and chaos : the Mandelbrot set and beyond
-Informal Introduction * Quadratic Julia and Mandelbrot Sets *Non-Quadratic Rational Dynamics * Iterated Nonlinear Function Systems and the Fractal Limit Sets of Kleinian Groups * Multifractal Invariant Measures * Quaternionic Quadratic Dynamics * History * Bibliography *

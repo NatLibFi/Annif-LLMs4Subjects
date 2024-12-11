@@ -1,2 +1,0 @@
-Routing protocols and architectural solutions for optimal wireless networks and security
-"This book provides the essential knowledge required to design the wireless network architecture, secure wireless networks and secure transmission of data, voice and video over wireless network. It guides network designers for deploying network hardware in wireless networks to get the design right, ensure proper signal levels for video traffic and to deliver optimal performance"--

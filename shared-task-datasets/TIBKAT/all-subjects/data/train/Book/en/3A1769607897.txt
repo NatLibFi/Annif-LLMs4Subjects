@@ -1,2 +1,0 @@
-5G impact on biomedical engineering : wireless technologies applications
-"This book is dedicated to studying the innovations and advancements of wireless networks for biomedical applications. This book focuses on a wide range of wireless technologies including body sensor networks, mobile networks, internet of things, mobile cloud computing, pervasive computing and wearable computing"--

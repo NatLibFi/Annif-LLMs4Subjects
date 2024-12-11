@@ -1,2 +1,0 @@
-ASP.NET dynamic data : unleashed
-Getting started -- Entity framework -- Field templates -- Entity templates -- Filter templates -- Page templates -- Metadata API -- Implementing entity validation -- Implementing business logic -- Building custom forms -- Building dynamic forms -- Building custom search pages -- Building dynamic list pages -- Implementing security

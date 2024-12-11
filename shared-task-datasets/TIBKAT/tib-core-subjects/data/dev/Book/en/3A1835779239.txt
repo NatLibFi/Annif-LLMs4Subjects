@@ -1,2 +1,0 @@
-Maximal subellipticity
-Maximally subelliptic partial differential equations (PDEs) are a far-reaching generalization of elliptic PDEs. Elliptic PDEs hold a special place: sharp results are known for general linear and even fully nonlinear elliptic PDEs. Over the past half-century, important results for elliptic PDEs have been generalized to maximally subelliptic PDEs. This text presents this theory and generalizes the sharp, interior regularity theory for general linear and fully nonlinear elliptic PDEs to the maximally subelliptic setting.

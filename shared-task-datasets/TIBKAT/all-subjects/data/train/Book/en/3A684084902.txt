@@ -1,2 +1,0 @@
-Pro iOS 5 tools : Xcode, Instruments, and Build tools : [iOS 5 SDK apps development using Xcode, Interface Builder, Instruments, GDB, and key tools]
-"Whether you're building games, business apps, or any other flavor of app, Pro iOS 5 Tools gives you the knowledge you need to master performance and debugging techniques and get your app ready for success on the App Store"--P. [4] of cover

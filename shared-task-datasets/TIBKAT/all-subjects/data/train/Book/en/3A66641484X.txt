@@ -1,2 +1,0 @@
-Pro ASP.NET MVC 3 framework : [build the most maintainable, standards-compliant, and best performing web applications on the Microsoft plattform]
-Looks at the features of the ASP.NET MVC 3 framework, covering such topics as routing, model binding, views, scripting, security, deployment, and WebForms

@@ -1,2 +1,0 @@
-RF-MEMS technology for high-performance passives : the challenge of 5G mobile applications
-Commencing with a review of the characteristics of RF-MEMS in relation to 5G, the book proceeds to develop practical insight concerning the design and development of RF-MEMS including case studies of design concepts. Including multiphysics simulation and animated figures, the book will be essential reading for both academic and industrial researchers and engineers.

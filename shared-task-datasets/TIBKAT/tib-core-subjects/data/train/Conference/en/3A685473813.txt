@@ -1,2 +1,0 @@
-Advances in DUNE : proceedings of the DUNE User Meeting, held in October 6th-8th 2010 in Stuttgart, Germany
-"DUNE, the Distributed and Unified Numerics Environment, is an open-source modular toolbox for solving partial differential equations with grid-based methods. This book covers recent advances in the development and usage of DUNE."--

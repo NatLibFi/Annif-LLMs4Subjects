@@ -1,2 +1,0 @@
-Approaches for enriching and improving textual knowledge bases
-Citation recommendation, citation span, news suggestion, wikipedia enrichment. - Zitierungsempfehlungen, Zitierungsspanne, News-Vorschläge, Wikipedia Anreicherung

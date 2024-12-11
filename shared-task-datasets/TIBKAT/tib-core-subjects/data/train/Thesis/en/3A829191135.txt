@@ -1,2 +1,0 @@
-When in doubt ask the crowd : leveraging collective intelligence for improving event detection and machine learning
-Collective intelligence, event detection, crowdsourcing, active learning. - Kollektive Intelligenz, Ereignisdetektion, aktives Lernen

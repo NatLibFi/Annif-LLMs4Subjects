@@ -1,2 +1,0 @@
-Programming languages and systems : 20th Asian Symposium, APLAS 2022, Auckland, New Zealand, December 5, 2022, proceedings
-This book constitutes the proceedings of the 20th Asian Symposium on Programming Languages and Systems, APLAS 2022, held in Auckland, New Zealand, in December 2022.The 10 papers presented in this volume were carefully reviewed and selected from 22 submissions. They were organized in topical sections as follows: Semantics and Analysis; Testing and Verification; Types

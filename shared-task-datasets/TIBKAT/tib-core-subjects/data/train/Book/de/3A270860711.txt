@@ -1,2 +1,0 @@
-Starthilfe Strömungslehre
-Ähnlich wie der Band von Iben ("Starthilfe Thermodynamik", BA 9/99) ein Kurzlehrbuch für Studienanfänger der Ingenieurwissenschaften. Behandelt Statik, Kinematik, Dynamik der Fluide in knapp gefasster, verständlicher Form, wobei Kenntnisse der Ingenieurmathematik vorausgesetzt werden. Enthält Rechenbeispiele mit Lösungen, weiterführende Literaturhinweise, Sachregister. Einsetzbar neben / vor Kl. Gersten (zuletzt ID 4/90) und W. Kalide (zuletzt ID 41/90, stärker anwendungsbetont). (2) (LK/N: Pleuß)

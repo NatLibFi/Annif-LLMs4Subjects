@@ -1,2 +1,0 @@
-Recurrences and Discrete Dynamic Systems
-and statement of the problem -- Some properties of first order recurrences -- Some properties of second order recurrences -- Stochasticity in conservative recurrences -- Stochasticity in almost conservative recurrences -- Stochasticity in strongly non-conservative recurrences -- Conclusion and some open problems.

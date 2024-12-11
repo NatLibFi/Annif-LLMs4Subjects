@@ -1,2 +1,0 @@
-Invariant representations of GSp(2) under tensor product with a quadratic character
-Introduction -- Endoscopy for GSp(2) -- The trace formula -- Global lifting -- The local picture -- Appendix A: Summary of global lifting -- Appendix B: Fundamental Lemma

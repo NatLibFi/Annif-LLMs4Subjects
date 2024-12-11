@@ -1,2 +1,0 @@
-Phillips-Perron-type unit root tests in the nonlinear ESTAR framework
-In this paper, we propose Phillips-Perron type, semiparametric testing procedures to distinguish a unit root process from a mean-reverting exponential smooth transition autoregressive one. The limiting nonstandard distributions are derived under very general conditions and simulation evidence shows that the tests perform better than the standard Phillips-Perron or Dickey-Fuller tests in the region of the null.

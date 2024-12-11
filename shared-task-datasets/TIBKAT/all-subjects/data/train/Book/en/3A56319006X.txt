@@ -1,2 +1,0 @@
-Metadata
-Introduction -- Current standards -- Schemas : structure and semantics -- Schemas : syntax -- Metadata records -- Metadata services -- Metadata quality measurement and improvement

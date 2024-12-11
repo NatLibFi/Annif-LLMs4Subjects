@@ -1,2 +1,0 @@
-Globale klassische Lösungen nichtlinearer parabolischer Probleme mit dynamischen Randbedingungen in einer Raumdimension
-Quasilinear parabolic problems, classical solutions, global existence, dynamic boundary condition. - Quasilineare parabolische Probleme, klassische Lösungen, globale Existenz, dynamische Randbedingung

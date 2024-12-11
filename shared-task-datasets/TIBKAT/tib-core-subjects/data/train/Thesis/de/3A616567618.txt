@@ -1,2 +1,0 @@
-Gleichspannungswandler für Brennstoffzellensysteme : Analyse, Vergleich und Bewertung unterschiedlicher Konzepte
-Brennstoffzellen, Gleichspannungswandler, hohe Spannungsübersetzung, optimierte Auslegung, spannungsgespeiste Wandler, stromgespeiste Wandler, Resonanzwandler, Wirkungsgrad. - Fuel cells, dc-dc converter, high voltage gain, optimised converter design, voltage-fed converter, current-fed converter, resonance converter, efficiency

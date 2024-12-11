@@ -1,2 +1,0 @@
-Positive Definite Kernels, Continuous Tensor Products, and Central Limit Theorems of Probability Theory
-Positive definite kernels and continuous tensor products -- Limit theorems for uniformly infinitesimal families of positive definite kernels -- The analysis of cocycles of first order on some special groups.

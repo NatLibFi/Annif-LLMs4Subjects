@@ -1,2 +1,0 @@
-PERFAG 3D - Spezifikation für Mehrlagen-Leiterplatten
-PERFAG 3D gilt für die Spezifikation neuer Multilayer für den Leiterplattenhersteller. Die Spezifikation ist das Ergebnis einer freiwilligen Zusammenarbeit zwischen der PERFAG-Gesellschaft und den ihr angeschlossenen Leiterplattenproduzenten. Der Inhalt der Spezifikation ist eine Empfehlung, die freiwillig befolgt werden kann. Die PERFAG-Gesellschaft haftet auch nicht für Folgen, die aus Anwendung dieser Spezifikation entstehen

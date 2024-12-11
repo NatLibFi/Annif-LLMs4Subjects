@@ -1,3 +1,0 @@
-Coupled CFD-DEM modeling : formulation, implementation and application to multiphase flows
-DEM formulation -- DEM implementation -- Non-spherical particles -- DEM applications to granular flows -- CFD-DEM formulation and coupling -- CFD-DEM applications to multiphase flow -- Interparticle forces and external fields
-"This book provides a state-of-the-art description of combined Computational Fluid Dynamics and Discrete-Element Method (CFD-DEM) modeling, and its industrial applications in chemical and process engineering."--

@@ -1,2 +1,0 @@
-Polymer brushes : substrates, technologies, and properties
-"This book provides a one-stop reference on the various substrates and technologies used to synthesize polymer brushes. The hands-on information in the text will help readers choose the proper synthesis methods and materials for their system."--

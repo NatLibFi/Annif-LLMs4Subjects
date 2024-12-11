@@ -1,2 +1,0 @@
-Pulse width modulation for power converters : principles and practice
-* The first single volume resource for researchers in the field who previously had to depend on separate papers and conference records to attain a working knowledge of the subject. * Brings together the field's diverse approaches into an integrated and comprehensive theory of PWM

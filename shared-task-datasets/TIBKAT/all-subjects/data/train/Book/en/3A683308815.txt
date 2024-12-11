@@ -1,2 +1,0 @@
-Cognitively informed intelligent interfaces : systems design and development
-"This book analyzes well-grounded findings and recent insights on human perception and cognitive abilities and how these findings can and should impact the development and design of applications through the use of intelligent interfaces"--

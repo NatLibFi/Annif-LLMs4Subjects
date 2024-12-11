@@ -1,2 +1,0 @@
-Introduction to nanophotonics
-Nanophotonics is where photonics merges with nanoscience and nanotechnology, and where spatial confinement considerably modifies light propagation and light-matter interaction. The textbook highlights practical issues, material properties and device feasibility, and includes the basic optical properties of metals, semiconductors and dielectrics. Mathematics is kept to a minimum and theoretical issues are reduced to a conceptual level. --from publisher description

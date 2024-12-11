@@ -1,2 +1,0 @@
-Discretization Methods for Stable Initial Value Problems
-Multistep multiderivative methods for differential systems of first order -- Direct multistep multiderivative methods for differential systems of second order -- Linear multistep methods and problems with leading matrix A(t)=a(t)A -- Linear multistep methods and nonlinear differential systems of first order -- Runge-Kutta methods for differential systems of first order -- Approximation of initial boundary value problems.

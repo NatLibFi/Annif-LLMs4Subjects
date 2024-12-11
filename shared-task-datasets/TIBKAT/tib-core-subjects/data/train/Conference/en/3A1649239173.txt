@@ -1,2 +1,0 @@
-Typed Lambda Calculi and Applications : 6th International Conference, TLCA 2003 Valencia, Spain, June 10–12, 2003 Proceedings
-This book constitutes the refereed proceedings of the 6th International Conference on Typed Lambda Calculi and Applications, TLCA 2003, held in Valencia, Spain in June 2003. The 21 revised full papers presented were carefully reviewed and selected from 40 submissions. The volume reports research results on all current aspects of typed lambda calculi, ranging from theoretical and methodological issues to the application of proof assistants

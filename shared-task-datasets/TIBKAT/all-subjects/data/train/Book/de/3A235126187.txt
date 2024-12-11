@@ -1,2 +1,0 @@
-Windows NT in a Nutshell
-Windows NT in a Nutshell ist ein umfassendes Nachschlagewerk für jeden, der ein NT-System benutzt oder verwaltet. Es ist für den Benutzer eines einzelnen Computers ebenso nützlich wie für Systemverwalter, die für ein Netzwerk mit 1000 Computern verantwortlich sind.

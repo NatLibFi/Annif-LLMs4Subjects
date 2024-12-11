@@ -1,2 +1,0 @@
-Fiber-based optical trapping and manipulation
-Photothermal trapping and manipulation -- Evanescent field-based trapping and manipulation -- Dual fiber tweezers for single nanoparticle trapping and manipulation -- Single fiber tweezers for single particle trapping and manipulation -- Single fiber tweezers for multiple particle/cell trapping and assembly -- Optical fiber-supported photonic nanojet for nanoparticle and biomolecule trapping and detection

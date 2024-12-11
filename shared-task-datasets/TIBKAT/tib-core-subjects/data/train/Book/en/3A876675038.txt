@@ -1,2 +1,0 @@
-Principles of random signal analysis and low noise design : the power spectral density and its applications
-Describes the leading techniques for analyzing noise.. Discusses methods that are applicable to periodic signals, aperiodic signals, or random processes over finite or infinite intervals.. Provides readers with a useful reference when designing or modeling communications systems

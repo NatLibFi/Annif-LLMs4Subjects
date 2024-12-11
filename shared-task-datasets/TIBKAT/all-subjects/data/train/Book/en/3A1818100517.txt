@@ -1,2 +1,0 @@
-Inside deep learning : math, algorithms, models
-The mechanics of learning --Fully connected networks --Convolutional neural networks --Recurrent neural networks --Modern training techniques --Common design building blocks --Autoencoding and self-supervision --Object detection --Generative adversarial networks --Attention mechanisms --Sequence-to-sequence --Network design alternatives to RNNs --Transfer learning --Advanced building blocks.

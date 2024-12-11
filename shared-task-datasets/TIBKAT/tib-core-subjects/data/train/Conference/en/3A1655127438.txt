@@ -1,2 +1,0 @@
-Topics in Numerical Analysis : Proceedings of the S.E.R.C. Summer School, Lancaster, July 19–August 21, 1981
-An introduction to the numerical treatment of volterra and abel-type integral equations -- Topics in multivariate approximation theory -- Practical spline approximation -- Finite element methods for non-self-adjoint problems -- An introduction to piecewise-linear homotopy algorithms for solving systems of equations.

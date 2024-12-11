@@ -1,2 +1,0 @@
-Übungsbuch zur Linearen Algebra : Aufgaben und Lösungen
-Verlagstext: Dieses Buch ist die Ergänzung zu dem Lehrbuch 'Lineare Algebra' von Gerd Fischer. Die Aufgaben stammen aus dem Lehrbuch - einige neue wurden hinzugefügt. Die Lösungen zu den einzelnen Aufgaben werden sehr ausführlich und systematisch ausgearbeitet. Das Buch unterstützt damit die Studierenden (Diplom- und Lehramtsstudenten) beim Selbststudium: bei der Bearbeitung von Übungsaufgaben und bei der Vorbereitung auf die Prüfung zur Vorlesung in 'Linearer Algebra'

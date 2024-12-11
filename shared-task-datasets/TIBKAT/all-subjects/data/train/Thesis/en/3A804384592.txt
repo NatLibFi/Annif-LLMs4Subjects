@@ -1,2 +1,0 @@
-Mining, analyzing and exploiting community feedback on the web
-Community feedback, comment ratings, social features, learning to rank, sentiment analysis, opinionated queries

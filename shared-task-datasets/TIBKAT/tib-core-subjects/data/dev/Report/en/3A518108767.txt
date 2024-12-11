@@ -1,2 +1,0 @@
-Fuel cell electronics packaging
-Presents the latest developments in the technology convergence of microelectronics and fuel cells. Using the well established manufacturing methods used in microelectronics packaging, fuel cells can be further fabricated in smaller sizes with higher energy density, at a faster pace and lower cost

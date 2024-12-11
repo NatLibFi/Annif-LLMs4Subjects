@@ -1,2 +1,0 @@
-Ingenieurmathematik kompakt - Problemlösungen mit MATLAB : Einstieg und Nachschlagewerk für Ingenieure und Naturwissenschaftler
-In diesem Buch wird durchgehend das Mathematiksystem MATLAB zur Lösung mathematischer Probleme mittels Computer herangezogen

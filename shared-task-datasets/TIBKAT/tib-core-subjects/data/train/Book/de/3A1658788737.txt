@@ -1,2 +1,0 @@
-Laser : Bauformen, Strahlführung, Anwendungen
-Dieses Buch ist eine grundlegende Einführung in die Physik und Technik des Lasers. Es informiert über Funktion, Bauformen und Emissionseigenschaften der Laser, Lasertypen, optische Komponenten und Strahlführung, Anwendungen in Materialbearbeitung, Medizin, Mess- und Kommunikationstechnik sowie Holographie. In der 6. Auflage dieses erfolgreichen Lehrbuchs werden neue Entwicklungen bei Dioden- und Festkörperlasern berücksichtigt sowie Fortschritte bei der Erzeugung ultrakurzer Lichtimpulse

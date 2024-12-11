@@ -1,2 +1,0 @@
-Laser heating applications : analytical modelling
-"This book describes those areas of thermodynamics which prove conductive to equilibrium and non-equilibrium heating theories in addition to yielding results that serve as data for further theories"--

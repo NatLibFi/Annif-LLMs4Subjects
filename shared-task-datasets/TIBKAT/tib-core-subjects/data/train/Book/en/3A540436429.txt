@@ -1,2 +1,0 @@
-Prototype and script.aculo.us : you never knew JavaScript could do this!
-Provides information on the Prototype and the script.aculo.us libraries and their use in Web site development

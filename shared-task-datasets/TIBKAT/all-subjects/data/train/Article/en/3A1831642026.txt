@@ -1,2 +1,0 @@
-Chapter 61 Implementation theory
-This chapter surveys the branch of implementation theory initiated by Maskin (1999) . Results for both complete and incomplete information environments are covered.

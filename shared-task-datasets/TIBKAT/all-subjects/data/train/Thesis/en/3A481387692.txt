@@ -1,2 +1,0 @@
-Performance analysis of wireless ad hoc networks
-Ad hoc wireless network, OSI protocol stack, protocols with monolithic, inter-layer or integrated design

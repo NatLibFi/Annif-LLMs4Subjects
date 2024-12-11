@@ -1,2 +1,0 @@
-Differential Function Fields and Moduli of Algebraic Varieties
-Preliminaries -- Differential descent theory -- Normality in differential galois theory -- Complements.

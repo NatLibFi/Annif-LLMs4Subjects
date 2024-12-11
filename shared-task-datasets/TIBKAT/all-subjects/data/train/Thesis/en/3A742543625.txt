@@ -1,2 +1,0 @@
-Numerical simulation of acoustic streaming within the cochlea
-Acoustic streaming, cochlea, fluid-structure-interaction. - Akustisch-induzierte Strömungen, Fluid-Struktur-Interaktion

@@ -1,2 +1,0 @@
-Information security governance
-"IT Security governance is becoming an increasingly important issue for all levels of a company. IT systems are continuously exposed to a wide range of threats, which can result in huge risks that threaten to compromise the confidentiality, integrity, and availability of information. This book will be of use to those studying information security, as well as those in industry."--BOOK JACKET

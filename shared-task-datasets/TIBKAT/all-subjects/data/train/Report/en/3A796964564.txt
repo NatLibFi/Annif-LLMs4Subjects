@@ -1,2 +1,0 @@
-Big data analytics in bioinformatics and healthcare
-"This book merges the fields of biology, technology, and medicine in order to present a comprehensive study on the emerging information processing applications necessary in the field of electronic medical record management"--

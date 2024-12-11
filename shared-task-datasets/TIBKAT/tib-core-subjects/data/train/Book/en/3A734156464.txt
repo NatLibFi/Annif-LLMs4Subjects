@@ -1,2 +1,0 @@
-Interactive data visualization for the web : [an introduction to designing with D3]
-Author Scott Murray teaches you the fundamental concepts and methods of D3, a JavaScript library that lets you express data visually in a web browser --

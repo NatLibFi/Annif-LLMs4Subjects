@@ -1,2 +1,0 @@
-Introduction to microelectromechanical microwave systems
-Annotation The second edition covers the latest in fabrication technologies, actuation mechanisms, packaging, switching, resonator design, and microwave and wireless applications. This practical book steers readers past the drawbacks and towards the benefits of integrating RF/microwave MEMS into communications equipment

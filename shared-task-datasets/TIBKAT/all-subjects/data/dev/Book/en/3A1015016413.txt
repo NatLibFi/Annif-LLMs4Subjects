@@ -1,2 +1,0 @@
-Understanding GIS : an ArcGIS Pro project workbook
-Foreword -- Preface -- Lesson 1. Frame the problem and explore the study area -- Lesson 2. Preview the data -- Lesson 3. Choose the data -- Lesson 4. Build the database -- Lesson 5. Edit the data -- Lesson 6. Conduct the analysis -- Lesson 7. Automate the analysis -- Lesson 8. Present your analysis results -- Lesson 9. Share your results online

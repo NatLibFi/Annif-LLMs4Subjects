@@ -1,2 +1,0 @@
-Active filters for integrated-circuit applications
-Annotation "This book identifies common problem areas, reviews circuit analysis operations, and thoroughly illustrates the concept of feedback. Practitioners and students learn the state variable procedure - a general design approach that is appropriate for a wide range of applications. The book also discusses classic approaches such as cascade and biquad circuits for comparative purposes."--BOOK JACKET. Title Summary field provided by Blackwell North America, Inc. All Rights Reserved

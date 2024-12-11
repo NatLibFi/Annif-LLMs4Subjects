@@ -1,2 +1,0 @@
-Artificial intelligence and data science : First International Conference, ICAIDS 2021, Hyderabad, India, December 17-18, 2021, revised selected papers
-This book constitutes selected papers presented at the First International Conference on Artificial Intelligence and Data Science, ICAIDS 2021, held in Hyderabad, India, in December 2021.The 43 papers presented in this volume were thoroughly reviewed and selected from the 195 submissions. They focus on topics of artificial intelligence for intelligent applications and data science for emerging technologies

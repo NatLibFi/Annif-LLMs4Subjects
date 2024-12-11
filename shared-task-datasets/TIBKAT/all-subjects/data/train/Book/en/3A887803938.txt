@@ -1,2 +1,0 @@
-Monitoring with Graphite : tracking dynamic host and application metrics at scale
-Graphite has become one of the most powerful monitoring tools available today due to its ease of use, rapid graph prototyping abilities, and a friendly rendering API.  With this practical guide, system administrators and engineers will learn how to use this open source tool to track operational data you need to monitor your systems, as well as application-level metrics for profiling your services

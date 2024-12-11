@@ -1,2 +1,0 @@
-Contact Manifolds in Riemannian Geometry
-Contact manifolds -- Almost contact manifolds -- Geometric interpretation of the contact condition -- K-contact and sasakian structures -- Sasakian space forms -- Non-existence of flat contact metric structures -- The tangent sphere bundle.

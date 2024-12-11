@@ -1,2 +1,0 @@
-Enterprise recipes with Ruby and Rails
-Implement enterprise-wide security -- Process e-commerce payments -- Get the most out of databases -- Tame file and data formats -- Process XML documents the Ruby way -- Perform basic netwrkign tasks with ease -- Use and build web services -- Talk to message brokers -- Speak foreign languages -- Maintain and administer your applications -- Test the easy way -- Get documentation nearly for free

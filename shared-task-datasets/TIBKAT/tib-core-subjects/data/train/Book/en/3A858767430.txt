@@ -1,2 +1,0 @@
-Geometric modeling and mesh generation from scanned images
-1. Introduction and pipelines -- 2. Review of numerical methods -- 3. Scanning techniques and image processing -- 4. Fundamentals to geometric modeling and meshing -- 5. Image-based triangular and tetrahedral meshing -- 6. Image-based quadrilateral and hexahedral meshing -- 7. Volumetric T-spline modeling -- 8. Finite element and isogeometric analysis applications

@@ -1,2 +1,0 @@
-EXCEL-VBA für Maschinenbauer : Programmieren erlernen und Problemstellungen lösen
-Einführung in VBA - Programmbeispiele aus: Statik - Festigkeitslehre - Kinetik - Maschinenelemente - Statistik und Wahrscheinlichkeitsrechnung - Strömungslehre - Thermodynamik - Elektrotechnik - Wirtschaftlichkeitsberechnungen - Regelungstechnik

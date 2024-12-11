@@ -1,3 +1,0 @@
-Lévy Processes and Their Applications in Reliability and Storage
-Preface -- Notation and Terminology -- Lévy Processes and Their Characteristics -- Degradation Processes -- Storage Models: Control of Dams Using P^M_{\lambda,\tau} Policies -- Appendix -- Index.
-This book covers Lévy processes and their applications in the contexts of reliability and storage. Special attention is paid to life distributions and the maintenance of devices subject to degradation; estimating the parameters of the degradation process is also discussed, as is the maintenance of dams subject to Lévy input

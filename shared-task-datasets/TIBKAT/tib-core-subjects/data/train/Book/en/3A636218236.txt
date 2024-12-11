@@ -1,2 +1,0 @@
-Managed code rootkits : hooking into runtime environments
-"Introduces the reader briefly to managed code environments and rootkits in general--Completely details a new type of rootkit hiding in the application level and demonstrates how a hacker can change language runtime implementation--Focuses on managed code including Java, .Net, Android Dalvik, and reviews malware development scenarios"--

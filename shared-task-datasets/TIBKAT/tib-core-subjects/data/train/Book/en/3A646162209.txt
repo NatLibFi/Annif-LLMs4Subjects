@@ -1,2 +1,0 @@
-Android apps for absolute beginners : [get started building your very own Android apps]
-Provides information and practical examples on creating Android applications, covering such topics as screen layout design, UI elements, graphic resources, adding interactivity, content providers, and intents and intent filters

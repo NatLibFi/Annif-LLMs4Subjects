@@ -1,2 +1,0 @@
-Probabilistic approaches for social media analysis : data, community and influence
-"This unique compendium focuses on the acquisition and analysis of social media data. The approaches concern both the data-intensive characteristics and graphical structures of social media. The book addresses the critical problems in social media analysis, which representatively cover its lifecycle. The must-have volume is an excellent reference text for professionals, researchers, academics and graduate students in AI and databases"--

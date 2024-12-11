@@ -1,3 +1,0 @@
-Cyber Security : 18th China Annual Conference, CNCERT 2021, Beijing, China, July 20–21, 2021, Revised Selected Papers
-This open access book constitutes the refereed proceedings of the 17th International Annual Conference on Cyber Security, CNCERT 2021, held in Beijing, China, in AJuly 2021. The 14 papers presented were carefully reviewed and selected from 51 submissions. The papers are organized according to the following topical sections: data security; privacy protection; anomaly detection; traffic analysis; social network security; vulnerability detection; text classification.
-Data Security -- Privacy Protection -- Anomaly Detection -- Traffic Analysis -- Social Network Security -- Vulnerability Detection -- Text Classification.

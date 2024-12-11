@@ -1,2 +1,0 @@
-BMBF Verbundprojekt READ Recognition + Documentanalysis : Erkennungssysteme + Dokumentanalyse ; Abschlußbericht, Version 1.0, Laufzeit des Vorhabens: 01.08.1995 - 31.07.1998 ; [Objektbildung und listenförmige Beschreibung]
-Document analysis, image processing, corner code, color processing, classification, region analysis, topological models, list processing, features, free programmable gate arrays

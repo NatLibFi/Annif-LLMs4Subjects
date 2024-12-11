@@ -1,2 +1,0 @@
-Applications of discrete-time Markov chains and Poisson processes to air pollution modeling and studies
-"The book is dedicated to the study of air pollution in cities via stochastic modeling.  The book provides interesting approaches to the problem of air pollution in cities and it could be useful to scientists interested in this area."-- (Iulian Stoleriu, Mathematical Reviews, May, 2013)

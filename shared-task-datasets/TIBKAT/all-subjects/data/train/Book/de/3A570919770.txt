@@ -1,2 +1,0 @@
-Datenanalyse und Statistik : eine Einführung für Ökonomen im Bachelor
-Das Buch deckt den Bereich der Datenanalyse und Statistik in seiner ganzen Breite ab. Neben der deskriptiven und induktiven Statistik werden insbesondere Methoden der Datenanalyse sowie neuere Ansätze des Data Mining behandelt. Zahlreiche Beispiele ergänzen die methodischen Darstellungen.

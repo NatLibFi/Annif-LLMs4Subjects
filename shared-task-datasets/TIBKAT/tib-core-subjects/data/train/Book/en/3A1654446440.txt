@@ -1,2 +1,0 @@
-Big data management and the Internet of things for improved health systems
-"This book explores a number of technologies can reduce overall costs for the prevention or management of chronic illnesses. These include devices that constantly monitor health indicators, devices that auto-administer therapies, or devices that track real-time health data when a patient self-administers a therapy. It also reviews mIoT and big data in healthcare fields"--Provided by publisher.

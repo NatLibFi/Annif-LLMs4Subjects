@@ -1,2 +1,0 @@
-Fuzzy Logic Control in Energy Systems : With Design Applications in MATLAB®/Simulink®
-This book is about fuzzy logic control and its applications in managing, controlling and operating electrical energy systems. It provides a comprehensive overview of fuzzy logic concepts and techniques required for designing fuzzy logic controllers, and then discusses several applications to control and management in energy systems

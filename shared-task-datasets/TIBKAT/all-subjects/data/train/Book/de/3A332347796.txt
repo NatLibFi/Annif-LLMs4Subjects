@@ -1,2 +1,0 @@
-Windows 2000 Befehle - kurz & gut
-Das Buch bietet einen schnellen Zugriff auf Informationen zu sämtlichen Befehlen von Windows 2000 und zu den Befehlen des Resource Kit. Die Befehle werden in übersichtlicher und komprimierter Form vorgestellt und sind nach Funktionsgruppen geordnet. Neben der Auflistung aller Befehle findet sich in dieser Referenz eine Zusammenfassung der Windows 2000-Skriptsprache sowie eine Sammlung hilfreicher Webadressen und Software-Archive. (MOD)

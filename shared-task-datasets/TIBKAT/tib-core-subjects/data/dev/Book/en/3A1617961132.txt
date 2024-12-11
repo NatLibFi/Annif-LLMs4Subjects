@@ -1,3 +1,0 @@
-Operating system forensics
-"Covers digital forensic investigations of the three major operating systems, including Windows, Linux, and Mac OS. Presents the technical details of each operating system, allowing users to find artifacts that might be missed using automated tools. Hands-on exercises drive home key concepts covered in the book. Includes discussions of cloud, Internet, and major mobile operating systems such as Android and iOS."--Publisher web site
-Forensics and operating systems -- File systems -- Data and file recovery -- Memory forensics -- System configuration -- Web browsing -- Tracking artifacts -- Log files -- Executable programs -- Malware -- Mobile operating systems -- Newer technologies -- Reporting

@@ -1,2 +1,0 @@
-Bayesian statistics for experimental scientists : a general introduction using distribution-free methods
-"An advanced-level textbook on Bayesian statisitics primarily aimed at students in the cognitive, behavioral, and social sciences"--

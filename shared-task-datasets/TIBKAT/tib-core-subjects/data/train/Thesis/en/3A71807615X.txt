@@ -1,2 +1,0 @@
-Semistable reduction of prime-cyclic Galois covers
-Algorithmic semistable reduction, prime-cyclic Galois covers, formal p-Taylor expansion. - Algorithmische semistabile Reduktion, Prim-zyklische Galois Überlagerungen, formale p-Taylor Entwicklung

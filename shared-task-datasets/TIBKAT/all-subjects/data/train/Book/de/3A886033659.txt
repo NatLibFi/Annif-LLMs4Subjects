@@ -1,2 +1,0 @@
-Schnelleinstieg in ABAP : Das SAP Einsteigerbuch
-Dieses Buch enthält alle Werkzeuge rund um das Advanced Business Application Programming, die Einsteiger für einen erfolgreichen Start als Programmierer benötigen. Lernen Sie allgemeine Prinzipien des Programmierens kennen und lesen Sie:- Schritt-für-Schritt-Anleitungen für Anfänger - Nachvollziehbare Erläuterungen und Code-Beispiele - Hilfen für Ihre erste eigene ABAP-Anwendung- Tipps und Tricks für das Programmieren in ABAP. Tauchen Sie ein in die Welt von SAP ABAP!

@@ -1,2 +1,0 @@
-Derivations, Dissipations and Group Actions on C*-algebras
-with historical remarks -- General theory of derivations -- Noncommutative vectorfields -- Dissipations -- Additional remarks.

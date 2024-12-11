@@ -1,2 +1,0 @@
-How to lead in data science
-How to Lead in Data Science shares unique leadership techniques from high-performance data teams. It’s filled with best practices for balancing project trade-offs and producing exceptional results, even when beginning with vague requirements or unclear expectations. You’ll find a clearly presented modern leadership framework based on current case studies, with insights reaching all the way to Aristotle and Confucius. As you read, you’ll build practical skills to grow and improve your team, your company’s data culture, and yourself.

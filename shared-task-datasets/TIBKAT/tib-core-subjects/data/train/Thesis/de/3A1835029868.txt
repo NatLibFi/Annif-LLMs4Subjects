@@ -1,2 +1,0 @@
-Automatisierte Generierung von Ordnungsschikanen für Vibrationswendelförderer mithilfe von Reinforcement Learning
-Automatisierte Generierung von Ordnungsschikanen für Vibrationswendelförderer mithilfe von Reinforcement Learning

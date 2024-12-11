@@ -1,2 +1,0 @@
-Beam-Based Correction and Optimization for Accelerators
-Basics of beam dynamics -- Beam dynamics topics -- Orbit and trajectory correction -- Linear optics measurement and correction I -- Linear optics measurement and correction II -- Coupling and nonlinear dynamics correction -- Online optimization algorithms -- Application of beam-based optimization.

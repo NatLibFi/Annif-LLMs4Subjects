@@ -1,2 +1,0 @@
-Handbook of augmented and virtual reality
-Augmented and Virtual Reality are revolutionizing present and future technologies: these are the fastest growing and most fascinating areas of technologies at present. This book aims to provide insight into the theory and applications of Augmented and Virtual Reality to multiple technologies such as IoT (Internet of Things), ML (Machine Learning), AI (Artificial Intelligence), Healthcare and Education

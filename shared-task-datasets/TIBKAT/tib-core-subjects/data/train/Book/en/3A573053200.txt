@@ -1,2 +1,0 @@
-The codewriting workbook : creating computational architecture in AutoLISP
-"A primer on basic code-writing concepts for computer-aided design in the fields of architecture and engineering"--Provided by publisher

@@ -1,2 +1,0 @@
-Excel 2000 : professionell analysieren und planen
-Inhalt: Tabellen editieren, formatieren, drucken ; Arbeitsmappen und Vorlagen entwerfen ; Datenanalyse mit Solver und Szenario-Manager ; mit MS Query auf externe Datenbanken zugreifen ; Pivot-Tabellen einsetzen ; Datenexport und Datenimport ; Excel und das Internet ; mit Grafikobjekten, Landkarten, Diagrammen arbeiten, Automatisierung mit Makros ; Visual Basic für Anwendungen ; Rechtschreibprüfung, Gültigkeitsregeln, Add-In-Manager ; Anwendung "Buchführung leicht gemacht" ; Tipps und Tricks

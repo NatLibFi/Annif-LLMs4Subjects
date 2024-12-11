@@ -1,2 +1,0 @@
-Applications of polynomial systems
-Elimination theory / by Carlos D'Andrea -- Numerical algebraic geometry / by Jonathan Hauenstein -- Geometric modeling / by Hal Schenck -- Rigidity theory / by Jessica Sidman -- Chemical reaction networks / by Alicia Dickenstein.

@@ -1,2 +1,0 @@
-Inhomogeneous random evolutions and their applications
-"The book deals with inhomogeneous REs and their applications, which are more general and more applicable because they describe in a much better way the evolutions of many processes in real world, which have no homogeneous evolution/behaviour, including economics, finance and insurance"--

@@ -1,2 +1,0 @@
-Machine learning and cognitive science applications in cyber security
-"This book addresses the gap between how researchers do cyber security analysis and how an industrial security professional look at the problem of detecting threats"--

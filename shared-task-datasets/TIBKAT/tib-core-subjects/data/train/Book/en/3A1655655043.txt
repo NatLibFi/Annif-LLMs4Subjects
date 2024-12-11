@@ -1,2 +1,0 @@
-Stochastic models estimation and control : Volume 1
-Introduction -- Deterministic system models -- Probability theory and static models -- Stochastic processes and linear dynamic system models -- Optimal filtering with linear system models -- Design and performance analysis of Kalman filters -- Square root filtering

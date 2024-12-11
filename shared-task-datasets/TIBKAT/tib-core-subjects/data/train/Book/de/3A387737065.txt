@@ -1,2 +1,0 @@
-SQL- kurz & gut
-Diese Taschenreferenz bietet die wichtigsten Informationen zu SQL in einem kompakten, übersichtlichen Format und deckt die vier am weitesten verbreiteten SQL- Varianten ab: Oracle, IBM DB2, Microsoft SQL Server und MySQL. Behandelt werden Anweisungen zur Datenmanipulation und zur Transaktionsverwaltung, alle wichtigen SQL-Funktionen und Themen wie Literale, NULL-Werte, CASE-Ausdrücke, Datentyp- Umwandlungen, reguläre Ausdrücke, das Gruppieren und Zusammenfassen von Daten, Tabellen-Joins sowie das Schreiben von Abfragen.

@@ -1,2 +1,0 @@
-EDGE for mobile Internet
-This ground-breaking resource offers you a detailed treatment of EDGE and its critical role in the development of the mobile Internet. The book explains how this global radio based high-speed mobile data standard can be introduced into GSM/GPRS networks, improving data transmission speeds to support multimedia services. It enables you to become thoroughly knowledgeable of EDGE specifications and covers concepts pertaining to several domains, including RF, signal processing, digital communications and communication networks

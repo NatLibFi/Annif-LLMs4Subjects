@@ -1,2 +1,0 @@
-Theoretical and practical advancements for fuzzy system integration
-"This book is a pivotal reference source for the latest scholarly research on the importance of expressing and measuring fuzziness in order to develop effective and practical decision making models and methods. Featuring coverage on an expansive range of perspectives and topics, such as fuzzy logic control, intuitionistic fuzzy set theory, and defuzzification"--

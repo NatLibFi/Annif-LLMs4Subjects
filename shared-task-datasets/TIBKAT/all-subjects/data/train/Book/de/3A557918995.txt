@@ -1,3 +1,0 @@
-SPS-Grundkurs mit SIMATIC S7 : Aufbau und Funktion speicherprogrammierbarer Steuerungen, programmieren mit SIMATIC S7
-Verlagstext: Dieser SPS-Grundkurs behandelt die Steuerung mit der SIMATIC S7-300. Die Programmierung erfolgt unter Windows 95 oder Windows NT. Zu allen Programmbeispielen aus der Praxis wird auch ein Lösungsvorschlag angeboten. Das Buch eignet sich sowohl für Berufsschulen, Technikerschulen usw. als auch zum Selbststudium
-Verlagstext: Dieser SPS-Grundkurs behandelt die Steuerung mit der SIMATIC S7-300. Die Programmierung erfolgt unter Windows 95 oder Windows NT. Zu allen Programmbeispielen aus der Praxis wird auch ein Lösungsvorschlag angeboten. Das Buch eignet sich sowohl für Berufsschulen, Technikerschulen usw. als auch zum Selbststudium.

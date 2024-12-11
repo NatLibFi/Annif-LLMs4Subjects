@@ -1,2 +1,0 @@
-COMED - AODS : Schlußbericht
-Attitude and orbit determination system (AODS), star tracker, spaceborne GPS receiver, constellations, multimedia

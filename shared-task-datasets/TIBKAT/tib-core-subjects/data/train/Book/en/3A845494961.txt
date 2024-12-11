@@ -1,2 +1,0 @@
-OCA : Oracle Certified Associate Java SE 8 Programmer I : study guide ; EXAM 1ZO-808
-Covers 100% of exam objectives, including developing Java applications, becoming proficient in Java data types, mastering operators and decision control structures, understanding encapsulation, class inheritance, polymorphism, and much more... Includes interactive online learning environment and study tools with: + 3 custom practice exams + more than 200 electronic flashcards + searchable key term glossary

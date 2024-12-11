@@ -1,2 +1,0 @@
-Design concepts with code: a developer approach
-Introducing interface design -- Introducing design principles -- Project 1 : building an open-source portal -- Implementing design elements : line, type, and shape -- Implementing design elements : texture, space, size, value, and layout -- Project 2 : building an online resource center -- Working with content and typography -- Using color -- Project 3 : building a Webzine -- Exploring site issues and accessibility.

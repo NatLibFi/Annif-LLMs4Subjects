@@ -1,2 +1,0 @@
-Essays on long memory time series
-Long memory, semiparametric estimation, time series analysis. - Langes Gedächtnis, semiparametrische Schätzung, Zeitreihenanalyse

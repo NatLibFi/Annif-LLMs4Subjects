@@ -1,2 +1,0 @@
-Automator for Mac OS X 10.6 Snow Leopard : [learn Automator the quick and easy way]
-A guide for Mac users on the features and functions of Automator covers such topics as workflow creation, working with actions, recording manual events, customizing Automator, looping, using variables, and plug-ins

@@ -1,2 +1,0 @@
-Basic category theory
-"At the heart of this short introduction to category theory is the idea of a universal property, important throughout mathematics. After an introductory chapter giving the basic definitions, separate chapters explain three ways of expressing universal properties: via adjoint functors, representable functors, and limits. A final chapter ties all three together."--

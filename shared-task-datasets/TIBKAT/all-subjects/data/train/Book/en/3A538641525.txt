@@ -1,2 +1,0 @@
-Structures under crash and impact : continuum mechanics, discretization and experimental characterization
-"This book examines the testing and modeling of materials and structures under dynamic loading conditions. Readers will find an in-depth analysis of the current mathematical modeling and simulation tools available for a variety of materials, in addition to both the benefits and limitations they pose in industrial design."--BOOK JACKET

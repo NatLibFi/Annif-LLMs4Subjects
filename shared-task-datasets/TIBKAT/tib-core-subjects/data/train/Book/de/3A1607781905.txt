@@ -1,2 +1,0 @@
-Grundschaltungen der Elektronik : Theorie und Praxis mit Multisim
-Das Buch erläutert auf der Basis von Multisim die verschiedenen diskreten und integrierten Halbleiterbausteine und deren vielfältige Schaltungsmöglichkeiten; es dient Berufs-, Meister-, Technikerschülern sowie (fachfremden) Praktikern als Überblick oder Nachschlagewerk

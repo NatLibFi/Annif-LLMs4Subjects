@@ -1,2 +1,0 @@
-Objective-C for iPhone developers : a beginner's guide ; [learn Objective-C foundation framework fundamentals, create your own iPhone apps, download all the book's Xcode projects]
-"Shows you how to use the Objective-C programming language, Apple's Foundation framework, the iPhone SDK, and the Xcode development environment. ... Real-world examples throughout the book correspond with downloadable Ccode projects and video tutorials so you can get started with your first app right away

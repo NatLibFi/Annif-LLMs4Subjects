@@ -1,2 +1,0 @@
-Beginning PowerShell for Sharepoint 2016 : A Guide for Administrators, Developers, and Devops Engineers
-Introduction -- What's new in SharePoint 2016 -- PowerShell basics -- Installing and deploying SharePoint with PowerShell -- Managing SharePoint with PowerShell -- Monitoring SharePoint with PowerShell -- Upgrading from SharePoint 2013 to 2016 with PowerShell -- Managing Office 365 SharePoint online with PowerShell -- Managing add-ins and solutions using PowerShell -- Extending PowerShell for SharePoint -- Appendix: Common cmdlets

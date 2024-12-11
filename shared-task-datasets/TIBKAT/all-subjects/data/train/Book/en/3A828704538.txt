@@ -1,2 +1,0 @@
-Emerging design solutions in structural health monitoring systems
-"This book seeks to advance cutting-edge research in the field, with a special focus on cross-disciplinary work involving recent advances in IT, enabling structural-health experts to wield groundbreaking new models of artificial intelligence as a diagnostic tool capable of identifying future problems before they even appear"--

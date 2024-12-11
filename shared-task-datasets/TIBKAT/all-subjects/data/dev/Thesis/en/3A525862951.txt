@@ -1,2 +1,0 @@
-Modelling and analysis of a production plant for low density polyethylene
-Dynamic model, tubular reactor, polyethylene, LDPE, discretization, simulation, sensitivity analysis, nonlinear analysis

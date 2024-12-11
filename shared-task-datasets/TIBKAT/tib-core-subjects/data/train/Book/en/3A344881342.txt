@@ -1,2 +1,0 @@
-C# essentials : [programming the NET framework]
-C# Essentials covers: Every C# language element and its syntax, in reference format, including new keywords The major C# datatypes, with code examples Common C# programming tasks Interoperation with legacy Win32 APIs and COM components, and the use of C/C++ style pointers within the managed context of the CLR Common development issues.

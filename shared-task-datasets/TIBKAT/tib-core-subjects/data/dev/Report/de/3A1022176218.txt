@@ -1,2 +1,0 @@
-Theoretische Informatik : mit 295 Bildern, 26 Tabellen und 109 Aufgaben
-Einführung -- Mathematische Grundlagen -- Logik und Deduktion -- Formale Sprachen -- Endliche Automaten -- Berechenbarkeitstheorie -- Komplexitätstheorie

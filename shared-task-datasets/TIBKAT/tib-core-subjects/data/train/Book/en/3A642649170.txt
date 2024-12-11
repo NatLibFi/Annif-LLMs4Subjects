@@ -1,2 +1,0 @@
-Emulating human speech recognition : a scene analysis approach to improving robustness in automatic speech recognition
-Introduction -- Scene analysis and robust automatic speech recognition-- Speech fragment decoding -- Multi-pitch determination -- Multi-pitch tracking -- Voiced speech segmentation -- Unvoiced speech segmentation -- Full system evaluation -- Conclusion

@@ -1,2 +1,0 @@
-Basic gas chromatography
-Introduction -- Basic concepts and terms -- Instrument overview -- Capillary columns -- Stationary phases -- Temperature programming -- Inlets -- Classical detectors: FID, TCD, ECD -- Qualitative and quantitative analysis -- GC-MS and spectrometric detectors -- Sampling methods -- Multidimensional gas chromatography -- Packed column gc -- Special topics -- Troubleshooting gc systems.

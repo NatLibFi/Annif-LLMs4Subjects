@@ -1,2 +1,0 @@
-Fast direct solvers for elliptic PDEs
-"This is a book about how to efficiently solve elliptic partial differential equations numerically"--

@@ -1,3 +1,0 @@
-Professional Joomla!
-Provides informaton on using the open source content management system used to manage data on the World Wide Web, covering such topics as creating Joomla! expressions, using Ajax technology, and adopting design patterns, and incorporating source code control
-Provides information on using the open source content management system used to manage data on the World Wide Web, covering such topics as creating Joomla! expressions, using Ajax technology, and adopting design patterns, and incorporating source code control

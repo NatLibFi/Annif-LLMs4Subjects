@@ -1,2 +1,0 @@
-This pervasive day : the potential and perils of pervasive computing
-Imagine a world where your clothes sense your blood pressure, heart rate and body temperature. Suppose the sensors transmit this information to the cloud, continuously and unobtrusively. Suppose artificial intelligence in the cloud detects an anomaly. Suppose it tells your doctor: sighs of relief all round

@@ -1,2 +1,0 @@
-Red Hat Enterprise Linux 5 administration unleashed
-A guide to Red Hat Enterprise Linux 5 administration covers such topics as streamlining deployment with Kickstart, managing storage, administering users and groups, scripting and scheduling tasks, and setting up firewalls

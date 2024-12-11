@@ -1,2 +1,0 @@
-Generic and energy-efficient context-aware mobile sensing
-"This book proposes novel context-inferring algorithms and generic framework designs to enhance the existing tradeoffs in mobile sensing, especially between accuracy and power consumption. It integrates the significant topics of energy efficient, inhomogeneous, adaptive, optimal context-aware inferring algorithm and framework design. In addition, it includes plenty of examples to help readers understand the theory, best practices, and strategies"--

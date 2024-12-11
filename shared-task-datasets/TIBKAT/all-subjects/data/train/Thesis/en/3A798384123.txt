@@ -1,2 +1,0 @@
-Nicht-instantane Polarisationsdynamik in Dielektrika
-Frequenzabhängige Suszeptibilität, Dispersions-Scan-Verfahren, nichtlineare Antwortfunktion. - Frequency-dependent susceptibility, dispersion-scan, nonlinear response function

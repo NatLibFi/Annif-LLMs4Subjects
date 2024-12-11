@@ -1,3 +1,0 @@
-Der TYPO3-Webshop : Installation - Produktangebot - Zahlungsabwicklung
-Eine gute Anleitung für Typo3-Anwender, die einen Online-Shop betreiben wollen, mit ausführlicher Betrachtung der Extension ttproducts als Musterbeispiel, aber auch Hinweise auf andere Shop-Systeme.
-Eine gute Anleitung für Typo3-Anwender, die einen Online-Shop betreiben wollen, mit ausführlicher Betrachtung der Extension ttproducts als Musterbeispiel, aber auch Hinweise auf andere Shop-Systeme

@@ -1,2 +1,0 @@
-Computer vision : algorithms and applications
-'Computer Vision' explores the variety of techniques commonly used to analyze and interpret images. It also describes challenging real-world applications where vision is being successfully used, both for specialized applications such as medical imaging and fun consumer-level tasks such as image editing and stitching

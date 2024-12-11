@@ -1,2 +1,0 @@
-Beginning GIMP : from novice to professional ; [create and edit professional-quality images with the powerful GNU Image Manipulation Program ; includes a preview of GIMP 2.6]
-Getting to know GIMP -- Improving digital photos -- Introduction to layers -- Drawing -- Selection -- Erasing and touching up -- Filters and effects -- Color -- Advanced drawing -- Advanced compositing -- Plug-ins and scripting -- Additional topics

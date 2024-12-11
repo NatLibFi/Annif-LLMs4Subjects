@@ -1,2 +1,0 @@
-Recursion Theory Week : Proceedings of a Conference held in Oberwolfach, FRG, March 19-25, 1989
-These proceedings contain research and survey papers from many subfields of recursion theory, with emphasis on degree theory, in particular the development of frameworks for current techniques in this field. Other topics covered include computational complexity theory, generalized recursion theory, proof theoretic questions in recursion theory, and recursive mathematics

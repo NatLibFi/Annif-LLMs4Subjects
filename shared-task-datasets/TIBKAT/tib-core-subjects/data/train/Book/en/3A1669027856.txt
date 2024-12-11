@@ -1,2 +1,0 @@
-Brain network analysis
-Statistical preliminary -- Brain network nodes and edges -- Graph theory -- Correlation networks -- Big brain network data -- Network simulations -- Persistent homology -- Diffusions on graphs -- Sparse networks -- Brain network distances -- Combinatorial inferences for networks -- Series expansion of connectivity matrices

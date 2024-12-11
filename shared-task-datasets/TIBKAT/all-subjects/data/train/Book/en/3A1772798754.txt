@@ -1,2 +1,0 @@
-Singular value decomposition for imaging applications
-Singular value decomposition (SVD) is one of the most useful results of linear algebra with many applications. However, it is rarely discussed in books and classes. This Spotlight describes SVD, its applications to imaging, and its computation in a single introductory text. Sample code is included for illustration.

@@ -1,2 +1,0 @@
-Mastering Typoscript: Typo3 website, template, and extension development : a complete guide to understanding and using TypoScript, TYPO3's powerful configuration language
-Provides step-by-step instructions on using TypoScript for TYPO3 website development, template and extension development, and back-end and front-end administration. This book is suitable for TYPO3 developers, administrators, and designers who want to develop fully featured TYPO3 websites using the power of TypoScript.

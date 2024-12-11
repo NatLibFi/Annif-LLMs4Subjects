@@ -1,2 +1,0 @@
-Probability and Banach Spaces : Proceedings of a Conference held in Zaragoza, Spain June 17–21, 1985
-On the dunford and pettis integrals -- Real semigroups in commutative banach algebras -- Brownian motion and UMD-spaces -- Lectures on the central limit theorem for empirical processes -- Some applications of vector-valued analytic and harmonic functions -- Differentiability properties of vector valued functions -- Malliavin calculus and stochastic integrals -- Martingale and integral transforms of banach space valued functions.

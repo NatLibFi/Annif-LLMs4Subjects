@@ -1,2 +1,0 @@
-Webentwicklung mit CakePHP : [Rapid Web Development mit dem MVC-Framework ; aktuell zu CakePHP 1.3]
-Die vorliegende Ausgabe behandelt die Version 1.3 von CakePHP. Mit der Version 1.3 ist CakePHP kompatibel mit PHP 5.3 geworden.

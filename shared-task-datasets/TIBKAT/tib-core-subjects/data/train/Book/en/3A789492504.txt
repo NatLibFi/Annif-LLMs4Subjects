@@ -1,2 +1,0 @@
-AngularJS : up and running : [enhanced productivity with structured web apps]
-Introducing AngularJS -- Basic AngularJS directives and controllers -- Unit testing in AngularJS -- Forms, inputs, and services -- All about AngularJS services -- Server communication using $http -- Unit testing services and XHRs -- Working with filters -- Unit testing filters -- Routing using ngRoute -- Directives -- Unit testing directives -- Advanced directives -- End-to-end testing -- Guidelines and best practices

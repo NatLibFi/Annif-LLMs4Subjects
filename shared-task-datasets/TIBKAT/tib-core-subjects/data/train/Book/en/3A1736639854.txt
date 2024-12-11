@@ -1,2 +1,0 @@
-Advances in neutron optics : fundamentals and applications in materials science and biomedicine
-SECTION I: An Introductory Approach to the Foundations of Neurton Optics. 1. Neutron Optics- Fundamentals. 2. Neutron Matter-WaveDiffraction: A Computational Perspective. 3. Neutron Confinement and Waveguiding.SECTION II Neutron Optics-Based Technologies and Applications.4. Neutron Imaging.5. Neutron Spin Optics: Concepts, Verification and Prospects. 6. Applications of Neutron Optics to Biomedicine: BNCT.

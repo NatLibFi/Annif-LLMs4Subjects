@@ -1,2 +1,0 @@
-The internet of things and big data analytics : integrated platforms and industry use cases
-"This book is presents academic and practical research in IoT and big data. With contributions from both practitioners and academic researchers, the book examines new technology and compares it to existing technology. Experimental case studies are related to real-time scenarios"--

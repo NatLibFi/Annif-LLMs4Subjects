@@ -1,2 +1,0 @@
-Stackelberg Differential Games in Economic Models
-and overview -- Game theory and economics -- Mathematical formulation of differential games -- Solutions of hierarchical differential games -- Regional investment allocation problem -- Stackelberg games in linear programming context -- Application to a world industrialization model -- Econometric models: Adaptive games.

@@ -1,2 +1,0 @@
-Basic surfaces and their analysis
-This book is an introduction to the basics of surface science. The Nobel Prize winner Wolfgang Pauli's statement, 'God made solids, but surfaces were the work of the devil!' emphasizes the diabolic nature of surfaces. Surfaces are the external border of materials to the external worlds, thus by exploring surfaces one can investigate the material. In the last few decades new and exciting surface properties have been explored in nanomaterials, low-dimensional structures in electronic and photonic devices and other numerous applications.

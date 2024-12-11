@@ -1,2 +1,0 @@
-Biochips and medical imaging
-"Biochips are essentially miniaturized laboratories that can perform hundreds or thousands of simultaneous biochemical reactions. Biochips enable researchers to quickly screen large numbers of biological analytes for a variety of purposes, from disease diagnosis to detection of bioterrorism agents. Protein microarrays, antibody microarrays, and chemical compound microarrays can also be produced using biochips"--

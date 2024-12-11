@@ -1,2 +1,0 @@
-GIS tutorial for ArcGIS Pro 3.1
-GIS Tutorial for ArcGIS Pro 3.1 is the book of choice for classrooms and self-learners seeking to develop their expertise with Esri's premier desktop geographic information system (GIS) technology - no prior experience is necessary. This fifth edition features new datasets, tutorials, and instructional text guiding you step by step through the latest tools and workflows. Examples in the book use current, real-world scenarios as you learn to make maps and find, create, and analyze spatial data while using ArcGIS Pro and ArcGIS Online

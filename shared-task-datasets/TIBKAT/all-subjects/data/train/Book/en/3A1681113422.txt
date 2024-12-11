@@ -1,2 +1,0 @@
-Avatar-based control, estimation, communications, and development of neuron multi-functional technology platforms
-"This book presents techniques, case studies, and methodologies that combine the use of intelligent artificial and natural approaches with optimization techniques for facing problems and combines many types of hardware and software with a variety of communication technologies to enable the development of innovative applications"--

@@ -1,3 +1,0 @@
-Attosecond and strong-field physics : principles and applications
-"This book provides an intuitive approach to this emerging field utilising simplified models to develop a clear understanding of how matter interacts with attosecond pulses of light"--
-Elements of atoms, molecules and wave propagation -- Basic formulation of interactions between an intense laser pulse and atoms -- Strong field ionization and low-energy electron spectra of atoms and molecules -- Rescattering and laser-induced electron diffraction -- Fundamentals of high-order harmonic generation -- Applications of high-order harmonics: HHG spectroscopy and optimization of harmonics -- Generation and characterization of attosecond pulses -- Probing electron dynamics with isolated attosecond pulses

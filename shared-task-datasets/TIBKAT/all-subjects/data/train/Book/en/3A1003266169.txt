@@ -1,2 +1,0 @@
-Reconstructing reality : models, mathematics, and simulations
-This text examines issues related to the way modelling and simulation enable us to reconstruct aspects of the world we are investigating. It also investigates the processes by which we extract concrete knowledge from those reconstructions and how that knowledge is legitimated

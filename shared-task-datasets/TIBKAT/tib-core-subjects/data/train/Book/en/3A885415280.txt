@@ -1,2 +1,0 @@
-Free and open source software in modern data science and business intelligence : emerging research and opportunities
-"This book explores macro and micro studies of FOSS ecology, studies of project tasks, an exploratory analysis of free and open source software ecology, finds of influential nodes in Sourceforge.net using Social Net-work analysis, graph mining approaches to studying volunteer relationships in Sourceforge.net, and a multi-step process towards integrating free and open source software in engineering education"--

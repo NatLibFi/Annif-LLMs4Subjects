@@ -1,2 +1,0 @@
-Pro Windows Phone 7 development : [master the art of creating authentic mobile applications on Microsoft's newest platform]
-Presents information on creating Windows Phone 7 applications with Silverlight, .NET, XNA Framework, Visual Studio, and Expression Blend--

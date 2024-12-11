@@ -1,2 +1,0 @@
-Hilbert schemes of points and infinite dimensional Lie algebras
-Part 1. Hilbert schemes of points on surfaces -- Part 2. Hilbert schemes and infinite dimensional Lie algebras -- Part 3. Cohomology rings of Hilbert schemes of points -- Part 4. Equivariant cohomology of the Hilbert schemes of points -- Part 5. Gromov-Witten theory of the Hilbert schemes of points

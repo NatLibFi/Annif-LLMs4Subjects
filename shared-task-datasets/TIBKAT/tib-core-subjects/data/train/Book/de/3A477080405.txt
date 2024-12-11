@@ -1,2 +1,0 @@
-Algebraische Topologie : Homologie und Mannigfaltigkeiten
-Homologie - Singuläre Homologie - CW-Komplexe - Euler-Charakteristik und Lefschetz-Zahlen - Kohomologie - Homologische Algebra - Produkte - Dualität - Glatte Mannigfaltigkeiten und ihr Tangentialbündel - Elementare Lineare Algebra - Parametrisierte Lineare Algebra - Differentialformen - Der Satz von Stokes - De Rham Kohomologie - Der Satz von de Rham

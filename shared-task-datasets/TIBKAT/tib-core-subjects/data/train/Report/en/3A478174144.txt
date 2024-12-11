@@ -1,2 +1,0 @@
-Entwicklung eines Ölskimmingverfahrens zur seegangsunabhängigen Ölbekämpfung : Abschlussbericht
-Oil spill, oil skimming, CFD-analysis, VOF method, multi-phase flow simulation, 3D numerical simulation, grid generation

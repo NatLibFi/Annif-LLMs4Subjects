@@ -1,2 +1,0 @@
-The Geometry of Schemes
-Basic Definitions -- Examples -- Projective Schemes -- Classical Constructions -- Local Constructions -- Schemes and Functors.

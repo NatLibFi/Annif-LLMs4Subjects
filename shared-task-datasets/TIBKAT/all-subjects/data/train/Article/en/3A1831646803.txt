@@ -1,2 +1,0 @@
-Chapter 61 Intertemporal Substitution and Risk Aversion
-We study structural models of stochastic discount factors and explore alternative methods of estimating such models using data on macroeconomic risk and asset returns. Particular attention is devoted to recursive utility models in which risk aversion can be modified without altering intertemporal substitution. We characterize the impact of changing the intertemporal substitution and risk aversion parameters on equilibrium short-run and long-run risk prices and on equilibrium wealth.

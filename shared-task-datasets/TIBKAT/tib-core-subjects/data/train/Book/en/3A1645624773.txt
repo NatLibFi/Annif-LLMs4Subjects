@@ -1,2 +1,0 @@
-A course on partial differential equations
-Introduction -- Wave equations -- The heat equation -- Laplace's equation -- Properties of the Fourier transform -- Wave equations on Rn -- Dispersion -- Conservation laws and shocks

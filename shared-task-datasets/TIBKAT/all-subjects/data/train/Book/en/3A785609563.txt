@@ -1,2 +1,0 @@
-Particulate and gaseous contamination in datacom environments
-"Provides information that is essential to the prevention and control of particulate and gaseous contamination within datacom facilities and gives a common set of guidelines for contamination prevention and control that can enhance datacom equipment reliability"--

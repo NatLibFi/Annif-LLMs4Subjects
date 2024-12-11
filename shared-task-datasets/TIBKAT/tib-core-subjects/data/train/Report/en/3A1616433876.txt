@@ -1,2 +1,0 @@
-Web semantics and ontology
-This book provides an overview of current research and development activities in the area of web semantics and ontology, giving an in-depth description of different issues, including modeling, using ontologies in enterprise systems, querying and knowledge discovering of ontologies.

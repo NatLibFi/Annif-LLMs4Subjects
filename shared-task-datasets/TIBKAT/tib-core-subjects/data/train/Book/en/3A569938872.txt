@@ -1,2 +1,0 @@
-Deploying rails applications : a step-by-step guide
-Provides information on optimizing Rails applications, covering such topics as working with source controls, setting up a Rails/nginx/Mongrel cluster, and depolying applications to multiple production servers

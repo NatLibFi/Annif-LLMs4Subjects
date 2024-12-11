@@ -1,2 +1,0 @@
-Numerical Methods in Fluid Dynamics : Lectures given at the 3rd 1983 Session of the Centro Internationale Matematico Estivo (C.I.M.E.) held at Como, Italy, July 7–15, 1983
-Finite element, least squares and domains decomposition methods for the numerical solution of nonlinear problems in fluid dynamics -- Topics in spectral methods -- Transonic flow calculations for aircraft -- An analysis of particle methods.

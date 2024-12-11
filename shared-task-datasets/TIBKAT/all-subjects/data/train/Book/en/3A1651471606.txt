@@ -1,2 +1,0 @@
-Geometric Structure of High-Dimensional Data and Dimensionality Reduction
-Adopting data geometry as a framework to address dimensionality reduction, this volume introduces well known linear methods, stressing recently developed ones, and covers various dimensionality reduction applications including hyperspectral imagery

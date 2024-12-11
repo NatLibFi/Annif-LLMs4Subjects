@@ -1,2 +1,0 @@
-Information systems reengineering for modern business systems : ERP, supply chain and e-commerce management solutions
-"This book covers different techniques that could be used in industry in order to reengineer business processes and legacy systems into more flexible systems capable of supporting modern trends such as Enterprise Resource Planning (ERP), supply chain management systems and e-commerce"--Provided by publisher

@@ -1,2 +1,0 @@
-GUI Design for Android Apps
-GUI Design for Android Apps is the perfect-and concise-introduction for mobile app developers and designers. Through easy-to-follow tutorials, code samples, and case studies, the book shows the must-know principles for user-interface design for Android apps running on the Intel platform, including smartphones, tablets and embedded devices. This book is jointly developed for individual learning by Intel Software College and China Shanghai JiaoTong University, and is excerpted from Android Application Development for the Intel® Platform

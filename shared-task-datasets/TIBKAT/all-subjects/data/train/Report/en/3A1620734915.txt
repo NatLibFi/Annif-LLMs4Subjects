@@ -1,2 +1,0 @@
-Turing computability : theory and applications
-"Turing's famous 1936 paper introduced a formal definition of a computing machine, a Turing machine. This model led to both the development of actual computers and to computability theory, the study of what machines can and cannot compute. This book presents classical computability theory from Turing and Post to current results and methods, and their use in studying the information content of algebraic structures, models, and their relation to Peano arithmetic."--

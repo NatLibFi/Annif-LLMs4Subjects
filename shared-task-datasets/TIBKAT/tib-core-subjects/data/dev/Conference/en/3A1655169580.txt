@@ -1,2 +1,0 @@
-Nonlinear Diffusion Problems : Lectures given at the 2nd 1985 Session of the Centro Internazionale Matermatico Estivo (C.I.M.E.) held at Montecatini Terme, Italy June 10 – June 18, 1985
-The porous medium equation -- Qualitative methods for nonlinear diffusion equations -- Reaction-diffusion problems in chemical engineering -- Rearrangements of functions and partial differential equations.

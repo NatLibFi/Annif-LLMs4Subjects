@@ -1,3 +1,0 @@
-Advances in Bioinformatics and Computational Biology : 12th Brazilian Symposium on Bioinformatics, BSB 2019, Fortaleza, Brazil, October 7-10, 2019, Revised Selected Papers
-This book constitutes the refereed proceedings of the Brazilian Symposium on Bioinformatics, BSB 2019, held in Fortaleza, Brazil in October 2019. The 9 revised full papers and 3 short papers were carefully reviewed and selected from 22 submissions. The papers address a broad range of current topics in computational biology and bioinformatics.
-Bioinformatics. - Computational biology -- Computational genomics -- Population genetics -- Recognition of genes and regulatory elements -- Computational proteomics -- Molecular sequence analysis -- Health informatics -- Machine learning.

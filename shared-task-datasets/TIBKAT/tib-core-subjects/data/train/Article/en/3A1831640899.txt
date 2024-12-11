@@ -1,2 +1,0 @@
-Chapter 33 Agent-based Modeling as a Bridge Between Disciplines
-Using the author's own experiences, this chapter shows how agent-based modeling (ABM) can address research questions common to many disciplines, facilitate interdisciplinary collaboration, provide a useful multidisciplinary tool when the math is intractable, and reveal unity across disciplines. While ABM can be a hard sell, convergence within the agent-based community can enhance the interdisciplinary value of the methodology.

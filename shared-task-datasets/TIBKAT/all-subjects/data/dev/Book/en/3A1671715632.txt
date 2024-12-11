@@ -1,2 +1,0 @@
-Machine learning and its applications
-"This book describes Machine Learning techniques and algorithms that have been used in recent real-world application. It provides an introduction to Machine Learning, describes the most widely used techniques and methods. It also covers Deep Learning and related areas such as function approximation or. The book gives real world examples where Machine Learning techniques are applied and describes the basic math and the commonly used learning techniques"--

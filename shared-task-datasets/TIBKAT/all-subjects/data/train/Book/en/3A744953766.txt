@@ -1,2 +1,0 @@
-General Decoupling Theory of Multivariable Process Control Systems
-Description of multivariable coupled systems -- Design of rejection to disturbances for single variable control systems -- Difficulty of analysis of multivariable coupled systems -- Some general principles for decoupling design -- Some special decoupling design methods -- Some realization problems in decoupling design -- The Bristol-Shinskey method -- Distillation column control.

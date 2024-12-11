@@ -1,2 +1,0 @@
-Das Sensor-Buch : [die Welt messen mit Elektronik, Arduino und Raspberry Pi]
-Zusammenstellung von 20 Projekten, die zeigen, wie Umweltdaten mit Sensoren (gestützt auf Arduino und Raspberry Pi) erfasst und verarbeitet werden können

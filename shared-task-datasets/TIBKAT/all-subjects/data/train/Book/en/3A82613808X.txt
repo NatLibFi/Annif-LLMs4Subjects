@@ -1,2 +1,0 @@
-Accelerating discovery : mining unstructured information for hypothesis generation
-"As the volume of scientific data and literature increases exponentially, scientists need more powerful tools and methods to process and synthesize information and to formulate new hypotheses that are most likely to be both true and important. Accelerating Discovery: Mining Unstructured Information for Hypothesis Generation describes a novel approach to scientific research that uses unstructured data analysis as a generative tool for new hypotheses."--

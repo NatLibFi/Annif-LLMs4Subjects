@@ -1,2 +1,0 @@
-The Concordance-Homotopy Groups of Geometric Automorphism Groups
-Preliminary definitions and lemmas -- The groups ?i(a; M rel X) and ?i+1(B, a; M rel X) -- Exactness and naturality -- Special computations of ?i(a; M rel X) -- A classification theorem for ?i(B, a; M rel X) -- Proof of the classification theorem.

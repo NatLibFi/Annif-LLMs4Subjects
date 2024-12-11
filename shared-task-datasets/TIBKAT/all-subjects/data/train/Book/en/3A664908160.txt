@@ -1,2 +1,0 @@
-Self-organizing networks : self-planning, self-optimization and self-healing for GSM, MTS, and LTE
-"The book offers a multi-technology approach as it will consider the implications of the different SON requirements for 2G and 3G networks, as well as 4G wireless technologies"--

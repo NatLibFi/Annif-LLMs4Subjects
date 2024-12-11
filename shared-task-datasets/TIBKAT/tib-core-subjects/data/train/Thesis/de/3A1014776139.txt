@@ -1,2 +1,0 @@
-Tunable decoupling and matching concepts for compact mobile terminal antennas
-Mobile terminal antennas, frequency reconfigurability, decoupling and matching networks. - Antennen für mobile Endgeräte, Rekonfigurierbarkeit, Entkopplungs- und Anpassnetzwerke

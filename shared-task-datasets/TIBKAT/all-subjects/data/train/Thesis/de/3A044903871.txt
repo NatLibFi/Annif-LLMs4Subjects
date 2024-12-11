@@ -1,2 +1,0 @@
-Statische und dynamische Oligopolmodelle : ein Beitrag zur Entscheidungstheorie in Oligopolsituationen
-Alle Betrachtungen in dieser Arbeit sind betriebswirtschaftlich orientiert, werden also vom Standpunkt der Unternehmung aus angestellt. Deshalb steht im Mittelpunkt des Interesses die Frage, welchen Preis ein Unternehmen in einer Oligopolsituation unter Berücksichtigung der gegebenen Datenkonstellation setzen muß, um sich seiner Zielsetzung entsprechend zu verhalten.

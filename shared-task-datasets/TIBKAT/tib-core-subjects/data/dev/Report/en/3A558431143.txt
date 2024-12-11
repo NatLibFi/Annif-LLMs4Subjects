@@ -1,2 +1,0 @@
-Lifetime estimation of welded joints
-"Two models of lifetime estimation due to fatigue, based on stresses and the strain energy density parameter are presented in this book. For the uniaxial loading state it discusses the model using local stresses was discussed. This model includes a value of the theoretical notch coefficient. In concludes that fatigue life of steel welded joints does not depend on a kind of material."--

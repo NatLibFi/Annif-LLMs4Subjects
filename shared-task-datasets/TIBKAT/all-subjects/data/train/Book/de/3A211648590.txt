@@ -1,2 +1,0 @@
-Mathematik für Wirtschaftswissenschaftler
-Aus dem Inhalt: Elementare Grundlagen. Funktionen. Folgen, Reihen, Grenzwerte, Finanzmathematik. Differentialrechnung bei Funktionen mit einer unabhängigen Variablen. Differentialrechnung bei Funktionen mit mehreren unabhängigen Variablen. Elastizitäten. Grundzüge der Integralrechnung. Grundzüge der Differentialgleichungen. Lineare Algebra. Kombinatorik. Wahrscheinlichkeitsrechnung. Netzplantechnik. Einige Logeleien. Aufgaben. Lösungen. Musterklausuren.

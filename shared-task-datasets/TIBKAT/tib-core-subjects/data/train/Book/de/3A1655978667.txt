@@ -1,2 +1,0 @@
-Vorkurs Informatik : Der Einstieg ins Informatikstudium
-Ausgehend von Beispielen werden die grundlegenden Konzepte der Informatik vermittelt. Der Schwerpunkt liegt auf dem Algorithmenbegriff und auf einer Einführung in die Programmierung auf Grundlage der Programmiersprache Java. Ferner wird an die Aufwandsanalyse von Algorithmen und die Funktionsweise von Rechnern herangeführt. Die beiliegende CD enthält alles was man braucht um sofort loszulegen. So gelingt der Einstieg ins Informatikstudium!

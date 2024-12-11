@@ -1,2 +1,0 @@
-Ubiquitous computing : design, implementation, and usability
-"This book highlights usability theories, techniques, tools and best practices in these environments. It shows usable and useful systems are able to be achieved in ways that will improve usability to enhance user experiences. Research on the usability issues for young children, teenagers, adults, and the elderly is presented, with techniques for the mobile, ubiquitous, and virtual environments"--Provided by publisher

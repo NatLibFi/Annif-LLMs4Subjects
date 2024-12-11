@@ -1,2 +1,0 @@
-Ubiquitous multimedia and mobile agents : models and implementations
-"This book provides the hybridization of two paradigms, namely, ubiquitous/mobile multimedia and mobile agents, where mobile agents act as the platform to realize mobile multimedia delivery infrastructure"--Provided by publisher

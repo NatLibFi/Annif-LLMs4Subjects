@@ -1,2 +1,0 @@
-Handbook of research on information security in biomedical signal processing
-"This book explores the development of intelligent techniques for the information security in the area of biomedical image and signal processing. It emphasizes on data security and content protection in modern health care system"--

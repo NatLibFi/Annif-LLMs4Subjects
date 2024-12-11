@@ -1,2 +1,0 @@
-Cloud, grid and high performance computing : emerging applications
-"This book offers new and established perspectives on architectures, services and the resulting impact of emerging computing technologies, including investigation of practical and theoretical issues in the related fields of grid, cloud, and high performance computing"--Provided by publisher

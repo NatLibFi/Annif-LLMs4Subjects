@@ -1,2 +1,0 @@
-MOVE : Architektur in Bewegung ; dynamische Komponenten und Bauteile
-Theorie und Planung: Konzepte von Bewegung am Objekt und im Raum -- Konstruktion -- Verbindungen -- Aggregatszustand -- Anwendung und Funktion: Nutzung ändern und erweitern -- Energie sparen und gewinnen --  Interaktion -- Gebäude und Bauteile: Drehen -- Rotieren -- Klappen -- Schieben -- Falten -- Verketten, Verbinden -- Raffen und Rollen -- Pneumatik

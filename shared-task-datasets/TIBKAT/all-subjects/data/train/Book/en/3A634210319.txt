@@ -1,2 +1,0 @@
-Introducing HTML 5
-This book taps into the interest and questions web designers and developers have about the exciting adoption of HTML5. These authors have been working with the spec from the beginning and offer real-world applications that can be applied now, as well as insight into the more problematic aspects that still need work and development

@@ -1,2 +1,0 @@
-Handbook of research on emerging advancements and technologies in software engineering
-"This book presents a comprehensive investigation of the most recent discoveries in software engineering research and practice, with studies in software design, development, implementation, testing, analysis, and evolution"--

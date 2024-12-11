@@ -1,2 +1,0 @@
-Cognitive Internet of things : enabling technologies, platforms, and use cases
-"This book clarifies for readers concepts of cognitive Internet of Things (IoT) along with the use cases and other supporting technologies like artificial intelligence and machine learning that are key enablers of the cognitive IoT ecosystem. Different platforms like IBM Watson and product specific use cases like Amazon Alexa are covered in detail"--

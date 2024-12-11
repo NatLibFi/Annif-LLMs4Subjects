@@ -1,2 +1,0 @@
-Distributed source coding : theory and practice
-Lossless compression of correlated sources -- Wyner-Ziv coding theory -- Lossy distributed source coding -- Slepian-Wolf code designs based on channel coding -- Distributed arithmetic coding -- Wyner-Ziv code design -- Wyner-Ziv video coding -- Correlation estimation in DVC -- DSC for solar image compression -- Secure distributed image coding -- Secure biometric authentication using DSC

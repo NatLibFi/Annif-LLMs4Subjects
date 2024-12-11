@@ -1,2 +1,0 @@
-Nonlinear Optics of Random Media : Fractal Composites and Metal-Dielectric Films
-Nonlinear Optics of Random Media reviews recent advances in in one of the most prominent fields of physics. It provides an outline of the basic models of irregular structures of random inhomogeneous media and the approaches used to describe their linear electromagnetic properties. Nonlinearities in random media are also discussed. The chapters can be read independently, so scientists and students interested in a specific problem can go directly to the relevant text

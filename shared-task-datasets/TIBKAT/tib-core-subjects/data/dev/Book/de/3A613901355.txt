@@ -1,2 +1,0 @@
-C++ für Ingenieure : effizient Programmieren erlernen
-Der Student und Praktiker erhält Lösungen von einfachen und komplexen technischen Fragestellungen auf der Basis einer soliden C++ Programmierung. Ein Schwerpunkt liegt dabei auf der objektorientierten und generischen Programmierung. Das breite Spektrum von Anwendungsbeispielen ist leicht nachvollziehbar und erlaubt schrittweise eine Steigerung des Niveaus. Das Buch enthält ebenso Anregungen zu weiterführenden Arbeiten.

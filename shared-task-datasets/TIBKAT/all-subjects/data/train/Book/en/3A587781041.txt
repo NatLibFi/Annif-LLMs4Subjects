@@ -1,2 +1,0 @@
-Java SOA cookbook : [SOA implementation recipes, tips, and techniques]
-Focuses on service-oriented architecture: web services, orchestrations, poliices, and more - for developers

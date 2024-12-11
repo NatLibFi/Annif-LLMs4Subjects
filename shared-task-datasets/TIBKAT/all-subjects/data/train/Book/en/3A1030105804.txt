@@ -1,3 +1,0 @@
-U-Statistics, Mm-Estimators and Resampling
-This is an introductory text on a broad class of statistical estimators that are minimizers of convex functions. It covers the basics of U-statistics and Mm-estimators and develops their asymptotic properties. It also provides an elementary introduction to resampling, particularly in the context of these estimators. The last chapter is on practical implementation of the methods presented in other chapters, using the free software R
-Chapter 1. Introduction to U-statistics -- Chapter 2. M-estimators and U-statistics -- Chapter 3. Introduction to resampling -- Chapter 4. Resampling U-statistics and M-estimators -- Chapter 5. An Introduction to R

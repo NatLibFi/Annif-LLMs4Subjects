@@ -1,2 +1,0 @@
-Vorlesungen über asymptotische Reihen
-Grundeigenschaften -- Existenzsätze -- Eindeutigkeitssätze -- Struktureigenschaften -- Asymptotische Entwicklungen spezieller Funktionen -- Numerische Anwendungen

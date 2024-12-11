@@ -1,2 +1,0 @@
-Mathematische Formelsammlung : für Ingenieure und Naturwissenschaftler ; mit zahlreichen Rechenbeispielen und einer ausführlichen Integraltafel
-Verlagstext: Diese Formelsammlung folgt in Aufbau und Stoffauswahl dem bewährten dreibändigen Lehrbuch Mathematik für Ingenieure und Naturwissenschaftler und enthält alle wesentlichen für das naturwissenschaftlich-technische Studium benötigten mathematischen Formeln. Neu aufgenommen wurde in der 9. Auflage die Fourier-Transformation.

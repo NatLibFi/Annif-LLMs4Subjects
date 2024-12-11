@@ -1,2 +1,0 @@
-Intelligente Software zur Untersuchung und Lösung von Aufgaben zur Analyse der Festigkeit von Konstruktionen : ISKON ; [Schlussbericht] ; [Abschlußdatum des Vorhabens: 31. Dezember 2001]
-MIMD-computer, intelligent software, intelligent interface, strength analysis, hidden parallelizm, parallel algorithms, reliability of solution, approximate initial data, machine model

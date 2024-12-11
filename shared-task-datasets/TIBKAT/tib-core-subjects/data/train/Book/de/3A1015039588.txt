@@ -1,2 +1,0 @@
-Gestalten und Berechnen : Lehrbuch für Konstrukteure im Maschinenbau
-$uEinleitung -- Konstruktionsmethodik -- Gestalten und Berechnen -- Gestalten und Berechnen von Maschinenteilen -- Gestalten und Berechnen von Baugruppen und speziellen Bauteilen -- Gestalten und Berechnen mithilfe von CAD -- Fertigungsgerechtes Gestalten -- Nutzungsgerechtes Gestalten -- Bewerten von konstruktiven Lösungen -- Konstruktionsdokumentation

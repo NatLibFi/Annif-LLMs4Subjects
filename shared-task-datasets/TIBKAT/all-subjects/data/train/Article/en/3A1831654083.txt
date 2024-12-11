@@ -1,2 +1,0 @@
-Chapter 7. DSGE Models for Monetary Policy Analysis
-Monetary DSGE models are widely used because they fit the data well and they can be used to address important monetary policy questions. We provide a selective review of these developments. Policy analysis with DSGE models requires using data to assign numerical values to model parameters. The chapter describes and implements Bayesian moment matching and impulse response matching procedures for this purpose.

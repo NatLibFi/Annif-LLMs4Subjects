@@ -1,2 +1,0 @@
-Elegant fractals : automated generation of computer art
-Preliminaries -- Search techniques -- Iterated maps -- Chaotic flows -- Iterated function systems -- Escape-time plots -- Spatiotemporal systems -- Random fractals -- Fractal tessellations -- Epilog.

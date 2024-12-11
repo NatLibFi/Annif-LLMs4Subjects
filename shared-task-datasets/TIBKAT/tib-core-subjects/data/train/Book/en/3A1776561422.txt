@@ -1,2 +1,0 @@
-Software engineering for automotive systems : principles and applications
-"This reference text discusses developments in the field of software engineering for automotive systems. The text presents detailed discussion of key important concepts including timing analysis and reliability, validation and verification of automotive systems, AUTOSTAR architecture for electric vehicle, automotive grade Linux for connected cars, open-source architecture in automotive software industry, and communication protocols in automotive software development process"--

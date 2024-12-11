@@ -1,2 +1,0 @@
-Practical optical interferometry : imaging at visible and infrared wavelengths
-Principal symbols, functions and operators; List of abbreviations; Foreword; Preface; 1. Making fringes; 2. Basic imaging; 3. Atmospheric seeing and its amelioration; 4. Interferometers in practice; 5. Measurement noise; 6. Interferometric observation of faint objects; 7. Observation planning; 8. Data reduction; 9. Model-fitting and image reconstruction; Appendix A. Fourier transforms; Appendix B. Supplementary online material; References; Index.

@@ -1,2 +1,0 @@
-Pragmatic guide to JavaScript
-Provides information on JavaScript, covering such topics as DOM, events, timers, mashups, forms, and Ajax--

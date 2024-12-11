@@ -1,2 +1,0 @@
-The metrics of material and metal ecology : harmonizing the resource, technology and environmental cycles
-Accompanying CD-ROM contains ... "software and computer models (running under Matlab's Simulink and AMPL as well as tools based on neural net technologhy (CSense))." -- p. [4] of cover

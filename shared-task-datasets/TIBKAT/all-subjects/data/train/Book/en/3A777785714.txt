@@ -1,2 +1,0 @@
-Dynamics of complex quantum systems
-"This second edition has been expanded to include substantial new material (e.g. new sections on Dynamic Localization and on Euclidean Random Matrices and new chapters on Entanglement, Open Quantum Systems, and Coherence Protection). It is based on the author's lectures at the Moscow Institute of Physics and Technology, at the CNRS Aimé Cotton Laboratory, and on other courses he has given over the last two decades."--

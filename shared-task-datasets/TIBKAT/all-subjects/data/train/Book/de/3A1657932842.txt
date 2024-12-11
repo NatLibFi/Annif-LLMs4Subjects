@@ -1,3 +1,0 @@
-Globale Optimierung : Ein informationstheoretischer Zugang
-Die Monographie stellt einen informationstheoretischen Zugang zur globalen Optimierung vor, der insbesondere die Behandlung hochdimensionaler Problem erlaubt; Fragestellungen aus der Kommunikationstechnik und den Wirtschaftswissenschaften werden detailliert behandelt. Die mathematischen Grundlagen sowie Implementierungsdetails werden im Buch präsentiert.
-Teil I Theoretische Grundlagen. Mathematik der Information -- Das thermodynamische Paradigma des Informationflusses -- Teil I Theoretische Grundlagen. Minimierungsprobleme ohne Nebenbedingungen -- Minimierungsprobleme mit Nebenbedingungen -- Literatur -- Index.

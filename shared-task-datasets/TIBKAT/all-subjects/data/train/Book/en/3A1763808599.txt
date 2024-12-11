@@ -1,2 +1,0 @@
-Computational multiphase geomechanics
-"This text covers recent progress in several key areas, such as air-water-soil mixture, cyclic constitutive models, anisotropic models, noncoaxial models, gradient models, compaction bands, and the instability of unsaturated soils. It also includes computational modeling to large-scale excavation of ground and methane hydrate development"--

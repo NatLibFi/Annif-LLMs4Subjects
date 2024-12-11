@@ -1,2 +1,0 @@
-Design methodologies and tools for 5G network development and application
-"The book presents the enhancement methods of 4G communication, explores the method for faster communication and a promising alternative solution that equips designers with the capability to produce high performance, scalable and adoptable communication protocols"--

@@ -1,2 +1,0 @@
-Advances in Soft Computing — AFSS 2002 : 2002 AFSS International Conference on Fuzzy Systems Calcutta, India, February 3–6, 2002 Proceedings
-This book constitutes the thoroughly refereed proceedings of the AFFS International Conference on Fuzzy Systems, AFFS 2002, held in Calcutta, India, in Feburary 2002. The book presents 74 papers from 19 different countries selected out of approximately twice as many submissions. Among the topics addressed are fuzzy systems, soft computing, neural networks, pattern recognition, image processing, evolutionary computation, and data mining

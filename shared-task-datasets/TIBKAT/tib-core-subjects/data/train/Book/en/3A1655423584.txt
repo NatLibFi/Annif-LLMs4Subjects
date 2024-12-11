@@ -1,2 +1,0 @@
-Stochastic Epidemic Models and Their Statistical Analysis
-This book describes stochastic epidemic models and methods for statistically analyzing them. It is aimed at statisticians, biostatisticians, and biomathematicians

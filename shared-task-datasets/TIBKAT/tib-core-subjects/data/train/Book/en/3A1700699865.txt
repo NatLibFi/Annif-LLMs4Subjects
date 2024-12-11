@@ -1,2 +1,0 @@
-Precision metal additive manufacturing
-"This book aims to inform the reader how to improve the precision of metal AM processes by tackling the three principles of robustness, predictability and metrology"--

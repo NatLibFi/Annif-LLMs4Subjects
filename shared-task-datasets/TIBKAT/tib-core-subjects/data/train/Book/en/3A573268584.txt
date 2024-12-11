@@ -1,2 +1,0 @@
-Neutrino physics
-"Only six years have passed but neutrino physics kept its pace. New major discoveries make a second edition a timely and necessary. The solar neutrino problem has basically been solved, first real time measurement of solar neutrinos below 1 MeV, the first discovery of geoneutrinos, the start of new long baseline accelerator experiments and many more developments had to be included. To avoid a complete rewriting of the book the intension was to keep the original text as much as possible and implement the new results in a smooth way"--

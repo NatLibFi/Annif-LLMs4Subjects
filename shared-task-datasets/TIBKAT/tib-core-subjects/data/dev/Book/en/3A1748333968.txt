@@ -1,2 +1,0 @@
-Telemetry systems engineering
-This new resource clearly presents introductory and advanced concepts in telemetry systems (the technology of automatic data transmission and measurement) with an emphasis on digital communications. Geared to both beginning and seasoned engineers, specific details of telemetry systems are explained within the context of an overall system. The book helps engineers design telemetry systems to meet a specific bit error rates, and perform link analysis for the design of a communications link

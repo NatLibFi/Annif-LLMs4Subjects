@@ -1,2 +1,0 @@
-Vibration Simulation Using : MATLAB and ANSYS
-Incorporating the use of software to help with the solution of problems, this work explores vibration from a mathematical point of view. The author develops the associated equations of motion, then in each chapter includes both a closed-form solution and the MATLAB code for solving a problem

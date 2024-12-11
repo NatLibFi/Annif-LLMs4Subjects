@@ -1,2 +1,0 @@
-Microfabrication for microfluidics
-Providing a definitive source of knowledge about the principles, materials, and process techniques used in the fabrication of microfluidics, this practical volume is a must for your reference shelf. The book focuses on fabrication, but also covers the basic purpose, benefits, and limitations of the fabricated structures as they are applied to microfluidic sensor and actuator functions. You find guidance on rapidly assessing options and tradeoffs for the selection of a fabrication method with clear tabulated process comparisons

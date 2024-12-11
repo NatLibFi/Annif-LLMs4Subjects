@@ -1,2 +1,0 @@
-Defects of properties in mathematics : quantitative characterizations
-"This book introduces a method of reasearch which can be used in various fields of mathematics. It examines, in a systematic way, the quantitative characterizations of the "deviation from a (given) property", called the "defect of a property", in: set theory; topology; measure theory; real, complex and functional analysis; algebra; geometry; number theory; fuzzy mathematics"--P. [2] of cover

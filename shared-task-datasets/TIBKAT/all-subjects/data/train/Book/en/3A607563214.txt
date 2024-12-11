@@ -1,2 +1,0 @@
-Optimal reference shaping for dynamical systems : theory and applications
-Introduction -- Time-delay filter/input shaping -- Optimal control -- Saturating control -- Minimax control -- Friction control --  Numerical approach --  Van Loan exponential -- Differential Lyapunov equation --  Parseval's theorem

@@ -1,2 +1,0 @@
-Grenzflächenanalytik zur Beschreibung der Alterung von automotiven Lithium-Ionen-Zellen
-Li-Ionen Batterie, Alterung, Passivierungsschicht. - Li-ion battery, aging, solid-electrolyte-interface

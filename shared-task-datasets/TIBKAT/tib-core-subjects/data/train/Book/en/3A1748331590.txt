@@ -1,2 +1,0 @@
-Practical insight into CMMI
-Taking you beyond the Capability Maturity Model(R) to the integrated world of systems and software, this comprehensive resource presents CMMI(R) Version 1.2 in a manner that is easy to comprehend by higher-level managers and practitioners alike. Written by a world-renowned expert in the field, the book offers a clear picture of the activities an organization would be engaged in if their systems and software engineering processes were based on CMMI(R)

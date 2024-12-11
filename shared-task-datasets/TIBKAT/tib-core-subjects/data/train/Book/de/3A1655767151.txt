@@ -1,2 +1,0 @@
-Biostatistik : eine Einführung für Biowissenschaftler
-Alle für die Biowissenschaften notwendigen Grundlagen der Biostatistik im kompakten Überblick. Zahlreiche Beispiele veranschaulichen den Bezug zur Praxis und bereiten die Leser auf die erfolgreiche Durchführung eigener Forschungsprojekte vor. Auf der beigelegten CD werden alle im Buch behandelten Methoden mit Hilfe der gängigen Software SPSS, Excel und R unmittelbar in die Praxis umgesetzt

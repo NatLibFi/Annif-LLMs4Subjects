@@ -1,2 +1,0 @@
-Shell programming in Unix, Linux and OS X
-"A thoroughly updated revision of Kochan and Wood's classic 'Unix Shell programming' tutorial, ... [focusing] on the POSIX standard shell, and [teaching] ... how to develop programs in this useful programming environment"--Back cover

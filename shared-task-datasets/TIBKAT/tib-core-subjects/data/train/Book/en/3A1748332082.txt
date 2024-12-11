@@ -1,2 +1,0 @@
-Matching pursuit and unification in EEG analysis
-Although visual analysis of EEGs has been the state of the art in electroencephalography for 70 years, advanced signal processing methods offer a superior alternative in numerous biomedical clinical and research applications. This first-of-its-kind guide bridges the gap from visual analysis to signal processing techniques, providing engineers, researchers, and clinicians with an innovative, clear methodology for biomedical signal

@@ -1,2 +1,0 @@
-Synchronized Phasor Measurements for Smart Grids
-The use of advanced technologies such as Phasor Measurement Units (PMUs) have made it possible to transform the power grid to an intelligent Smart Grid with realtime control and monitoring of the system. This book explores the application of PMUs in power systems

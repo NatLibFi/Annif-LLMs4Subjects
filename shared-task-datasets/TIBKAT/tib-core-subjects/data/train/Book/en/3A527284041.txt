@@ -1,2 +1,0 @@
-Pro LINQ : language integrated query in C# 2008 ; [learn to use the power of Microsoft's ground-breaking new technology]
-Describes the features of Pro LINQ along with a collection of LINQ operators, prototypes, and code examples

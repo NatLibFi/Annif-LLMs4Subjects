@@ -1,2 +1,0 @@
-Leitprojekt WAYFLOW - Satellitengestützte Erfassung und Verwertung von Daten aus dem fließenden Verkehr (City-FCD) : Schlussbericht ; Teilprojekt: City-FCD
-Floating car data, traffic control, traffic information, services, traffic management, vehicle tracking

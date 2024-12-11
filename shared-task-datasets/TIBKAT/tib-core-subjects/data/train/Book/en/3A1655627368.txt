@@ -1,2 +1,0 @@
-Character theory of finite groups
-Algebras, modules and respresentations -- Group representations and characters -- Characters and integrality -- Products of characters -- Induced characters -- Normal subgroups -- T.I. sets and exceptional characters -- Brauer's theorem -- Changing the field -- The Schur index -- Projective representations -- Character degrees -- Character correspondence -- Linear groups -- Changing the characteristic

@@ -1,2 +1,0 @@
-Operational Quantum Theory II : Relativistic Structures
-Deals with quantum theory at an advanced algebraic level. This work features many structures, which allow the reader to better understand the applications of operational quantum theory, and to provide conceptually appropriate descriptions of the subject. It aims to understand more deeply what one is working with in nonrelativistic quantum theory

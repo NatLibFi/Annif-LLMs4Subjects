@@ -1,2 +1,0 @@
-Techniques and applications of digital watermarking and content protection
-This unique easy-to-use software is an integration of tools and simulators that help you solve the most common feedforward predistorted amplifier design equations, including calculating gain and loop balance, optimum coupling ratios, and more. It includes the tools you need everyday, such as a microstrip calculator and parallel coupler designer, to relieve you of lengthy calculations and help you predict the performance of a complex amplifier before all the blocks are together

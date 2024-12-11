@@ -1,2 +1,0 @@
-Reference modeling for business systems analysis
-"This book provides insights into state-of-the-art modeling languages and methods used for reference modeling. A reference model provides a blueprint for information systems development and analysis. Well-established reference models for industrial, retail and other industries are described"--Provided by publisher

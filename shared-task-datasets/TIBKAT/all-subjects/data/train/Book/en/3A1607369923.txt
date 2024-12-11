@@ -1,2 +1,0 @@
-Python pocket reference
-Updated for both Python 3.4 and 2.7, this guide provides concise information on Python types and statements, special method names, built-in functions and exceptions, commonly used standard library modules, and other prominent Python tools.--From back cover

@@ -1,2 +1,0 @@
-Short-memory linear processes and econometric applications
-Intro to operators, probabilities, and linear model -- Lp-approximable sequences of vectors -- Convergence of linear and quadratic forms -- Regressions with slowly varying regressors -- Spatial models -- Convergence almost everywhere -- Nonlinear models -- Tools for vector autoregressions

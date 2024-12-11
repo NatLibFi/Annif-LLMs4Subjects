@@ -1,2 +1,0 @@
-Wearable computing : from modeling to implementation of wearable systems based on body sensor networks
-Body sensor networks -- BSN programming frameworks -- Signal processing in-node environment -- Task-oriented programming in BSNs -- Autonomic body sensor networks -- Agent-oriented body sensor networks -- Collaborative body sensor networks -- Integration of body sensor networks and building networks -- Integration of wearable and cloud computing -- Development methodology for BSN systems -- SPINE-based body sensor networks applications -- SPINE at work

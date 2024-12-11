@@ -1,2 +1,0 @@
-Head first HTML with CSS & XHTML
-"A complete learning experience for creating industry standard Web pages - but you won't be just reading: you'll be playing games, solving puzzles, pondering mysteries and creating Web pages like you never imagined.  You'll be also learning how HTML works with CSS . . . if you're going to create Web pages in the 21st century, then you want to know and to understand CSS, too

@@ -1,2 +1,0 @@
-The R book
-The R language is recognised as one of the most powerful and flexible statistical software packages, and it enables the user to apply many statistical techniques that would be impossible without such software to help implement such large data sets

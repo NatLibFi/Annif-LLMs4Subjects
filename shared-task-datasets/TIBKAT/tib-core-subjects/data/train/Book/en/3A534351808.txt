@@ -1,2 +1,0 @@
-Handbook of computational intelligence in manufacturing and production management
-"This book focuses on new developments in computational intelligence in areas such as forecasting, scheduling, production planning, inventory control, and aggregate planning, among others. It provides cutting-edge knowledge on information technology developments for both researchers and professionals in fields such as operations and production management, Web engineering, artificial intelligence, and information resources management"--Provided by publisher

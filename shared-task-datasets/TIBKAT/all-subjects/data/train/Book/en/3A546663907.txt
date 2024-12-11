@@ -1,2 +1,0 @@
-Mechanical Systems, Classical Models : Volume I: Particle Mechanics
-Mechanics is the first science of nature which was expressed in terms of mathematics by considering various mathematical models, associated to phenomena of the surrounding nature. This book presents the continuous and discontinuous phenomena, and various mechanical magnitudes in a unitary form by means of the theory of distributions

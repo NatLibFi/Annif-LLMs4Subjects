@@ -1,2 +1,0 @@
-École d'Été de Probabilités de Saint-Flour XVIII - 1988
-This book contains three lectures each of 10 sessions; the first on Potential Theory on graphs and manifolds, the second on annealing and another algorithms for image reconstruction, the third on Malliavin Calculus

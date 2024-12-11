@@ -1,2 +1,0 @@
-Characterization and application of PEG-salt aqueous two-phase systems for liquid-liquid extraction of proteins
-Aqueous two-phase systems (ATPS), liquid-liquid extraction, protein partitioning, design of experiments (DoE). - Wässrige Zweiphasensysteme, flüssig-flüssig-Extraktion, Proteinverteilung, statistische Versuchsplanung

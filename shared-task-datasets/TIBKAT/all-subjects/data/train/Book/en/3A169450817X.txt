@@ -1,2 +1,0 @@
-Robust and error-free geometric computing
-"This is a how-to book for solving problems in actual practice. The contents and accompanying source code are based on the feature requests and feedback received from industry and academics who want both the descriptions and source code for hard-to-find implementations of geometric algorithms. The code is robust, as required by the applications they work on"--

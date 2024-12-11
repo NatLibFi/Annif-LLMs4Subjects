@@ -1,2 +1,0 @@
-A unified approach to SPDEs driven by semimartingale fields
-Unified approach, random fields, stochastic partial differential equations, mild and weak solutions, stochastic integration. - Einheitlicher Ansatz, zufälliges Feld, stochastische partielle Differentialgleichung, milde und schwache Lösungen, stochastische Integration

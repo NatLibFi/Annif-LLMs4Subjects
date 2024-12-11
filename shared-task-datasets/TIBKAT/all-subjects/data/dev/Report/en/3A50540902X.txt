@@ -1,2 +1,0 @@
-Verbundprojekt: 3D Workbench : Teilprojekt Produktkonfigurator ; Entwicklung einer ersten End-User-Applikation "Produktkonfigurator" auf der Basis von 3D Workbench ; Schlussbericht ; Laufzeit des Vorhabens: September 2002 bis Februar 2005
-Product configuration, product configurator, 3D workbench, web-based 3D-configuration of investment goods, mass customization, opensource, CAD-system

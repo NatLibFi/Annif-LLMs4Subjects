@@ -1,2 +1,0 @@
-Modulare, verteilte Hardware-Software-Architektur für humanoide Roboter
-Humanoide Roboter sind hochkomplexe Systeme. Sie zeichnen sich durch ein sehr heterogenes Sensor- und Aktorsystem aus, welches wiederum sehr hohe und breit gefächerte Anforderungen an die verwendete Architektur stellt. - Es wird sowohl der Entwurf einer funktionalen Steuerungsarchitektur, das verwendete Softwarerahmenwerk als auch die Abbildung auf eine dezidierte Hardwarearchitektur beschrieben.

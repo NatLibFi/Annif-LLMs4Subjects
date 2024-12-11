@@ -1,2 +1,0 @@
-21st Century C : [C tips from the new school]
-Preface -- Part I. The environment. Set yourself up for easy compilation -- Debug, test, document -- Packaging your product -- Version control -- Playing nice with others -- Part II. The language. Your pal the pointer -- Inessential C syntax that textbooks spend a lot of time covering -- Important C syntax that textbooks often do not cover -- Easier text handling -- Better structures -- Object-oriented programming in C -- Parallel threads -- Libraries -- Epilogue -- A. C 101

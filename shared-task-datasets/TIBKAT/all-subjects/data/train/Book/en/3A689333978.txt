@@ -1,2 +1,0 @@
-Professional cross-platform mobile development in C#
-Choosing the right architecture -- Designing your user experience -- Setting up your development environment -- The MonoCross pattern -- Building shared applications -- Building MonoCross contrainers -- Designing and building data services -- Consuming data services -- Accessing the device -- Using MonoCross utitlities -- Hybrid applications -- Bringing applications to the enterprise

@@ -1,2 +1,0 @@
-Computational intelligence for managing pandemics
-This book uncovers the stakes and possibilities of handling pandemic diseases with the help of Computational Intelligence, using cases and applications from the current Covid-19 pandemic. The book chapters will focus on the application of CI and its related fields in managing different aspects of Covid-19, including modelling of the disease spread, data-driven prediction, identification of disease hotspots, and medical decision support

@@ -1,2 +1,0 @@
-Leichtbau-Konstruktion : Berechnungsgrundlagen und Gestaltung ; mit 58 Tabellen und umfangreichen Übungsaufgaben zu allen Kapiteln des Lehrbuchs
-Vorlesungsskript mit Informationen über Konstruktionen mit minimalem Baugewicht. Bringt Beispiele aus Fahrzeugtechnik, Bauwesen, Werkstoffkunde u.a. Wurde gegenüber der 2. Auflage 1994 (ID 11/95) in Details (neue Werkstoffe und Anwendungen) überarbeitet, blieb in Aufbau und Umfang gleich. Die 1. Auflage 1989 (ID 29/89) sollte nunmehr ersetzt werden. (3)

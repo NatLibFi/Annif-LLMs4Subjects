@@ -1,2 +1,0 @@
-Using Aspen Plus in thermodynamics instruction : a step-by-step guide
-"This book provides the reader with a self-study, step-by-step guide to doing thermodynamic calculations in Aspen Plus (Version 8.x). This is done by providing actual screen shots of the Aspen Plus interface to solve example problems of various types, including vapor-liquid, liquid-liquid, vapor-liquid-liquid and chemical reaction equilibria, and simple applications to liquefaction, distillation and liquid-liquid extraction"--

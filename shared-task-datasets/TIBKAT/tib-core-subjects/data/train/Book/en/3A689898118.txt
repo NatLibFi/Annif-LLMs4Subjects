@@ -1,2 +1,0 @@
-Computer and machine vision : theory, algorithms, practicalities
-Low-level vision -- Intermediate-level vision -- 3-D vision and motion -- Toward real-time pattern recognition systems

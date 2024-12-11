@@ -1,2 +1,0 @@
-Beginning Google web toolkit : from novice to professional ; [learn to leverage your existing Java expertise and the Google web toolkit for building RIA]
-Presents an introduction to Google Web Toolkit and how to use it to build user-friendly Web applications

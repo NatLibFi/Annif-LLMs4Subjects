@@ -1,2 +1,0 @@
-Computational Learning Theory : 15th Annual Conference on Computational Learning Theory, COLT 2002 Sydney, Australia, July 8–10, 2002 Proceedings
-This book constitutes the refereed proceedings of the 15th Annual Conference on Computational Learning Theory, COLT 2002, held in Sydney, Australia, in July 2002.The 26 revised full papers presented were carefully reviewed and selected from 55 submissions. The papers are organized in topical sections on statistical learning theory, online learning, inductive inference, PAC learning, boosting, and other learning paradigms

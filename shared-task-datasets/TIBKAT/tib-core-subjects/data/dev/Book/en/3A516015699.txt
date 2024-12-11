@@ -1,2 +1,0 @@
-Beginning CSS web development : from novice to professional ; [packed with essential, practical techniques - you'll learn CSS from the ground up in no time]
-Getting started -- Core concepts of CSS -- CSS building blocks -- Text -- Color, backgrounds, and images -- Lists -- Links -- Tables and definition lists -- Forms -- Layout basics -- Classic layouts -- Layout manipulation -- The journey from layout to template -- Usability and accessibility enhancements -- Tips, tricks, and troubles -- Case study : the dead goods -- Appendix : CSS reference

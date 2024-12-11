@@ -1,2 +1,0 @@
-A Process Algebraic Approach to Software Architecture Design
-<P>Presents a new paradigm that allows modelling and analysis of software applications at an early stage of the design process</P><P>Covers foundational aspects before introducing guidelines and methodologies to exemplify case studies, thus facilitating practical applications</P>

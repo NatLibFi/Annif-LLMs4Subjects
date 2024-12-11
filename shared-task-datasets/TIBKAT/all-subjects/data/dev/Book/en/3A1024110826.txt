@@ -1,2 +1,0 @@
-Electrodynamics : problems and solutions
-This book of problems and solutions is a natural continuation of Ilie and Schrecengost's first book Electromagnetism: Problems and Solutions. Aimed towards students who would like to work independently on more electrodynamics problems in order to deepen their understanding and problem-solving skills, this book discusses main concepts and techniques related to Maxwell's equations, conservation laws, electromagnetic waves, potentials and fields, and radiation.

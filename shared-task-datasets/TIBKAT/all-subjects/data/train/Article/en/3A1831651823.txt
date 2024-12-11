@@ -1,2 +1,0 @@
-Chapter 8. Combinatorial Auctions
-Many auctions involve the sale of heterogenous indivisible objects. Examples are wireless spectrum, delivery routes and airport time slots. Because of complementarities or substitution effects between the objects, bidders have preferences not just over individual items but over subsets of them. For this reason, economic efficiency is enhanced if bidders are allowed to bid on bundles or combinations of different assets. This chapter surveys the state of knowledge about combinatorial auctions.

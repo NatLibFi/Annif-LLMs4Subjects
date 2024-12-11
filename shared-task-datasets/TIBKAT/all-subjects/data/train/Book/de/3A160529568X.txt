@@ -1,2 +1,0 @@
-C# : die Profireferenz
-Aus dem Inhalt: Grundlagen der C#-Programmierung; schnelles Programmieren mit Komponenten; transparente Klassen-Struktur von .NET; Ereignissteuerung mit Handlern.

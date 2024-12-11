@@ -1,2 +1,0 @@
-Applied mathematics for the analysis of biomedical data : models, methods, and MATLAB
-Data -- Some examples -- SEIR models -- Statistical pattern recognition and classification -- Biostatistics and hypothesis testing -- Clustered data and analysis of variance

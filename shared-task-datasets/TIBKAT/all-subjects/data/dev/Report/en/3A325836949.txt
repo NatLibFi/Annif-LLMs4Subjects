@@ -1,2 +1,0 @@
-MoTiV : Mobilität und Transport im intermodalen Verkehr ; Mobilität im Ballungsraum ; Abschlussbericht zum Projekt SIM - Simulationsmodelle ; Version 3.0 ; Stand: 23.11.00
-Microscopic, macroscopic and mesoscopic traffic flow simulation, traffic flow, traffic technology, state estimation, observer, Kalman filtering, indident detection

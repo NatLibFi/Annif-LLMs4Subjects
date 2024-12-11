@@ -1,2 +1,0 @@
-Integrated chemical microsensor systems in CMOS technology
-Provides a comprehensive treatment of the interdisciplinary field of CMOS chemical microsensor systems, and offers an overview of semiconductor-based and CMOS-based transducer structures for chemical sensors. This book is suitable for students, scientists, and engineers interested in gaining an introduction to the field of chemical sensing

@@ -1,2 +1,0 @@
-The complete idiot's guide to android app development : [learn the secrets and skills to create best-selling Android apps]
-Provides step-by-step instructions for designing, developing, testing, and publishing fully-featured applications for the Android platform, including how to design effective and easily-navigated user interfaces, adding audio and video support, and publishing to the Android market

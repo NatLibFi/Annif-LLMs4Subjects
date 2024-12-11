@@ -1,2 +1,0 @@
-Statistics and data visualization in climate science with R and Python
-"A comprehensive overview of essential statistical concepts, useful statistical methods, data visualization, and computing tools for the climate and related sciences. This book is an invaluable reference for students and researchers in climatology and its connected fields who wish to learn data science, statistics, R and Python programming"--

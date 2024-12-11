@@ -1,2 +1,0 @@
-Agile Schule : Methoden für den Projektunterricht in der Informatik und darüber hinaus
-Agile Projektarbeit macht Schule. Die aus der Softwareentwicklung bekannte Vorgehensweise lässt sich gewinnbringend auf den Projektunterricht übertragen. Interessierte Lehrkräfte, Didaktiker und Bildungsverantwortliche finden in diesem Buch die dazu nötigen Hintergrundinformationen, Methoden und Umsetzungshinweise. Das Autorenteam liefert konkrete Praxisbeispiele und zeigt, wie Schülerinnen und Schüler durch agile Projektarbeit zum selbstorganisierten Lernen angeleitet werden können

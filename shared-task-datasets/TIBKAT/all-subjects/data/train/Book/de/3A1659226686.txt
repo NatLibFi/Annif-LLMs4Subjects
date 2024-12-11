@@ -1,2 +1,0 @@
-Physik für Ingenieure
-Die physikalischen Grundlagen für Ingenieure und Naturwissenschaftler Neben den klassischen Gebieten der Physik werden auch moderne Themen, z.B. makroskopische Quanten-Effekte wie Laser, Quanten-Hall-Effekt und Josephson-Effekte, die in der Anwendung immer wichtiger werden, ausführlich dargestellt. Zahlreiche Beispiele stellen immer wieder den Bezug zur Praxis heraus. Für eine optimale Unterstützung des Selbststudiums enthält das Buch ca. 300 Aufgaben mit Lösungen

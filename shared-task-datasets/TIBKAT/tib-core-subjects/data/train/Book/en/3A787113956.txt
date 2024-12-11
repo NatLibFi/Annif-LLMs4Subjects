@@ -1,2 +1,0 @@
-Handbook of research on embedded systems design
-"This book provides insights from the computer science community on integrated systems research projects taking place in the European region, looking at the diverse range of design principles covered by these projects, from specification at high abstraction levels using standards such as UML and related profiles to intermediate design phases"--

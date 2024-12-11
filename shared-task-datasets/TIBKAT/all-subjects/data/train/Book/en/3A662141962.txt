@@ -1,2 +1,0 @@
-Mac secrets : [do what you never thought possible with a Mac]
-A guide to using a Mac covers such topics as Mac OS X, networking, upgrading, using disk utility, personalization, security, managing digital music, using MobileMe, and installing Xcode

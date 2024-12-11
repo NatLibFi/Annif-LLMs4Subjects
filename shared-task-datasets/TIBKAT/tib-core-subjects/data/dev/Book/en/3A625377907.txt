@@ -1,2 +1,0 @@
-Scalable multi-core architectures : design methodologies and tools
-Provides a current snapshot of industrial and academic research, conducted as part of the European FP7 MOSART project, addressing urgent challenges in many-core architectures and application mapping. Also covers the architectural design of core chips, memory and data management, power management, design and programming methodologies. Describes how new techniques have been applied in industrial case studies--Back cover

@@ -1,2 +1,0 @@
-Portfolio-Optimierung nach Markowitz
-In seinem Promotionsprojekt an der WHU Otto-Beisheim-Hochschule untersucht Detlef Mertens das bereits in den 1950er Jahren von Markowitz vorgestellte Verfahren zur Bestimmung risikoeffizienter Portfolios. Der Autor zeigt, wie sich mit einer Variante dieses klassischen Ansatzes auch allgemeine Anlagerestriktionen, die in der Praxis eine große Rolle spielen, einheitlich berücksichtigen lassen

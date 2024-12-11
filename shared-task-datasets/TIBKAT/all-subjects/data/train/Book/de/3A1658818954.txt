@@ -1,2 +1,0 @@
-Grundkurs JAVA : Eine Einführung in das objektorientierte Programmieren mit Beispielen und Übungsaufgaben
-Umschlag: Bitte zwei Kästen: "Java 2 Plattform" (soll hinweisen auf die benutzte Version von Java) und "inklusive Online-Service zum Buch" WICHTIGER HINWEIS des Autors! RK 19.9.00

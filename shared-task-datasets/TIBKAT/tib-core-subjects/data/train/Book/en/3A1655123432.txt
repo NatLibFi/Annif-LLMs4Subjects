@@ -1,2 +1,0 @@
-The Structure of Nuclear Fréchet Spaces
-Preliminaries -- Generalities -- Subspaces -- Quotient spaces -- Complemented subspaces -- Approximation properties.

@@ -1,2 +1,0 @@
-Identification of nonlinear systems using neural networks and polynomial models : a block-oriented approach ; with 22 tables
-Introduction.- Neural network Wiener models.- Neural network Hammerstein models.- Polynomial Wiener models.- Polynomial Hammerstein models.- Applications

@@ -1,2 +1,0 @@
-Active Networks : IFIP-TC6 Third International Working Conference, IWAN 2001 Philadelphia, PA, USA, September 30–October 2, 2001 Proceedings
-This book constitutes the refereed proceedings of the IFIP-TC6 Third International Working Conference on Active Networks, IWAN 2001, held in Phildelphia, PA, USA in October 2001.The 10 revised full papers presented were carefully reviewed and selected from 22 submissions. Papers presented covered topics like active multicast, active QoS, active security, active GRIDs, management, architectures, language and API issues

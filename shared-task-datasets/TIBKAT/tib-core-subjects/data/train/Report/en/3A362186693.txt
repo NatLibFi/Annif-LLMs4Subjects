@@ -1,2 +1,0 @@
-Konstruktionsbezogene Bewertung von Finite-Elemente-Ergebnissen in schiffbaulichen Entwurfssystemen : Bericht Nr. ESS 2002.178 ; Abteilung ESS
-Integrated strength analysis, local bending stresses, compatible eccentric beam, rational dimensioning, POSEIDON

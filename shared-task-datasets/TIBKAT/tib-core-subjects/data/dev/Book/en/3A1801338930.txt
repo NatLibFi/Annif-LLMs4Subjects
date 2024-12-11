@@ -1,2 +1,0 @@
-On-board design models and algorithm for communication based train control and tracking system
-"This book covers the latest advances in CBTC research in On-board components locomotive messaging system, GPS sensors, communications wayside and switching network. It also focuses on architecture and methodology using data fusion technique"--

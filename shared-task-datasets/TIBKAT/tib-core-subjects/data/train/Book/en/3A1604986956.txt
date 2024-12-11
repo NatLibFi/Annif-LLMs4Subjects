@@ -1,2 +1,0 @@
-Analysis of financial time series
-Financial time series and their characteristics -- Linear time series -- Volatility models -- Nonlinear models and their applications

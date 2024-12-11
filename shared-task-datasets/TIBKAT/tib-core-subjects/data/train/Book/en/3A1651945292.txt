@@ -1,2 +1,0 @@
-Handbook of neural engineering
-An important new work establishing a foundation for future developments in neural engineering. The Handbook of Neural Engineering provides theoretical foundations in computational neural science and engineering and current applications in wearable and implantable neural sensors/probes

@@ -1,2 +1,0 @@
-Surgery Simulation and Soft Tissue Modeling : International Symposium, IS4TM 2003 Juan-Les-Pins, France, June 12-13, 2003, Proceedings
-This book constitutes the refereed proceedings of the International Symposium on Surgery Simulation and Soft Tissue Modeling, IS4TM 2003, held in Juan-Les-Pins, France in June 2003. The 33 revised full papers presented together with 3 invited papers were carefully reviewed and selected from 45 submissions. The papers are organized in topical sections on soft tissue models, haptic rendering, cardiac modeling, and patient specific simulators

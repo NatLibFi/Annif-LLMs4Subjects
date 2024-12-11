@@ -1,2 +1,0 @@
-Non-Life Insurance Mathematics : An Introduction with Stochastic Processes
-Collective Risk Models -- The Basic Model -- Models for the Claim Number Process -- The Total Claim Amount -- Ruin Theory -- Experience Rating -- Bayes Estimation -- Linear Bayes Estimation.

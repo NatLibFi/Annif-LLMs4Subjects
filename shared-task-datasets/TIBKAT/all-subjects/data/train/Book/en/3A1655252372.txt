@@ -1,2 +1,0 @@
-Alexander Ideals of Links
-Preliminaries -- Links and link groups -- Ribbon links -- Determinatal invariants of modules -- The crowell exact sequence -- The vanishing of Alexander ideals -- Longitudes and principality -- Sublinks -- Reduced Alexander ideals -- Localizing the Blanchfield pairing -- Monorientable spanning surfaces.

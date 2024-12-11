@@ -1,2 +1,0 @@
-Computational mathematics : an introduction to numerical analysis and scientific computing with Python
-"This textbook is a comprehensive introduction to computational mathematics and scientific computing suitable for undergraduate and postgraduate courses. It presents both practical and theoretical aspects of the subject, and advantages and pitfalls of classical numerical methods alongside with computer code and experiments in Python"--

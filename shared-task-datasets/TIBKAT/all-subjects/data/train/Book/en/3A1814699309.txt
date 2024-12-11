@@ -1,2 +1,0 @@
-Calculations in chemical kinetics for undergraduates
-Reaction rates, molecularity and rate law -- Determination of reaction order by using initial rates -- Rate law by method of integration and half-life -- Theoretical models for chemical kinetics and Arrhenius equation -- Steady-State approximation, reaction mechanisms and rate law of chain reactions.

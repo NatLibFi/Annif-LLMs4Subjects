@@ -1,2 +1,0 @@
-Beginning Ubuntu Linux : [Natty Narwhal edition]
-A guide to Ubuntu Linux covers such topics as installation, hardware components, the BASH shell, multimedia, office tasks, software instllation and removal, and data backup

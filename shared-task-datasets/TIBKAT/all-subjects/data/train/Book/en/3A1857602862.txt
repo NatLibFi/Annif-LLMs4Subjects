@@ -1,2 +1,0 @@
-Classical analysis of real-valued functions
-"Introduction to modern real analysis that establishes a connection with modern harmonic analysis and differential equations"--

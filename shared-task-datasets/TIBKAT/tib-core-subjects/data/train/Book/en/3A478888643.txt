@@ -1,2 +1,0 @@
-Biological physics of the developing embryo
-The cell : fundamental unit of developmental systems -- Cleavage and blastula formation -- Cell states : stability, oscillation, differentiation -- Cell adhesion, compartmentalization, and lumen formation -- Epithelial morphogenesis : gastrulation and neurulation -- Mesenchymal morphogenesis -- Pattern formation : segmentation, axes, and asymmetry -- Organogenesis -- Fertilization : generating one living dynamical system from two -- Evolution of developmental mechanisms

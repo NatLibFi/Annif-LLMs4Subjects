@@ -1,2 +1,0 @@
-Access 2013 : absolute beginner's guide ; [no experience necessary!]
-Presents a guide to the latest version of the database management application, covering such topics as creating databases and tables, setting up queries, producing reports, building forms, and using macros --

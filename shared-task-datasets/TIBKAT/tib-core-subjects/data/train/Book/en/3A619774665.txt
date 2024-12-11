@@ -1,2 +1,0 @@
-Ubuntu : powerful hacks and customizations
-A guide to Ubuntu covers such topics as customizing the user environment, configuring devices, managing software, tuning processes, collaborating, multitasking applications, and securing the system

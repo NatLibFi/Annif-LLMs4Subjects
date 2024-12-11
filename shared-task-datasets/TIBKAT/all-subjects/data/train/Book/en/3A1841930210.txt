@@ -1,2 +1,0 @@
-Quick JavaScript
-A very concise guide to a popular programming language, so there is a healthy demand for content which teaches who to utilize JavaScript. The book's broad coverage (paired with being compact) makes it more appealing than competitor's books currently on the market. Compared to online material, it has the benefit of material being presented in one coherent sequence. Author utilizes many years of teaching experience to communicate an effective way for teaching JavaScript quickly

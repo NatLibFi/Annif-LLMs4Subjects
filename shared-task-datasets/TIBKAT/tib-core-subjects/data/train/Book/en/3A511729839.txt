@@ -1,2 +1,0 @@
-Advanced wireless networks : 4G technologies
-Covers the status of wireless networks and their future potential as the industry prepares for 4G. This work adopts a logical approach, beginning each chapter with introductory material, before proceeding to more advanced topics and tools for system analysis.

@@ -1,2 +1,0 @@
-Technical recommendations for monitoring individuals occupationally exposed to external radiation
-These technical recommendations for the monitoring of workers and other persons exposed to external ionizing radiation are providing technical guidance in view of practical applications of dosimetric concepts. The document gives information on the general principles for monitoring individuals as well as requirements for personal dosemeters such as type and performance testing. Also covered are aspects of dose record-keeping systems and administrative problems.

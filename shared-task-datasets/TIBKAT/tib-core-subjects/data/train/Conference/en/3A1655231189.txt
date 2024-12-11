@@ -1,2 +1,0 @@
-Stability Problems for Stochastic Models : Proceedings of the International Seminar, held in Suzdal, Russia, Jan. 27–Feb. 2, 1991
-The subject of this book is a new direction in the field of probability theory and mathematical statistics which can be called "stability theory": it deals with evaluating the effects of perturbing initial probabilistic models and embraces quite varied subtopics: limit theorems, queueing models, statistical inference, probability metrics, etc. The contributions are original research articles developing new ideas and methods of stability analysis

@@ -1,2 +1,0 @@
-Automated face analysis : emerging technologies and research
-"This book provides related theoretical background to understand the overall configuration and challenging problem of automated face analysis systems"--Provided by publisher

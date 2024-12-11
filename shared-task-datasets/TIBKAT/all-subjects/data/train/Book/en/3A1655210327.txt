@@ -1,2 +1,0 @@
-Representations of AF-Algebras and of the Group U (∞)
-On the structure of af—algebras and their representations -- The C*—algebra associated to a direct limit of compact groups -- The primitive ideals of (A(U(?)) -- Type III factor representations of U(?) in antisymmetric tensors -- Some type II? factor representations of U(?).

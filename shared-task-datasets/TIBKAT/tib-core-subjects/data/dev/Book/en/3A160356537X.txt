@@ -1,2 +1,0 @@
-Python cookbook
-Data structures and algorithms -- Strings and text -- Numbers, dates, and times -- Iterators and generators -- Files and I/O -- Data encoding and processing -- Functions -- Classes and objects -- Metaprogramming -- Modules and packages -- Network and web programming -- Concurrency -- Utility scripting and system administration -- Testing, debugging, and exceptions -- C extensions

@@ -1,2 +1,0 @@
-Intelligent testing, control and decision-making for space launch
-Overview of testing and control for space launch -- Networks of testing and control for space launch -- Intelligent analysis and processing for testing data -- Intelligent fault diagnosis for space launch and testing -- Safety control of space launch and flight : modeling and intelligence decision -- Development tendency of space launch test and control

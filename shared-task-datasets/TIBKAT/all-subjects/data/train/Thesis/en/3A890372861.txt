@@ -1,2 +1,0 @@
-Investigation of plasmonic structures for use as sensors and signal processing devices
-Plasmonic sensing, optical logic devices, Gouy-phase-shift, time/phase resolved leakage radiation microscopy. - Plasmonische Sensoren, optische Logik-Bauelemente, zeit-/phasenaufgelöste Leckstrahlungsmikroskopie

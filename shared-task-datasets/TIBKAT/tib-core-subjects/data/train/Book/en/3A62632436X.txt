@@ -1,2 +1,0 @@
-Introduction to IP address management
-"The book begins with a basic overview of IP networking, followed by chapters describing each of the three core IPAM technologies: IPv4 and IPv6 addressing, DHCP, and DNS. The next three chapters describe IPAM management techniques and practice, followed by chapters on IPv4-IPv6 co-existence, security and the IPAM business case"--

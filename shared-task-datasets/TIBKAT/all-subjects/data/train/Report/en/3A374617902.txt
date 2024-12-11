@@ -1,2 +1,0 @@
-Millenium Sensor System (MISSY) ; [Teilvorhaben 4: Entwicklung und Realisierung der AVT für LTCC- und mikromechanische Sensoren] : [Schlussbericht]
-Packing methods and processes, micro gas sensor, gas sensor array, electrical characterization, glass-metal seal, TO5-packing, LTCC ceramic, solder glass, high temperature adhesive, FEM analysis, application of multifunctions

@@ -1,2 +1,0 @@
-Basiswissen RDA : Eine Einführung für deutschsprachige Anwender
-Basicsof RDA provides an introduction to RDA (Resource Description and Access), the new system for catalogue organization from Anglo-American library practice. RDA is supplanting RAK, the earlier German cataloguing system. This textbook is written in language that is easy to understand, and it is illustrated with numerous examples. It offers practical assistance to support the transition from theory to implementation in everyday library practice.

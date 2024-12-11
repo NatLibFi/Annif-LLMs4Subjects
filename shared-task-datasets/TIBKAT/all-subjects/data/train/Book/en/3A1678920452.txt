@@ -1,2 +1,0 @@
-Bioprocess engineering : downstream processing
-<P>1. The Fundamental Principle of Bioprocess Engineering. 2. State of the Art in Process Development and Optimization3. What Is the Current Trend? 4. The New Developments in Upstream Bioprocessing. 5. Optimization Areas and Parameters in Upstream Processing. 6. The New Developments in Downstream Bioprocessing. 7. Optimization Areas and Parameters in Upstream Processing. 8. Integration of Upstream and Downstream Bioprocess. 9. Consideration of New Bioprocess. 10. Challenges and Future Prospects of Bioprocess Technologies.</P>

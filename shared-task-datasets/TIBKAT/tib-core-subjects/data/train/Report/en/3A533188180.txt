@@ -1,2 +1,0 @@
-Complex analysis : with applications in science and engineering
-This title is intended to serve as a text for both beginning and second courses in complex analysis of functions of one complex variable. Material that is appropriate for more advanced study can be developed from the elementary material. --

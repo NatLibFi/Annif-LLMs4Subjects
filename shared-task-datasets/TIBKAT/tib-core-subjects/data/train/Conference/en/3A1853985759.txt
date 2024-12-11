@@ -1,2 +1,0 @@
-Advances in computing and data sciences : 7th International Conference, ICACDS 2023, Kolkata, India, April 27-28, 2023, revised selected papers
-This book constitutes the refereed proceedings of the 7th International Conference on Advances in Computing and Data Sciences, ICACDS 2023, held in Kolkata, India, during April 27-28, 2023. The 47 full papers included in this book were carefully reviewed and selected from 22 submissions. The papers focus on advances of next generation computing technologies in the areas of advanced computing and data sciences

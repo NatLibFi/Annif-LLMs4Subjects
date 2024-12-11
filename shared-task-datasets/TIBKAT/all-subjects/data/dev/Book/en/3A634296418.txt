@@ -1,2 +1,0 @@
-Engineering reliable service oriented architecture : managing complexity and service level agreements
-"This book presents a guide to engineering reliable SOA systems and enhances current understanding of service reliability"--Provided by publisher

@@ -1,2 +1,0 @@
-Stochastische Optimierung : Bestandsoptimierung in mehrstufigen Lagernetzwerken
-Die Bestimmung optimaler Bestellstrategien in der Lagerhaltung beschäftigt Wissenschaftler und Praktiker seit langem. Konrad Schade stellt Verfahren der stochastischen linearen ganzzahligen Optimierung vor, mit deren Hilfe robuste Bestellpunkte für ein mehrstufiges Lagernetzwerk bestimmt werden können. Der Autor zeigt, wie dabei die erwarteten Gesamtkosten über das gesamte Lagernetzwerk minimiert werden können.

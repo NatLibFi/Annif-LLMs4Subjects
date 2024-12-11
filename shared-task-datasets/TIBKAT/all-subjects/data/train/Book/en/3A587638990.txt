@@ -1,2 +1,0 @@
-Semantic mining technologies for multimedia databases
-"This book provides an introduction to the most recent techniques in multimedia semantic mining necessary to researchers new to the field"--Provided by publisher

@@ -1,2 +1,0 @@
-Micro- and Macro-Properties of Solids : Thermal, Mechanical and Dielectric Properties
-Provides data on materials such as rare-earth metals, semiconductors, ferroelectrics, mixed-valence compounds, superionic conductors, optical and optoelectronic materials and biomaterials. Each of the eight chapters treats an important aspect of solid state physics, comprising a complete review of the particular field

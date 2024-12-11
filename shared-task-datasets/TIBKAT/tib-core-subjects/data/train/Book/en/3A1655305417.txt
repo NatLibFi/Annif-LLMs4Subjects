@@ -1,2 +1,0 @@
-Non-Smooth Dynamical Systems
-The book provides a self-contained introduction to the mathematical theory of non-smooth dynamical problems, as they frequently arise from mechanical systems with friction and/or impacts. It is aimed at applied mathematicians, engineers, and applied scientists in general who wish to learn the subject

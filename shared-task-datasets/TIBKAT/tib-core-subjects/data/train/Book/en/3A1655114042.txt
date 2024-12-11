@@ -1,2 +1,0 @@
-Oscillation Theory
-The classical theory -- Nonselfadjoint equations -- Partial differential equations -- Related topics in analysis -- Abstract oscillation theory -- Complex oscillation theory -- Differential equations of even order -- Fourth order differential equations.

@@ -1,2 +1,0 @@
-Representations of Commutative Semitopological Semigroups
-Basic results -- The representation algebra -- Positive-definite and completely positive functions -- Discrete separative semigroups -- Subsemigroups of locally compact abelian groups and weakly almost periodic functions -- Representations in Q-algebras -- Special cases of Q-representations -- Hilbert space representations.

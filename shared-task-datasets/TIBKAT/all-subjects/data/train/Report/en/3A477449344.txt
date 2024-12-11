@@ -1,2 +1,0 @@
-Algorithm design
-Introduction: Some representative problems -- Basics of algorithms analysis -- Graphs -- Greedy algorithms -- Divide and conquer -- Dynamic programming -- Network flow -- NP and computational intractability -- PSPACE: A class of problems beyond NP -- Extending the limits of tractability -- Approximation algorithms -- Local search -- Randomized algorithms -- Epilogue: algorithms that run forever.

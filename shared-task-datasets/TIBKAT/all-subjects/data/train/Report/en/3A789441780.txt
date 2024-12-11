@@ -1,2 +1,0 @@
-High-frequency averaging in semi-classical Hartree-type equations
-We investigate the asymptotic behavior of solutions to semi-classical Schröodinger equations with nonlinearities of Hartree type. For a weakly nonlinear scaling, we show the validity of an asymptotic superposition principle for slowly modulated highly oscillatory pulses. The result is based on a high-frequency averaging effect due to the nonlocal nature of the Hartree potential, which inhibits the creation of new resonant waves. In the proof we make use of the framework of Wiener algebras.

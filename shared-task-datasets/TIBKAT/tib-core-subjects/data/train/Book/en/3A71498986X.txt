@@ -1,2 +1,0 @@
-The Rails view : creating a beautiful and maintainable user experience
-"Break free from tangles of logic and markup in your views, and implement your user interface in Rails cleanly and maintainably. Build up solid, sustainable layouts with HTML5. Then learn to manage your forms and keep your markup clean. Learn when (and when not) to use Presenters, and how to tame HTML emails. Master the asset pipeline introduced in Rails 3.1 as you use Sass and CoffeeScript to create easy-to-manage code for enjoyable user interfaces"--P. [4] of cover

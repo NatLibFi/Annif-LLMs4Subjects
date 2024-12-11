@@ -1,2 +1,0 @@
-QCM-D studies on polymer behavior at interfaces
-This book is intended to give an overview of recent studies on polymer behavior at the solid/liquid interfaces by use of QCM-D (quartz crystal microbalance with dissipation).

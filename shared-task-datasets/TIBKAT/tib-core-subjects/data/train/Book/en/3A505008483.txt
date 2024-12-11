@@ -1,2 +1,0 @@
-C++ : memory first
-"This book teaches C++ programming for intermediate to advanced users, focusing on memory management"--Provided by publisher

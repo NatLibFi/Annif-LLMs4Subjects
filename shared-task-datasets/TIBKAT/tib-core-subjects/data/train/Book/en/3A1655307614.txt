@@ -1,2 +1,0 @@
-Painlevé Equations in the Differential Geometry of Surfaces
-1. Introduction -- 2. Basics on Painlevé Equations and Quaternionic Description of Surfaces -- 3. Bonnet Surfaces in Euclidean Three-space -- 4. Bonnet Surfaces in S3 and H3 and Surfaces with Harmonic Inverse Mean Curvature -- 5. Surfaces with Constant Curvature -- 6. Appendices.

@@ -1,2 +1,0 @@
-Handbook of research on visual computing and emerging geometrical design tools
-"This book seeks to add to this knowledge base by considering these technologies from a designer's perspective rather than reiterating the principles of computer science, combining aspects of geometry and representation with emerging tools for CAD, generation, and visualization while addressing the digital heritage of such fields"--Provided by publisher.

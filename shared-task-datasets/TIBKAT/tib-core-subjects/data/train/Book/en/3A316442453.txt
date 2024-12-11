@@ -1,2 +1,0 @@
-Analytical fluid dynamics
-Presents a treatment of inviscid and laminar viscous compressible flows from a theoretical viewpoint. Emphasis is on basic assumptions, physical aspects of the flow, and the appropriate formulations of the governing equations for subsequent analytical all-numerical treatment. Coverage includes basic concepts, linking thermodynamics to equations of motion, shock-wave dynamics, supersonic sweep, and unsteady, one- dimensional flows.

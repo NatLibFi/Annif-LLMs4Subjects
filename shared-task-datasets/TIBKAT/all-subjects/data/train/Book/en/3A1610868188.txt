@@ -1,2 +1,0 @@
-Architectural structures
-Structural design process -- Loads -- Structural analysis -- Materials -- Axial members -- Beams -- Trusses -- Compressive structures -- Tensile spanning structures -- Lateral bracing systems

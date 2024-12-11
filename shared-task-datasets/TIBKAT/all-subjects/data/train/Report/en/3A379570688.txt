@@ -1,2 +1,0 @@
-SmartKom - Dialogische Mensch-Technik-Interaktion durch koordinierte Analyse und Generierung multipler Modalitäten : BMBF-Leitprojekt Smartkom 1999 - 2003 ; Schlussbericht ; Laufzeit/Berichtszeitraum des Vorhabens: 01.09.1999 bis 30.09.2003
-Intelligent multimodal user interface, discours model for speech dialogue systems, fusion of multimodal input

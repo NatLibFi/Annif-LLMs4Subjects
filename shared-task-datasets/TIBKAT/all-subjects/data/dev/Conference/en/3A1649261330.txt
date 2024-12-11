@@ -1,2 +1,0 @@
-Recent Advances in Intrusion Detection : 4th International Symposium, RAID 2001 Davis, CA, USA, October 10–12, 2001 Proceedings
-This book constitutes the refereed proceedings of the Fourth International Workshop on Recent Advances in Intrusion Detection, RAID 2001, held in Davis, CA, USA, in October 2001.The 12 revised full papers presented were carefully reviewed and selected from a total of 55 submissions. The papers are organized in sections on logging, cooperation, anomaly detection, intrusion tolerance, legal aspects and specification-based IDS

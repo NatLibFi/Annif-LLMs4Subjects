@@ -1,2 +1,0 @@
-Bilddatenkompression : Grundlagen, Codierung, Wavelets, JPEG, MPEG, H.264 ; mit 69 Tabellen
-Grundlagen der Datenkompression - Datenreduktion - Entropiecodierung - Präcodierung - Techniken zur Dekorrelation - Wavelet-basierte Bildcodierung - Wahrnehmung und Farbe - Verfahren zur Bildsequenzcodierung - Der JPEG-Standard - Standards zur Bildsequenzcodierung - JPEG - neue Standards

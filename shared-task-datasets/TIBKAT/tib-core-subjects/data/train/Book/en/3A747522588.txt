@@ -1,2 +1,0 @@
-Responsive design workflow
-"This book shows you how to adapt to the new paradigm and create sites for today's web"--publisher website

@@ -1,2 +1,0 @@
-Spatial analysis techniques using MyGeoffice®
-"This book introduces myGeoffice.org, an innovative WWW platform for spatial analysis, where its architecture, interface, innovations and technical details are presented. It is designed primarily for teaching and learning purposes, particularly at the high-school and university level on a wide range of introductory spatial subjects such as geography, geology, natural sciences, meteorology and hydrology"--

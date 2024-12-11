@@ -1,2 +1,0 @@
-Advanced image processing techniques and applications
-"This book is an essential reference publication for the latest research on digital image processing advancements. Featuring expansive coverage on a broad range of topics and perspectives, such as image and video steganography, pattern recognition, and artificial vision"--

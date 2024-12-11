@@ -1,2 +1,0 @@
-Beginning Visual Basic 2012
-"Using the time-tested Wrox approach, this guide provides a step-by-step format that gets beginners up and running quickly and confidently. Essential topics covered include writing Windows applications, working with dialog boxes and menus, object oriented programming techniques, programming for graphics, using Visual Basic with ASP.NET for web apps, and dealing with data access and SQL Server."--Publisher

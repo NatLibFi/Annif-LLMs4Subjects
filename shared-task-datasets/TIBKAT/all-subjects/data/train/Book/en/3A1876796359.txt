@@ -1,2 +1,0 @@
-Models for multi-state survival data : rates, risks, and pseudo-values
-1. Introduction 2. Intuition for intensity models 3. Intensity models 4. Intuition for marginal models 5. Marginal models 6. Pseudo-values 7. Further topics

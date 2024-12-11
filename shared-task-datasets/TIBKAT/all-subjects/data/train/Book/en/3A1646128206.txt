@@ -1,3 +1,0 @@
-Local Newforms for GSp(4)
-A Summary -- Representation Theory -- Paramodular Vectors -- Zeta Integrals -- Non-supercuspidal Representations -- Hecke Operators -- Proofs of the Main Theorems.
-Local Newforms for GSp(4) describes a theory of new- and oldforms for representations of GSp(4) over a non-archimedean local field. This theory considers vectors fixed by the paramodular groups, and singles out certain vectors that encode canonical information, such as L-factors and epsilon-factors, through their Hecke and Atkin-Lehner eigenvalues. While there are analogies to the GL(2) case, this theory is novel and unanticipated by the existing framework of conjectures. An appendix includes extensive tables about the results and the representation theory of GSp(4).

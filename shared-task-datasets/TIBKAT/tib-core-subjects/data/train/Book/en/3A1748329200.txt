@@ -1,2 +1,0 @@
-Digital optical measurement : techniques and applications
-Digital Image Processing -- Interferometric Testing of Optical Surfaces -- Phase Shifting Interferometry -- Systematic Approach to Digital Holographic Imaging and its Applications in Interferometry -- Digital Speckle Pattern Interferometry -- Digital Image Correlation -- Digital Fringe Projection Profilometry -- Digital Photoelasticity -- Digital Particle Image Velocimetry -- Optical Fibre Sensors -- Optical Coherence Tomography: Principles, Implementation, and Applications in Ophthalmology.

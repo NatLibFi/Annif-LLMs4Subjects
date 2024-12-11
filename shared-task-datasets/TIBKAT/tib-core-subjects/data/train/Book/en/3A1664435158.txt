@@ -1,2 +1,0 @@
-Computational biology : a statistical mechanics perspective
-Part 1: equilibrium statistical physics -- Equilbrim statistical mechanics -- Biomolecular structure: DNA, RNA, proteins -- Phase transitions in RNA -- Soft matter electrostatics -- Part 2: nonequilibrium statistical mechanics -- Back to P: probabilities over time -- Fluctuation theorems -- Dynamics of biological networks -- Biological networks: space.

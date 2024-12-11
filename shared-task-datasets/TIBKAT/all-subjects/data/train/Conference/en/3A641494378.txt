@@ -1,2 +1,0 @@
-Selected Papers of the International Workshop on Smalltalk Technologies (IWST'10) : Barcelona, Spain, September 14, 2010
-The goal of the IWST workshop series is to create and foster a forum around advancements of or experience in Smalltalk. The workshop welcomes contributions to all aspects, theoretical as well as practical, of Smalltalk-related topics.

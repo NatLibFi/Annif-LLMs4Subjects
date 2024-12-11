@@ -1,3 +1,0 @@
-Echtzeit und Sicherheit : Echtzeit 2018
-Mit seinem Workshop 2018 zum Thema "Echtzeit und Sicherheit" bietet der GI/GMA/ITG-Fachausschuss Echtzeitsysteme Wissenschaftlern, Nutzern und Herstellern ein Forum, auf dem neue Trends und Entwicklungen zu folgenden Programmschwerpunkten vorgestellt werden: Eingebettete Systeme, Echtzeitkommunikation, Leistungssteuerung und -bewertung, Logistik und Echtzeit sowie funktionale Sicherheit. Berichte zu aktuellen Anwendungen und zur Ausbildung runden die Publikation ab
-Eingebettete Systeme -- Echtzeitkommunikation -- Leistungssteuerung und -bewertung -- Echtzeit und Sicherheit -- Funktionale Sicherheit

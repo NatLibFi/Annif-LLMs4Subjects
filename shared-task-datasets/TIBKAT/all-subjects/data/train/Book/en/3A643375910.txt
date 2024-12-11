@@ -1,2 +1,0 @@
-Modern Fortran explained
-A clear and thorough description of the latest versions of Fortran by leading experts in the field. It is intended for new and existing users of the language, and for all those involved in scientific and numerical computing. It is suitable as a textbook for teaching and as a handy reference for practitioners.

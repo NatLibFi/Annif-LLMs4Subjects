@@ -1,2 +1,0 @@
-A student's manual for a first course in general relativity
-Special relativity -- Vector analysis in special relativity -- Tensor analysis in special relativity -- Perfect fluids in special relativity -- Preface to curvature -- Curved manifolds -- Physics in curved spacetime -- The Einstein field equations -- Gravitational radiation -- Spherical solutions for stars -- Schwarzschild geometry and black holes -- Cosmology

@@ -1,2 +1,0 @@
-Theoretische Informatik : Einführung in Berechenbarkeit, Komplexität und formale Sprachen
-Zum Buch:Basierend auf den Erfahrungen aus ihren Lehrveranstaltungen zur Theoretischen Informatik vermitteln Baier und Asteroth die klassischen Inhalte einer Einführungsvorlesung für Studenten im Haupt- und Nebenfach. Auch für Studierende mit geringen mathematischen Vorkenntnissen nachvollziehbar

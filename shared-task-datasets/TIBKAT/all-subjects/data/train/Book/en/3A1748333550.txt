@@ -1,2 +1,0 @@
-Systems reliability and failure prevention
-This timely resource offers engineers and managers a comprehensive, unified treatment of the techniques and practice of systems reliability and failure prevention, without the use of advanced mathematics

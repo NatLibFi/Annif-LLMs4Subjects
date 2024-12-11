@@ -1,2 +1,0 @@
-Handbook of research on innovative database query processing techniques
-"This book focuses on the growing topic of database query processing methods, technologies, and applications, aimed at providing an all-inclusive reference source of technologies and practices in advanced database query systems"--Provided by publisher.

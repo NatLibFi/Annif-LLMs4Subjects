@@ -1,2 +1,0 @@
-Process mining : data science in action
-The first to cover this missing link between data mining and process modeling, this book provides real-world techniques for monitoring and analyzing processes in real time. It is a powerful new tool destined to play a key role in business process management.

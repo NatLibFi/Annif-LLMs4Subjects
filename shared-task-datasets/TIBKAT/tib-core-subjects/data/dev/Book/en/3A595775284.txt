@@ -1,2 +1,0 @@
-Using Drupal : [choosing and configuring modules to build dynamic websites]
-Drupal overview -- Drupal jumpstart -- Job posting board -- Product reviews -- Wiki -- Managing publishing workflow -- Photo gallery -- Multilingual sites -- Event management -- Online store -- Theming your site -- Appendix A : Installing and upgrading Drupal -- Appendix B : Choosing the right modules -- Appendix C : Modules and themes used in this book

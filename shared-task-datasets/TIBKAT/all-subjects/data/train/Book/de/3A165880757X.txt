@@ -1,2 +1,0 @@
-Baustatik 1 : Grundlagen
-Moderne Baukonstruktionen erfordern ein sorgfältiges Planen, Konstruieren und Ausführen der Bauwerke. Dazu sind solide Kenntnisse der Baustatik nötig. Teil 1 "Grundlagen" geht auf die wichtigsten Probleme der einfachen Statik ein. Ohne komplizierte theoretische Ableitungen werden die Formeln entwickelt und dargestellt, die zur Bestimmung der äußeren und inneren Kräfte in den Bauteilen erforderlich sind

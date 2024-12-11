@@ -1,2 +1,0 @@
-Introduction to identity-based encryption
-"For professionals looking to fully understand and effectively implement identity-based encryption (IBE) technology, this authoritative resource is a smart choice. Until now, details on IBE could only be found scattered throughout journal articles and conference proceedings. This unique volume offers complete, easy-to-understand guidance."--Jacket

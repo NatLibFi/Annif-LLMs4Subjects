@@ -1,2 +1,0 @@
-Einführung in die empirische Kausalanalyse und Machine Learning mit R
-Das Lehrbuch zur Programmiersprache R mit Videos und Musterlösungen ist der ideale Einstieg für Studierende in die Statistik mit den Schwerpunkten moderne Ökonometrie, empirische Kausalanalyse und Machine Learning.

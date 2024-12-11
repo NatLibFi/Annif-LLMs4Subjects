@@ -1,2 +1,0 @@
-Getting started with Windows 8 apps : [a guide to the Windows runtime]
-Get a head start on building apps for Windows 8. With a series of examples, this hands-on guide takes you through the process of creating complete touch-enabled apps that respond to native sensors. Through the course of the book, you'll learn how to work with the Windows Runtime application model while building a Bing image search app. If you're an experienced .NET developer who wants to get up to speed with Windows 8, this book provides the expertise and C# code samples you need--

@@ -1,2 +1,0 @@
-Statics and dynamics of weakly coupled antiferromagnetic spin-1/2 ladders in a magnetic field
-Introduction -- Spin-1/2 ladders -- Methods -- Static properties and NMR relaxation rate -- Dynamical correlations of a spin ladder -- Conclusions and perspectives

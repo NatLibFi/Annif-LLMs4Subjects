@@ -1,2 +1,0 @@
-The Cahn-Hilliard equation : recent advances and applications
-"This book discusses classical results, as well as recent advances, on the Cahn--Hilliard equation and some of its variants"--

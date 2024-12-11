@@ -1,2 +1,0 @@
-ArchiCAD 14 : Praxiseinstieg
-Verlagstext: Dieses Grundlagen- und Lehrbuch zeigt anhand vieler Bildbeispiele die Möglichkeiten von ArchiCAD 14 und richtet sich insbesondere an ArchiCAD-Neulinge, die Wert auf einen praxisnahen Einstieg legen. Der Leser arbeitet von Anfang an mit typischen Konstruktionsaufgaben, wie sie ihm im Studium oder Berufsleben begegnen. Jeder Befehl wird direkt an Beispielen erklärt und eingeübt

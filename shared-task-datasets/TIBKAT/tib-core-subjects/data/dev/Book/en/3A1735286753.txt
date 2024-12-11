@@ -1,2 +1,0 @@
-Business intelligence, analytics, and data science : a managerial perspective
-For courses on Business Intelligence or Decision Support Systems.A managerial approach to understanding business intelligence systems.To help future managers use and understand analytics, Business Intelligence provides students with a solid foundation of BI that is reinforced with hands-on practice

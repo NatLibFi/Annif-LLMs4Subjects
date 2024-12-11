@@ -1,2 +1,0 @@
-Classical Banach-Lie Algebras and Banach-Lie Groups of Operators in Hilbert Space
-Detailed table of contents -- Some notations and conventions -- Classical involutive Lie algebras of finite rank operators -- Classical involutive Banach-Lie algebras and groups of bounded and compact operators -- Examples of infinite dimensional Hilbert symmetric spaces -- On the cohomology of the classical complex Lie algebras of compact operators.

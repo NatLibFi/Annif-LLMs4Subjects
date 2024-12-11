@@ -1,2 +1,0 @@
-Datenanalyse mit SPSS für Fortgeschrittene ; 2: Multivariate Verfahren für Querschnittsdaten
-Systematisierung multivarianter Verfahren - Mittelwertvergleiche, Kontrastgruppen- und Varianzanalyse - Diskriminanzanalyse - Binäre logistische Regressionsanalyse - Multiple logistische Regressionsanalyse - Loglineare Modelle - Korrespondenzanalyse - Clusteranalyse

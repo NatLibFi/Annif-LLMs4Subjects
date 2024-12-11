@@ -1,2 +1,0 @@
-Fundamentals of nonlinear optics
-Linear optics -- Introduction to the nonlinear susceptibility -- Three-wave processes in the small-signal regime -- Quasi-phase matching -- Three-wave mixing beyond the small-signal limit -- x(2) devices -- x(3) processes -- Raman and Brillouin scattering -- Nonlinear optics including diffraction and dispersion -- Quantum nonlinear optics -- Complex notation -- Sellmeier equations -- Programming techniques -- Exact solutions to the coupled amplitude equations -- Optical fibers: slowly varying envelope equations

@@ -1,2 +1,0 @@
-Antenna theory and design
-"Stutzman's 3rd edition of Antenna Theory and Design provides a more pedagogical approach with a greater emphasis on computational methods. New features include additional modern material to make the text more exciting and relevant to practicing engineers; new chapters on systems, low-profile elements and base station antennas; organizational changes to improve understanding; more details to selected important topics such as microstrip antennas and arrays; and expanded measurements topic"--

@@ -1,2 +1,0 @@
-Introduction to the optical transfer function
-1. OTF historical background -- 2. Concepts -- 3. Notation and coordinates -- 4. Diffraction integral and wave-front aberration function -- 5. Mathematical theory of OTF -- Appendix A. Calculated optical transfer functions -- Appendix B. Some mathematics -- Appendix C. Diffraction integral fundamentals -- Appendix D. Updated calculations -- Index

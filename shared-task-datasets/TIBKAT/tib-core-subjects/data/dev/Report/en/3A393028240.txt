@@ -1,2 +1,0 @@
-Automotive control systems : for engine, driveline, and vehicle ; with 13 tables
-Introduction.- Thermodynamic Engine Cycles.- Engine Management Systems.- Engine Control Systems.- Driveline Control.- Vehicle Modelling.- Vehicle Parameters and States.- Vehicle Control Systems.- Road and Driver Models.- Appendix/Nomenclature

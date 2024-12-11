@@ -1,2 +1,0 @@
-Parallele Raumzerlegungsverfahren für Optimierungsprobleme mit Anwendungen auf Parameteridentifikationsaufgaben
-Gegenstand der vorliegenden Arbeit sind Verfahren für große freie und restringierte Minimierungsprobleme. Dabei wird der Ansatz verfolgt, mit Hilfe des Raumzerlegungkonzepts Verfahren mit einer immanenten parallelen Struktur zu entwerfen, die damit zu grobkörnig parallelisierbaren Algorithmen führen.

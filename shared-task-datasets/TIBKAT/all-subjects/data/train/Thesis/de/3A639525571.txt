@@ -1,2 +1,0 @@
-Bestimmung der Parameter Km und Vmax der Michaelis-Menten-Kinetik auf Basis der Versuchsplanung
-Enzymkinetik, Parametereinschätzungsfehler, Parameter. - Enzyme kinetics, parameter estimation error, parameters

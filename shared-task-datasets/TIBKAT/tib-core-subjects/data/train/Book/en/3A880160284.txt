@@ -1,2 +1,0 @@
-Functional electrodes for enzymatic and microbial electrochemical systems
-Bioelectrochemical systems are systems capable of converting the chemical energy of organic waste into electricity

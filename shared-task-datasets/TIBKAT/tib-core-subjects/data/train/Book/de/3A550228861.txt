@@ -1,2 +1,0 @@
-Benutzerhandbuch eGroupWare 1.4
-Das Handbuch zur Version 1.4 enthält neben den Beschreibungen der Anwendungen ein Kapitel zum Schnelleinstieg in die Standard-Module von eGroupWare. - Anwendungen: - Adressbuch, FeLaMiMail, Kalender, InfoLog, ProjektManager, Wiki, Content Mangement Sitemanager, Newsticker, Verfolgungssystem (Tracker), Umfragen, u.v.m.

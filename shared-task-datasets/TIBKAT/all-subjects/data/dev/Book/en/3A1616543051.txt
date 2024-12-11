@@ -1,2 +1,0 @@
-Elements of numerical analysis
-"Offers detailed discussion on difference equations, Fourier series, discrete Fourier transforms and finite element methods"--

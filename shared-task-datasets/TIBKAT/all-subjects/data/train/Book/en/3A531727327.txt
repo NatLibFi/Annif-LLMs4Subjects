@@ -1,2 +1,0 @@
-Cryptography and security services : mechanisms and applications
-"This book addresses cryptography from the perspective of security services and mechanisms available to implement them: discussing issues such as e-mail security, public-key architecture, virtual private networks, Web services security, wireless security, and confidentiality and integrity. It provides scholars and practitioners working knowledge of fundamental encryption algorithms and systems supported in information technology and secure communication networks"--Provided by publisher

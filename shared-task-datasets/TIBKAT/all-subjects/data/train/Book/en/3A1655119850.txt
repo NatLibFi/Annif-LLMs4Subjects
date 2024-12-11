@@ -1,2 +1,0 @@
-The Atiyah-Singer Index Theorem : An Introduction
-Statement of the theorem -- Applications of the index theorem -- Outline of the proof -- The atiyah-singer fixed point theorem -- Applications of the fixed point theorem.

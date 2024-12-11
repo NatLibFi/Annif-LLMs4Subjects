@@ -1,2 +1,0 @@
-Principles of health interoperability, HL7 and SNOMED
-Joined-up healthcare makes information available when and where it is needed to improve safety, efficiency and effectiveness. Joined-up healthcare depends on standards. This book covers the two leading standards - SNOMED and HL7

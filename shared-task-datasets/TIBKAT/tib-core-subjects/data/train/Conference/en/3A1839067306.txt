@@ -1,2 +1,0 @@
-Digital multimedia communications : 19th International Forum, IFTC 2022, Shanghai, China, December 8-9, 2022, revised selected papers
-This book constitutes the refereed proceedings of the 9th International Forum on Digital Multimedia Communication, IFTC 2022, held in Shanghai, China, December 8-9, 2022.   The 40 full papers included in this book were carefully reviewed and selected from 112 submissions. They were organized in topical sections as follows: Computer Vision; Image Analysis; Quality Assessment; Video Processing; Machine Learning; and Big data

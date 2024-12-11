@@ -1,3 +1,0 @@
-iOS Swift game development cookbook
-Laying out a game -- Views and menus -- Input -- Sound -- Data storage -- 2D graphics and Sprite Kit -- Physics -- 3D graphics -- Intermediate 3D graphics -- Advanced 3D graphics -- Scene Kit -- Artificial intelligence and behavior -- Networking and social media -- Game controllers and external screens -- Performance and debugging
-The authors present a manual for designing and creating iOS games for the iPhone, iPad and iPod touch using Apple's Swift programming language

@@ -1,2 +1,0 @@
-Development of memristor based circuits
-"As memristors are not yet on the market, the development of  memristor emulators and memristor based circuits is very important for real and practical engineering applications. The objectives of this book are to review the basic concepts of the memristor, describe state-of-the-art memristor based circuits and to stimulate further research and development in this area."--Preface

@@ -1,2 +1,0 @@
-Violent Python : a cookbook for hackers, forensic analysts, penetration testers and security engineers
-"Python is a hacker's language. With its decreased complexity, increased efficiency, limitless third-party libraries, and low bar to entry, Python provides an excellent development platform to build your own offensive tools. If you are running Mac OS X or Linux, odds are it is already installed on your system. While a wealth of offensive tools already exist, learning Python can help you with the difficult cases where those tools fail"--

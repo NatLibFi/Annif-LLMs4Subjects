@@ -1,3 +1,0 @@
-Risk assessment of power systems : models, methods, and applications
-"Risk Assessment of Power Systems addresses the regulations and functions of risk assessment with regard to its relevance in system planning, maintenance, and asset management. Brimming with practical examples, this edition introduces the latest risk information on renewable resources, the smart grid, voltage stability assessment, and fuzzy risk evaluation. It is a comprehensive reference of a highly pertinent topic for engineers, managers, and upper-level students who seek examples of risk theory applications in the workplace"--
-"This book discusses the models, methods and applications of risk assessment in physical power systems with a focus on various application problems"--

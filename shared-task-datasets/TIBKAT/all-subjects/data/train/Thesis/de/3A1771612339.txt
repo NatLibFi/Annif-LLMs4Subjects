@@ -1,2 +1,0 @@
-Entwicklung von realitätsnahen Prüfprozeduren für Durchflussmessgeräte basierend auf realen Verbrauchsprofilen : "vom Praxis- zum Prüfprofil am Beispiel von Wasserzählern"
-Der innerhalb der Arbeit entwickelte Algorithmus ermöglicht es, basierend auf empirisch ermittelten Wasserverbräuchen, statistisch gesicherte Flussratensequenzen zu erzeugen, welche zur realitätsnäheren Prüfung von Flüssigkeitsmessgeräten eingesetzt werden können.<ger>

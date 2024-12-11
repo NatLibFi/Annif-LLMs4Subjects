@@ -1,2 +1,0 @@
-Microbial population dynamics
-Kinetics of double-substrate limited growth / F.B. Bader -- Time delays in chemostat models / N. MacDonald -- Lag phases and transients / J.P. Barford, N.B. Pamment, and R.J. Hall -- Growth in a changing environment / A.M. Pickett -- Growth of fungi / J.I. Prosser -- The growth dynamics of unicellular algae / A. Cunningham and P. Maas

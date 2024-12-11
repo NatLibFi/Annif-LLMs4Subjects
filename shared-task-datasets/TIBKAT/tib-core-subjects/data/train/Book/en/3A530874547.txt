@@ -1,2 +1,0 @@
-Linear algebra and its applications
-Fundamentals -- Duality -- Linear mappings -- Matrices -- Determinant and trace -- Spectral theory -- Euclidean structure -- Spectral theory of self-adjoint mappings -- Calculus of vector- and matrix-valued functions -- Matrix inequalities -- Kinematics and dynamics -- Convexity -- The duality theorem -- Normed linear spaces -- Linear mappings between normed linear spaces -- Positive matrices -- How to solve systems of linear equations -- How to calculate the eigenvalues of self-adjoint matrices -- Solutions

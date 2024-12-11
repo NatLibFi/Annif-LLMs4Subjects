@@ -1,2 +1,0 @@
-Injective Choice Functions
-Set theoretic foundations -- General criteria and their applications -- Structural properties of families -- Miscellaneous theorems on marriages.

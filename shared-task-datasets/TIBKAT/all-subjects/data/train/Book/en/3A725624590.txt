@@ -1,2 +1,0 @@
-Spring data : modern data access for enterprise Java
-"You can choose several data access frameworks when building Java enterprise applications that work with relational databases. But what about big data? This hand-on introduction shows you how Spring Data makes it relatively easy to build applications across a wide range of new data access technologies such as NoSQL and Hadoop"--P. [4] of cover

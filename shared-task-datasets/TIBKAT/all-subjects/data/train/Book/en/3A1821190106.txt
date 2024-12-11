@@ -1,3 +1,0 @@
-Modern Methods in Mathematical Physics : Integral Equations in Wolfram Mathematica
-Introduction -- Fundamentals. Classification of integral equations -- Integral equations with difference kernels.
-This book provides ideas for implementing Wolfram Mathematica to solve linear integral equations. The book introduces necessary theoretical information about exact and numerical methods of solving integral equations. Every method is supplied with a large number of detailed solutions in Wolfram Mathematica. In addition, the book includes tasks for individual study. This book is a supplement for students studying “Integral Equations”. In addition, the structure of the book with individual assignments allows to use it as a base for various courses.

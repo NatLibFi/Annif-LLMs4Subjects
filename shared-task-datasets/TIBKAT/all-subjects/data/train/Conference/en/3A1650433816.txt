@@ -1,3 +1,0 @@
-Topics in Algebraic and Topological K-Theory
-This volume is an introductory textbook to K-theory, both algebraic and topological, and to various current research topics within the field, including Kasparov's bivariant K-theory, the Baum-Connes conjecture, the comparison between algebraic and topological K-theory of topological algebras, the K-theory of schemes, and the theory of dg-categories
-K-theory for group C*-algebras -- Universal Coefficient Theorems and assembly maps in KK-theory -- Algebraic v. topological K-theory: a friendly match -- Higher algebraic K-theory (after Quillen, Thomason and others) -- Lectures on DG-categories

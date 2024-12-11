@@ -1,2 +1,0 @@
-Geometric algebra with applications in engineering
-Introduction -- Learning geometric algebra with CLUCalc -- Algebra -- Geometries -- Numerics -- Uncertain geometric entities and operators -- The inversion camera model -- Monocular pose estimation -- Versor functions -- Random-variable space

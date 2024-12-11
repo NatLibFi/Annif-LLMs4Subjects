@@ -1,2 +1,0 @@
-Non-functional properties in service oriented architecture : requirements, models and methods
-"This book offers a selection of chapters that cover three important aspects related to the use of non-functional properties in SOA: requirements specification with respect to non-functional properties, modeling non-functional properties and implementation of non-functional properties"--Provided by publisher

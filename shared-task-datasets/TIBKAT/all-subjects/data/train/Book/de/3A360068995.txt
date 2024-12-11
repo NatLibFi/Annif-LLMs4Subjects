@@ -1,2 +1,0 @@
-Relationale Datenbanken : [200 praxisnahe Übungen mit Lösungen ; für alle gebräuchlichen Datenbankmodelle: Microsoft, Oracle und IBM, DBMS und DBSA, SQL]
-Aus dem Inhalt: I) Grundlagen von Datenbank-Managementsystemen II) Konzepte der Relationalen Datenbanken III) Einführung in SQL IV) Normalform V) Grundlegende Sicherheitsaspekte VI) Entity-Relationship-Modell.

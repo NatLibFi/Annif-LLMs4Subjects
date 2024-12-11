@@ -1,2 +1,0 @@
-Differential Topology : Proceedings of the Second Topology Symposium, held in Siegen, FRG, Jul. 27–Aug. 1, 1987
-The main subjects of the Siegen Topology Symposium are reflected in this collection of 16 research and expository papers. They center around differential topology and, more specifically, around linking phenomena in 3, 4 and higher dimensions, tangent fields, immersions and other vector bundle morphisms. Manifold categories, K-theory and group actions are also discussed

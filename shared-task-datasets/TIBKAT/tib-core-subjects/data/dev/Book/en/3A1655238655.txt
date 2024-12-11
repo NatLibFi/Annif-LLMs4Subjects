@@ -1,2 +1,0 @@
-Families of Meromorphic Functions on Compact Riemann Surfaces
-Review of the deformation theory of compact complex manifolds -- Structure of Hol(V, ?1) -- Rn(V) for n?g -- Families of holomorphic maps of compact complex manifolds -- Families of effective divisors and linear systems on projective manifolds -- Families of linear systems on compact Riemann surfaces.

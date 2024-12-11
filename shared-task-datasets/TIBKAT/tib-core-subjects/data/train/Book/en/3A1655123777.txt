@@ -1,2 +1,0 @@
-Schwartz Spaces, Nuclear Spaces and Tensor Products
-General notations -- Schwartz spaces -- Vector sequence spaces and absolutely summing mappings -- Nuclear spaces -- Tensor products -- Tensor products of ordered convex spaces.

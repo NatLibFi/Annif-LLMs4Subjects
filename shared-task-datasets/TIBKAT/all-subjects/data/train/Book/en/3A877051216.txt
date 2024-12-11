@@ -1,3 +1,0 @@
-Membrane computing for distributed control of robotic swarms : emerging research and opportunities
-An overview of swarm robotics -- Membrane computing: theory and applications -- Software for membrane computing -- P colonies for the control of single and multiple robots -- A generic guide for using membrane computing in robot control
-"This book explores membrane computing in the context of the fast developing field of robotics and presents the fundamental concepts of decentralized control, local interaction, stigmergy, and emerging intelligence. It also explores the basic P systems models, software stimulators, and how they are used to solve problems"--

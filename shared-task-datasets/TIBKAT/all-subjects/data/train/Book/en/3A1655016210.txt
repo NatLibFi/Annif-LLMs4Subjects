@@ -1,2 +1,0 @@
-Numerical Computation 1 : Methods, Software, and Analysis
-This book is the first part of a modern, two-volume introduction to numerical computation, which strongly emphasizes software aspects. It can serve as a textbook for courses on numerical analysis, particularly for engineers. The book can also be used as a reference book and it includes an extensive bibliography. The author is a well-known specialist in numerical analysis who was involved in the creation of the software package QUADPACK

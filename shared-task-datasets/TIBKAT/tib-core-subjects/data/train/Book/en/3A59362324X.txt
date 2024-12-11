@@ -1,2 +1,0 @@
-Modern predictive control
-1. Systems, modeling and model predictive control -- 2. Model algorithmic control (MAC) -- 3. Dynamic matrix control (DMC) -- 4. Generalized predictive control (GPC) -- 5. Two-step model predictive control -- 6. Sketch of synthesis approaches of MPC -- 7. State feedback synthesis approaches -- 8. Synthesis approaches with finite switching horizon -- 9. Open-loop optimization and closed-loop optimization in synthesis approaches -- 10. Output feedback synthesis approaches
