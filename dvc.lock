@@ -1,0 +1,78 @@
+schema: '2.0'
+stages:
+  load-vocab:
+    cmd: annif load-vocab --force gnd shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos.ttl
+    deps:
+    - path: shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos.ttl
+      hash: md5
+      md5: 6afa1578712dc4c986729138d4d93df5
+      size: 11138328
+    outs:
+    - path: data/vocabs/gnd
+      hash: md5
+      md5: 2fd54d3c1c15c7aee0a77c0977f17440.dir
+      size: 25604902
+      nfiles: 3
+  train@en:
+    cmd: annif train gnd-bonsai-en shared-task-datasets/TIBKAT/tib-core-subjects/data/train/Article/all.tsv
+    deps:
+    - path: data/vocabs/gnd
+      hash: md5
+      md5: 2fd54d3c1c15c7aee0a77c0977f17440.dir
+      size: 25604902
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/train/Article/all.tsv
+      hash: md5
+      md5: 4423da5c1c10005e0f3e91699f33467b
+      size: 300810
+    params:
+      projects.toml:
+        gnd-bonsai-en:
+          name: GND Omikuji Bonsai English
+          language: en
+          backend: omikuji
+          analyzer: simple
+          vocab: gnd
+          cluster_balanced: 'False'
+          cluster_k: '100'
+          max_depth: '3'
+          min_df: '5'
+          ngram: '2'
+    outs:
+    - path: data/projects/gnd-bonsai-en
+      hash: md5
+      md5: d5c1c07f42f400399f3c45a3b98922fc.dir
+      size: 575338
+      nfiles: 6
+  eval-en@bonsai-en:
+    cmd:
+    - annif eval gnd-bonsai-en -j 1 -m F1@5 -m NDCG --metrics-file reports/bonsai-en-Article.json
+      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+    deps:
+    - path: data/projects/gnd-bonsai-en
+      hash: md5
+      md5: d5c1c07f42f400399f3c45a3b98922fc.dir
+      size: 575338
+      nfiles: 6
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      hash: md5
+      md5: 851f61203dc7482e89e69a58a774eceb
+      size: 50057
+    params:
+      projects.toml:
+        gnd-bonsai-en:
+          name: GND Omikuji Bonsai English
+          language: en
+          backend: omikuji
+          analyzer: simple
+          vocab: gnd
+          cluster_balanced: 'False'
+          cluster_k: '100'
+          max_depth: '3'
+          min_df: '5'
+          ngram: '2'
+    outs:
+    - path: reports/bonsai-en-Article.json
+      hash: md5
+      md5: 9a38ed4d07752f34d6f55a6642431ecb
+      size: 91
