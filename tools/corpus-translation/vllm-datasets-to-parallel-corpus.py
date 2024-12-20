@@ -105,7 +105,7 @@ def process_batch(batch):
             en_records.append({'title': data['title_en'], 'desc': data['desc_en']})
             de_records.append({'title': data['title_de'], 'desc': data['desc_de']})
         except dirtyjson.error.Error:
-            print(f"Cannot parse {data}, skipping record")
+            print(f"Cannot parse {text}, skipping record")
             en_records.append(None)
             de_records.append(None)
 
