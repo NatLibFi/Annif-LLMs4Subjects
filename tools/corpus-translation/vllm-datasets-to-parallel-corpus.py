@@ -1,8 +1,8 @@
-import json
 import glob
 import sys
 import time
-from json.decoder import JSONDecodeError
+import os.path
+import dirtyjson
 from itertools import islice
 from transformers import AutoTokenizer
 from vllm import LLM, SamplingParams
@@ -33,8 +33,9 @@ MAX_BATCHED_TOKENS = 16384
 
 # Read input from file and write output to files alongside the original
 source_file = sys.argv[1]
-en_filename = source_file.replace('/all', '/en')
-de_filename = source_file.replace('/all', '/de')
+source_dir = os.path.dirname(source_file)
+en_filename = os.path.join(source_dir, os.path.basename(source_file).replace('all', 'en'))
+de_filename = os.path.join(source_dir, os.path.basename(source_file).replace('all', 'de'))
 
 # Initialize vLLM engine and tokenizer
 llm = LLM(
@@ -100,10 +101,10 @@ def process_batch(batch):
     generated_text = [output.outputs[0].text for output in outputs]
     for text in generated_text:
         try:
-            data = json.loads(text)
+            data = dirtyjson.loads(text)
             en_records.append({'title': data['title_en'], 'desc': data['desc_en']})
             de_records.append({'title': data['title_de'], 'desc': data['desc_de']})
-        except JSONDecodeError:
+        except dirtyjson.error.Error:
             print(f"Cannot parse {data}, skipping record")
             en_records.append(None)
             de_records.append(None)
@@ -146,6 +147,9 @@ with open(en_filename, 'w') as en_file, open(de_filename, 'w') as de_file:
                 continue  # skipping invalid record
             print(format_record(en_rec['title'], en_rec['desc'], uris), file=en_file)
             print(format_record(de_rec['title'], de_rec['desc'], uris), file=de_file)
+
+        en_file.flush()
+        de_file.flush()
 
 elapsed = time.time() - starttime
 print(f"Time taken: {elapsed} seconds ({elapsed/ndocs} seconds per document), batch size {batch_size}")
