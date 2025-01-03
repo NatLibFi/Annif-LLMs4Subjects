@@ -1,0 +1,6 @@
+[cache]
+    dir = /wrk-vakka/group/natlibfi-annif/dvc-cache/Annif-LLMs4Subjects
+    shared = group
+    type = symlink
+[core]
+    autostage = true

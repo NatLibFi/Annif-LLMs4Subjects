@@ -1,0 +1,41 @@
+stages:
+  # Load GND vocabulary
+  load-vocab:
+    cmd: annif load-vocab --force gnd shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos.ttl
+    deps:
+    - shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos.ttl
+    outs:
+    - data/vocabs/gnd
+  # Train Omikuji Bonsai projects
+  train:
+    foreach:
+      - en
+    do:
+      cmd: annif train gnd-bonsai-${item} shared-task-datasets/TIBKAT/tib-core-subjects/data/train/Article/all.tsv
+      deps:
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/train/Article/all.tsv
+      - data/vocabs/gnd
+      params:
+      - projects.toml:
+        - gnd-bonsai-${item}
+      outs:
+      - data/projects/gnd-bonsai-${item}
+  # Evaluate English projects
+  eval-en:
+    foreach:
+      # - mllm-en
+      - bonsai-en
+      # - fasttext-en
+      # - en
+    do:
+      cmd:
+      - annif eval gnd-${item} -j 1 -m F1@5 -m NDCG --metrics-file reports/${item}-Article.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      deps:
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      - data/projects/gnd-${item}
+      params:
+      - projects.toml:
+        - gnd-${item}
+      metrics:
+      - reports/${item}-Article.json:
+          cache: false
