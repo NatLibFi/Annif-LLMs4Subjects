@@ -1,0 +1,11 @@
+[gnd-bonsai-en]
+name = "GND Omikuji Bonsai English"
+language = "en"
+backend = "omikuji"
+analyzer = "simple"
+vocab = "gnd"
+cluster_balanced = "False"
+cluster_k = "100"
+max_depth = "3"
+min_df = "5"
+ngram = "2"
