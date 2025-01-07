@@ -1,3 +1,10 @@
+[gnd-mllm-de]
+name = "GND MLLM German"
+language = "de"
+backend = "mllm"
+analyzer = "simple"
+vocab = "gnd"
+
 [gnd-bonsai-en]
 name = "GND Omikuji Bonsai English"
 language = "en"

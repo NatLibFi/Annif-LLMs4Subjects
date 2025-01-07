@@ -6,14 +6,28 @@ stages:
     - shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos.ttl
     outs:
     - data/vocabs/gnd
+  # Train MLLM projects
+  train-mllm:
+    foreach:
+      - de
+    do:
+      cmd: annif train gnd-mllm-${item} shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
+      deps:
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/train/
+      - data/vocabs/gnd
+      params:
+      - projects.toml:
+        - gnd-mllm-${item}
+      outs:
+      - data/projects/gnd-mllm-${item}
   # Train Omikuji Bonsai projects
-  train:
+  train-omikuji-bonsai:
     foreach:
       - en
     do:
-      cmd: annif train gnd-bonsai-${item} shared-task-datasets/TIBKAT/tib-core-subjects/data/train/Article/all.tsv
+      cmd: annif train gnd-bonsai-${item} shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
       deps:
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/train/Article/all.tsv
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/train/
       - data/vocabs/gnd
       params:
       - projects.toml:
@@ -29,13 +43,64 @@ stages:
       # - en
     do:
       cmd:
-      - annif eval gnd-${item} -j 1 -m F1@5 -m NDCG --metrics-file reports/${item}-Article.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-article.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-book.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-conference.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-report.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-thesis.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
       deps:
       - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
       - data/projects/gnd-${item}
       params:
       - projects.toml:
         - gnd-${item}
       metrics:
-      - reports/${item}-Article.json:
+      - reports/${item}-article.json:
+          cache: false
+      - reports/${item}-book.json:
+          cache: false
+      - reports/${item}-conference.json:
+          cache: false
+      - reports/${item}-report.json:
+          cache: false
+      - reports/${item}-thesis.json:
+          cache: false
+  # Evaluate German projects
+  eval-de:
+    foreach:
+      - mllm-de
+      # - bonsai-en
+      # - fasttext-en
+      # - en
+    do:
+      cmd:
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-article.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-book.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-conference.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-report.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-thesis.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      deps:
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      - data/projects/gnd-${item}
+      params:
+      - projects.toml:
+        - gnd-${item}
+      metrics:
+      - reports/${item}-article.json:
+          cache: false
+      - reports/${item}-book.json:
+          cache: false
+      - reports/${item}-conference.json:
+          cache: false
+      - reports/${item}-report.json:
+          cache: false
+      - reports/${item}-thesis.json:
           cache: false
