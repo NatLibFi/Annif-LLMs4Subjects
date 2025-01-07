@@ -117,3 +117,129 @@ stages:
       hash: md5
       md5: fb1d0dfed99091f251396bfc4e9f8a26
       size: 94
+  train-mllm@de:
+    cmd: annif train gnd-mllm-de shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
+    deps:
+    - path: data/vocabs/gnd
+      hash: md5
+      md5: 2fd54d3c1c15c7aee0a77c0977f17440.dir
+      size: 25604902
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/train/
+      hash: md5
+      md5: c45db6759bb295ff0642532a1307975a.dir
+      size: 59568883
+      nfiles: 6
+    params:
+      projects.toml:
+        gnd-mllm-de:
+          name: GND MLLM German
+          language: de
+          backend: mllm
+          analyzer: simple
+          vocab: gnd
+    outs:
+    - path: data/projects/gnd-mllm-de
+      hash: md5
+      md5: a672c183f28baadb93d394aac0e11ef2.dir
+      size: 12800651
+      nfiles: 2
+  train-omikuji-bonsai@en:
+    cmd: annif train gnd-bonsai-en shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
+    deps:
+    - path: data/vocabs/gnd
+      hash: md5
+      md5: 2fd54d3c1c15c7aee0a77c0977f17440.dir
+      size: 25604902
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/train/
+      hash: md5
+      md5: c45db6759bb295ff0642532a1307975a.dir
+      size: 59568883
+      nfiles: 6
+    params:
+      projects.toml:
+        gnd-bonsai-en:
+          name: GND Omikuji Bonsai English
+          language: en
+          backend: omikuji
+          analyzer: simple
+          vocab: gnd
+          cluster_balanced: 'False'
+          cluster_k: '100'
+          max_depth: '3'
+          min_df: '5'
+          ngram: '2'
+    outs:
+    - path: data/projects/gnd-bonsai-en
+      hash: md5
+      md5: 2051ded159e9ebf321f5ad6e08cf9058.dir
+      size: 301680951
+      nfiles: 6
+  eval-de@mllm-de:
+    cmd:
+    - annif eval gnd-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-de-article.json
+      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+    - annif eval gnd-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-de-book.json
+      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+    - annif eval gnd-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-de-conference.json
+      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+    - annif eval gnd-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-de-report.json
+      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+    - annif eval gnd-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-de-thesis.json
+      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+    deps:
+    - path: data/projects/gnd-mllm-de
+      hash: md5
+      md5: a672c183f28baadb93d394aac0e11ef2.dir
+      size: 12800651
+      nfiles: 2
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      hash: md5
+      md5: 851f61203dc7482e89e69a58a774eceb
+      size: 50057
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      hash: md5
+      md5: f4a18bf7c04e4faabb5fa477c0a683be
+      size: 6951302
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      hash: md5
+      md5: 7364f83f719627ce2842fe6685c8f119
+      size: 821105
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      hash: md5
+      md5: 71c36897b08bf089e7004dfc973f8d72
+      size: 291972
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      hash: md5
+      md5: b8a8eca3bb96e4fa02174148fe1078e3
+      size: 1723490
+    params:
+      projects.toml:
+        gnd-mllm-de:
+          name: GND MLLM German
+          language: de
+          backend: mllm
+          analyzer: simple
+          vocab: gnd
+    outs:
+    - path: reports/mllm-de-article.json
+      hash: md5
+      md5: b63b2ee2c9878d51fbc8c35f3fddc70b
+      size: 95
+    - path: reports/mllm-de-book.json
+      hash: md5
+      md5: 4082957ea0feba9fe81ee6a5f3f9744b
+      size: 92
+    - path: reports/mllm-de-conference.json
+      hash: md5
+      md5: cda29d2336f9a4d9f8234335a92d80ab
+      size: 94
+    - path: reports/mllm-de-report.json
+      hash: md5
+      md5: 195bae21a17295d8494c3fa0f29dbcd7
+      size: 93
+    - path: reports/mllm-de-thesis.json
+      hash: md5
+      md5: a3411190ccece65a22e51181923c7c69
+      size: 94
