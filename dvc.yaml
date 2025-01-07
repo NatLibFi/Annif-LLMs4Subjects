@@ -1,14 +1,15 @@
 stages:
   # Load GND vocabulary
   load-vocab:
-    cmd: annif load-vocab --force gnd shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos.ttl
+    cmd: annif load-vocab --force gnd shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos-with-en-labels.ttl
     deps:
-    - shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos.ttl
+    - shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos-with-en-labels.ttl
     outs:
     - data/vocabs/gnd
   # Train MLLM projects
   train-mllm:
     foreach:
+      - en
       - de
     do:
       cmd: annif train gnd-mllm-${item} shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
@@ -24,6 +25,7 @@ stages:
   train-omikuji-bonsai:
     foreach:
       - en
+      - de
     do:
       cmd: annif train gnd-bonsai-${item} shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
       deps:
@@ -37,7 +39,7 @@ stages:
   # Evaluate English projects
   eval-en:
     foreach:
-      # - mllm-en
+      - mllm-en
       - bonsai-en
       # - fasttext-en
       # - en
@@ -73,7 +75,7 @@ stages:
   eval-de:
     foreach:
       - mllm-de
-      # - bonsai-en
+      - bonsai-de
       # - fasttext-en
       # - en
     do:

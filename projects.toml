@@ -1,3 +1,10 @@
+[gnd-mllm-en]
+name = "GND MLLM English"
+language = "en"
+backend = "mllm"
+analyzer = "simple"
+vocab = "gnd"
+
 [gnd-mllm-de]
 name = "GND MLLM German"
 language = "de"
@@ -8,6 +15,18 @@ vocab = "gnd"
 [gnd-bonsai-en]
 name = "GND Omikuji Bonsai English"
 language = "en"
+backend = "omikuji"
+analyzer = "simple"
+vocab = "gnd"
+cluster_balanced = "False"
+cluster_k = "100"
+max_depth = "3"
+min_df = "5"
+ngram = "2"
+
+[gnd-bonsai-de]
+name = "GND Omikuji Bonsai German"
+language = "de"
 backend = "omikuji"
 analyzer = "simple"
 vocab = "gnd"
