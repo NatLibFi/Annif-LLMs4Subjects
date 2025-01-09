@@ -1,17 +1,17 @@
 schema: '2.0'
 stages:
   load-vocab:
-    cmd: annif load-vocab --force gnd shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos-with-en-labels.ttl
+    cmd: annif load-vocab --force gnd shared-task-datasets/GND/GND-Subjects-all_dnb-skos-with-en-labels.ttl
     deps:
-    - path: shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos-with-en-labels.ttl
+    - path: shared-task-datasets/GND/GND-Subjects-all_dnb-skos-with-en-labels.ttl
       hash: md5
-      md5: ab125287d4a28d1cdb997bd3bfe5aee2
-      size: 14544383
+      md5: 438274312f246404e9c3dad306a0a71b
+      size: 39110565
     outs:
     - path: data/vocabs/gnd
       hash: md5
-      md5: 80954fc506fb18dd4da169eb24dee457.dir
-      size: 31870809
+      md5: 74840c5a8b3ebbea5275bcab361d0f3f.dir
+      size: 85564807
       nfiles: 3
   train@en:
     cmd: annif train gnd-bonsai-en shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
@@ -48,41 +48,41 @@ stages:
   eval-en@bonsai-en:
     cmd:
     - annif eval gnd-bonsai-en -j 32 -m F1@5 -m NDCG --metrics-file reports/bonsai-en-article.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
     - annif eval gnd-bonsai-en -j 32 -m F1@5 -m NDCG --metrics-file reports/bonsai-en-book.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
     - annif eval gnd-bonsai-en -j 32 -m F1@5 -m NDCG --metrics-file reports/bonsai-en-conference.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
     - annif eval gnd-bonsai-en -j 32 -m F1@5 -m NDCG --metrics-file reports/bonsai-en-report.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
     - annif eval gnd-bonsai-en -j 32 -m F1@5 -m NDCG --metrics-file reports/bonsai-en-thesis.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
     deps:
     - path: data/projects/gnd-bonsai-en
       hash: md5
-      md5: 2d108c70456ec0b9cff9daf5a5c05d7f.dir
-      size: 304126257
+      md5: bc5af7dba10a96bf4957013911726598.dir
+      size: 698650536
       nfiles: 6
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
       hash: md5
-      md5: 851f61203dc7482e89e69a58a774eceb
-      size: 50057
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      md5: f17f184117e43033d360241bcac8c700
+      size: 208989
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
       hash: md5
-      md5: f4a18bf7c04e4faabb5fa477c0a683be
-      size: 6951302
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      md5: 96ab3968bc747c33546ac5d9ea1530e6
+      size: 13357145
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
       hash: md5
-      md5: 7364f83f719627ce2842fe6685c8f119
-      size: 821105
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      md5: e16befa278d20d71a551839ead77eedf
+      size: 1340370
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
       hash: md5
-      md5: 71c36897b08bf089e7004dfc973f8d72
-      size: 291972
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      md5: 6f3905323a2529713bb42b834b5cae1c
+      size: 465717
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
       hash: md5
-      md5: b8a8eca3bb96e4fa02174148fe1078e3
-      size: 1723490
+      md5: 717be90085bd10ac7714adfdb6600ff5
+      size: 3237376
     params:
       projects.toml:
         gnd-bonsai-en:
@@ -99,37 +99,37 @@ stages:
     outs:
     - path: reports/bonsai-en-article.json
       hash: md5
-      md5: 0e240b0325606bbcff60b420a2ed4dae
-      size: 92
+      md5: 17917afb611042b51acc915c1a67b920
+      size: 93
     - path: reports/bonsai-en-book.json
       hash: md5
-      md5: ba26dbf8ce77396f5473f891846672af
-      size: 94
+      md5: 41e15c9df275c0bc1cc29445d801d59c
+      size: 95
     - path: reports/bonsai-en-conference.json
       hash: md5
-      md5: 32a6afcd872957144ccc29bf995efbd0
+      md5: 4016f2f3da48dff83be89250ad71988c
       size: 93
     - path: reports/bonsai-en-report.json
       hash: md5
-      md5: cb70b97912de08b12d152db4a3455d94
-      size: 94
+      md5: 21a2dbfae67499d1f0fe21854f4378f0
+      size: 93
     - path: reports/bonsai-en-thesis.json
       hash: md5
-      md5: 6def909789d6363f9e2167df5152db5a
-      size: 93
+      md5: 4b51b617f263a8647148631bf93afccc
+      size: 95
   train-mllm@de:
-    cmd: annif train gnd-mllm-de shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
+    cmd: annif train gnd-mllm-de shared-task-datasets/TIBKAT/all-subjects/data/train/*/*.tsv
     deps:
     - path: data/vocabs/gnd
       hash: md5
-      md5: 80954fc506fb18dd4da169eb24dee457.dir
-      size: 31870809
+      md5: 74840c5a8b3ebbea5275bcab361d0f3f.dir
+      size: 85564807
       nfiles: 3
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/train/
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/train/
       hash: md5
-      md5: c45db6759bb295ff0642532a1307975a.dir
-      size: 59568883
-      nfiles: 6
+      md5: 8a0a9f917a654c666761b94f8165c666.dir
+      size: 111982733
+      nfiles: 8
     params:
       projects.toml:
         gnd-mllm-de:
@@ -141,22 +141,22 @@ stages:
     outs:
     - path: data/projects/gnd-mllm-de
       hash: md5
-      md5: b065c30d540b54d77962ea13664e2708.dir
-      size: 12660127
+      md5: c1bce7212130dd30c10d558b4ddbf7ee.dir
+      size: 50478905
       nfiles: 2
   train-omikuji-bonsai@en:
-    cmd: annif train gnd-bonsai-en shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
+    cmd: annif train gnd-bonsai-en shared-task-datasets/TIBKAT/all-subjects/data/train/*/*.tsv
     deps:
     - path: data/vocabs/gnd
       hash: md5
-      md5: 80954fc506fb18dd4da169eb24dee457.dir
-      size: 31870809
+      md5: 74840c5a8b3ebbea5275bcab361d0f3f.dir
+      size: 85564807
       nfiles: 3
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/train/
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/train/
       hash: md5
-      md5: c45db6759bb295ff0642532a1307975a.dir
-      size: 59568883
-      nfiles: 6
+      md5: 8a0a9f917a654c666761b94f8165c666.dir
+      size: 111982733
+      nfiles: 8
     params:
       projects.toml:
         gnd-bonsai-en:
@@ -173,47 +173,47 @@ stages:
     outs:
     - path: data/projects/gnd-bonsai-en
       hash: md5
-      md5: 2d108c70456ec0b9cff9daf5a5c05d7f.dir
-      size: 304126257
+      md5: bc5af7dba10a96bf4957013911726598.dir
+      size: 698650536
       nfiles: 6
   eval-de@mllm-de:
     cmd:
     - annif eval gnd-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-de-article.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
     - annif eval gnd-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-de-book.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
     - annif eval gnd-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-de-conference.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
     - annif eval gnd-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-de-report.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
     - annif eval gnd-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-de-thesis.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
     deps:
     - path: data/projects/gnd-mllm-de
       hash: md5
-      md5: b065c30d540b54d77962ea13664e2708.dir
-      size: 12660127
+      md5: c1bce7212130dd30c10d558b4ddbf7ee.dir
+      size: 50478905
       nfiles: 2
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
       hash: md5
-      md5: 851f61203dc7482e89e69a58a774eceb
-      size: 50057
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      md5: f17f184117e43033d360241bcac8c700
+      size: 208989
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
       hash: md5
-      md5: f4a18bf7c04e4faabb5fa477c0a683be
-      size: 6951302
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      md5: 96ab3968bc747c33546ac5d9ea1530e6
+      size: 13357145
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
       hash: md5
-      md5: 7364f83f719627ce2842fe6685c8f119
-      size: 821105
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      md5: e16befa278d20d71a551839ead77eedf
+      size: 1340370
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
       hash: md5
-      md5: 71c36897b08bf089e7004dfc973f8d72
-      size: 291972
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      md5: 6f3905323a2529713bb42b834b5cae1c
+      size: 465717
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
       hash: md5
-      md5: b8a8eca3bb96e4fa02174148fe1078e3
-      size: 1723490
+      md5: 717be90085bd10ac7714adfdb6600ff5
+      size: 3237376
     params:
       projects.toml:
         gnd-mllm-de:
@@ -225,37 +225,37 @@ stages:
     outs:
     - path: reports/mllm-de-article.json
       hash: md5
-      md5: b63b2ee2c9878d51fbc8c35f3fddc70b
-      size: 95
+      md5: f9047f17c644270f2391d6f10556e506
+      size: 93
     - path: reports/mllm-de-book.json
       hash: md5
-      md5: 06a8bcd7f7bebe0220376c9401f4b467
-      size: 93
+      md5: 0e33a7635430ee3e644605c96e6abd02
+      size: 94
     - path: reports/mllm-de-conference.json
       hash: md5
-      md5: 3b2b42a88f17bedd62873af90ae2768c
+      md5: 820ec526952efdee4a99ab22a48bd005
       size: 94
     - path: reports/mllm-de-report.json
       hash: md5
-      md5: daead60662b85c90967db7d4d2bffcbe
-      size: 94
+      md5: f6ddaa31ae9402013ea6420fbd81cc48
+      size: 93
     - path: reports/mllm-de-thesis.json
       hash: md5
-      md5: 95acf5d5a86b2ef8719696e7e58e021d
+      md5: 1a88858870a79d4e184e2a2ce80cfe1d
       size: 94
   train-mllm@en:
-    cmd: annif train gnd-mllm-en shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
+    cmd: annif train gnd-mllm-en shared-task-datasets/TIBKAT/all-subjects/data/train/*/*.tsv
     deps:
     - path: data/vocabs/gnd
       hash: md5
-      md5: 80954fc506fb18dd4da169eb24dee457.dir
-      size: 31870809
+      md5: 74840c5a8b3ebbea5275bcab361d0f3f.dir
+      size: 85564807
       nfiles: 3
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/train/
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/train/
       hash: md5
-      md5: c45db6759bb295ff0642532a1307975a.dir
-      size: 59568883
-      nfiles: 6
+      md5: 8a0a9f917a654c666761b94f8165c666.dir
+      size: 111982733
+      nfiles: 8
     params:
       projects.toml:
         gnd-mllm-en:
@@ -267,22 +267,22 @@ stages:
     outs:
     - path: data/projects/gnd-mllm-en
       hash: md5
-      md5: ee950593598feeaa86c49855ef7c78a0.dir
-      size: 15176666
+      md5: 16db725b69ee9d70ba1d3e5863939dd0.dir
+      size: 48199833
       nfiles: 2
   train-omikuji-bonsai@de:
-    cmd: annif train gnd-bonsai-de shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
+    cmd: annif train gnd-bonsai-de shared-task-datasets/TIBKAT/all-subjects/data/train/*/*.tsv
     deps:
     - path: data/vocabs/gnd
       hash: md5
-      md5: 80954fc506fb18dd4da169eb24dee457.dir
-      size: 31870809
+      md5: 74840c5a8b3ebbea5275bcab361d0f3f.dir
+      size: 85564807
       nfiles: 3
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/train/
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/train/
       hash: md5
-      md5: c45db6759bb295ff0642532a1307975a.dir
-      size: 59568883
-      nfiles: 6
+      md5: 8a0a9f917a654c666761b94f8165c666.dir
+      size: 111982733
+      nfiles: 8
     params:
       projects.toml:
         gnd-bonsai-de:
@@ -299,47 +299,47 @@ stages:
     outs:
     - path: data/projects/gnd-bonsai-de
       hash: md5
-      md5: ef9246bd8a1044cb6732d3eb11fa7ac1.dir
-      size: 301885364
+      md5: d43ee4c9f8dc80d6959bae998008ab00.dir
+      size: 698909187
       nfiles: 6
   eval-en@mllm-en:
     cmd:
     - annif eval gnd-mllm-en -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-en-article.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
     - annif eval gnd-mllm-en -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-en-book.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
     - annif eval gnd-mllm-en -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-en-conference.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
     - annif eval gnd-mllm-en -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-en-report.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
     - annif eval gnd-mllm-en -j 32 -m F1@5 -m NDCG --metrics-file reports/mllm-en-thesis.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
     deps:
     - path: data/projects/gnd-mllm-en
       hash: md5
-      md5: ee950593598feeaa86c49855ef7c78a0.dir
-      size: 15176666
+      md5: 16db725b69ee9d70ba1d3e5863939dd0.dir
+      size: 48199833
       nfiles: 2
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
       hash: md5
-      md5: 851f61203dc7482e89e69a58a774eceb
-      size: 50057
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      md5: f17f184117e43033d360241bcac8c700
+      size: 208989
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
       hash: md5
-      md5: f4a18bf7c04e4faabb5fa477c0a683be
-      size: 6951302
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      md5: 96ab3968bc747c33546ac5d9ea1530e6
+      size: 13357145
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
       hash: md5
-      md5: 7364f83f719627ce2842fe6685c8f119
-      size: 821105
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      md5: e16befa278d20d71a551839ead77eedf
+      size: 1340370
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
       hash: md5
-      md5: 71c36897b08bf089e7004dfc973f8d72
-      size: 291972
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      md5: 6f3905323a2529713bb42b834b5cae1c
+      size: 465717
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
       hash: md5
-      md5: b8a8eca3bb96e4fa02174148fe1078e3
-      size: 1723490
+      md5: 717be90085bd10ac7714adfdb6600ff5
+      size: 3237376
     params:
       projects.toml:
         gnd-mllm-en:
@@ -351,62 +351,62 @@ stages:
     outs:
     - path: reports/mllm-en-article.json
       hash: md5
-      md5: c92e1e56f48478f4f4a02ad2ce9c31cd
-      size: 95
+      md5: cefa47d7ea19033fff58ee1ccc0bd72f
+      size: 94
     - path: reports/mllm-en-book.json
       hash: md5
-      md5: d3f5ba750dc59e047b16c3adbb92cb0e
-      size: 95
+      md5: 4616510d94f960bcc16e3fed8af4482c
+      size: 96
     - path: reports/mllm-en-conference.json
       hash: md5
-      md5: 9edbeae6abc4d7e355cee0559b2feaa3
+      md5: dbd4d5bdcfca729b3e1915409fdab015
       size: 94
     - path: reports/mllm-en-report.json
       hash: md5
-      md5: 1b89542d3f41b7d3feac9747a5d6c86f
-      size: 93
+      md5: e5fe0777739b98e50bc86f0305d25f0d
+      size: 92
     - path: reports/mllm-en-thesis.json
       hash: md5
-      md5: d093c442e5caaff61a72f4cbb8a43d80
-      size: 95
+      md5: f65ee0fb8ae206bc998414eff8eef234
+      size: 94
   eval-de@bonsai-de:
     cmd:
     - annif eval gnd-bonsai-de -j 32 -m F1@5 -m NDCG --metrics-file reports/bonsai-de-article.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
     - annif eval gnd-bonsai-de -j 32 -m F1@5 -m NDCG --metrics-file reports/bonsai-de-book.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
     - annif eval gnd-bonsai-de -j 32 -m F1@5 -m NDCG --metrics-file reports/bonsai-de-conference.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
     - annif eval gnd-bonsai-de -j 32 -m F1@5 -m NDCG --metrics-file reports/bonsai-de-report.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
     - annif eval gnd-bonsai-de -j 32 -m F1@5 -m NDCG --metrics-file reports/bonsai-de-thesis.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
     deps:
     - path: data/projects/gnd-bonsai-de
       hash: md5
-      md5: ef9246bd8a1044cb6732d3eb11fa7ac1.dir
-      size: 301885364
+      md5: d43ee4c9f8dc80d6959bae998008ab00.dir
+      size: 698909187
       nfiles: 6
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
       hash: md5
-      md5: 851f61203dc7482e89e69a58a774eceb
-      size: 50057
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
+      md5: f17f184117e43033d360241bcac8c700
+      size: 208989
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
       hash: md5
-      md5: f4a18bf7c04e4faabb5fa477c0a683be
-      size: 6951302
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
+      md5: 96ab3968bc747c33546ac5d9ea1530e6
+      size: 13357145
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
       hash: md5
-      md5: 7364f83f719627ce2842fe6685c8f119
-      size: 821105
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
+      md5: e16befa278d20d71a551839ead77eedf
+      size: 1340370
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
       hash: md5
-      md5: 71c36897b08bf089e7004dfc973f8d72
-      size: 291972
-    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      md5: 6f3905323a2529713bb42b834b5cae1c
+      size: 465717
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
       hash: md5
-      md5: b8a8eca3bb96e4fa02174148fe1078e3
-      size: 1723490
+      md5: 717be90085bd10ac7714adfdb6600ff5
+      size: 3237376
     params:
       projects.toml:
         gnd-bonsai-de:
@@ -423,21 +423,21 @@ stages:
     outs:
     - path: reports/bonsai-de-article.json
       hash: md5
-      md5: 10cc07fce54a3c23d7b846dad4eb1dce
-      size: 92
+      md5: e69dcb85c21b1174fb72b5db43eba26c
+      size: 91
     - path: reports/bonsai-de-book.json
       hash: md5
-      md5: 25e3d48043efbeec3b31169057815b94
-      size: 94
+      md5: c98d750fb5d43bfa1bd232fe8b94a5e5
+      size: 95
     - path: reports/bonsai-de-conference.json
       hash: md5
-      md5: d68631d6a04fd27c3766d24ee697003d
+      md5: d6223315370a9e4871565e576bc55a85
       size: 92
     - path: reports/bonsai-de-report.json
       hash: md5
-      md5: 2e0bd01867faf7f8514b18aedd5053cf
-      size: 94
+      md5: c5c23d45450b065005da5468e77182b9
+      size: 93
     - path: reports/bonsai-de-thesis.json
       hash: md5
-      md5: e4cc8b5d1ced630dd47a577d95aab60a
+      md5: 90dccffed287ae591dc21e8cec363ce3
       size: 94

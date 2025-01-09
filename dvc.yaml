@@ -1,9 +1,9 @@
 stages:
   # Load GND vocabulary
   load-vocab:
-    cmd: annif load-vocab --force gnd shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos-with-en-labels.ttl
+    cmd: annif load-vocab --force gnd shared-task-datasets/GND/GND-Subjects-all_dnb-skos-with-en-labels.ttl
     deps:
-    - shared-task-datasets/GND/GND-Subjects-tib-core_dnb-skos-with-en-labels.ttl
+    - shared-task-datasets/GND/GND-Subjects-all_dnb-skos-with-en-labels.ttl
     outs:
     - data/vocabs/gnd
   # Train MLLM projects
@@ -12,9 +12,9 @@ stages:
       - en
       - de
     do:
-      cmd: annif train gnd-mllm-${item} shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
+      cmd: annif train gnd-mllm-${item} shared-task-datasets/TIBKAT/all-subjects/data/train/*/*.tsv
       deps:
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/train/
+      - shared-task-datasets/TIBKAT/all-subjects/data/train/
       - data/vocabs/gnd
       params:
       - projects.toml:
@@ -27,9 +27,9 @@ stages:
       - en
       - de
     do:
-      cmd: annif train gnd-bonsai-${item} shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/*.tsv
+      cmd: annif train gnd-bonsai-${item} shared-task-datasets/TIBKAT/all-subjects/data/train/*/*.tsv
       deps:
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/train/
+      - shared-task-datasets/TIBKAT/all-subjects/data/train/
       - data/vocabs/gnd
       params:
       - projects.toml:
@@ -45,17 +45,17 @@ stages:
       # - en
     do:
       cmd:
-      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-article.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
-      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-book.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
-      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-conference.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
-      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-report.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
-      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-thesis.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-article.json shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-book.json shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-conference.json shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-report.json shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-thesis.json shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
       deps:
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      - shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
+      - shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
+      - shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
+      - shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
+      - shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
       - data/projects/gnd-${item}
       params:
       - projects.toml:
@@ -80,17 +80,17 @@ stages:
       # - en
     do:
       cmd:
-      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-article.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
-      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-book.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
-      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-conference.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
-      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-report.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
-      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-thesis.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-article.json shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-book.json shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-conference.json shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-report.json shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
+      - annif eval gnd-${item} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item}-thesis.json shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
       deps:
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/all.tsv
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/all.tsv
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/all.tsv
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/all.tsv
-      - shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/all.tsv
+      - shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/all.tsv
+      - shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/all.tsv
+      - shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/all.tsv
+      - shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/all.tsv
+      - shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/all.tsv
       - data/projects/gnd-${item}
       params:
       - projects.toml:
