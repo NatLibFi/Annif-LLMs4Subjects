@@ -4,3 +4,4 @@
     type = symlink
 [core]
     autostage = true
+    hardlink_lock = false
