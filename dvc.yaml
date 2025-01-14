@@ -19,7 +19,9 @@ stages:
     matrix:
       vocab: [all, tib-core]
       lang: [en, de]
-    cmd: mkdir -p data/projects/gnd-${item.vocab}-ensemble-${item.lang}
+    cmd:
+    - mkdir -p data/projects/gnd-${item.vocab}-ensemble-${item.lang}
+    - date -u > data/projects/gnd-${item.vocab}-ensemble-${item.lang}/timestamp
     deps:
     - data/vocabs/gnd-${item.vocab}
     - data/projects/gnd-${item.vocab}-bonsai-${item.lang}
