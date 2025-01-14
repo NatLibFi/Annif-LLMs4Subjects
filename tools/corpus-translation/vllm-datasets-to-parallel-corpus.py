@@ -42,7 +42,7 @@ llm = LLM(
     model=MODEL_NAME,
     gpu_memory_utilization=GPU_MEM_UTIL,
     max_model_len=MAX_MODEL_LEN,
-    enable_chunked_prefill=True,
+#    enable_chunked_prefill=True,
     max_num_batched_tokens=MAX_BATCHED_TOKENS,
     enable_prefix_caching=True)
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
@@ -106,8 +106,8 @@ def process_batch(batch):
             de_records.append({'title': data['title_de'], 'desc': data['desc_de']})
         except dirtyjson.error.Error:
             print(f"Cannot parse {text}, skipping record")
-            en_records.append(None)
-            de_records.append(None)
+            en_records.append({'title': "", 'desc': ""})
+            de_records.append({'title': "", 'desc': ""})
 
     return en_records, de_records, record_uris
 
@@ -143,8 +143,6 @@ with open(en_filename, 'w') as en_file, open(de_filename, 'w') as de_file:
         en_records, de_records, record_uris = process_batch(batch)
 
         for en_rec, de_rec, uris in zip(en_records, de_records, record_uris):
-            if not en_rec:
-                continue  # skipping invalid record
             print(format_record(en_rec['title'], en_rec['desc'], uris), file=en_file)
             print(format_record(de_rec['title'], de_rec['desc'], uris), file=de_file)
 

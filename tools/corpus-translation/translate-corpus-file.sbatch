@@ -10,6 +10,8 @@
 #SBATCH -t20:00:00
 
 echo "Translating corpus file: $1"
+echo -n "Number of records: "
+wc -l $1
  
 # aktivoidaan oikeanlainen python-ympäristö
 module load CUDA
