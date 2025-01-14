@@ -2,7 +2,7 @@
 name = "GND-all MLLM English"
 language = "en"
 backend = "mllm"
-analyzer = "snowball(english)"
+analyzer = "simplemma(en)"
 vocab = "gnd-all"
 
 [gnd-all-mllm-de]
