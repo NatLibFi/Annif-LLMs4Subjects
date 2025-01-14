@@ -473,7 +473,7 @@ stages:
           name: GND-tib-core Omikuji Bonsai German
           language: de
           backend: omikuji
-          analyzer: simple
+          analyzer: snowball(german)
           vocab: gnd-tib-core
           cluster_balanced: 'False'
           cluster_k: '100'
@@ -483,8 +483,8 @@ stages:
     outs:
     - path: data/projects/gnd-tib-core-bonsai-de
       hash: md5
-      md5: 346afdc026cae97faea603687bc34790.dir
-      size: 78319694
+      md5: 794dfe162008ddaeeb153530f447ad03.dir
+      size: 77801969
       nfiles: 6
   load-vocab@all:
     cmd: annif load-vocab --force gnd-all shared-task-datasets/GND/GND-Subjects-all_dnb-skos-with-en-labels.ttl
@@ -518,13 +518,13 @@ stages:
           name: GND-tib-core MLLM English
           language: en
           backend: mllm
-          analyzer: simple
+          analyzer: snowball(english)
           vocab: gnd-tib-core
     outs:
     - path: data/projects/gnd-tib-core-mllm-en
       hash: md5
-      md5: ac70e84be93739caa8712a24db9d18d4.dir
-      size: 7423598
+      md5: 4b748bd41a3a0c3d77f8b3cc08d4cc0d.dir
+      size: 12946071
       nfiles: 2
   eval@tib-core-mllm-en:
     cmd:
@@ -533,8 +533,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-mllm-en
       hash: md5
-      md5: ac70e84be93739caa8712a24db9d18d4.dir
-      size: 7423598
+      md5: 4b748bd41a3a0c3d77f8b3cc08d4cc0d.dir
+      size: 12946071
       nfiles: 2
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/en.tsv
       hash: md5
@@ -562,12 +562,12 @@ stages:
           name: GND-tib-core MLLM English
           language: en
           backend: mllm
-          analyzer: simple
+          analyzer: snowball(english)
           vocab: gnd-tib-core
     outs:
     - path: reports/tib-core-mllm-en.json
       hash: md5
-      md5: 199ac9b74f866f1ab9f0bdc53fc72f9f
+      md5: d3d5c67e0b40e8229a833ffc4340c490
       size: 94
   train@all-bonsai-de:
     cmd: annif train gnd-all-bonsai-de shared-task-datasets/TIBKAT/all-subjects/data/train/*/de.tsv
@@ -588,7 +588,7 @@ stages:
           name: GND-all Omikuji Bonsai German
           language: de
           backend: omikuji
-          analyzer: simple
+          analyzer: snowball(german)
           vocab: gnd-all
           cluster_balanced: 'False'
           cluster_k: '100'
@@ -598,8 +598,8 @@ stages:
     outs:
     - path: data/projects/gnd-all-bonsai-de
       hash: md5
-      md5: f32343ac0f9c28582c6d383fc2f19e1e.dir
-      size: 183048858
+      md5: e1b5f005bb5d24032c749a6669d5090e.dir
+      size: 179262541
       nfiles: 6
   train@tib-core-mllm-de:
     cmd: annif train gnd-tib-core-mllm-de shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/de.tsv
@@ -620,13 +620,13 @@ stages:
           name: GND-tib-core MLLM German
           language: de
           backend: mllm
-          analyzer: simple
+          analyzer: snowball(german)
           vocab: gnd-tib-core
     outs:
     - path: data/projects/gnd-tib-core-mllm-de
       hash: md5
-      md5: dc2900ffee144e8fcd72b401d920a47c.dir
-      size: 6394221
+      md5: 29a88c3053e4dd6199a18d4e230bdffa.dir
+      size: 8816914
       nfiles: 2
   eval@tib-core-mllm-de:
     cmd:
@@ -635,8 +635,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-mllm-de
       hash: md5
-      md5: dc2900ffee144e8fcd72b401d920a47c.dir
-      size: 6394221
+      md5: 29a88c3053e4dd6199a18d4e230bdffa.dir
+      size: 8816914
       nfiles: 2
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/de.tsv
       hash: md5
@@ -664,13 +664,13 @@ stages:
           name: GND-tib-core MLLM German
           language: de
           backend: mllm
-          analyzer: simple
+          analyzer: snowball(german)
           vocab: gnd-tib-core
     outs:
     - path: reports/tib-core-mllm-de.json
       hash: md5
-      md5: ea4fe39177a4b153614d8446246b9d63
-      size: 95
+      md5: 7ebfd99747060a9ca1a92e1cf9f98760
+      size: 93
   train@all-mllm-de:
     cmd: annif train gnd-all-mllm-de shared-task-datasets/TIBKAT/all-subjects/data/train/*/de.tsv
     deps:
@@ -690,13 +690,13 @@ stages:
           name: GND-all MLLM German
           language: de
           backend: mllm
-          analyzer: simple
+          analyzer: snowball(german)
           vocab: gnd-all
     outs:
     - path: data/projects/gnd-all-mllm-de
       hash: md5
-      md5: 29b8c978d3b81c5e246e02cc87146ad3.dir
-      size: 21625679
+      md5: a776b238d95a07a55fb809a5a5946de1.dir
+      size: 31511432
       nfiles: 2
   train@tib-core-bonsai-en:
     cmd: annif train gnd-tib-core-bonsai-en shared-task-datasets/TIBKAT/tib-core-subjects/data/train/*/en.tsv
@@ -717,7 +717,7 @@ stages:
           name: GND-tib-core Omikuji Bonsai English
           language: en
           backend: omikuji
-          analyzer: simple
+          analyzer: snowball(english)
           vocab: gnd-tib-core
           cluster_balanced: 'False'
           cluster_k: '100'
@@ -727,8 +727,8 @@ stages:
     outs:
     - path: data/projects/gnd-tib-core-bonsai-en
       hash: md5
-      md5: 79aeea650a62c6333f16133ec7517d49.dir
-      size: 73177367
+      md5: 76a6ccee58e12e3ce3b14df876a65d69.dir
+      size: 72999669
       nfiles: 6
   eval@tib-core-bonsai-en:
     cmd:
@@ -737,8 +737,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-bonsai-en
       hash: md5
-      md5: 79aeea650a62c6333f16133ec7517d49.dir
-      size: 73177367
+      md5: 76a6ccee58e12e3ce3b14df876a65d69.dir
+      size: 72999669
       nfiles: 6
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/en.tsv
       hash: md5
@@ -766,7 +766,7 @@ stages:
           name: GND-tib-core Omikuji Bonsai English
           language: en
           backend: omikuji
-          analyzer: simple
+          analyzer: snowball(english)
           vocab: gnd-tib-core
           cluster_balanced: 'False'
           cluster_k: '100'
@@ -776,8 +776,8 @@ stages:
     outs:
     - path: reports/tib-core-bonsai-en.json
       hash: md5
-      md5: b6dbe575768cd159fa63bf89c8599d1e
-      size: 93
+      md5: 38ca60fa7b8b6da938830d4949ddc1f7
+      size: 94
   eval@all-mllm-de:
     cmd:
     - annif eval gnd-all-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/all-mllm-de.json
@@ -785,8 +785,8 @@ stages:
     deps:
     - path: data/projects/gnd-all-mllm-de
       hash: md5
-      md5: 29b8c978d3b81c5e246e02cc87146ad3.dir
-      size: 21625679
+      md5: a776b238d95a07a55fb809a5a5946de1.dir
+      size: 31511432
       nfiles: 2
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/de.tsv
       hash: md5
@@ -814,13 +814,13 @@ stages:
           name: GND-all MLLM German
           language: de
           backend: mllm
-          analyzer: simple
+          analyzer: snowball(german)
           vocab: gnd-all
     outs:
     - path: reports/all-mllm-de.json
       hash: md5
-      md5: c0f92d6ef028a3149393ea70f0eb4237
-      size: 94
+      md5: cf79a8f11fc2a89d382da0cfe8f57b1f
+      size: 93
   train@all-mllm-en:
     cmd: annif train gnd-all-mllm-en shared-task-datasets/TIBKAT/all-subjects/data/train/*/en.tsv
     deps:
@@ -840,13 +840,13 @@ stages:
           name: GND-all MLLM English
           language: en
           backend: mllm
-          analyzer: simple
+          analyzer: snowball(english)
           vocab: gnd-all
     outs:
     - path: data/projects/gnd-all-mllm-en
       hash: md5
-      md5: 355bd4901a0c9dc07f0087b79612996f.dir
-      size: 25764484
+      md5: 93bfad7cf6ad20b6033f0b258d1d01bd.dir
+      size: 45539228
       nfiles: 2
   eval@all-mllm-en:
     cmd:
@@ -855,8 +855,8 @@ stages:
     deps:
     - path: data/projects/gnd-all-mllm-en
       hash: md5
-      md5: 355bd4901a0c9dc07f0087b79612996f.dir
-      size: 25764484
+      md5: 93bfad7cf6ad20b6033f0b258d1d01bd.dir
+      size: 45539228
       nfiles: 2
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/en.tsv
       hash: md5
@@ -884,12 +884,12 @@ stages:
           name: GND-all MLLM English
           language: en
           backend: mllm
-          analyzer: simple
+          analyzer: snowball(english)
           vocab: gnd-all
     outs:
     - path: reports/all-mllm-en.json
       hash: md5
-      md5: 6a7d741abe549e7c09ec3c66d0b1c057
+      md5: 5a0e476ccd7e60248b149287e22c3324
       size: 95
   train@all-bonsai-en:
     cmd: annif train gnd-all-bonsai-en shared-task-datasets/TIBKAT/all-subjects/data/train/*/en.tsv
@@ -910,7 +910,7 @@ stages:
           name: GND-all Omikuji Bonsai English
           language: en
           backend: omikuji
-          analyzer: simple
+          analyzer: snowball(english)
           vocab: gnd-all
           cluster_balanced: 'False'
           cluster_k: '100'
@@ -920,8 +920,8 @@ stages:
     outs:
     - path: data/projects/gnd-all-bonsai-en
       hash: md5
-      md5: 4fb525367367b8736001a4302c49ccbc.dir
-      size: 168825886
+      md5: 1020a9f58fdd2a4957d9f89002b0eb15.dir
+      size: 167603162
       nfiles: 6
   eval@all-bonsai-en:
     cmd:
@@ -930,8 +930,8 @@ stages:
     deps:
     - path: data/projects/gnd-all-bonsai-en
       hash: md5
-      md5: 4fb525367367b8736001a4302c49ccbc.dir
-      size: 168825886
+      md5: 1020a9f58fdd2a4957d9f89002b0eb15.dir
+      size: 167603162
       nfiles: 6
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/en.tsv
       hash: md5
@@ -959,7 +959,7 @@ stages:
           name: GND-all Omikuji Bonsai English
           language: en
           backend: omikuji
-          analyzer: simple
+          analyzer: snowball(english)
           vocab: gnd-all
           cluster_balanced: 'False'
           cluster_k: '100'
@@ -969,8 +969,8 @@ stages:
     outs:
     - path: reports/all-bonsai-en.json
       hash: md5
-      md5: f47a0344a3615ae9bb25977b11a1e496
-      size: 95
+      md5: ea8036d5265e71d28118c5146dc43d38
+      size: 96
   eval@all-bonsai-de:
     cmd:
     - annif eval gnd-all-bonsai-de -j 32 -m F1@5 -m NDCG --metrics-file reports/all-bonsai-de.json
@@ -978,8 +978,8 @@ stages:
     deps:
     - path: data/projects/gnd-all-bonsai-de
       hash: md5
-      md5: f32343ac0f9c28582c6d383fc2f19e1e.dir
-      size: 183048858
+      md5: e1b5f005bb5d24032c749a6669d5090e.dir
+      size: 179262541
       nfiles: 6
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/de.tsv
       hash: md5
@@ -1007,7 +1007,7 @@ stages:
           name: GND-all Omikuji Bonsai German
           language: de
           backend: omikuji
-          analyzer: simple
+          analyzer: snowball(german)
           vocab: gnd-all
           cluster_balanced: 'False'
           cluster_k: '100'
@@ -1017,8 +1017,8 @@ stages:
     outs:
     - path: reports/all-bonsai-de.json
       hash: md5
-      md5: 4a18b5923459761ad7447809f239e489
-      size: 95
+      md5: e02c42c1bcdca6db6906bebf57c3a239
+      size: 96
   eval@tib-core-bonsai-de:
     cmd:
     - annif eval gnd-tib-core-bonsai-de -j 32 -m F1@5 -m NDCG --metrics-file reports/tib-core-bonsai-de.json
@@ -1026,8 +1026,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-bonsai-de
       hash: md5
-      md5: 346afdc026cae97faea603687bc34790.dir
-      size: 78319694
+      md5: 794dfe162008ddaeeb153530f447ad03.dir
+      size: 77801969
       nfiles: 6
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/de.tsv
       hash: md5
@@ -1055,7 +1055,7 @@ stages:
           name: GND-tib-core Omikuji Bonsai German
           language: de
           backend: omikuji
-          analyzer: simple
+          analyzer: snowball(german)
           vocab: gnd-tib-core
           cluster_balanced: 'False'
           cluster_k: '100'
@@ -1065,5 +1065,5 @@ stages:
     outs:
     - path: reports/tib-core-bonsai-de.json
       hash: md5
-      md5: 3cbb83e42917ecb2c3dd42675d115713
-      size: 94
+      md5: 235b9aecb2d62e545ec6cefa3bc9b17b
+      size: 92
