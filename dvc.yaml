@@ -1,15 +1,4 @@
 stages:
-  # Load vocabularies
-  load-vocab:
-    foreach:
-      - all
-      - tib-core
-    do:
-      cmd: annif load-vocab --force gnd-${item} shared-task-datasets/GND/GND-Subjects-${item}_dnb-skos-with-en-labels.ttl
-      deps:
-      - shared-task-datasets/GND/GND-Subjects-${item}_dnb-skos-with-en-labels.ttl
-      outs:
-      - data/vocabs/gnd-${item}
   # Train projects
   train:
     matrix:
