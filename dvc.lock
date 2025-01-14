@@ -1067,3 +1067,271 @@ stages:
       hash: md5
       md5: 235b9aecb2d62e545ec6cefa3bc9b17b
       size: 92
+  dummy-train-ensemble@all-en:
+    cmd: mkdir -p data/projects/gnd-all-ensemble-en
+    deps:
+    - path: data/projects/gnd-all-bonsai-en
+      hash: md5
+      md5: 1020a9f58fdd2a4957d9f89002b0eb15.dir
+      size: 167603162
+      nfiles: 6
+    - path: data/projects/gnd-all-mllm-en
+      hash: md5
+      md5: 93bfad7cf6ad20b6033f0b258d1d01bd.dir
+      size: 45539228
+      nfiles: 2
+    - path: data/vocabs/gnd-all
+      hash: md5
+      md5: c7ff2469d4a3a37ab7d77b98ea28d3f7.dir
+      size: 85563552
+      nfiles: 3
+    outs:
+    - path: data/projects/gnd-all-ensemble-en
+      hash: md5
+      md5: d751713988987e9331980363e24189ce.dir
+      size: 0
+      nfiles: 0
+  dummy-train-ensemble@all-de:
+    cmd: mkdir -p data/projects/gnd-all-ensemble-de
+    deps:
+    - path: data/projects/gnd-all-bonsai-de
+      hash: md5
+      md5: e1b5f005bb5d24032c749a6669d5090e.dir
+      size: 179262541
+      nfiles: 6
+    - path: data/projects/gnd-all-mllm-de
+      hash: md5
+      md5: a776b238d95a07a55fb809a5a5946de1.dir
+      size: 31511432
+      nfiles: 2
+    - path: data/vocabs/gnd-all
+      hash: md5
+      md5: c7ff2469d4a3a37ab7d77b98ea28d3f7.dir
+      size: 85563552
+      nfiles: 3
+    outs:
+    - path: data/projects/gnd-all-ensemble-de
+      hash: md5
+      md5: d751713988987e9331980363e24189ce.dir
+      size: 0
+      nfiles: 0
+  dummy-train-ensemble@tib-core-de:
+    cmd: mkdir -p data/projects/gnd-tib-core-ensemble-de
+    deps:
+    - path: data/projects/gnd-tib-core-bonsai-de
+      hash: md5
+      md5: 794dfe162008ddaeeb153530f447ad03.dir
+      size: 77801969
+      nfiles: 6
+    - path: data/projects/gnd-tib-core-mllm-de
+      hash: md5
+      md5: 29a88c3053e4dd6199a18d4e230bdffa.dir
+      size: 8816914
+      nfiles: 2
+    - path: data/vocabs/gnd-tib-core
+      hash: md5
+      md5: fef8f3d19acc1ebefdf2bbfd45548ea6.dir
+      size: 31871226
+      nfiles: 3
+    outs:
+    - path: data/projects/gnd-tib-core-ensemble-de
+      hash: md5
+      md5: d751713988987e9331980363e24189ce.dir
+      size: 0
+      nfiles: 0
+  dummy-train-ensemble@tib-core-en:
+    cmd: mkdir -p data/projects/gnd-tib-core-ensemble-en
+    deps:
+    - path: data/projects/gnd-tib-core-bonsai-en
+      hash: md5
+      md5: 76a6ccee58e12e3ce3b14df876a65d69.dir
+      size: 72999669
+      nfiles: 6
+    - path: data/projects/gnd-tib-core-mllm-en
+      hash: md5
+      md5: 4b748bd41a3a0c3d77f8b3cc08d4cc0d.dir
+      size: 12946071
+      nfiles: 2
+    - path: data/vocabs/gnd-tib-core
+      hash: md5
+      md5: fef8f3d19acc1ebefdf2bbfd45548ea6.dir
+      size: 31871226
+      nfiles: 3
+    outs:
+    - path: data/projects/gnd-tib-core-ensemble-en
+      hash: md5
+      md5: d751713988987e9331980363e24189ce.dir
+      size: 0
+      nfiles: 0
+  eval@tib-core-ensemble-de:
+    cmd:
+    - annif eval gnd-tib-core-ensemble-de -j 32 -m F1@5 -m NDCG --metrics-file reports/tib-core-ensemble-de.json
+      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/*/de.tsv
+    deps:
+    - path: data/projects/gnd-tib-core-ensemble-de
+      hash: md5
+      md5: d751713988987e9331980363e24189ce.dir
+      size: 0
+      nfiles: 0
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/de.tsv
+      hash: md5
+      md5: 8b32c82761dd93cb5619f949e94f082e
+      size: 56235
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/de.tsv
+      hash: md5
+      md5: 32c247880b93615652c4a16ee592137a
+      size: 6785186
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/de.tsv
+      hash: md5
+      md5: 764e8c4351f824567f2299a4d257c1f4
+      size: 769150
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/de.tsv
+      hash: md5
+      md5: d37daf982a195a889a4dad72b4c094a0
+      size: 286560
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/de.tsv
+      hash: md5
+      md5: 1e9aff8d1f8df7e8a6600af74e1b4796
+      size: 1564607
+    params:
+      projects.toml:
+        gnd-tib-core-ensemble-de:
+          name: GND-tib-core ensemble German
+          language: de
+          backend: ensemble
+          sources: gnd-tib-core-mllm-de,gnd-tib-core-bonsai-de
+          vocab: gnd-tib-core
+    outs:
+    - path: reports/tib-core-ensemble-de.json
+      hash: md5
+      md5: 7e2bd3c9e24d46fa9ea94bae8ee04bc1
+      size: 94
+  eval@tib-core-ensemble-en:
+    cmd:
+    - annif eval gnd-tib-core-ensemble-en -j 32 -m F1@5 -m NDCG --metrics-file reports/tib-core-ensemble-en.json
+      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/*/en.tsv
+    deps:
+    - path: data/projects/gnd-tib-core-ensemble-en
+      hash: md5
+      md5: d751713988987e9331980363e24189ce.dir
+      size: 0
+      nfiles: 0
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Article/en.tsv
+      hash: md5
+      md5: c519e98faef47f776f9305718f985713
+      size: 49004
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Book/en.tsv
+      hash: md5
+      md5: b3d12f6ed2cbe463490d63a0b373c159
+      size: 6103434
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Conference/en.tsv
+      hash: md5
+      md5: acdfa55fa7e8458c10540c9c2c827248
+      size: 687255
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Report/en.tsv
+      hash: md5
+      md5: b5e52f53190d586e45d38a93cd06078c
+      size: 260306
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/Thesis/en.tsv
+      hash: md5
+      md5: c1975bd4a5524ffa9ccad133618daedd
+      size: 1393965
+    params:
+      projects.toml:
+        gnd-tib-core-ensemble-en:
+          name: GND-tib-core ensemble English
+          language: en
+          backend: ensemble
+          sources: gnd-tib-core-mllm-en,gnd-tib-core-bonsai-en
+          vocab: gnd-tib-core
+    outs:
+    - path: reports/tib-core-ensemble-en.json
+      hash: md5
+      md5: 3046b062dc0fa280afe1a82d4f9003d5
+      size: 93
+  eval@all-ensemble-en:
+    cmd:
+    - annif eval gnd-all-ensemble-en -j 32 -m F1@5 -m NDCG --metrics-file reports/all-ensemble-en.json
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/*/en.tsv
+    deps:
+    - path: data/projects/gnd-all-ensemble-en
+      hash: md5
+      md5: d751713988987e9331980363e24189ce.dir
+      size: 0
+      nfiles: 0
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/en.tsv
+      hash: md5
+      md5: cfb8a08fdf81c39d6c466040744c61ab
+      size: 206226
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/en.tsv
+      hash: md5
+      md5: 70e611f5a21fbf4202a0ea63f01752c0
+      size: 11682716
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/en.tsv
+      hash: md5
+      md5: dc45a06672257ceceeaca3f377ee5f80
+      size: 1145631
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/en.tsv
+      hash: md5
+      md5: c020b07b37173c0e28031af0e8c7b598
+      size: 418982
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/en.tsv
+      hash: md5
+      md5: c61d00a1951bad02ee2c493711c25535
+      size: 2625568
+    params:
+      projects.toml:
+        gnd-all-ensemble-en:
+          name: GND-all ensemble English
+          language: en
+          backend: ensemble
+          sources: gnd-all-mllm-en,gnd-all-bonsai-en
+          vocab: gnd-all
+    outs:
+    - path: reports/all-ensemble-en.json
+      hash: md5
+      md5: b9b8cc231bfbf415701ac593da58afe6
+      size: 96
+  eval@all-ensemble-de:
+    cmd:
+    - annif eval gnd-all-ensemble-de -j 32 -m F1@5 -m NDCG --metrics-file reports/all-ensemble-de.json
+      shared-task-datasets/TIBKAT/all-subjects/data/dev/*/de.tsv
+    deps:
+    - path: data/projects/gnd-all-ensemble-de
+      hash: md5
+      md5: d751713988987e9331980363e24189ce.dir
+      size: 0
+      nfiles: 0
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/de.tsv
+      hash: md5
+      md5: 0b6837050639fd8ca5f900ecc9e77fa9
+      size: 237298
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/de.tsv
+      hash: md5
+      md5: 58488b872430fecad32cbeb11c580e03
+      size: 13061786
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/de.tsv
+      hash: md5
+      md5: 631dff9010d448539c92582b08e44269
+      size: 1277180
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/de.tsv
+      hash: md5
+      md5: d796c1459d257d82883b4c9120824afd
+      size: 465862
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/de.tsv
+      hash: md5
+      md5: c75d201e380fc3f66da36f5e349cecf7
+      size: 2936465
+    params:
+      projects.toml:
+        gnd-all-ensemble-de:
+          name: GND-all ensemble German
+          language: de
+          backend: ensemble
+          sources: gnd-all-mllm-de,gnd-all-bonsai-de
+          vocab: gnd-all
+    outs:
+    - path: reports/all-ensemble-de.json
+      hash: md5
+      md5: c8ceb03d202b11071339ae87b4f9a5a1
+      size: 95

@@ -36,6 +36,20 @@ max_depth = "3"
 min_df = "5"
 ngram = "2"
 
+[gnd-all-ensemble-en]
+name = "GND-all ensemble English"
+language = "en"
+backend = "ensemble"
+sources = "gnd-all-mllm-en,gnd-all-bonsai-en"
+vocab = "gnd-all"
+
+[gnd-all-ensemble-de]
+name = "GND-all ensemble German"
+language = "de"
+backend = "ensemble"
+sources = "gnd-all-mllm-de,gnd-all-bonsai-de"
+vocab = "gnd-all"
+
 [gnd-tib-core-mllm-en]
 name = "GND-tib-core MLLM English"
 language = "en"
@@ -73,3 +87,17 @@ cluster_k = "100"
 max_depth = "3"
 min_df = "5"
 ngram = "2"
+
+[gnd-tib-core-ensemble-en]
+name = "GND-tib-core ensemble English"
+language = "en"
+backend = "ensemble"
+sources = "gnd-tib-core-mllm-en,gnd-tib-core-bonsai-en"
+vocab = "gnd-tib-core"
+
+[gnd-tib-core-ensemble-de]
+name = "GND-tib-core ensemble German"
+language = "de"
+backend = "ensemble"
+sources = "gnd-tib-core-mllm-de,gnd-tib-core-bonsai-de"
+vocab = "gnd-tib-core"
