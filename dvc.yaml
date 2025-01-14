@@ -1,58 +1,48 @@
 stages:
-  # Load GND vocabulary
+  # Load vocabularies
   load-vocab:
-    cmd: annif load-vocab --force gnd shared-task-datasets/GND/GND-Subjects-all_dnb-skos-with-en-labels.ttl
+    foreach:
+      - all
+      - tib-core
+    do:
+      cmd: annif load-vocab --force gnd-${item} shared-task-datasets/GND/GND-Subjects-${item}_dnb-skos-with-en-labels.ttl
+      deps:
+      - shared-task-datasets/GND/GND-Subjects-${item}_dnb-skos-with-en-labels.ttl
+      outs:
+      - data/vocabs/gnd-${item}
+  # Train projects
+  train:
+    matrix:
+      vocab: [all, tib-core]
+      backend: [mllm, bonsai]
+      lang: [en, de]
+    cmd: annif train gnd-${item.vocab}-${item.backend}-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/*/${item.lang}.tsv
     deps:
-    - shared-task-datasets/GND/GND-Subjects-all_dnb-skos-with-en-labels.ttl
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/
+    - data/vocabs/gnd-${item.vocab}
+    params:
+    - projects.toml:
+      - gnd-${item.vocab}-${item.backend}-${item.lang}
     outs:
-    - data/vocabs/gnd
-  # Train MLLM projects
-  train-mllm:
-    foreach:
-      - en
-      - de
-    do:
-      cmd: annif train gnd-mllm-${item} shared-task-datasets/TIBKAT/all-subjects/data/train/*/${item}.tsv
-      deps:
-      - shared-task-datasets/TIBKAT/all-subjects/data/train/
-      - data/vocabs/gnd
-      params:
-      - projects.toml:
-        - gnd-mllm-${item}
-      outs:
-      - data/projects/gnd-mllm-${item}
-  # Train Omikuji Bonsai projects
-  train-omikuji-bonsai:
-    foreach:
-      - en
-      - de
-    do:
-      cmd: annif train gnd-bonsai-${item} shared-task-datasets/TIBKAT/all-subjects/data/train/*/${item}.tsv
-      deps:
-      - shared-task-datasets/TIBKAT/all-subjects/data/train/
-      - data/vocabs/gnd
-      params:
-      - projects.toml:
-        - gnd-bonsai-${item}
-      outs:
-      - data/projects/gnd-bonsai-${item}
+    - data/projects/gnd-${item.vocab}-${item.backend}-${item.lang}
   # Evaluate projects
   eval:
     matrix:
+      vocab: [all, tib-core]
       backend: [mllm, bonsai]
       lang: [en, de]
     cmd:
-    - annif eval gnd-${item.backend}-${item.lang} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item.backend}-${item.lang}.json shared-task-datasets/TIBKAT/all-subjects/data/dev/*/${item.lang}.tsv
+    - annif eval gnd-${item.vocab}-${item.backend}-${item.lang} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item.vocab}-${item.backend}-${item.lang}.json shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/*/${item.lang}.tsv
     deps:
-    - shared-task-datasets/TIBKAT/all-subjects/data/dev/Article/${item.lang}.tsv
-    - shared-task-datasets/TIBKAT/all-subjects/data/dev/Book/${item.lang}.tsv
-    - shared-task-datasets/TIBKAT/all-subjects/data/dev/Conference/${item.lang}.tsv
-    - shared-task-datasets/TIBKAT/all-subjects/data/dev/Report/${item.lang}.tsv
-    - shared-task-datasets/TIBKAT/all-subjects/data/dev/Thesis/${item.lang}.tsv
-    - data/projects/gnd-${item.backend}-${item.lang}
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/Article/${item.lang}.tsv
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/Book/${item.lang}.tsv
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/Conference/${item.lang}.tsv
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/Report/${item.lang}.tsv
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/Thesis/${item.lang}.tsv
+    - data/projects/gnd-${item.vocab}-${item.backend}-${item.lang}
     params:
     - projects.toml:
-      - gnd-${item.backend}-${item.lang}
+      - gnd-${item.vocab}-${item.backend}-${item.lang}
     metrics:
-    - reports/${item.backend}-${item.lang}.json:
+    - reports/${item.vocab}-${item.backend}-${item.lang}.json:
         cache: false

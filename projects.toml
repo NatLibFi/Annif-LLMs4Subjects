@@ -1,35 +1,73 @@
-[gnd-mllm-en]
-name = "GND MLLM English"
+[gnd-all-mllm-en]
+name = "GND-all MLLM English"
 language = "en"
 backend = "mllm"
 analyzer = "simple"
-vocab = "gnd"
+vocab = "gnd-all"
 
-[gnd-mllm-de]
-name = "GND MLLM German"
+[gnd-all-mllm-de]
+name = "GND-all MLLM German"
 language = "de"
 backend = "mllm"
 analyzer = "simple"
-vocab = "gnd"
+vocab = "gnd-all"
 
-[gnd-bonsai-en]
-name = "GND Omikuji Bonsai English"
+[gnd-all-bonsai-en]
+name = "GND-all Omikuji Bonsai English"
 language = "en"
 backend = "omikuji"
 analyzer = "simple"
-vocab = "gnd"
+vocab = "gnd-all"
 cluster_balanced = "False"
 cluster_k = "100"
 max_depth = "3"
 min_df = "5"
 ngram = "2"
 
-[gnd-bonsai-de]
-name = "GND Omikuji Bonsai German"
+[gnd-all-bonsai-de]
+name = "GND-all Omikuji Bonsai German"
 language = "de"
 backend = "omikuji"
 analyzer = "simple"
-vocab = "gnd"
+vocab = "gnd-all"
+cluster_balanced = "False"
+cluster_k = "100"
+max_depth = "3"
+min_df = "5"
+ngram = "2"
+
+[gnd-tib-core-mllm-en]
+name = "GND-tib-core MLLM English"
+language = "en"
+backend = "mllm"
+analyzer = "simple"
+vocab = "gnd-tib-core"
+
+[gnd-tib-core-mllm-de]
+name = "GND-tib-core MLLM German"
+language = "de"
+backend = "mllm"
+analyzer = "simple"
+vocab = "gnd-tib-core"
+
+[gnd-tib-core-bonsai-en]
+name = "GND-tib-core Omikuji Bonsai English"
+language = "en"
+backend = "omikuji"
+analyzer = "simple"
+vocab = "gnd-tib-core"
+cluster_balanced = "False"
+cluster_k = "100"
+max_depth = "3"
+min_df = "5"
+ngram = "2"
+
+[gnd-tib-core-bonsai-de]
+name = "GND-tib-core Omikuji Bonsai German"
+language = "de"
+backend = "omikuji"
+analyzer = "simple"
+vocab = "gnd-tib-core"
 cluster_balanced = "False"
 cluster_k = "100"
 max_depth = "3"
