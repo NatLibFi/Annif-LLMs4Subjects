@@ -13,7 +13,7 @@ from pydantic import BaseModel
 
 LLM_SYSTEM_PROMPT = "You are a professional translator specialized in translating bibliographic metadata."
 LLM_PROMPT = """
-Your task is to translate the given title and description into English and German with the following requirements:
+Your task is to translate the given title and description into <LANGUAGE> with the following requirements:
 
 * The description is all text between BEGIN and END, not including these tags.
 * The description may include lists of keywords, tables of contents and similar texts; these are an important part of the description.
@@ -22,10 +22,8 @@ Your task is to translate the given title and description into English and Germa
 
 Respond with only a JSON document having this structure:
 
-{"title_de": "<title in German>",
- "title_en": "<title in English>",
- "desc_de": "<keywords, description and tables of contents in German only>",
- "desc_en": "<keywords, description and tables of contents in English only>"}
+{"title": "<title in <LANGUAGE>>",
+ "desc": "<keywords, description and tables of contents in <LANGUAGE> only>"}
 
 Translate this title and description according to the above requirements:
 """.strip()
@@ -53,8 +51,8 @@ llm = LLM(
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 
 
-def generate_messages(record):
-    prompt = LLM_PROMPT + "\n\n" + \
+def generate_messages(record, language):
+    prompt = LLM_PROMPT.replace('<LANGUAGE>', language) + "\n\n" + \
 	f"Title: {record['title']}\n" + f"Description BEGIN:\n{record['desc']}\nEND"
 
     messages = [
@@ -70,21 +68,24 @@ def messages_to_token_ids(messages):
 
 
 class TranslatedOutput(BaseModel):
-    title_de: str
-    title_en: str
-    desc_de: str
-    desc_en: str
+    title: str
+    desc: str
 
 
 # Function to process a batch of records
 def process_batch(batch):
     prompt_token_ids = []
+    languages = []
 
     for record in batch:
-        messages = generate_messages(record)
+        messages = generate_messages(record, 'German')
         prompt_token_ids.append(messages_to_token_ids(messages))
+        languages.append('de')
+        messages = generate_messages(record, 'English')
+        prompt_token_ids.append(messages_to_token_ids(messages))
+        languages.append('en')
 
-    new_records = []
+    new_records = {'en': [], 'de': []}
 
     json_schema = TranslatedOutput.model_json_schema()
     guided_decoding_params = GuidedDecodingParams(json=json_schema)
@@ -92,15 +93,15 @@ def process_batch(batch):
     outputs = llm.generate(prompt_token_ids=prompt_token_ids, sampling_params=sampling_params)
 
     generated_text = [output.outputs[0].text for output in outputs]
-    for text in generated_text:
+    for lang, text in zip(languages, generated_text):
         try:
             data = dirtyjson.loads(text)
-            new_records.append(data)
+            new_records[lang].append(data)
         except dirtyjson.error.Error:
             print(f"Cannot parse {text}, skipping record")
-            new_records.append({'title_en': '', 'title_de': '', 'desc_en': '', 'desc_de': ''})
+            new_records[lang].append({'title': '', 'desc': ''})
 
-    return new_records
+    return new_records['en'], new_records['de']
 
 def batched(iterable, n, *, strict=False):
     # batched('ABCDEFG', 3) → ABC DEF G
@@ -154,11 +155,17 @@ ndocs = 0
 with open(dest_filename, 'w') as dest_file:
     for batch in batched(read_zip(source_filename, lang), batch_size):
         ndocs += len(batch)
-        new_records = process_batch(batch)
+        en_records, de_records = process_batch(batch)
 
-        for orig_rec, new_rec in zip(batch, new_records):
-            orig_rec.update(new_rec)
-            json.dump(orig_rec, dest_file)
+        for orig_rec, en_rec, de_rec in zip(batch, en_records, de_records):
+            rec = {}
+            rec['title'] = orig_rec['title']
+            rec['title_de'] = de_rec['title']
+            rec['title_en'] = en_rec['title']
+            rec['desc'] = orig_rec['desc']
+            rec['desc_en'] = en_rec['desc']
+            rec['desc_de'] = de_rec['desc']
+            json.dump(rec, dest_file)
             dest_file.write('\n')
 
         dest_file.flush()
