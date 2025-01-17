@@ -3,25 +3,19 @@ import json
 import sys
 import time
 import os.path
-import dirtyjson
 import zipfile
 from itertools import islice
 from transformers import AutoTokenizer
 from vllm import LLM, SamplingParams
-from vllm.sampling_params import GuidedDecodingParams
-from pydantic import BaseModel
 
 LLM_SYSTEM_PROMPT = "You are a professional translator specialized in translating bibliographic metadata."
 LLM_PROMPT = """
 Your task is to ensure that the given document title and description are in <LANGUAGE> language, translating the text if necessary.
-If the text is already in the correct language, do not change or summarize it, keep it all as it is.
+If the text is already in <LANGUAGE>, do not change or summarize it, keep it all as it is.
 
-Respond with only a JSON document having the same structure as the input:
+Respond with only the text, nothing else.
 
-{"title": "<title in <LANGUAGE> only>",
- "desc": "<description in <LANGUAGE> only>"}
-
-Translate this title and description according to the above requirements:
+Give this title and description in <LANGUAGE>:
 """.strip()
 
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
@@ -49,7 +43,7 @@ tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 
 def generate_messages(record, language):
     prompt = LLM_PROMPT.replace('<LANGUAGE>', language) + "\n\n" + \
-        json.dumps({"title": record['title'], "desc": record['desc']})
+        record['title'] + "\n\n" + record['desc']
 
     messages = [
         {"role": "system", "content": LLM_SYSTEM_PROMPT},
@@ -61,11 +55,6 @@ def generate_messages(record, language):
 
 def messages_to_token_ids(messages):
     return tokenizer.apply_chat_template(messages, add_generation_prompt=True)
-
-
-class TranslatedOutput(BaseModel):
-    title: str
-    desc: str
 
 
 # Function to process a batch of records
@@ -83,19 +72,12 @@ def process_batch(batch):
 
     new_records = {'en': [], 'de': []}
 
-    json_schema = TranslatedOutput.model_json_schema()
-    guided_decoding_params = GuidedDecodingParams(json=json_schema)
-    sampling_params=SamplingParams(max_tokens=MAX_TOKENS, temperature=TEMPERATURE, repetition_penalty=REPETITION_PENALTY, guided_decoding=guided_decoding_params)
+    sampling_params=SamplingParams(max_tokens=MAX_TOKENS, temperature=TEMPERATURE, repetition_penalty=REPETITION_PENALTY)
     outputs = llm.generate(prompt_token_ids=prompt_token_ids, sampling_params=sampling_params)
 
     generated_text = [output.outputs[0].text for output in outputs]
     for lang, text in zip(languages, generated_text):
-        try:
-            data = dirtyjson.loads(text)
-            new_records[lang].append(data)
-        except dirtyjson.error.Error:
-            print(f"Cannot parse {text}, skipping record")
-            new_records[lang].append({'title': '', 'desc': ''})
+        new_records[lang].append(text)
 
     return new_records['en'], new_records['de']
 
@@ -137,13 +119,8 @@ def read_file(filename):
             text, uris = line.strip().split('\t', 1)
             yield (text, uris)
 
-def format_record(title, desc, uris):
-    desc = " ".join(desc.strip().split())  # normalize whitespace, just to be sure
-    return f"{title} ¤ {desc}\t{uris}"
-
 # Process input lines in batches
-#batch_size = 256
-batch_size = 32
+batch_size = 256
 
 starttime = time.time()
 ndocs = 0
@@ -157,16 +134,13 @@ with open(dest_filename, 'w') as dest_file:
             rec = {}
             rec['filename'] = orig_rec['filename']
             rec['title'] = orig_rec['title']
-            rec['title_de'] = de_rec['title']
-            rec['title_en'] = en_rec['title']
             rec['desc'] = orig_rec['desc']
-            rec['desc_en'] = en_rec['desc']
-            rec['desc_de'] = de_rec['desc']
+            rec['text_en'] = en_rec
+            rec['text_de'] = de_rec
             json.dump(rec, dest_file)
             dest_file.write('\n')
 
         dest_file.flush()
-        break
 
 elapsed = time.time() - starttime
 print(f"Time taken: {elapsed} seconds ({elapsed/ndocs} seconds per document), batch size {batch_size}")
