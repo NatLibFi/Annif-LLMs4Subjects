@@ -13,26 +13,22 @@ from pydantic import BaseModel
 
 LLM_SYSTEM_PROMPT = "You are a professional translator specialized in translating bibliographic metadata."
 LLM_PROMPT = """
-Your task is to translate the given title and description into <LANGUAGE> with the following requirements:
+Your task is to ensure that the given document title and description are in <LANGUAGE> language, translating the text if necessary.
+If the text is already in the correct language, do not change or summarize it, keep it all as it is.
 
-* The description is all text between BEGIN and END, not including these tags.
-* The description may include lists of keywords, tables of contents and similar texts; these are an important part of the description.
-* When the text is already in the correct language, do not change or summarize it, keep it all as it is.
-* Do not repeat the same text more than once in the same language.
+Respond with only a JSON document having the same structure as the input:
 
-Respond with only a JSON document having this structure:
-
-{"title": "<title in <LANGUAGE>>",
- "desc": "<keywords, description and tables of contents in <LANGUAGE> only>"}
+{"title": "<title in <LANGUAGE> only>",
+ "desc": "<description in <LANGUAGE> only>"}
 
 Translate this title and description according to the above requirements:
 """.strip()
 
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
-MAX_TOKENS = 8192
+MAX_TOKENS = 4096
 TEMPERATURE = 0.3
 REPETITION_PENALTY = 1.1
-MAX_MODEL_LEN = 8192
+MAX_MODEL_LEN = 4096
 GPU_MEM_UTIL = 0.95
 MAX_BATCHED_TOKENS = 16384
 
@@ -53,7 +49,7 @@ tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 
 def generate_messages(record, language):
     prompt = LLM_PROMPT.replace('<LANGUAGE>', language) + "\n\n" + \
-	f"Title: {record['title']}\n" + f"Description BEGIN:\n{record['desc']}\nEND"
+        json.dumps({"title": record['title'], "desc": record['desc']})
 
     messages = [
         {"role": "system", "content": LLM_SYSTEM_PROMPT},
@@ -159,6 +155,7 @@ with open(dest_filename, 'w') as dest_file:
 
         for orig_rec, en_rec, de_rec in zip(batch, en_records, de_records):
             rec = {}
+            rec['filename'] = orig_rec['filename']
             rec['title'] = orig_rec['title']
             rec['title_de'] = de_rec['title']
             rec['title_en'] = en_rec['title']
