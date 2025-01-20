@@ -35,13 +35,9 @@ stages:
       backend: [mllm, bonsai, ensemble]
       lang: [en, de]
     cmd:
-    - annif eval gnd-${item.vocab}-${item.backend}-${item.lang} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item.vocab}-${item.backend}-${item.lang}.json shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/*/${item.lang}.tsv
+    - annif eval gnd-${item.vocab}-${item.backend}-${item.lang} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item.vocab}-${item.backend}-${item.lang}.json shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
     deps:
-    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/Article/${item.lang}.tsv
-    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/Book/${item.lang}.tsv
-    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/Conference/${item.lang}.tsv
-    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/Report/${item.lang}.tsv
-    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/Thesis/${item.lang}.tsv
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
     - data/projects/gnd-${item.vocab}-${item.backend}-${item.lang}
     params:
     - projects.toml:
