@@ -101,23 +101,26 @@ def read_zip(filename, lang):
 
 def read_jsonld_file(jsonld_file, filename):
     data = json.load(jsonld_file)["@graph"]
+    title = abstract = uris = None
     for field in data:
         if "title" in field.keys():
             title = clean_and_combine(field["title"])
         if "abstract" in field.keys():
             abstract = clean_and_combine(field["abstract"])
-    return {"filename": filename, "title": title, "desc": abstract}
+        if "dcterms:subject" in field.keys():
+            if isinstance(field["dcterms:subject"], list):
+                uris = [subj["@id"] for subj in field["dcterms:subject"]]
+            else:
+                uris = [field["dcterms:subject"]["@id"]]
+    rec = {"filename": filename, "title": title, "desc": abstract}
+    if uris:
+        rec["subjects"] = [uri.replace('gnd:', "https://d-nb.info/gnd/") for uri in uris]
+    return rec
 
 def clean_and_combine(input):
     if isinstance(input, list):
         return " ¤ ".join([" ".join(i.split()) for i in input])
     return input
-
-def read_file(filename):
-    with open(filename) as cf:
-        for idx, line in enumerate(cf):
-            text, uris = line.strip().split('\t', 1)
-            yield (text, uris)
 
 # Process input lines in batches
 batch_size = 256
@@ -133,6 +136,7 @@ with open(dest_filename, 'w') as dest_file:
         for orig_rec, en_rec, de_rec in zip(batch, en_records, de_records):
             rec = {}
             rec['filename'] = orig_rec['filename']
+            rec['subjects'] = orig_rec['subjects']
             rec['title'] = orig_rec['title']
             rec['desc'] = orig_rec['desc']
             rec['text_en'] = en_rec
