@@ -33,7 +33,7 @@ vocab = "gnd-all"
 cluster_balanced = "False"
 cluster_k = "100"
 max_depth = "3"
-min_df = "5"
+min_df = "2"
 ngram = "2"
 
 [gnd-all-ensemble-en]
@@ -73,7 +73,7 @@ vocab = "gnd-tib-core"
 cluster_balanced = "False"
 cluster_k = "100"
 max_depth = "3"
-min_df = "5"
+min_df = "2"
 ngram = "2"
 
 [gnd-tib-core-bonsai-de]
@@ -85,7 +85,7 @@ vocab = "gnd-tib-core"
 cluster_balanced = "False"
 cluster_k = "100"
 max_depth = "3"
-min_df = "5"
+min_df = "2"
 ngram = "2"
 
 [gnd-tib-core-ensemble-en]
