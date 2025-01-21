@@ -3,7 +3,7 @@
 #SBATCH -o dvc-train-eval-output-%j.txt
 #SBATCH -p cpu
 #SBATCH -c 32
-#SBATCH --mem=48G
+#SBATCH --mem=64G
 #SBATCH -t4:00:00
 
 vocab=$1

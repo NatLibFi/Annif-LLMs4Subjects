@@ -5,9 +5,9 @@ stages:
       vocab: [all, tib-core]
       backend: [mllm, bonsai]
       lang: [en, de]
-    cmd: annif train gnd-${item.vocab}-${item.backend}-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/*/${item.lang}.tsv
+    cmd: annif train gnd-${item.vocab}-${item.backend}-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
     deps:
-    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
     - data/vocabs/gnd-${item.vocab}
     params:
     - projects.toml:
