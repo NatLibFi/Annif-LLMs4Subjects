@@ -1,19 +1,33 @@
 stages:
-  # Train projects
-  train:
+  # Train MLLM projects
+  train-mllm:
     matrix:
       vocab: [all, tib-core]
-      backend: [mllm, bonsai]
       lang: [en, de]
-    cmd: annif train gnd-${item.vocab}-${item.backend}-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
+    cmd: annif train -j 32 gnd-${item.vocab}-mllm-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
     deps:
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
     - data/vocabs/gnd-${item.vocab}
     params:
     - projects.toml:
-      - gnd-${item.vocab}-${item.backend}-${item.lang}
+      - gnd-${item.vocab}-mllm-${item.lang}
     outs:
-    - data/projects/gnd-${item.vocab}-${item.backend}-${item.lang}
+    - data/projects/gnd-${item.vocab}-mllm-${item.lang}
+  # Train Omikuji Bonsai projects
+  train-bonsai:
+    matrix:
+      vocab: [all, tib-core]
+      lang: [en, de]
+    cmd: annif train -j 32 gnd-${item.vocab}-bonsai-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}.tsv.gz shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
+    deps:
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}.tsv.gz
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
+    - data/vocabs/gnd-${item.vocab}
+    params:
+    - projects.toml:
+      - gnd-${item.vocab}-bonsai-${item.lang}
+    outs:
+    - data/projects/gnd-${item.vocab}-bonsai-${item.lang}
   # Dummy "train" ensemble, i.e. create the datadir needed as dependency in eval
   dummy-train-ensemble:
     matrix:
