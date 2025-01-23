@@ -22,6 +22,7 @@ stages:
     deps:
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}-1.tsv.gz
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}-2.tsv.gz
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}-3.tsv.gz
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
     - data/vocabs/gnd-${item.vocab}
     params:

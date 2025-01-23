@@ -200,3 +200,36 @@ stages:
       hash: md5
       md5: 836ad3ed8920c7177df3a8e210ffedbb
       size: 92
+  eval@all-xtransformer-de:
+    cmd:
+    - annif eval -p projects-xtransformer.toml gnd-all-xtransformer-de -j 1 -m F1@5
+      -m NDCG --metrics-file reports/all-xtransformer-de.json shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+    deps:
+    - path: data/projects/gnd-all-xtransformer-de
+      hash: md5
+      md5: 3cf891fe07fb47089849ad7e5a198bff.dir
+      size: 1354338573
+      nfiles: 22
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+      hash: md5
+      md5: 06f918e93fbd03fcb62e2e160eca06ba
+      size: 6626372
+    params:
+      projects-xtransformer.toml:
+        gnd-all-xtransformer-de:
+          name: GND-all XTransformer German
+          language: de
+          backend: xtransformer
+          analyzer: snowball(german)
+          vocab: gnd-all
+          batch_size: 16
+          truncate_length: 256
+          learning_rate: 0.0001
+          num_train_epochs: 3
+          max_leaf_size: 18000
+          model_shortcut: FacebookAI/xlm-roberta-base
+    outs:
+    - path: reports/all-xtransformer-de.json
+      hash: md5
+      md5: 29e091e831fcc98a7b60ffa0f31e6153
+      size: 95

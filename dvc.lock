@@ -699,8 +699,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-bonsai-en
       hash: md5
-      md5: 1e506d37e6a4e01abd8a87023e1cd16f.dir
-      size: 1024324296
+      md5: 1bc22c3cdf245c1eae47bab9aaf469c9.dir
+      size: 1322462959
       nfiles: 6
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
       hash: md5
@@ -722,8 +722,8 @@ stages:
     outs:
     - path: reports/tib-core-bonsai-en.json
       hash: md5
-      md5: 0b40a74a73c777c1fe428768af9c9ad0
-      size: 94
+      md5: 940f02fe423d68fa2bf9067f915395f0
+      size: 93
   eval@all-mllm-de:
     cmd:
     - annif eval gnd-all-mllm-de -j 32 -m F1@5 -m NDCG --metrics-file reports/all-mllm-de.json
@@ -842,8 +842,8 @@ stages:
     deps:
     - path: data/projects/gnd-all-bonsai-en
       hash: md5
-      md5: e5f52421f94f5e0322fd39ca14db9cdc.dir
-      size: 2103128335
+      md5: 7b26023c8598bb5de5ee54f65425f30d.dir
+      size: 2744310403
       nfiles: 6
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
       hash: md5
@@ -865,7 +865,7 @@ stages:
     outs:
     - path: reports/all-bonsai-en.json
       hash: md5
-      md5: 43a283156cabc0443e2a2492378a4c35
+      md5: 34c61e27348965a8f1b9b2bdf31b8c75
       size: 94
   eval@all-bonsai-de:
     cmd:
@@ -874,8 +874,8 @@ stages:
     deps:
     - path: data/projects/gnd-all-bonsai-de
       hash: md5
-      md5: 8985f79a05fc530f025f95b1523a6095.dir
-      size: 2336215287
+      md5: 72749f34e1b8000304c6f8f4f4d00d4b.dir
+      size: 3064085813
       nfiles: 6
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
       hash: md5
@@ -897,8 +897,8 @@ stages:
     outs:
     - path: reports/all-bonsai-de.json
       hash: md5
-      md5: 2d03717b989915fa68ee6cdcaf0359b1
-      size: 94
+      md5: a2a7e93afe528df38515bceb5980be10
+      size: 95
   eval@tib-core-bonsai-de:
     cmd:
     - annif eval gnd-tib-core-bonsai-de -j 32 -m F1@5 -m NDCG --metrics-file reports/tib-core-bonsai-de.json
@@ -906,8 +906,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-bonsai-de
       hash: md5
-      md5: f2bfc31c5b10d71116dd388c81d3262f.dir
-      size: 1042132498
+      md5: 8a96aa4a4a36f54a094a874797c3dad6.dir
+      size: 1336627658
       nfiles: 6
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
       hash: md5
@@ -929,7 +929,7 @@ stages:
     outs:
     - path: reports/tib-core-bonsai-de.json
       hash: md5
-      md5: 6617317d97263f73f0c8be75b93341ae
+      md5: 7c7eae1462f699cf1737fb831411c17c
       size: 93
   dummy-train-ensemble@all-en:
     cmd:
@@ -938,8 +938,8 @@ stages:
     deps:
     - path: data/projects/gnd-all-bonsai-en
       hash: md5
-      md5: e5f52421f94f5e0322fd39ca14db9cdc.dir
-      size: 2103128335
+      md5: 7b26023c8598bb5de5ee54f65425f30d.dir
+      size: 2744310403
       nfiles: 6
     - path: data/projects/gnd-all-mllm-en
       hash: md5
@@ -954,7 +954,7 @@ stages:
     outs:
     - path: data/projects/gnd-all-ensemble-en
       hash: md5
-      md5: 8e859c76cbe9f26b2b4dd855caef832d.dir
+      md5: c9bf9a2d02e989ff581c12f0dc4cb0b4.dir
       size: 32
       nfiles: 1
   dummy-train-ensemble@all-de:
@@ -964,8 +964,8 @@ stages:
     deps:
     - path: data/projects/gnd-all-bonsai-de
       hash: md5
-      md5: 8985f79a05fc530f025f95b1523a6095.dir
-      size: 2336215287
+      md5: 72749f34e1b8000304c6f8f4f4d00d4b.dir
+      size: 3064085813
       nfiles: 6
     - path: data/projects/gnd-all-mllm-de
       hash: md5
@@ -980,7 +980,7 @@ stages:
     outs:
     - path: data/projects/gnd-all-ensemble-de
       hash: md5
-      md5: 7ffc940544c86208c80ec87a805d977e.dir
+      md5: 33b9025db1736269cac941d5c45c6edb.dir
       size: 32
       nfiles: 1
   dummy-train-ensemble@tib-core-de:
@@ -990,8 +990,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-bonsai-de
       hash: md5
-      md5: f2bfc31c5b10d71116dd388c81d3262f.dir
-      size: 1042132498
+      md5: 8a96aa4a4a36f54a094a874797c3dad6.dir
+      size: 1336627658
       nfiles: 6
     - path: data/projects/gnd-tib-core-mllm-de
       hash: md5
@@ -1006,7 +1006,7 @@ stages:
     outs:
     - path: data/projects/gnd-tib-core-ensemble-de
       hash: md5
-      md5: aec8f70c691c8efa2070fa632daf04a2.dir
+      md5: b7288d0325cd2a55756cda4f762c71a7.dir
       size: 32
       nfiles: 1
   dummy-train-ensemble@tib-core-en:
@@ -1016,8 +1016,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-bonsai-en
       hash: md5
-      md5: 1e506d37e6a4e01abd8a87023e1cd16f.dir
-      size: 1024324296
+      md5: 1bc22c3cdf245c1eae47bab9aaf469c9.dir
+      size: 1322462959
       nfiles: 6
     - path: data/projects/gnd-tib-core-mllm-en
       hash: md5
@@ -1032,7 +1032,7 @@ stages:
     outs:
     - path: data/projects/gnd-tib-core-ensemble-en
       hash: md5
-      md5: 0b263af6daa4ff0e80e0820402313308.dir
+      md5: ff18cded0a390f32e10507bdbaf6329b.dir
       size: 32
       nfiles: 1
   eval@tib-core-ensemble-de:
@@ -1042,7 +1042,7 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-ensemble-de
       hash: md5
-      md5: aec8f70c691c8efa2070fa632daf04a2.dir
+      md5: b7288d0325cd2a55756cda4f762c71a7.dir
       size: 32
       nfiles: 1
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
@@ -1060,7 +1060,7 @@ stages:
     outs:
     - path: reports/tib-core-ensemble-de.json
       hash: md5
-      md5: de0c6162f4b0b42155e5af415f8d1698
+      md5: a0a9b9d02a0961ef9f13aa17fe2a1361
       size: 93
   eval@tib-core-ensemble-en:
     cmd:
@@ -1069,7 +1069,7 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-ensemble-en
       hash: md5
-      md5: 0b263af6daa4ff0e80e0820402313308.dir
+      md5: ff18cded0a390f32e10507bdbaf6329b.dir
       size: 32
       nfiles: 1
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
@@ -1087,8 +1087,8 @@ stages:
     outs:
     - path: reports/tib-core-ensemble-en.json
       hash: md5
-      md5: fd8ae66bcd474af5bdd3dd1a38ccd2ff
-      size: 94
+      md5: 026cbc91650124e6c0ecbf8905b51e05
+      size: 92
   eval@all-ensemble-en:
     cmd:
     - annif eval gnd-all-ensemble-en -j 32 -m F1@5 -m NDCG --metrics-file reports/all-ensemble-en.json
@@ -1096,7 +1096,7 @@ stages:
     deps:
     - path: data/projects/gnd-all-ensemble-en
       hash: md5
-      md5: 8e859c76cbe9f26b2b4dd855caef832d.dir
+      md5: c9bf9a2d02e989ff581c12f0dc4cb0b4.dir
       size: 32
       nfiles: 1
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
@@ -1114,8 +1114,8 @@ stages:
     outs:
     - path: reports/all-ensemble-en.json
       hash: md5
-      md5: d4bca05ffce94ab4619bf0be153c6366
-      size: 95
+      md5: 930d4544893813b9d13b3aacd3121633
+      size: 94
   eval@all-ensemble-de:
     cmd:
     - annif eval gnd-all-ensemble-de -j 32 -m F1@5 -m NDCG --metrics-file reports/all-ensemble-de.json
@@ -1123,7 +1123,7 @@ stages:
     deps:
     - path: data/projects/gnd-all-ensemble-de
       hash: md5
-      md5: 7ffc940544c86208c80ec87a805d977e.dir
+      md5: 33b9025db1736269cac941d5c45c6edb.dir
       size: 32
       nfiles: 1
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
@@ -1141,8 +1141,8 @@ stages:
     outs:
     - path: reports/all-ensemble-de.json
       hash: md5
-      md5: eea6b6cda7e14cc86861ec936fb2ab32
-      size: 94
+      md5: c8300cc5156d434ad5e93a7c12263dca
+      size: 95
   train-bonsai@tib-core-en:
     cmd: annif train -j 32 gnd-tib-core-bonsai-en shared-task-datasets/TIBKAT/tib-core-subjects/data/train/synth-en-*.tsv.gz
       shared-task-datasets/TIBKAT/tib-core-subjects/data/train/en.tsv.gz
@@ -1164,6 +1164,10 @@ stages:
       hash: md5
       md5: d999ea54017f129190de579f175d971b
       size: 9534554
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/train/synth-en-3.tsv.gz
+      hash: md5
+      md5: 656c168f360de9316228b579b03c2156
+      size: 9525495
     params:
       projects.toml:
         gnd-tib-core-bonsai-en:
@@ -1180,8 +1184,8 @@ stages:
     outs:
     - path: data/projects/gnd-tib-core-bonsai-en
       hash: md5
-      md5: 1e506d37e6a4e01abd8a87023e1cd16f.dir
-      size: 1024324296
+      md5: 1bc22c3cdf245c1eae47bab9aaf469c9.dir
+      size: 1322462959
       nfiles: 6
   train-bonsai@tib-core-de:
     cmd: annif train -j 32 gnd-tib-core-bonsai-de shared-task-datasets/TIBKAT/tib-core-subjects/data/train/synth-de-*.tsv.gz
@@ -1204,6 +1208,10 @@ stages:
       hash: md5
       md5: ce3af9149df6f387cb9a33cc9c6a5e7e
       size: 10114299
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/train/synth-de-3.tsv.gz
+      hash: md5
+      md5: 68f7940fe691af370dc560ddef51e070
+      size: 10084433
     params:
       projects.toml:
         gnd-tib-core-bonsai-de:
@@ -1220,8 +1228,8 @@ stages:
     outs:
     - path: data/projects/gnd-tib-core-bonsai-de
       hash: md5
-      md5: f2bfc31c5b10d71116dd388c81d3262f.dir
-      size: 1042132498
+      md5: 8a96aa4a4a36f54a094a874797c3dad6.dir
+      size: 1336627658
       nfiles: 6
   train-mllm@tib-core-de:
     cmd: annif train -j 32 gnd-tib-core-mllm-de shared-task-datasets/TIBKAT/tib-core-subjects/data/train/de.tsv.gz
@@ -1296,6 +1304,10 @@ stages:
       hash: md5
       md5: 76f1555d9dac78017b4c118d0c63ce58
       size: 19813359
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/train/synth-en-3.tsv.gz
+      hash: md5
+      md5: 3b7c64a77e269a7431a357286a30b62c
+      size: 19830255
     params:
       projects.toml:
         gnd-all-bonsai-en:
@@ -1312,8 +1324,8 @@ stages:
     outs:
     - path: data/projects/gnd-all-bonsai-en
       hash: md5
-      md5: e5f52421f94f5e0322fd39ca14db9cdc.dir
-      size: 2103128335
+      md5: 7b26023c8598bb5de5ee54f65425f30d.dir
+      size: 2744310403
       nfiles: 6
   train-mllm@all-de:
     cmd: annif train -j 32 gnd-all-mllm-de shared-task-datasets/TIBKAT/all-subjects/data/train/de.tsv.gz
@@ -1388,6 +1400,10 @@ stages:
       hash: md5
       md5: 2cc737eadcf842ace50fb2b60660cc5f
       size: 21090918
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/train/synth-de-3.tsv.gz
+      hash: md5
+      md5: 8933375d77fec5b4dbd56496e756d226
+      size: 21049398
     params:
       projects.toml:
         gnd-all-bonsai-de:
@@ -1404,6 +1420,6 @@ stages:
     outs:
     - path: data/projects/gnd-all-bonsai-de
       hash: md5
-      md5: 8985f79a05fc530f025f95b1523a6095.dir
-      size: 2336215287
+      md5: 72749f34e1b8000304c6f8f4f4d00d4b.dir
+      size: 3064085813
       nfiles: 6
