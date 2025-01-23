@@ -40,14 +40,14 @@ ngram = "2"
 name = "GND-all ensemble English"
 language = "en"
 backend = "ensemble"
-sources = "gnd-all-mllm-en,gnd-all-bonsai-en"
+sources = "gnd-all-mllm-en:0.1623,gnd-all-bonsai-en:0.8377"
 vocab = "gnd-all"
 
 [gnd-all-ensemble-de]
 name = "GND-all ensemble German"
 language = "de"
 backend = "ensemble"
-sources = "gnd-all-mllm-de,gnd-all-bonsai-de"
+sources = "gnd-all-mllm-de:0.1930,gnd-all-bonsai-de:0.8070"
 vocab = "gnd-all"
 
 [gnd-tib-core-mllm-en]
@@ -92,12 +92,12 @@ ngram = "2"
 name = "GND-tib-core ensemble English"
 language = "en"
 backend = "ensemble"
-sources = "gnd-tib-core-mllm-en,gnd-tib-core-bonsai-en"
+sources = "gnd-tib-core-mllm-en:0.1271,gnd-tib-core-bonsai-en:0.8729"
 vocab = "gnd-tib-core"
 
 [gnd-tib-core-ensemble-de]
 name = "GND-tib-core ensemble German"
 language = "de"
 backend = "ensemble"
-sources = "gnd-tib-core-mllm-de,gnd-tib-core-bonsai-de"
+sources = "gnd-tib-core-mllm-de:0.1568,gnd-tib-core-bonsai-de:0.8432"
 vocab = "gnd-tib-core"

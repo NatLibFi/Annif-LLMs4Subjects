@@ -61,3 +61,16 @@ stages:
     metrics:
     - reports/${item.vocab}-${item.backend}-${item.lang}.json:
         cache: false
+  # Optimize ensemble weights against the dev sets
+  hyperopt-ensemble:
+    matrix:
+      vocab: [all, tib-core]
+      lang: [en, de]
+    cmd:
+    - annif hyperopt -j 32 --trials 100 gnd-${item.vocab}-ensemble-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
+    deps:
+    - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
+    - data/projects/gnd-${item.vocab}-ensemble-${item.lang}
+    params:
+    - projects.toml:
+      - gnd-${item.vocab}-ensemble-${item.lang}

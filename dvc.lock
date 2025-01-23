@@ -1055,12 +1055,12 @@ stages:
           name: GND-tib-core ensemble German
           language: de
           backend: ensemble
-          sources: gnd-tib-core-mllm-de,gnd-tib-core-bonsai-de
+          sources: gnd-tib-core-mllm-de:0.1568,gnd-tib-core-bonsai-de:0.8432
           vocab: gnd-tib-core
     outs:
     - path: reports/tib-core-ensemble-de.json
       hash: md5
-      md5: a0a9b9d02a0961ef9f13aa17fe2a1361
+      md5: dd193df32d4cdd8d5fa1925845a2ff12
       size: 93
   eval@tib-core-ensemble-en:
     cmd:
@@ -1082,13 +1082,13 @@ stages:
           name: GND-tib-core ensemble English
           language: en
           backend: ensemble
-          sources: gnd-tib-core-mllm-en,gnd-tib-core-bonsai-en
+          sources: gnd-tib-core-mllm-en:0.1271,gnd-tib-core-bonsai-en:0.8729
           vocab: gnd-tib-core
     outs:
     - path: reports/tib-core-ensemble-en.json
       hash: md5
-      md5: 026cbc91650124e6c0ecbf8905b51e05
-      size: 92
+      md5: f2b6bb11a5cca450e2fbd00978998d03
+      size: 93
   eval@all-ensemble-en:
     cmd:
     - annif eval gnd-all-ensemble-en -j 32 -m F1@5 -m NDCG --metrics-file reports/all-ensemble-en.json
@@ -1109,12 +1109,12 @@ stages:
           name: GND-all ensemble English
           language: en
           backend: ensemble
-          sources: gnd-all-mllm-en,gnd-all-bonsai-en
+          sources: gnd-all-mllm-en:0.1623,gnd-all-bonsai-en:0.8377
           vocab: gnd-all
     outs:
     - path: reports/all-ensemble-en.json
       hash: md5
-      md5: 930d4544893813b9d13b3aacd3121633
+      md5: 0946c884520b71e2763b52468547800a
       size: 94
   eval@all-ensemble-de:
     cmd:
@@ -1136,12 +1136,12 @@ stages:
           name: GND-all ensemble German
           language: de
           backend: ensemble
-          sources: gnd-all-mllm-de,gnd-all-bonsai-de
+          sources: gnd-all-mllm-de:0.1930,gnd-all-bonsai-de:0.8070
           vocab: gnd-all
     outs:
     - path: reports/all-ensemble-de.json
       hash: md5
-      md5: c8300cc5156d434ad5e93a7c12263dca
+      md5: 2b96cad20a264834116c6e80dfd0e156
       size: 95
   train-bonsai@tib-core-en:
     cmd: annif train -j 32 gnd-tib-core-bonsai-en shared-task-datasets/TIBKAT/tib-core-subjects/data/train/synth-en-*.tsv.gz
@@ -1423,3 +1423,87 @@ stages:
       md5: 72749f34e1b8000304c6f8f4f4d00d4b.dir
       size: 3064085813
       nfiles: 6
+  hyperopt-ensemble@tib-core-en:
+    cmd:
+    - annif hyperopt -j 32 --trials 100 gnd-tib-core-ensemble-en shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
+    deps:
+    - path: data/projects/gnd-tib-core-ensemble-en
+      hash: md5
+      md5: ff18cded0a390f32e10507bdbaf6329b.dir
+      size: 32
+      nfiles: 1
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
+      hash: md5
+      md5: 708c23f77d00657e1607b0af74f204aa
+      size: 3175639
+    params:
+      projects.toml:
+        gnd-tib-core-ensemble-en:
+          name: GND-tib-core ensemble English
+          language: en
+          backend: ensemble
+          sources: gnd-tib-core-mllm-en,gnd-tib-core-bonsai-en
+          vocab: gnd-tib-core
+  hyperopt-ensemble@tib-core-de:
+    cmd:
+    - annif hyperopt -j 32 --trials 100 gnd-tib-core-ensemble-de shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
+    deps:
+    - path: data/projects/gnd-tib-core-ensemble-de
+      hash: md5
+      md5: b7288d0325cd2a55756cda4f762c71a7.dir
+      size: 32
+      nfiles: 1
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
+      hash: md5
+      md5: 13bb3e235bf06cc40152b2d74a6cab52
+      size: 3494814
+    params:
+      projects.toml:
+        gnd-tib-core-ensemble-de:
+          name: GND-tib-core ensemble German
+          language: de
+          backend: ensemble
+          sources: gnd-tib-core-mllm-de,gnd-tib-core-bonsai-de
+          vocab: gnd-tib-core
+  hyperopt-ensemble@all-de:
+    cmd:
+    - annif hyperopt -j 32 --trials 100 gnd-all-ensemble-de shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+    deps:
+    - path: data/projects/gnd-all-ensemble-de
+      hash: md5
+      md5: 33b9025db1736269cac941d5c45c6edb.dir
+      size: 32
+      nfiles: 1
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+      hash: md5
+      md5: 06f918e93fbd03fcb62e2e160eca06ba
+      size: 6626372
+    params:
+      projects.toml:
+        gnd-all-ensemble-de:
+          name: GND-all ensemble German
+          language: de
+          backend: ensemble
+          sources: gnd-all-mllm-de,gnd-all-bonsai-de
+          vocab: gnd-all
+  hyperopt-ensemble@all-en:
+    cmd:
+    - annif hyperopt -j 32 --trials 100 gnd-all-ensemble-en shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
+    deps:
+    - path: data/projects/gnd-all-ensemble-en
+      hash: md5
+      md5: c9bf9a2d02e989ff581c12f0dc4cb0b4.dir
+      size: 32
+      nfiles: 1
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
+      hash: md5
+      md5: cef663a3e160cba1eb960b5bbdf814bb
+      size: 6045278
+    params:
+      projects.toml:
+        gnd-all-ensemble-en:
+          name: GND-all ensemble English
+          language: en
+          backend: ensemble
+          sources: gnd-all-mllm-en,gnd-all-bonsai-en
+          vocab: gnd-all
