@@ -1,11 +1,12 @@
 #!/bin/bash
-#SBATCH --job-name=dvc-train-eval
-#SBATCH -o dvc-train-eval-output-%j.txt
+#SBATCH --job-name=dvc-train-eval-xtransformer
+#SBATCH -o dvc-train-eval-xtransformer-output-%j.txt
 #SBATCH -p gpu-oversub
 #SBATCH -M ukko
-#SBATCH -c 1
-#SBATCH --mem=1G
-#SBATCH -t0:10:00
+#SBATCH -G 1
+#SBATCH -c 16
+#SBATCH --mem=32G
+#SBATCH -t3:00:00
 
 vocab=$1
 lang=$2
@@ -27,4 +28,4 @@ sleep $((RANDOM % 20))
 cd /wrk-vakka/group/natlibfi-annif/git/Annif-LLMs4Subjects/
 
 # run DVC to train and evaluate models
-dvc repro eval@$vocab-mllm-$lang eval@$vocab-bonsai-$lang eval@$vocab-xtransformer-$lang eval@$vocab-ensemble-$lang
+dvc repro xtransformer/dvc.yaml:eval@$vocab-xtransformer-$lang

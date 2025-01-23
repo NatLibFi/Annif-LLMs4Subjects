@@ -50,6 +50,32 @@ backend = "ensemble"
 sources = "gnd-all-mllm-de:0.1930,gnd-all-bonsai-de:0.8070"
 vocab = "gnd-all"
 
+[gnd-all-xtransformer-en]
+name="GND-all XTransformer English"
+language="en"
+backend="xtransformer"
+analyzer="snowball(english)"
+vocab="gnd-all"
+batch_size=16
+truncate_length=256
+learning_rate=0.0001
+num_train_epochs=3
+max_leaf_size=400
+model_shortcut="FacebookAI/xlm-roberta-base"
+
+[gnd-all-xtransformer-de]
+name="GND-all XTransformer German"
+language="de"
+backend="xtransformer"
+analyzer="snowball(german)"
+vocab="gnd-all"
+batch_size=16
+truncate_length=256
+learning_rate=0.0001
+num_train_epochs=3
+max_leaf_size=400
+model_shortcut="FacebookAI/xlm-roberta-base"
+
 [gnd-tib-core-mllm-en]
 name = "GND-tib-core MLLM English"
 language = "en"
@@ -87,6 +113,32 @@ cluster_k = "100"
 max_depth = "3"
 min_df = "2"
 ngram = "2"
+
+[gnd-tib-core-xtransformer-en]
+name="GND-tib-core XTransformer English"
+language="en"
+backend="xtransformer"
+analyzer="snowball(english)"
+vocab="gnd-tib-core"
+batch_size=16
+truncate_length=256
+learning_rate=0.0001
+num_train_epochs=3
+max_leaf_size=400
+model_shortcut="FacebookAI/xlm-roberta-base"
+
+[gnd-tib-core-xtransformer-de]
+name="GND-tib-core XTransformer German"
+language="de"
+backend="xtransformer"
+analyzer="snowball(german)"
+vocab="gnd-tib-core"
+batch_size=16
+truncate_length=256
+learning_rate=0.0001
+num_train_epochs=3
+max_leaf_size=400
+model_shortcut="FacebookAI/xlm-roberta-base"
 
 [gnd-tib-core-ensemble-en]
 name = "GND-tib-core ensemble English"
