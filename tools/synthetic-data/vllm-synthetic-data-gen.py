@@ -4,6 +4,7 @@ import time
 import os.path
 import gzip
 import random
+import time
 import rdflib
 from rdflib.namespace import SKOS
 from itertools import islice
@@ -24,7 +25,7 @@ Generate a new document title and description in <LANGUAGE>. Respond with only t
 
 MODEL_NAME = "meta-llama/Llama-3.1-8B-Instruct"
 MAX_TOKENS = 4096
-TEMPERATURE = 0.3
+TEMPERATURE = 0.5
 REPETITION_PENALTY = 1.1
 MAX_MODEL_LEN = 8192
 GPU_MEM_UTIL = 0.95
@@ -57,6 +58,9 @@ llm = LLM(
     max_num_batched_tokens=MAX_BATCHED_TOKENS,
     enable_prefix_caching=True)
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+
+# make sure random choices are different on each run
+random.seed(time.time())
 
 def subject_keywords(subjects):
     return '; '.join([uri_to_label[uri] for uri in subjects if uri in uri_to_label])
