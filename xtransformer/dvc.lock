@@ -233,3 +233,36 @@ stages:
       hash: md5
       md5: 29e091e831fcc98a7b60ffa0f31e6153
       size: 95
+  eval@tib-core-xtransformer-en:
+    cmd:
+    - annif eval -p projects-xtransformer.toml gnd-tib-core-xtransformer-en -j 1 -m
+      F1@5 -m NDCG --metrics-file reports/tib-core-xtransformer-en.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
+    deps:
+    - path: data/projects/gnd-tib-core-xtransformer-en
+      hash: md5
+      md5: 37d02895da3353dbedc2fece0d1838fc.dir
+      size: 1226985595
+      nfiles: 22
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
+      hash: md5
+      md5: 708c23f77d00657e1607b0af74f204aa
+      size: 3175639
+    params:
+      projects-xtransformer.toml:
+        gnd-tib-core-xtransformer-en:
+          name: GND-tib-core XTransformer English
+          language: en
+          backend: xtransformer
+          analyzer: snowball(english)
+          vocab: gnd-tib-core
+          batch_size: 16
+          truncate_length: 256
+          learning_rate: 0.0001
+          num_train_epochs: 3
+          max_leaf_size: 18000
+          model_shortcut: FacebookAI/xlm-roberta-base
+    outs:
+    - path: reports/tib-core-xtransformer-en.json
+      hash: md5
+      md5: 894d9ae6b211f974e528f199dab12b28
+      size: 94

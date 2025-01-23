@@ -1,11 +1,9 @@
 #!/bin/bash
 #SBATCH --job-name=dvc-train-eval
 #SBATCH -o dvc-train-eval-output-%j.txt
-#SBATCH -p gpu-oversub
 #SBATCH -M ukko
-#SBATCH -c 1
-#SBATCH --mem=1G
-#SBATCH -t0:10:00
+#SBATCH --mem=32G
+#SBATCH -t4:00:00
 
 vocab=$1
 lang=$2
