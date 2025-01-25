@@ -6,9 +6,10 @@
 #SBATCH -t4:00:00
 
 vocab=$1
-lang=$2
+backend=$2
+lang=$3
 
-echo "Params: $vocab-$lang"
+echo "Params: $vocab-$backend-$lang"
 
 module purge
 module load Python/3.11.5-GCCcore-13.2.0
@@ -26,4 +27,4 @@ sleep $SLEEP_DURATION
 cd /wrk-vakka/group/natlibfi-annif/git/Annif-LLMs4Subjects/
 
 # run DVC to train and evaluate models
-dvc repro eval@$vocab-mllm-$lang eval@$vocab-bonsai-$lang eval@$vocab-xtransformer-$lang eval@$vocab-ensemble-$lang
+dvc repro eval@$vocab-$backend-$lang
