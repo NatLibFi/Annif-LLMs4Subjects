@@ -26,14 +26,14 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: data/projects/gnd-tib-core-xtransformer-en
       hash: md5
-      md5: 37d02895da3353dbedc2fece0d1838fc.dir
-      size: 1226985595
-      nfiles: 22
+      md5: b87eec2e96ee2dc40b3729f1262d2630.dir
+      size: 1230471627
+      nfiles: 25
   train-xtransformer@tib-core-de:
     cmd:
     - annif train -p projects-xtransformer.toml -j 32 gnd-tib-core-xtransformer-de
@@ -60,14 +60,14 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: data/projects/gnd-tib-core-xtransformer-de
       hash: md5
-      md5: b9c79370cc4f75f2729662f71b6b2e29.dir
-      size: 1245462758
-      nfiles: 22
+      md5: 513b38363c4c90a7d46b356696dad419.dir
+      size: 1254711870
+      nfiles: 25
   train-xtransformer@all-de:
     cmd:
     - annif train -p projects-xtransformer.toml -j 32 gnd-all-xtransformer-de shared-task-datasets/TIBKAT/all-subjects/data/train/de.tsv.gz
@@ -93,14 +93,14 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: data/projects/gnd-all-xtransformer-de
       hash: md5
-      md5: 3cf891fe07fb47089849ad7e5a198bff.dir
-      size: 1354338573
-      nfiles: 22
+      md5: 5c4fac7115baafd589f4716332958946.dir
+      size: 1372382050
+      nfiles: 28
   train-xtransformer@all-en:
     cmd:
     - annif train -p projects-xtransformer.toml -j 32 gnd-all-xtransformer-en shared-task-datasets/TIBKAT/all-subjects/data/train/en.tsv.gz
@@ -126,14 +126,14 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: data/projects/gnd-all-xtransformer-en
       hash: md5
-      md5: 81513d05e6aa58efc0e82f28829c25f5.dir
-      size: 1320565287
-      nfiles: 22
+      md5: 775dc64bdff3d0a249fe579f8aacea88.dir
+      size: 1328076340
+      nfiles: 28
   eval@all-xtransformer-en:
     cmd:
     - annif eval -p projects-xtransformer.toml gnd-all-xtransformer-en -j 1 -m F1@5
@@ -141,9 +141,9 @@ stages:
     deps:
     - path: data/projects/gnd-all-xtransformer-en
       hash: md5
-      md5: 81513d05e6aa58efc0e82f28829c25f5.dir
-      size: 1320565287
-      nfiles: 22
+      md5: 775dc64bdff3d0a249fe579f8aacea88.dir
+      size: 1328076340
+      nfiles: 28
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
       hash: md5
       md5: cef663a3e160cba1eb960b5bbdf814bb
@@ -160,12 +160,12 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: reports/all-xtransformer-en.json
       hash: md5
-      md5: 51f14b9a42c98e50fc063f7ee4c2f26f
+      md5: 9b7314e4ac5feff74c479f042090d0b7
       size: 94
   eval@tib-core-xtransformer-de:
     cmd:
@@ -174,9 +174,9 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-xtransformer-de
       hash: md5
-      md5: b9c79370cc4f75f2729662f71b6b2e29.dir
-      size: 1245462758
-      nfiles: 22
+      md5: 513b38363c4c90a7d46b356696dad419.dir
+      size: 1254711870
+      nfiles: 25
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
       hash: md5
       md5: 13bb3e235bf06cc40152b2d74a6cab52
@@ -193,13 +193,13 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: reports/tib-core-xtransformer-de.json
       hash: md5
-      md5: 836ad3ed8920c7177df3a8e210ffedbb
-      size: 92
+      md5: 1dc3a65d582897adb230c9bab6c36606
+      size: 94
   eval@all-xtransformer-de:
     cmd:
     - annif eval -p projects-xtransformer.toml gnd-all-xtransformer-de -j 1 -m F1@5
@@ -207,9 +207,9 @@ stages:
     deps:
     - path: data/projects/gnd-all-xtransformer-de
       hash: md5
-      md5: 3cf891fe07fb47089849ad7e5a198bff.dir
-      size: 1354338573
-      nfiles: 22
+      md5: 5c4fac7115baafd589f4716332958946.dir
+      size: 1372382050
+      nfiles: 28
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
       hash: md5
       md5: 06f918e93fbd03fcb62e2e160eca06ba
@@ -226,13 +226,13 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: reports/all-xtransformer-de.json
       hash: md5
-      md5: 29e091e831fcc98a7b60ffa0f31e6153
-      size: 95
+      md5: 01301b5bda9a7c3e437abf35543fa784
+      size: 94
   eval@tib-core-xtransformer-en:
     cmd:
     - annif eval -p projects-xtransformer.toml gnd-tib-core-xtransformer-en -j 1 -m
@@ -240,9 +240,9 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-xtransformer-en
       hash: md5
-      md5: 37d02895da3353dbedc2fece0d1838fc.dir
-      size: 1226985595
-      nfiles: 22
+      md5: b87eec2e96ee2dc40b3729f1262d2630.dir
+      size: 1230471627
+      nfiles: 25
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
       hash: md5
       md5: 708c23f77d00657e1607b0af74f204aa
@@ -259,10 +259,10 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: reports/tib-core-xtransformer-en.json
       hash: md5
-      md5: 894d9ae6b211f974e528f199dab12b28
-      size: 94
+      md5: 16e242f3f0e6ba8dcd60b9a2b14164b1
+      size: 93

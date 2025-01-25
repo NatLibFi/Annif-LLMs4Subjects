@@ -60,7 +60,7 @@ batch_size=16
 truncate_length=256
 learning_rate=0.0001
 num_train_epochs=3
-max_leaf_size=400
+max_leaf_size=18000
 model_shortcut="FacebookAI/xlm-roberta-base"
 
 [gnd-all-xtransformer-de]
@@ -73,7 +73,7 @@ batch_size=16
 truncate_length=256
 learning_rate=0.0001
 num_train_epochs=3
-max_leaf_size=400
+max_leaf_size=18000
 model_shortcut="FacebookAI/xlm-roberta-base"
 
 [gnd-tib-core-mllm-en]
@@ -124,7 +124,7 @@ batch_size=16
 truncate_length=256
 learning_rate=0.0001
 num_train_epochs=3
-max_leaf_size=400
+max_leaf_size=18000
 model_shortcut="FacebookAI/xlm-roberta-base"
 
 [gnd-tib-core-xtransformer-de]
@@ -137,7 +137,7 @@ batch_size=16
 truncate_length=256
 learning_rate=0.0001
 num_train_epochs=3
-max_leaf_size=400
+max_leaf_size=18000
 model_shortcut="FacebookAI/xlm-roberta-base"
 
 [gnd-tib-core-ensemble-en]

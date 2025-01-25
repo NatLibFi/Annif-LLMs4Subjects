@@ -36,7 +36,7 @@ stages:
       vocab: [all, tib-core]
       lang: [en, de]
     cmd:
-    - annif train -j 32 gnd-${item.vocab}-xtransformer-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}-*.tsv.gz shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
+    - annif train -j 1 gnd-${item.vocab}-xtransformer-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}-*.tsv.gz shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
     deps:
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}-1.tsv.gz
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}-2.tsv.gz
@@ -44,7 +44,7 @@ stages:
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
     - data/vocabs/gnd-${item.vocab}
     params:
-    - projects-xtransformer.toml:
+    - projects.toml:
       - gnd-${item.vocab}-xtransformer-${item.lang}
     outs:
     - data/projects/gnd-${item.vocab}-xtransformer-${item.lang}

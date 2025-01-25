@@ -16,10 +16,11 @@ module load Python/3.11.5-GCCcore-13.2.0
 # activate python virtualenv with DVC and Annif
 source /wrk-vakka/group/natlibfi-annif/git/Annif/venv-turso/bin/activate
 
-# random sleep to try to avoid DVC lock contention
+# 4 secs sleep between DVC starts to try to avoid DVC lock contention
 # see https://github.com/iterative/dvc/issues/755#issuecomment-1083079350
-echo "Sleeping up to 20 seconds..."
-sleep $((RANDOM % 20))
+SLEEP_DURATION=$(( (SLURM_JOB_ID % 16) * 4 ))
+echo "Sleeping $SLEEP_DURATION seconds..."
+sleep $SLEEP_DURATION
 
 # change to the correct directory
 cd /wrk-vakka/group/natlibfi-annif/git/Annif-LLMs4Subjects/
