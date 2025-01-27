@@ -36,7 +36,7 @@ stages:
       vocab: [all, tib-core]
       lang: [en, de]
     cmd:
-    - annif train -j 1 gnd-${item.vocab}-xtransformer-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}-*.tsv.gz shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
+    - annif train -j 1 gnd-${item.vocab}-xtransformer-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/${item.lang}.tsv.gz
     deps:
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}-1.tsv.gz
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/train/synth-${item.lang}-2.tsv.gz
@@ -70,7 +70,7 @@ stages:
       backend: [mllm, bonsai, xtransformer, ensemble]
       lang: [en, de]
     cmd:
-    - annif eval gnd-${item.vocab}-${item.backend}-${item.lang} -j 32 -m F1@5 -m NDCG --metrics-file reports/${item.vocab}-${item.backend}-${item.lang}.json shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
+    - annif eval gnd-${item.vocab}-${item.backend}-${item.lang} -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file reports/${item.vocab}-${item.backend}-${item.lang}.json shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
     deps:
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
     - data/projects/gnd-${item.vocab}-${item.backend}-${item.lang}
