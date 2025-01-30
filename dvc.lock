@@ -946,6 +946,11 @@ stages:
       md5: 528d3775fcf27fd423ea15badd0f6389.dir
       size: 136519828
       nfiles: 2
+    - path: data/projects/gnd-all-xtransformer-en
+      hash: md5
+      md5: 3d081109fa190291366ce7839f540007.dir
+      size: 1320721847
+      nfiles: 22
     - path: data/vocabs/gnd-all
       hash: md5
       md5: 1cbcfe7e8b91f19b3a72a5c0942862e7.dir
@@ -972,6 +977,11 @@ stages:
       md5: 24bab0c9f1acdc24a740755b5950a344.dir
       size: 102853713
       nfiles: 2
+    - path: data/projects/gnd-all-xtransformer-de
+      hash: md5
+      md5: 2f5b3adbf2d4fa63fb0e4e348a3746c0.dir
+      size: 1353171677
+      nfiles: 22
     - path: data/vocabs/gnd-all
       hash: md5
       md5: 1cbcfe7e8b91f19b3a72a5c0942862e7.dir
@@ -998,6 +1008,11 @@ stages:
       md5: b1432548dee869787c6ab7fcb1dd1b09.dir
       size: 23217400
       nfiles: 2
+    - path: data/projects/gnd-tib-core-xtransformer-de
+      hash: md5
+      md5: e6bf4fb131a79b7d6760a3b2dbe3eb06.dir
+      size: 1245462806
+      nfiles: 22
     - path: data/vocabs/gnd-tib-core
       hash: md5
       md5: 2c649e0e5842585f10bcb060a14a3ca8.dir
@@ -1024,6 +1039,11 @@ stages:
       md5: e1225ef72c48ea6c35818af632861907.dir
       size: 46429298
       nfiles: 2
+    - path: data/projects/gnd-tib-core-xtransformer-en
+      hash: md5
+      md5: 3e7583ca8d735d35a948ea133c70d7ae.dir
+      size: 1226984739
+      nfiles: 22
     - path: data/vocabs/gnd-tib-core
       hash: md5
       md5: 2c649e0e5842585f10bcb060a14a3ca8.dir
@@ -1544,13 +1564,28 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
+          nr_splits: 256
+          threshold: 0.015
+          Cn: 0.52
+          Cp: 5.33
+          bootstrap_model: weighted-linear
+          loss_function: weighted-squared-hinge
+          max_active_matching_labels: 500
+          negative_sampling: tfn+man
+          warmup_steps: 200
+          ensemble_method: concat-only
+          post_processor: l3-hinge
+          cost_sensitive_ranker: true
+          rel_mode: induce
+          rel_norm: l1
+          neg_mining_chain: tfn
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: data/projects/gnd-tib-core-xtransformer-en
       hash: md5
-      md5: 3e7583ca8d735d35a948ea133c70d7ae.dir
-      size: 1226984739
+      md5: 9f1cb2c72753fb783a3015e1311bf29c.dir
+      size: 1379407605
       nfiles: 22
   train-xtransformer@tib-core-de:
     cmd:
@@ -1589,13 +1624,28 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
+          nr_splits: 256
+          threshold: 0.015
+          Cn: 0.52
+          Cp: 5.33
+          bootstrap_model: weighted-linear
+          loss_function: weighted-squared-hinge
+          max_active_matching_labels: 500
+          negative_sampling: tfn+man
+          warmup_steps: 200
+          ensemble_method: concat-only
+          post_processor: l3-hinge
+          cost_sensitive_ranker: true
+          rel_mode: induce
+          rel_norm: l1
+          neg_mining_chain: tfn
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: data/projects/gnd-tib-core-xtransformer-de
       hash: md5
-      md5: e6bf4fb131a79b7d6760a3b2dbe3eb06.dir
-      size: 1245462806
+      md5: d9b702f1dcb9a4ed62953ae3eef88b4b.dir
+      size: 1427112040
       nfiles: 22
   eval@tib-core-xtransformer-en:
     cmd:
@@ -1604,8 +1654,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-xtransformer-en
       hash: md5
-      md5: 3e7583ca8d735d35a948ea133c70d7ae.dir
-      size: 1226984739
+      md5: 9f1cb2c72753fb783a3015e1311bf29c.dir
+      size: 1379407605
       nfiles: 22
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
       hash: md5
@@ -1623,12 +1673,27 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
+          nr_splits: 256
+          threshold: 0.015
+          Cn: 0.52
+          Cp: 5.33
+          bootstrap_model: weighted-linear
+          loss_function: weighted-squared-hinge
+          max_active_matching_labels: 500
+          negative_sampling: tfn+man
+          warmup_steps: 200
+          ensemble_method: concat-only
+          post_processor: l3-hinge
+          cost_sensitive_ranker: true
+          rel_mode: induce
+          rel_norm: l1
+          neg_mining_chain: tfn
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: reports/tib-core-xtransformer-en.json
       hash: md5
-      md5: 4297115c835c4f3783619198d113f6eb
+      md5: 8e16d14386e0557620f7b2188471d6f3
       size: 94
   train-xtransformer@all-en:
     cmd:
@@ -1667,14 +1732,29 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
+          nr_splits: 256
+          threshold: 0.015
+          Cn: 0.52
+          Cp: 5.33
+          bootstrap_model: weighted-linear
+          loss_function: weighted-squared-hinge
+          max_active_matching_labels: 500
+          negative_sampling: tfn+man
+          warmup_steps: 200
+          ensemble_method: concat-only
+          post_processor: l3-hinge
+          cost_sensitive_ranker: true
+          rel_mode: induce
+          rel_norm: l1
+          neg_mining_chain: tfn
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: data/projects/gnd-all-xtransformer-en
       hash: md5
-      md5: 3d081109fa190291366ce7839f540007.dir
-      size: 1320721847
-      nfiles: 22
+      md5: 22ce767f1d2fefa5e5e139a9595e3647.dir
+      size: 1610468867
+      nfiles: 25
   train-xtransformer@all-de:
     cmd:
     - annif train -j 1 gnd-all-xtransformer-de shared-task-datasets/TIBKAT/all-subjects/data/train/de.tsv.gz
@@ -1712,14 +1792,29 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
+          nr_splits: 256
+          threshold: 0.015
+          Cn: 0.52
+          Cp: 5.33
+          bootstrap_model: weighted-linear
+          loss_function: weighted-squared-hinge
+          max_active_matching_labels: 500
+          negative_sampling: tfn+man
+          warmup_steps: 200
+          ensemble_method: concat-only
+          post_processor: l3-hinge
+          cost_sensitive_ranker: true
+          rel_mode: induce
+          rel_norm: l1
+          neg_mining_chain: tfn
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: data/projects/gnd-all-xtransformer-de
       hash: md5
-      md5: 2f5b3adbf2d4fa63fb0e4e348a3746c0.dir
-      size: 1353171677
-      nfiles: 22
+      md5: 2e1d81e9f87559a77c2de23315b3f8e4.dir
+      size: 1714238473
+      nfiles: 25
   eval@tib-core-xtransformer-de:
     cmd:
     - annif eval gnd-tib-core-xtransformer-de -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG
@@ -1727,8 +1822,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-xtransformer-de
       hash: md5
-      md5: e6bf4fb131a79b7d6760a3b2dbe3eb06.dir
-      size: 1245462806
+      md5: d9b702f1dcb9a4ed62953ae3eef88b4b.dir
+      size: 1427112040
       nfiles: 22
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
       hash: md5
@@ -1746,12 +1841,27 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
+          nr_splits: 256
+          threshold: 0.015
+          Cn: 0.52
+          Cp: 5.33
+          bootstrap_model: weighted-linear
+          loss_function: weighted-squared-hinge
+          max_active_matching_labels: 500
+          negative_sampling: tfn+man
+          warmup_steps: 200
+          ensemble_method: concat-only
+          post_processor: l3-hinge
+          cost_sensitive_ranker: true
+          rel_mode: induce
+          rel_norm: l1
+          neg_mining_chain: tfn
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: reports/tib-core-xtransformer-de.json
       hash: md5
-      md5: fe3271b0d4852c1249f9123731a2d6ae
+      md5: facb7e828847f66284922bfacc9812ea
       size: 94
   eval@all-xtransformer-en:
     cmd:
@@ -1760,9 +1870,9 @@ stages:
     deps:
     - path: data/projects/gnd-all-xtransformer-en
       hash: md5
-      md5: 3d081109fa190291366ce7839f540007.dir
-      size: 1320721847
-      nfiles: 22
+      md5: 22ce767f1d2fefa5e5e139a9595e3647.dir
+      size: 1610468867
+      nfiles: 25
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
       hash: md5
       md5: cef663a3e160cba1eb960b5bbdf814bb
@@ -1779,13 +1889,28 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
+          nr_splits: 256
+          threshold: 0.015
+          Cn: 0.52
+          Cp: 5.33
+          bootstrap_model: weighted-linear
+          loss_function: weighted-squared-hinge
+          max_active_matching_labels: 500
+          negative_sampling: tfn+man
+          warmup_steps: 200
+          ensemble_method: concat-only
+          post_processor: l3-hinge
+          cost_sensitive_ranker: true
+          rel_mode: induce
+          rel_norm: l1
+          neg_mining_chain: tfn
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: reports/all-xtransformer-en.json
       hash: md5
-      md5: 770ce7455b027980d520bb04c61fa6ff
-      size: 94
+      md5: 2c803b5ef0d96db7085d6fc2a2a2ebbc
+      size: 95
   eval@all-xtransformer-de:
     cmd:
     - annif eval gnd-all-xtransformer-de -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
@@ -1793,9 +1918,9 @@ stages:
     deps:
     - path: data/projects/gnd-all-xtransformer-de
       hash: md5
-      md5: 2f5b3adbf2d4fa63fb0e4e348a3746c0.dir
-      size: 1353171677
-      nfiles: 22
+      md5: 2e1d81e9f87559a77c2de23315b3f8e4.dir
+      size: 1714238473
+      nfiles: 25
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
       hash: md5
       md5: 06f918e93fbd03fcb62e2e160eca06ba
@@ -1812,10 +1937,25 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 18000
+          max_leaf_size: 400
+          nr_splits: 256
+          threshold: 0.015
+          Cn: 0.52
+          Cp: 5.33
+          bootstrap_model: weighted-linear
+          loss_function: weighted-squared-hinge
+          max_active_matching_labels: 500
+          negative_sampling: tfn+man
+          warmup_steps: 200
+          ensemble_method: concat-only
+          post_processor: l3-hinge
+          cost_sensitive_ranker: true
+          rel_mode: induce
+          rel_norm: l1
+          neg_mining_chain: tfn
           model_shortcut: FacebookAI/xlm-roberta-base
     outs:
     - path: reports/all-xtransformer-de.json
       hash: md5
-      md5: 492e38f84b63345e1736a7c6c9f83013
+      md5: 6ed4b038c916460431dd4b52be991867
       size: 95
