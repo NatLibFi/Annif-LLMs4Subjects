@@ -50,6 +50,26 @@ backend = "ensemble"
 sources = "gnd-all-mllm-de:0.1930,gnd-all-bonsai-de:0.8070"
 vocab = "gnd-all"
 
+[gnd-all-nn_ensemble-en]
+name = "GND-all NN ensemble English"
+language = "en"
+backend = "nn_ensemble"
+sources = "gnd-all-mllm-en:0.1623,gnd-all-bonsai-en:0.8377"
+vocab = "gnd-all"
+nodes = 100
+dropout_rate = 0.2
+epochs = 10
+
+[gnd-all-nn_ensemble-de]
+name = "GND-all NN ensemble German"
+language = "de"
+backend = "nn_ensemble"
+sources = "gnd-all-mllm-de:0.1930,gnd-all-bonsai-de:0.8070"
+vocab = "gnd-all"
+nodes = 100
+dropout_rate = 0.2
+epochs = 10
+
 [gnd-all-xtransformer-en]
 name="GND-all XTransformer English"
 language="en"
@@ -60,7 +80,7 @@ batch_size=16
 truncate_length=256
 learning_rate=0.0001
 num_train_epochs=3
-max_leaf_size=400
+max_leaf_size=1600
 nr_splits=256
 threshold=0.015
 Cn=0.52
@@ -88,7 +108,7 @@ batch_size=16
 truncate_length=256
 learning_rate=0.0001
 num_train_epochs=3
-max_leaf_size=400
+max_leaf_size=1600
 nr_splits=256
 threshold=0.015
 Cn=0.52
@@ -154,7 +174,7 @@ batch_size=16
 truncate_length=256
 learning_rate=0.0001
 num_train_epochs=3
-max_leaf_size=400
+max_leaf_size=1600
 nr_splits=256
 threshold=0.015
 Cn=0.52
@@ -182,7 +202,7 @@ batch_size=16
 truncate_length=256
 learning_rate=0.0001
 num_train_epochs=3
-max_leaf_size=400
+max_leaf_size=1600
 nr_splits=256
 threshold=0.015
 Cn=0.52
@@ -213,3 +233,23 @@ language = "de"
 backend = "ensemble"
 sources = "gnd-tib-core-mllm-de:0.1568,gnd-tib-core-bonsai-de:0.8432"
 vocab = "gnd-tib-core"
+
+[gnd-tib-core-nn_ensemble-en]
+name = "GND-tib-core NN ensemble English"
+language = "en"
+backend = "nn_ensemble"
+sources = "gnd-tib-core-mllm-en:0.1271,gnd-tib-core-bonsai-en:0.8729"
+vocab = "gnd-tib-core"
+nodes = 100
+dropout_rate = 0.2
+epochs = 10
+
+[gnd-tib-core-nn_ensemble-de]
+name = "GND-tib-core NN ensemble German"
+language = "de"
+backend = "nn_ensemble"
+sources = "gnd-tib-core-mllm-de:0.1568,gnd-tib-core-bonsai-de:0.8432"
+vocab = "gnd-tib-core"
+nodes = 100
+dropout_rate = 0.2
+epochs = 10

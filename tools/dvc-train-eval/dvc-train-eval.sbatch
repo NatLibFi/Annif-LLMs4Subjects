@@ -2,7 +2,7 @@
 #SBATCH --job-name=dvc-train-eval
 #SBATCH -o dvc-train-eval-output-%j.txt
 #SBATCH -M ukko
-#SBATCH --mem=32G
+#SBATCH --mem=64G
 #SBATCH -t4:00:00
 
 vocab=$1
@@ -12,7 +12,7 @@ lang=$3
 echo "Params: $vocab-$backend-$lang"
 
 module purge
-module load Python/3.11.5-GCCcore-13.2.0
+module load Python/3.11.5-GCCcore-13.2.0 CUDA
 
 # activate python virtualenv with DVC and Annif
 source /wrk-vakka/group/natlibfi-annif/git/Annif/venv-turso/bin/activate

@@ -959,8 +959,8 @@ stages:
     outs:
     - path: data/projects/gnd-all-ensemble-en
       hash: md5
-      md5: c9bf9a2d02e989ff581c12f0dc4cb0b4.dir
-      size: 32
+      md5: c224c5cf3d5648e23e818ed416469003.dir
+      size: 29
       nfiles: 1
   dummy-train-ensemble@all-de:
     cmd:
@@ -990,8 +990,8 @@ stages:
     outs:
     - path: data/projects/gnd-all-ensemble-de
       hash: md5
-      md5: 33b9025db1736269cac941d5c45c6edb.dir
-      size: 32
+      md5: 91185af0fabb6132763826c6f9f7b54d.dir
+      size: 29
       nfiles: 1
   dummy-train-ensemble@tib-core-de:
     cmd:
@@ -1021,8 +1021,8 @@ stages:
     outs:
     - path: data/projects/gnd-tib-core-ensemble-de
       hash: md5
-      md5: b7288d0325cd2a55756cda4f762c71a7.dir
-      size: 32
+      md5: 9a966ed6c91f8dc085001dd92ef10bf0.dir
+      size: 29
       nfiles: 1
   dummy-train-ensemble@tib-core-en:
     cmd:
@@ -1052,18 +1052,18 @@ stages:
     outs:
     - path: data/projects/gnd-tib-core-ensemble-en
       hash: md5
-      md5: ff18cded0a390f32e10507bdbaf6329b.dir
-      size: 32
+      md5: 37646ffce5c8401c475eefca1d593eee.dir
+      size: 29
       nfiles: 1
   eval@tib-core-ensemble-de:
     cmd:
-    - annif eval gnd-tib-core-ensemble-de -j 32 -m F1@5 -m NDCG --metrics-file reports/tib-core-ensemble-de.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
+    - annif eval gnd-tib-core-ensemble-de -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
+      reports/tib-core-ensemble-de.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
     deps:
     - path: data/projects/gnd-tib-core-ensemble-de
       hash: md5
-      md5: b7288d0325cd2a55756cda4f762c71a7.dir
-      size: 32
+      md5: 9a966ed6c91f8dc085001dd92ef10bf0.dir
+      size: 29
       nfiles: 1
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
       hash: md5
@@ -1075,22 +1075,23 @@ stages:
           name: GND-tib-core ensemble German
           language: de
           backend: ensemble
-          sources: gnd-tib-core-mllm-de:0.1568,gnd-tib-core-bonsai-de:0.8432
+          sources:
+            gnd-tib-core-mllm-de:0.1568,gnd-tib-core-bonsai-de:0.8432,gnd-tib-core-xtransformer-de:0.25
           vocab: gnd-tib-core
     outs:
     - path: reports/tib-core-ensemble-de.json
       hash: md5
-      md5: dd193df32d4cdd8d5fa1925845a2ff12
-      size: 93
+      md5: 3bac05654e63cc78704791c3b8473b99
+      size: 94
   eval@tib-core-ensemble-en:
     cmd:
-    - annif eval gnd-tib-core-ensemble-en -j 32 -m F1@5 -m NDCG --metrics-file reports/tib-core-ensemble-en.json
-      shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
+    - annif eval gnd-tib-core-ensemble-en -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
+      reports/tib-core-ensemble-en.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
     deps:
     - path: data/projects/gnd-tib-core-ensemble-en
       hash: md5
-      md5: ff18cded0a390f32e10507bdbaf6329b.dir
-      size: 32
+      md5: 37646ffce5c8401c475eefca1d593eee.dir
+      size: 29
       nfiles: 1
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
       hash: md5
@@ -1102,22 +1103,23 @@ stages:
           name: GND-tib-core ensemble English
           language: en
           backend: ensemble
-          sources: gnd-tib-core-mllm-en:0.1271,gnd-tib-core-bonsai-en:0.8729
+          sources:
+            gnd-tib-core-mllm-en:0.1271,gnd-tib-core-bonsai-en:0.8729,gnd-tib-core-xtransformer-en:0.25
           vocab: gnd-tib-core
     outs:
     - path: reports/tib-core-ensemble-en.json
       hash: md5
-      md5: f2b6bb11a5cca450e2fbd00978998d03
-      size: 93
+      md5: 53a2ebd6209c2100d12dfe966505118f
+      size: 92
   eval@all-ensemble-en:
     cmd:
-    - annif eval gnd-all-ensemble-en -j 32 -m F1@5 -m NDCG --metrics-file reports/all-ensemble-en.json
-      shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
+    - annif eval gnd-all-ensemble-en -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
+      reports/all-ensemble-en.json shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
     deps:
     - path: data/projects/gnd-all-ensemble-en
       hash: md5
-      md5: c9bf9a2d02e989ff581c12f0dc4cb0b4.dir
-      size: 32
+      md5: c224c5cf3d5648e23e818ed416469003.dir
+      size: 29
       nfiles: 1
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
       hash: md5
@@ -1129,22 +1131,22 @@ stages:
           name: GND-all ensemble English
           language: en
           backend: ensemble
-          sources: gnd-all-mllm-en:0.1623,gnd-all-bonsai-en:0.8377
+          sources: gnd-all-mllm-en:0.1623,gnd-all-bonsai-en:0.8377,gnd-all-xtransformer-en:0.25
           vocab: gnd-all
     outs:
     - path: reports/all-ensemble-en.json
       hash: md5
-      md5: 0946c884520b71e2763b52468547800a
-      size: 94
+      md5: c3f619a66e95651da08341bcabaa7eab
+      size: 95
   eval@all-ensemble-de:
     cmd:
-    - annif eval gnd-all-ensemble-de -j 32 -m F1@5 -m NDCG --metrics-file reports/all-ensemble-de.json
-      shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+    - annif eval gnd-all-ensemble-de -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
+      reports/all-ensemble-de.json shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
     deps:
     - path: data/projects/gnd-all-ensemble-de
       hash: md5
-      md5: 33b9025db1736269cac941d5c45c6edb.dir
-      size: 32
+      md5: 91185af0fabb6132763826c6f9f7b54d.dir
+      size: 29
       nfiles: 1
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
       hash: md5
@@ -1156,13 +1158,13 @@ stages:
           name: GND-all ensemble German
           language: de
           backend: ensemble
-          sources: gnd-all-mllm-de:0.1930,gnd-all-bonsai-de:0.8070
+          sources: gnd-all-mllm-de:0.1930,gnd-all-bonsai-de:0.8070,gnd-all-xtransformer-de:0.25
           vocab: gnd-all
     outs:
     - path: reports/all-ensemble-de.json
       hash: md5
-      md5: 2b96cad20a264834116c6e80dfd0e156
-      size: 95
+      md5: 7a1fbdeb3be3acf0db1a57a59aaf7db9
+      size: 94
   train-bonsai@tib-core-en:
     cmd: annif train -j 32 gnd-tib-core-bonsai-en shared-task-datasets/TIBKAT/tib-core-subjects/data/train/synth-en-*.tsv.gz
       shared-task-datasets/TIBKAT/tib-core-subjects/data/train/en.tsv.gz
@@ -1564,7 +1566,7 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 400
+          max_leaf_size: 1600
           nr_splits: 256
           threshold: 0.015
           Cn: 0.52
@@ -1584,8 +1586,8 @@ stages:
     outs:
     - path: data/projects/gnd-tib-core-xtransformer-en
       hash: md5
-      md5: 9f1cb2c72753fb783a3015e1311bf29c.dir
-      size: 1379407605
+      md5: 5c1b0a88fffca1d3849588960afc93bf.dir
+      size: 1376758945
       nfiles: 22
   train-xtransformer@tib-core-de:
     cmd:
@@ -1624,7 +1626,7 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 400
+          max_leaf_size: 1600
           nr_splits: 256
           threshold: 0.015
           Cn: 0.52
@@ -1644,8 +1646,8 @@ stages:
     outs:
     - path: data/projects/gnd-tib-core-xtransformer-de
       hash: md5
-      md5: d9b702f1dcb9a4ed62953ae3eef88b4b.dir
-      size: 1427112040
+      md5: c06091ec16922a7e152e26dad3bd42bf.dir
+      size: 1408995044
       nfiles: 22
   eval@tib-core-xtransformer-en:
     cmd:
@@ -1654,8 +1656,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-xtransformer-en
       hash: md5
-      md5: 9f1cb2c72753fb783a3015e1311bf29c.dir
-      size: 1379407605
+      md5: 5c1b0a88fffca1d3849588960afc93bf.dir
+      size: 1376758945
       nfiles: 22
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
       hash: md5
@@ -1673,7 +1675,7 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 400
+          max_leaf_size: 1600
           nr_splits: 256
           threshold: 0.015
           Cn: 0.52
@@ -1693,8 +1695,8 @@ stages:
     outs:
     - path: reports/tib-core-xtransformer-en.json
       hash: md5
-      md5: 8e16d14386e0557620f7b2188471d6f3
-      size: 94
+      md5: 130b47c28ad332f95787f05f6ae18e70
+      size: 93
   train-xtransformer@all-en:
     cmd:
     - annif train -j 1 gnd-all-xtransformer-en shared-task-datasets/TIBKAT/all-subjects/data/train/en.tsv.gz
@@ -1732,7 +1734,7 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 400
+          max_leaf_size: 1600
           nr_splits: 256
           threshold: 0.015
           Cn: 0.52
@@ -1752,9 +1754,9 @@ stages:
     outs:
     - path: data/projects/gnd-all-xtransformer-en
       hash: md5
-      md5: 22ce767f1d2fefa5e5e139a9595e3647.dir
-      size: 1610468867
-      nfiles: 25
+      md5: 748e05ff366a29197232195733135bb0.dir
+      size: 1639912309
+      nfiles: 22
   train-xtransformer@all-de:
     cmd:
     - annif train -j 1 gnd-all-xtransformer-de shared-task-datasets/TIBKAT/all-subjects/data/train/de.tsv.gz
@@ -1792,7 +1794,7 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 400
+          max_leaf_size: 1600
           nr_splits: 256
           threshold: 0.015
           Cn: 0.52
@@ -1812,9 +1814,9 @@ stages:
     outs:
     - path: data/projects/gnd-all-xtransformer-de
       hash: md5
-      md5: 2e1d81e9f87559a77c2de23315b3f8e4.dir
-      size: 1714238473
-      nfiles: 25
+      md5: c21be53f52c1c8b1ac13ccb9864d0a35.dir
+      size: 1704448835
+      nfiles: 22
   eval@tib-core-xtransformer-de:
     cmd:
     - annif eval gnd-tib-core-xtransformer-de -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG
@@ -1822,8 +1824,8 @@ stages:
     deps:
     - path: data/projects/gnd-tib-core-xtransformer-de
       hash: md5
-      md5: d9b702f1dcb9a4ed62953ae3eef88b4b.dir
-      size: 1427112040
+      md5: c06091ec16922a7e152e26dad3bd42bf.dir
+      size: 1408995044
       nfiles: 22
     - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
       hash: md5
@@ -1841,7 +1843,7 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 400
+          max_leaf_size: 1600
           nr_splits: 256
           threshold: 0.015
           Cn: 0.52
@@ -1861,8 +1863,8 @@ stages:
     outs:
     - path: reports/tib-core-xtransformer-de.json
       hash: md5
-      md5: facb7e828847f66284922bfacc9812ea
-      size: 94
+      md5: 68ae0edfad6009ca9e90ec020e0021aa
+      size: 93
   eval@all-xtransformer-en:
     cmd:
     - annif eval gnd-all-xtransformer-en -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
@@ -1870,9 +1872,9 @@ stages:
     deps:
     - path: data/projects/gnd-all-xtransformer-en
       hash: md5
-      md5: 22ce767f1d2fefa5e5e139a9595e3647.dir
-      size: 1610468867
-      nfiles: 25
+      md5: 748e05ff366a29197232195733135bb0.dir
+      size: 1639912309
+      nfiles: 22
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
       hash: md5
       md5: cef663a3e160cba1eb960b5bbdf814bb
@@ -1889,7 +1891,7 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 400
+          max_leaf_size: 1600
           nr_splits: 256
           threshold: 0.015
           Cn: 0.52
@@ -1909,8 +1911,8 @@ stages:
     outs:
     - path: reports/all-xtransformer-en.json
       hash: md5
-      md5: 2c803b5ef0d96db7085d6fc2a2a2ebbc
-      size: 95
+      md5: 100b08f976af0c40ea74357bbca8d0e0
+      size: 94
   eval@all-xtransformer-de:
     cmd:
     - annif eval gnd-all-xtransformer-de -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
@@ -1918,9 +1920,9 @@ stages:
     deps:
     - path: data/projects/gnd-all-xtransformer-de
       hash: md5
-      md5: 2e1d81e9f87559a77c2de23315b3f8e4.dir
-      size: 1714238473
-      nfiles: 25
+      md5: c21be53f52c1c8b1ac13ccb9864d0a35.dir
+      size: 1704448835
+      nfiles: 22
     - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
       hash: md5
       md5: 06f918e93fbd03fcb62e2e160eca06ba
@@ -1937,7 +1939,7 @@ stages:
           truncate_length: 256
           learning_rate: 0.0001
           num_train_epochs: 3
-          max_leaf_size: 400
+          max_leaf_size: 1600
           nr_splits: 256
           threshold: 0.015
           Cn: 0.52
@@ -1957,5 +1959,281 @@ stages:
     outs:
     - path: reports/all-xtransformer-de.json
       hash: md5
-      md5: 6ed4b038c916460431dd4b52be991867
-      size: 95
+      md5: b2cbe702e76159fbde2cf43c959cb863
+      size: 94
+  train-nn_ensemble@tib-core-de:
+    cmd: annif train -j 32 gnd-tib-core-nn_ensemble-de shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
+    deps:
+    - path: data/projects/gnd-tib-core-bonsai-de
+      hash: md5
+      md5: 8a96aa4a4a36f54a094a874797c3dad6.dir
+      size: 1336627658
+      nfiles: 6
+    - path: data/projects/gnd-tib-core-mllm-de
+      hash: md5
+      md5: b1432548dee869787c6ab7fcb1dd1b09.dir
+      size: 23217400
+      nfiles: 2
+    - path: data/vocabs/gnd-tib-core
+      hash: md5
+      md5: 2c649e0e5842585f10bcb060a14a3ca8.dir
+      size: 31870479
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
+      hash: md5
+      md5: 13bb3e235bf06cc40152b2d74a6cab52
+      size: 3494814
+    params:
+      projects.toml:
+        gnd-tib-core-nn_ensemble-de:
+          name: GND-tib-core NN ensemble German
+          language: de
+          backend: nn_ensemble
+          sources: gnd-tib-core-mllm-de:0.1568,gnd-tib-core-bonsai-de:0.8432
+          vocab: gnd-tib-core
+          nodes: 100
+          dropout_rate: 0.2
+          epochs: 10
+    outs:
+    - path: data/projects/gnd-tib-core-nn_ensemble-de
+      hash: md5
+      md5: 4af8fed118d9c2ca56dbbaaac26c1cec.dir
+      size: 1358198881
+      nfiles: 3
+  eval@tib-core-nn_ensemble-de:
+    cmd:
+    - annif eval gnd-tib-core-nn_ensemble-de -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
+      reports/tib-core-nn_ensemble-de.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
+    deps:
+    - path: data/projects/gnd-tib-core-nn_ensemble-de
+      hash: md5
+      md5: 4af8fed118d9c2ca56dbbaaac26c1cec.dir
+      size: 1358198881
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/de.tsv.gz
+      hash: md5
+      md5: 13bb3e235bf06cc40152b2d74a6cab52
+      size: 3494814
+    params:
+      projects.toml:
+        gnd-tib-core-nn_ensemble-de:
+          name: GND-tib-core NN ensemble German
+          language: de
+          backend: nn_ensemble
+          sources: gnd-tib-core-mllm-de:0.1568,gnd-tib-core-bonsai-de:0.8432
+          vocab: gnd-tib-core
+          nodes: 100
+          dropout_rate: 0.2
+          epochs: 10
+    outs:
+    - path: reports/tib-core-nn_ensemble-de.json
+      hash: md5
+      md5: daef499638a092edc039bf9de26e6f77
+      size: 93
+  train-nn_ensemble@tib-core-en:
+    cmd: annif train -j 32 gnd-tib-core-nn_ensemble-en shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
+    deps:
+    - path: data/projects/gnd-tib-core-bonsai-en
+      hash: md5
+      md5: 1bc22c3cdf245c1eae47bab9aaf469c9.dir
+      size: 1322462959
+      nfiles: 6
+    - path: data/projects/gnd-tib-core-mllm-en
+      hash: md5
+      md5: e1225ef72c48ea6c35818af632861907.dir
+      size: 46429298
+      nfiles: 2
+    - path: data/vocabs/gnd-tib-core
+      hash: md5
+      md5: 2c649e0e5842585f10bcb060a14a3ca8.dir
+      size: 31870479
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
+      hash: md5
+      md5: 708c23f77d00657e1607b0af74f204aa
+      size: 3175639
+    params:
+      projects.toml:
+        gnd-tib-core-nn_ensemble-en:
+          name: GND-tib-core NN ensemble English
+          language: en
+          backend: nn_ensemble
+          sources: gnd-tib-core-mllm-en:0.1271,gnd-tib-core-bonsai-en:0.8729
+          vocab: gnd-tib-core
+          nodes: 100
+          dropout_rate: 0.2
+          epochs: 10
+    outs:
+    - path: data/projects/gnd-tib-core-nn_ensemble-en
+      hash: md5
+      md5: d5a27d1e9885affae13e114d5615e533.dir
+      size: 1358198881
+      nfiles: 3
+  eval@tib-core-nn_ensemble-en:
+    cmd:
+    - annif eval gnd-tib-core-nn_ensemble-en -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
+      reports/tib-core-nn_ensemble-en.json shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
+    deps:
+    - path: data/projects/gnd-tib-core-nn_ensemble-en
+      hash: md5
+      md5: d5a27d1e9885affae13e114d5615e533.dir
+      size: 1358198881
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/tib-core-subjects/data/dev/en.tsv.gz
+      hash: md5
+      md5: 708c23f77d00657e1607b0af74f204aa
+      size: 3175639
+    params:
+      projects.toml:
+        gnd-tib-core-nn_ensemble-en:
+          name: GND-tib-core NN ensemble English
+          language: en
+          backend: nn_ensemble
+          sources: gnd-tib-core-mllm-en:0.1271,gnd-tib-core-bonsai-en:0.8729
+          vocab: gnd-tib-core
+          nodes: 100
+          dropout_rate: 0.2
+          epochs: 10
+    outs:
+    - path: reports/tib-core-nn_ensemble-en.json
+      hash: md5
+      md5: 95b60e3020626144c4a0c03bfcdffc78
+      size: 93
+  train-nn_ensemble@all-en:
+    cmd: annif train -j 32 gnd-all-nn_ensemble-en shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
+    deps:
+    - path: data/projects/gnd-all-bonsai-en
+      hash: md5
+      md5: 7b26023c8598bb5de5ee54f65425f30d.dir
+      size: 2744310403
+      nfiles: 6
+    - path: data/projects/gnd-all-mllm-en
+      hash: md5
+      md5: 528d3775fcf27fd423ea15badd0f6389.dir
+      size: 136519828
+      nfiles: 2
+    - path: data/vocabs/gnd-all
+      hash: md5
+      md5: 1cbcfe7e8b91f19b3a72a5c0942862e7.dir
+      size: 85564111
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
+      hash: md5
+      md5: cef663a3e160cba1eb960b5bbdf814bb
+      size: 6045278
+    params:
+      projects.toml:
+        gnd-all-nn_ensemble-en:
+          name: GND-all NN ensemble English
+          language: en
+          backend: nn_ensemble
+          sources: gnd-all-mllm-en:0.1623,gnd-all-bonsai-en:0.8377
+          vocab: gnd-all
+          nodes: 100
+          dropout_rate: 0.2
+          epochs: 10
+    outs:
+    - path: data/projects/gnd-all-nn_ensemble-en
+      hash: md5
+      md5: 8d4d246301756c79f4fccc1f0f04d8bb.dir
+      size: 1796312819
+      nfiles: 3
+  eval@all-nn_ensemble-en:
+    cmd:
+    - annif eval gnd-all-nn_ensemble-en -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
+      reports/all-nn_ensemble-en.json shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
+    deps:
+    - path: data/projects/gnd-all-nn_ensemble-en
+      hash: md5
+      md5: 8d4d246301756c79f4fccc1f0f04d8bb.dir
+      size: 1796312819
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
+      hash: md5
+      md5: cef663a3e160cba1eb960b5bbdf814bb
+      size: 6045278
+    params:
+      projects.toml:
+        gnd-all-nn_ensemble-en:
+          name: GND-all NN ensemble English
+          language: en
+          backend: nn_ensemble
+          sources: gnd-all-mllm-en:0.1623,gnd-all-bonsai-en:0.8377
+          vocab: gnd-all
+          nodes: 100
+          dropout_rate: 0.2
+          epochs: 10
+    outs:
+    - path: reports/all-nn_ensemble-en.json
+      hash: md5
+      md5: 2ac687b8a15aed6d6869ab00a5cf6678
+      size: 94
+  train-nn_ensemble@all-de:
+    cmd: annif train -j 32 gnd-all-nn_ensemble-de shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+    deps:
+    - path: data/projects/gnd-all-bonsai-de
+      hash: md5
+      md5: 72749f34e1b8000304c6f8f4f4d00d4b.dir
+      size: 3064085813
+      nfiles: 6
+    - path: data/projects/gnd-all-mllm-de
+      hash: md5
+      md5: 24bab0c9f1acdc24a740755b5950a344.dir
+      size: 102853713
+      nfiles: 2
+    - path: data/vocabs/gnd-all
+      hash: md5
+      md5: 1cbcfe7e8b91f19b3a72a5c0942862e7.dir
+      size: 85564111
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+      hash: md5
+      md5: 06f918e93fbd03fcb62e2e160eca06ba
+      size: 6626372
+    params:
+      projects.toml:
+        gnd-all-nn_ensemble-de:
+          name: GND-all NN ensemble German
+          language: de
+          backend: nn_ensemble
+          sources: gnd-all-mllm-de:0.1930,gnd-all-bonsai-de:0.8070
+          vocab: gnd-all
+          nodes: 100
+          dropout_rate: 0.2
+          epochs: 10
+    outs:
+    - path: data/projects/gnd-all-nn_ensemble-de
+      hash: md5
+      md5: 4a3de35d1e3f2c5f3b0737c63a3cd65f.dir
+      size: 1796312819
+      nfiles: 3
+  eval@all-nn_ensemble-de:
+    cmd:
+    - annif eval gnd-all-nn_ensemble-de -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file
+      reports/all-nn_ensemble-de.json shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+    deps:
+    - path: data/projects/gnd-all-nn_ensemble-de
+      hash: md5
+      md5: 4a3de35d1e3f2c5f3b0737c63a3cd65f.dir
+      size: 1796312819
+      nfiles: 3
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+      hash: md5
+      md5: 06f918e93fbd03fcb62e2e160eca06ba
+      size: 6626372
+    params:
+      projects.toml:
+        gnd-all-nn_ensemble-de:
+          name: GND-all NN ensemble German
+          language: de
+          backend: nn_ensemble
+          sources: gnd-all-mllm-de:0.1930,gnd-all-bonsai-de:0.8070
+          vocab: gnd-all
+          nodes: 100
+          dropout_rate: 0.2
+          epochs: 10
+    outs:
+    - path: reports/all-nn_ensemble-de.json
+      hash: md5
+      md5: e4f70c2d20e3e52960690ce4a89e3717
+      size: 94
