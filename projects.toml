@@ -54,14 +54,14 @@ vocab = "gnd-all"
 name = "GND-all BMX ensemble English"
 language = "en"
 backend = "ensemble"
-sources = "gnd-all-mllm-en,gnd-all-bonsai-en,gnd-all-xtransformer-en"
+sources = "gnd-all-mllm-en:0.1417,gnd-all-bonsai-en:0.5387,gnd-all-xtransformer-en:0.3196"
 vocab = "gnd-all"
 
 [gnd-all-bmx-ensemble-de]
 name = "GND-all BMX ensemble German"
 language = "de"
 backend = "ensemble"
-sources = "gnd-all-mllm-de,gnd-all-bonsai-de,gnd-all-xtransformer-de"
+sources = "gnd-all-mllm-de:0.1964,gnd-all-bonsai-de:0.4713,gnd-all-xtransformer-de:0.3323"
 vocab = "gnd-all"
 
 [gnd-all-nn_ensemble-en]
@@ -252,14 +252,14 @@ vocab = "gnd-tib-core"
 name = "GND-tib-core BMX ensemble English"
 language = "en"
 backend = "ensemble"
-sources = "gnd-tib-core-mllm-en,gnd-tib-core-bonsai-en,gnd-tib-core-xtransformer-en"
+sources = "gnd-tib-core-mllm-en:0.1671,gnd-tib-core-bonsai-en:0.6197,gnd-tib-core-xtransformer-en:0.2132"
 vocab = "gnd-tib-core"
 
 [gnd-tib-core-bmx-ensemble-de]
 name = "GND-tib-core BMX ensemble German"
 language = "de"
 backend = "ensemble"
-sources = "gnd-tib-core-mllm-de,gnd-tib-core-bonsai-de,gnd-tib-core-xtransformer-de"
+sources = "gnd-tib-core-mllm-de:0.1837,gnd-tib-core-bonsai-de:0.4891,gnd-tib-core-xtransformer-de:0.3272"
 vocab = "gnd-tib-core"
 
 [gnd-tib-core-nn_ensemble-en]
