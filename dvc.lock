@@ -2615,3 +2615,45 @@ stages:
           backend: ensemble
           sources: gnd-tib-core-mllm-en,gnd-tib-core-bonsai-en,gnd-tib-core-xtransformer-en
           vocab: gnd-tib-core
+  hyperopt-ensemble@all-bmx-de:
+    cmd:
+    - annif hyperopt -j 1 --trials 200 gnd-all-bmx-ensemble-de shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+    deps:
+    - path: data/projects/gnd-all-bmx-ensemble-de
+      hash: md5
+      md5: afcc2402e0cc1c8f0f268277c6b6a6d8.dir
+      size: 29
+      nfiles: 1
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/de.tsv.gz
+      hash: md5
+      md5: 06f918e93fbd03fcb62e2e160eca06ba
+      size: 6626372
+    params:
+      projects.toml:
+        gnd-all-bmx-ensemble-de:
+          name: GND-all BMX ensemble German
+          language: de
+          backend: ensemble
+          sources: gnd-all-mllm-de,gnd-all-bonsai-de,gnd-all-xtransformer-de
+          vocab: gnd-all
+  hyperopt-ensemble@all-bmx-en:
+    cmd:
+    - annif hyperopt -j 1 --trials 200 gnd-all-bmx-ensemble-en shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
+    deps:
+    - path: data/projects/gnd-all-bmx-ensemble-en
+      hash: md5
+      md5: 65a02d33e9a12f0745ec75add3d56a61.dir
+      size: 29
+      nfiles: 1
+    - path: shared-task-datasets/TIBKAT/all-subjects/data/dev/en.tsv.gz
+      hash: md5
+      md5: cef663a3e160cba1eb960b5bbdf814bb
+      size: 6045278
+    params:
+      projects.toml:
+        gnd-all-bmx-ensemble-en:
+          name: GND-all BMX ensemble English
+          language: en
+          backend: ensemble
+          sources: gnd-all-mllm-en,gnd-all-bonsai-en,gnd-all-xtransformer-en
+          vocab: gnd-all
