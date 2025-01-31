@@ -1,18 +1,21 @@
 #!/bin/bash
 #SBATCH --job-name=dvc-hyperopt
 #SBATCH -o dvc-hyperopt-output-%j.txt
-#SBATCH -p cpu
-#SBATCH -c 32
-#SBATCH --mem=16G
+#SBATCH -M ukko
+#SBATCH --mem=32G
 #SBATCH -t4:00:00
 
 vocab=$1
-lang=$2
+sources=$2
+lang=$3
 
-echo "Params: $vocab $lang"
+echo "Params: $vocab $sources $lang"
+
+module purge
+module load Python/3.11.5-GCCcore-13.2.0 CUDA
 
 # activate python virtualenv with DVC and Annif
-source /wrk-vakka/group/natlibfi-annif/git/Annif/venv/bin/activate
+source /wrk-vakka/group/natlibfi-annif/git/Annif/venv-turso/bin/activate
 
 # random sleep to try to avoid DVC lock contention
 # see https://github.com/iterative/dvc/issues/755#issuecomment-1083079350
@@ -23,4 +26,4 @@ sleep $((RANDOM % 20))
 cd /wrk-vakka/group/natlibfi-annif/git/Annif-LLMs4Subjects/
  
 # run DVC hyperparameter optimization
-dvc repro hyperopt-ensemble@$vocab-$lang
+dvc repro hyperopt-ensemble@$vocab-$sources-$lang

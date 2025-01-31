@@ -36,18 +36,32 @@ max_depth = "3"
 min_df = "2"
 ngram = "2"
 
-[gnd-all-ensemble-en]
-name = "GND-all ensemble English"
+[gnd-all-bm-ensemble-en]
+name = "GND-all BM ensemble English"
 language = "en"
 backend = "ensemble"
 sources = "gnd-all-mllm-en:0.1623,gnd-all-bonsai-en:0.8377"
 vocab = "gnd-all"
 
-[gnd-all-ensemble-de]
-name = "GND-all ensemble German"
+[gnd-all-bm-ensemble-de]
+name = "GND-all BM ensemble German"
 language = "de"
 backend = "ensemble"
 sources = "gnd-all-mllm-de:0.1930,gnd-all-bonsai-de:0.8070"
+vocab = "gnd-all"
+
+[gnd-all-bmx-ensemble-en]
+name = "GND-all BMX ensemble English"
+language = "en"
+backend = "ensemble"
+sources = "gnd-all-mllm-en,gnd-all-bonsai-en,gnd-all-xtransformer-en"
+vocab = "gnd-all"
+
+[gnd-all-bmx-ensemble-de]
+name = "GND-all BMX ensemble German"
+language = "de"
+backend = "ensemble"
+sources = "gnd-all-mllm-de,gnd-all-bonsai-de,gnd-all-xtransformer-de"
 vocab = "gnd-all"
 
 [gnd-all-nn_ensemble-en]
@@ -220,18 +234,32 @@ rel_norm="l1"
 neg_mining_chain="tfn"
 model_shortcut="FacebookAI/xlm-roberta-base"
 
-[gnd-tib-core-ensemble-en]
-name = "GND-tib-core ensemble English"
+[gnd-tib-core-bm-ensemble-en]
+name = "GND-tib-core BM ensemble English"
 language = "en"
 backend = "ensemble"
 sources = "gnd-tib-core-mllm-en:0.1271,gnd-tib-core-bonsai-en:0.8729"
 vocab = "gnd-tib-core"
 
-[gnd-tib-core-ensemble-de]
-name = "GND-tib-core ensemble German"
+[gnd-tib-core-bm-ensemble-de]
+name = "GND-tib-core BM ensemble German"
 language = "de"
 backend = "ensemble"
 sources = "gnd-tib-core-mllm-de:0.1568,gnd-tib-core-bonsai-de:0.8432"
+vocab = "gnd-tib-core"
+
+[gnd-tib-core-bmx-ensemble-en]
+name = "GND-tib-core BMX ensemble English"
+language = "en"
+backend = "ensemble"
+sources = "gnd-tib-core-mllm-en,gnd-tib-core-bonsai-en,gnd-tib-core-xtransformer-en"
+vocab = "gnd-tib-core"
+
+[gnd-tib-core-bmx-ensemble-de]
+name = "GND-tib-core BMX ensemble German"
+language = "de"
+backend = "ensemble"
+sources = "gnd-tib-core-mllm-de,gnd-tib-core-bonsai-de,gnd-tib-core-xtransformer-de"
 vocab = "gnd-tib-core"
 
 [gnd-tib-core-nn_ensemble-en]

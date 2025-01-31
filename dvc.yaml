@@ -65,25 +65,40 @@ stages:
     outs:
     - data/projects/gnd-${item.vocab}-nn_ensemble-${item.lang}
   # Dummy "train" ensemble, i.e. create the datadir needed as dependency in eval
-  dummy-train-ensemble:
+  dummy-train-bm-ensemble:
     matrix:
       vocab: [all, tib-core]
+      sources: [bm]
       lang: [en, de]
     cmd:
-    - mkdir -p data/projects/gnd-${item.vocab}-ensemble-${item.lang}
-    - date -u > data/projects/gnd-${item.vocab}-ensemble-${item.lang}/timestamp
+    - mkdir -p data/projects/gnd-${item.vocab}-${item.sources}-ensemble-${item.lang}
+    - date -u > data/projects/gnd-${item.vocab}-${item.sources}-ensemble-${item.lang}/timestamp
+    deps:
+    - data/vocabs/gnd-${item.vocab}
+    - data/projects/gnd-${item.vocab}-bonsai-${item.lang}
+    - data/projects/gnd-${item.vocab}-mllm-${item.lang}
+    outs:
+    - data/projects/gnd-${item.vocab}-${item.sources}-ensemble-${item.lang}
+  dummy-train-bmx-ensemble:
+    matrix:
+      vocab: [all, tib-core]
+      sources: [bmx]
+      lang: [en, de]
+    cmd:
+    - mkdir -p data/projects/gnd-${item.vocab}-${item.sources}-ensemble-${item.lang}
+    - date -u > data/projects/gnd-${item.vocab}-${item.sources}-ensemble-${item.lang}/timestamp
     deps:
     - data/vocabs/gnd-${item.vocab}
     - data/projects/gnd-${item.vocab}-bonsai-${item.lang}
     - data/projects/gnd-${item.vocab}-mllm-${item.lang}
     - data/projects/gnd-${item.vocab}-xtransformer-${item.lang}
     outs:
-    - data/projects/gnd-${item.vocab}-ensemble-${item.lang}
+    - data/projects/gnd-${item.vocab}-${item.sources}-ensemble-${item.lang}
   # Evaluate projects
   eval:
     matrix:
       vocab: [all, tib-core]
-      backend: [mllm, bonsai, xtransformer, ensemble, nn_ensemble]
+      backend: [mllm, bonsai, xtransformer, bm-ensemble, bmx-ensemble, nn_ensemble]
       lang: [en, de]
     cmd:
     - annif eval gnd-${item.vocab}-${item.backend}-${item.lang} -j $ANNIF_EVAL_JOBS -m F1@5 -m NDCG --metrics-file reports/${item.vocab}-${item.backend}-${item.lang}.json shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
@@ -100,12 +115,13 @@ stages:
   hyperopt-ensemble:
     matrix:
       vocab: [all, tib-core]
+      sources: [bm, bmx]
       lang: [en, de]
     cmd:
-    - annif hyperopt -j 32 --trials 100 gnd-${item.vocab}-ensemble-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
+    - annif hyperopt -j 1 --trials 200 gnd-${item.vocab}-${item.sources}-ensemble-${item.lang} shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
     deps:
     - shared-task-datasets/TIBKAT/${item.vocab}-subjects/data/dev/${item.lang}.tsv.gz
-    - data/projects/gnd-${item.vocab}-ensemble-${item.lang}
+    - data/projects/gnd-${item.vocab}-${item.sources}-ensemble-${item.lang}
     params:
     - projects.toml:
-      - gnd-${item.vocab}-ensemble-${item.lang}
+      - gnd-${item.vocab}-${item.sources}-ensemble-${item.lang}
