@@ -2,8 +2,8 @@
 #SBATCH --job-name=generate-predictions
 #SBATCH -o generate-predictions-output-%j.txt
 #SBATCH -M ukko
-#SBATCH --mem=8G
-#SBATCH -t4:00:00
+#SBATCH --mem=16G
+#SBATCH -t12:00:00
 
 echo "Params: $@"
 
