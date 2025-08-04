@@ -6,6 +6,8 @@ Please see our system description preprint:
 
 _Suominen, O., Inkinen, J., & Lehtinen, M. (2025). Annif at SemEval-2025 Task 5: Traditional XMTC augmented by LLMs._ https://arxiv.org/abs/2504.19675 (Pre-print)
 
+and our [poster](annif-at-semeval-2025-poster.pdf) that summarizes the paper.
+
 See also the task description preprint:
 
 _D'Souza, J., Sadruddin, S., Israel, H., Begoin, M. & Slawig, D. (2025). SemEval-2025 Task 5: LLMs4Subjects -- LLM-based Automated Subject Tagging for a National Technical Library's Open-Access Catalog_ https://arxiv.org/abs/2504.07199 (Pre-print)
