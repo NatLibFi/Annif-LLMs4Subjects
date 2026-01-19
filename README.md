@@ -15,3 +15,8 @@ _D'Souza, J., Sadruddin, S., Israel, H., Begoin, M. & Slawig, D. (2025). SemEval
 The Annif models trained for this task are available here:
 
 https://huggingface.co/NatLibFi/Annif-LLMs4Subjects-data
+
+
+## License
+
+The content of this repository (code, scripts and data) is freely available under the [Creative Commons 1.0 Universal license](LICENSE), except for the `shared-task-datasets` directory, which contains data sets copied from the [llms4subjects](https://github.com/sciknoworg/llms4subjects) repository and licensed under the Creative Commons Attribution 4.0 International license.
